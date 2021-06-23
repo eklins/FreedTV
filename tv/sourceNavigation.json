@@ -210,7 +210,7 @@
       "name": "台湾电视直播",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
       "url": "https://github.com/eklins/FreedTV/raw/main/tv/台湾电视直播.txt",
-      "type": "m3u",
+      "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
       "autoNext": false,
