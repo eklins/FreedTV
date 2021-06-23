@@ -213,7 +213,7 @@
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "autoNext": false,
+      "autoNext": true,
       "webOpen": true,
       "keyDownPlay": true,
       "keyUpPlay": true,
