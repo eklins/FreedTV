@@ -212,7 +212,7 @@
       "url": "https://github.com/eklins/FreedTV/tree/main/tv/台湾电视直播.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
-      "click": false
+      "click": true
       "autoNext": true,
       "webOpen": false,
       "keyDownPlay": true,
