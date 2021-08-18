@@ -121,6 +121,22 @@
       "wePlus": {}
     },
     {
+      "id": 1,
+      "name": "飘花云",
+      "url": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
+      "cate": "综艺,3&&国产剧,12&&港剧,13&&韩剧,14&&喜剧片,7&&动作片,6&&爱情片,8&&科幻片,9&&恐怖片,10&&动漫,4&&美剧,15",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id":1,
+      "name": "爪可可影院",
+      "url":"https://www.zwcoco.com/api.php/provide/vod/at/xml/",
+      "cate":"动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&欧美剧,16&&香港剧,20&&台湾剧,21&&灾难片,30&&蓝光,48&&微电影,50",
+      "click": true,
+      "wePlus": {}
+    },
+    {
      "id": 1,
      "name": "❌被窝影视",
      "url": "https://www.beiwoysw.com/api.php/provide/vod/at/xml",
