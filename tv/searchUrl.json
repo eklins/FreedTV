@@ -227,7 +227,7 @@
     {
       "id": 1,
       "name": "八戒源",
-      "url": "http://zy.bajieziyuan.com/api.php/provide/vod/at/only",
+      "url": "https://zy.bajieziyuan.com/api.php/provide/vod/at/xml/",
       "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&战争片,10&&剧情片,11&&国产剧,12&&香港剧,13&&台湾剧,14&&韩国剧,15&&日本剧,16&&欧美剧,17&&中国综艺,96&&日韩综艺,97&&国产动漫,91&&日本动漫,92&&欧美动漫,93",
       "click": true,
       "wePlus": {}
