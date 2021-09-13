@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "name": "(新增)稳定轮播*荐*",
+      "name": "直播♥",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt",
-      "type": "txt",
+      "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
+      "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "autoNext": false,
+      "autoNext": true,
       "webOpen": false,
       "keyDownPlay": true,
       "keyUpPlay": true,
@@ -33,13 +33,13 @@
       "webPlus": {}
     },
     {
-      "name": "直播",
+      "name": "(新增)稳定轮播*荐*",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
-      "type": "m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt",
+      "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "autoNext": true,
+      "autoNext": false,
       "webOpen": false,
       "keyDownPlay": true,
       "keyUpPlay": true,
