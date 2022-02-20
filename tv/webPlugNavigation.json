@@ -1,13 +1,57 @@
 {
   "data": [
    {
-      "name": "足球优直播（Web）",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "name": "优直播（足球）",
+      "pic": "https://images.app.goo.gl/digsN76xNTr3SeeL6",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
       "ads": "",
       "webUrl": "https://m.yoozhibo.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "足球直播（足球）",
+      "pic": "https://images.app.goo.gl/digsN76xNTr3SeeL6",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.zqzhibo.net/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "88直播（足球）",
+      "pic": "https://images.app.goo.gl/digsN76xNTr3SeeL6",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "http://www.88zhibo.net/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "StripChat（Web）",
+      "pic": "https://images.app.goo.gl/sHyuycdnmNEtPo9z9",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://zh.stripchat.global/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "AZNude（Web）",
+      "pic": "https://images.app.goo.gl/HDjvCzSWmXjCraSA6",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.aznude.com/",
       "webOpen": true,
       "click": true
     },
