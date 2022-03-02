@@ -8,6 +8,12 @@
     },
     {
       "id": 1,
+      "name": "百度",
+      "ad": "no",
+      "url": "https://jx.jxbdzyw.com/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "北斗",
       "ad": "no",
       "url": "https://player.bdxzym3u8.com/dplayer/?url="
