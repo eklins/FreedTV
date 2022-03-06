@@ -38,6 +38,12 @@
     },
     {
       "id": 1,
+      "name": "U酷",
+      "ad": "no",
+      "url": "https://api.ukubf.com/m3u8/?url=https://ukzy.ukubf2.com/20220123/mwALvdfi/index.m3u8"
+    },
+    {
+      "id": 1,
       "name": "闪电",
       "ad": "no",
       "url": "https://www.shankubf.com/m3u8/?url="
