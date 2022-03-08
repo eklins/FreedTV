@@ -14,7 +14,13 @@
     },
     {
       "id": 1,
-      "name": "无尽",
+      "name": "无尽1",
+      "ad": "no",
+      "url": "https://jx.wujinkk.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "无尽2",
       "ad": "no",
       "url": "https://jx.xhswglobal.com/dplayer/?url="
     },
