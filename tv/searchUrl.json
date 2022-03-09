@@ -91,7 +91,7 @@
     {
       "id": 1,
       "name": "999美剧",
-      "url": "https://www.999meiju.com/api.php/provide/vod/at/xml",
+      "url": "https://www.999meiju.tv/api.php/provide/vod/at/xml",
       "cate": "美剧片库,2&&魔幻/科幻,17&&灵异/惊悚,18&&都市/情感,19&&犯罪/历史,20&&动漫/卡通,21&&综艺/记,22&&预告/回归,32",
       "click": true,
       "wePlus": {}
