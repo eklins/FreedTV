@@ -32,9 +32,15 @@
     },
     {
       "id": 1,
-      "name": "八戒",
+      "name": "八戒1",
       "ad": "no",
       "url": "https://zy.aoxtv.com/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "八戒2",
+      "ad": "no",
+      "url": "https://jx.7kjx.com/?url="
     },
     {
       "id": 1,
