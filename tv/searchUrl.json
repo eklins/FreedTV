@@ -473,6 +473,22 @@
       "wePlus": {}
     },
     {
+      "id": 1,
+      "name": "片库Youko",
+      "url": "https://pianku.wang/api.php/provide/vod/from/youku/at/xml/",
+      "cate": "综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "片库PPTV",
+      "url": "https://pianku.wang/api.php/provide/vod/from/pptv/at/xml/",
+      "cate": "综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
+      "click": true,
+      "wePlus": {}
+    },
+    {
       "id":1,
       "name":"飞鱼",
       "url":"https://app.feiyu5.com/api.php/provide/vod/at/xml/",
