@@ -98,6 +98,12 @@
     },
     {
       "id": 1,
+      "name": "乐多非弹幕",
+      "ad": "no",
+      "url": "https://api.ldjx.cc/wp-api/ifr.php?isDp=1&vid="
+    },
+    {
+      "id": 1,
       "name": "自定义191",
       "ad": "no",
       "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
