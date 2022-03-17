@@ -104,6 +104,12 @@
     },
     {
       "id": 1,
+      "name": "片库",
+      "ad": "no",
+      "url": "https://www.newsaas.cn/jx/?url="
+    },
+    {
+      "id": 1,
       "name": "自定义191",
       "ad": "no",
       "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
