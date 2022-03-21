@@ -110,15 +110,9 @@
     },
     {
       "id": 1,
-      "name": "自定义191",
+      "name": "乐多",
       "ad": "no",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
-    },
-    {
-      "id": 1,
-      "name": "自定义192",
-      "ad": "no",
-      "url": "https://sb.5gseo.net/?url="
+      "url": "https://api.ldjx.cc/wp-api/ifr.php?vid="
     }
   ]
 }
