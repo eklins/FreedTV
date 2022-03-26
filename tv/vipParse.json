@@ -110,18 +110,6 @@
     },
     {
       "id": 1,
-      "name": "乐多直播",
-      "ad": "no",
-      "url": "https://api.ldjx.cc/wp-api/ifr.php?vid=XMMTY5NDkyMDAwMF8xNg==_live"
-    },
-    {
-      "id": 1,
-      "name": "乐多M3U8",
-      "ad": "no",
-      "url": "https://api.ldjx.cc/wp-api/ifr.php?vid=m3u8"
-    },
-    {
-      "id": 1,
       "name": "乐多",
       "ad": "no",
       "url": "https://api.ldjx.cc/wp-api/ifr.php?vid="
