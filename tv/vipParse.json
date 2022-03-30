@@ -2,9 +2,9 @@
   "data": [
     {
       "id": 1,
-      "name": "乐多",
+      "name": "无尽",
       "ad": "no",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
+      "url": "https://jx.xhswglobal.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -17,12 +17,6 @@
       "name": "北斗",
       "ad": "no",
       "url": "https://player.bdxzym3u8.com/dplayer/?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽",
-      "ad": "no",
-      "url": "https://jx.xhswglobal.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -53,6 +47,12 @@
       "name": "速更",
       "ad": "no",
       "url": "https://wuxiezx.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "乐多",
+      "ad": "no",
+      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
     },
     {
       "id": 1,
