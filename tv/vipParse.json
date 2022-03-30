@@ -2,18 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "百度",
-      "ad": "no",
-      "url": "https://jx.jxbdzyw.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "天空",
-      "ad": "no",
-      "url": "https://jx.huishij.com/yun/?url="
-    },
-    {
-      "id": 1,
       "name": "无尽1",
       "ad": "no",
       "url": "https://jx.wujinkk.com/dplayer/?url="
@@ -23,6 +11,18 @@
       "name": "无尽2",
       "ad": "no",
       "url": "https://jx.xhswglobal.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "百度",
+      "ad": "no",
+      "url": "https://jx.jxbdzyw.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "天空",
+      "ad": "no",
+      "url": "https://jx.huishij.com/yun/?url="
     },
     {
       "id": 1,
