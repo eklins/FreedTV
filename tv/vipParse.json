@@ -1,16 +1,64 @@
 {
   "data": [
     {
-      "id": 19,
-      "name": "自定义1",
+      "id": 1,
+      "name": "乐多",
       "ad": "no",
       "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
     },
     {
-      "id": 19,
-      "name": "自定义2",
+      "id": 1,
+      "name": "天空",
       "ad": "no",
-      "url": "https://sb.5gseo.net/?url="
+      "url": "https://jx.huishij.com/yun/?url="
+    },
+    {
+      "id": 1,
+      "name": "北斗",
+      "ad": "no",
+      "url": "https://player.bdxzym3u8.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "无尽",
+      "ad": "no",
+      "url": "https://jx.xhswglobal.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "酷点",
+      "ad": "no",
+      "url": "https://jx.kujiexi.net/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "想看",
+      "ad": "no",
+      "url": "https://lyw28.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "红牛",
+      "ad": "no",
+      "url": "https://www.hongniujiexi.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "红牛P2P",
+      "ad": "no",
+      "url": "https://www.tutukiki.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "速更",
+      "ad": "no",
+      "url": "https://wuxiezx.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "闪电",
+      "ad": "no",
+      "url": "https://www.shankubf.com/m3u8/?url="
     }
   ]
 }
