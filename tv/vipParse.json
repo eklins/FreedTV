@@ -2,9 +2,15 @@
   "data": [
     {
       "id": 1,
-      "name": "线2",
+      "name": "百度",
       "ad": "no",
-      "url": "http://www.m3u8play.com/?url="
+      "url": "https://jx.jxbdzyw.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "U酷",
+      "ad": "no",
+      "url": "https://api.ukubf.com/m3u8/?url="
     },
     {
       "id": 1,
@@ -14,9 +20,9 @@
     },
     {
       "id": 1,
-      "name": "U酷",
+      "name": "线2",
       "ad": "no",
-      "url": "https://api.ukubf.com/m3u8/?url="
+      "url": "http://www.m3u8play.com/?url="
     },
     {
       "id": 1,
