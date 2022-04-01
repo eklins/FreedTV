@@ -20,6 +20,12 @@
     },
     {
       "id": 1,
+      "name": "乐多",
+      "ad": "no",
+      "url": "https://api.ldjx.cc/wp-api/ifr.php?vid="
+    },
+    {
+      "id": 1,
       "name": "无尽",
       "ad": "no",
       "url": "http://jx.xhswglobal.com/dplayer/?url="
@@ -74,7 +80,7 @@
     },
     {
       "id": 1,
-      "name": "乐多",
+      "name": "乐多TV",
       "ad": "no",
       "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
     },
