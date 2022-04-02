@@ -2,18 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "无尽",
-      "ad": "no",
-      "url": "http://jx.xhswglobal.com/dplayer/?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽备用",
-      "ad": "no",
-      "url": "http://jx.wujinkk.com/dplayer/?url="
-    },
-    {
-      "id": 1,
       "name": "百度",
       "ad": "no",
       "url": "https://jx.jxbdzyw.com/m3u8/?url="
@@ -26,27 +14,27 @@
     },
     {
       "id": 1,
-      "name": "线1",
+      "name": "天空",
       "ad": "no",
-      "url": "http://m3u8-player.com/?url="
+      "url": "https://jx.huishij.com/yun/?url="
     },
     {
       "id": 1,
-      "name": "线2",
+      "name": "无尽",
       "ad": "no",
-      "url": "http://www.m3u8play.com/?url="
+      "url": "http://jx.xhswglobal.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "http://jx.wujinkk.com/dplayer/?url="
     },
     {
       "id": 1,
       "name": "乐多",
       "ad": "no",
       "url": "https://api.ldjx.cc/wp-api/ifr.php?vid="
-    },
-    {
-      "id": 1,
-      "name": "天空",
-      "ad": "no",
-      "url": "https://jx.huishij.com/yun/?url="
     },
     {
       "id": 1,
