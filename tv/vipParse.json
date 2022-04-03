@@ -86,6 +86,12 @@
     },
     {
       "id": 1,
+      "name": "片库",
+      "ad": "no",
+      "url": "https://www.newsaas.cn/jx/?url="
+    },
+    {
+      "id": 1,
       "name": "线路7",
       "ad": "no",
       "url": "https://www.ckmov.vip/api.php?url="
