@@ -92,6 +92,12 @@
     },
     {
       "id": 1,
+      "name": "线路01",
+      "ad": "no",
+      "url": "https://jx.pingguocms.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "线路7",
       "ad": "no",
       "url": "https://www.ckmov.vip/api.php?url="
