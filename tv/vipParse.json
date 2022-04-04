@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "速更",
+      "ad": "no",
+      "url": "https://wuxiezx.com/player/?url="
+    },
+    {
+      "id": 1,
       "name": "无尽",
       "ad": "no",
       "url": "https://jx.xhswglobal.com/dplayer/?url="
@@ -29,18 +35,6 @@
       "name": "天空",
       "ad": "no",
       "url": "https://jx.huishij.com/yun/?url="
-    },
-    {
-      "id": 1,
-      "name": "乐多",
-      "ad": "no",
-      "url": "https://api.ldjx.cc/wp-api/ifr.php?vid="
-    },
-    {
-      "id": 1,
-      "name": "速更",
-      "ad": "no",
-      "url": "https://wuxiezx.com/player/?url="
     },
     {
       "id": 1,
@@ -89,24 +83,6 @@
       "name": "片库",
       "ad": "no",
       "url": "https://www.newsaas.cn/jx/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路01",
-      "ad": "no",
-      "url": "https://jx.pingguocms.com/dplayer/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路7",
-      "ad": "no",
-      "url": "https://www.ckmov.vip/api.php?url="
-    },
-    {
-      "id": 1,
-      "name": "线路8",
-      "ad": "no",
-      "url": "https://jx.000180.top/jx/?url="
     }
   ]
 }
