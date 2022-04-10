@@ -86,6 +86,12 @@
     },
     {
       "id": 1,
+      "name": "优酷",
+      "ad": "no",
+      "url": "https://player.youku.com/embed/?url="
+    },
+    {
+      "id": 1,
       "name": "自定义2",
       "ad": "no",
       "url": "https://sb.5gseo.net/?url="
