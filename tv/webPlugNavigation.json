@@ -100,7 +100,18 @@
       "click": true
     },
     {
-      "name": "卡通站",
+      "name": "KTK卡通站",
+      "pic": "https://gw.alicdn.com/i4/3312246412/O1CN01D27v3O1xEkG72ralk_!!3312246412.jpg_Q75.jpg_.webp",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.ktkkt.top/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "TVB卡通站",
       "pic": "https://gw.alicdn.com/i4/3312246412/O1CN01D27v3O1xEkG72ralk_!!3312246412.jpg_Q75.jpg_.webp",
       "keyDownPlay": false,
       "keyUpPlay": false,
