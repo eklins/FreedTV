@@ -177,6 +177,14 @@
       "wePlus": {}
     },
     {
+      "id":1,
+      "name":"CK原码",
+      "url":"https://ckzy.me/api.php/provide/vod/from/ckm3u8/at/xml/",
+      "cate":"伦理片,21&&教程,22&&电影,23&&动作片,24&&喜剧片,25&&爱情片,26&&科幻片,27&&恐怖片,28&&剧情片,29&&战争片,30&&悬疑片,31&&记录片,32&&犯罪片,33&&奇幻片,34&&电视剧,35&&国产剧,36&&欧美剧,37&&日韩剧,38&&港台剧,39",
+      "click":true,
+      "wePlus": {}
+    },
+    {
       "id": 1,
       "name": "八戒",
       "url": "http://cj.bajiecaiji.com/inc/api.php",
