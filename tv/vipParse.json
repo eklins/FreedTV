@@ -92,6 +92,12 @@
     },
     {
       "id": 1,
+      "name": "神速",
+      "ad": "no",
+      "url": "https://player.sszyplayer.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "自定义2",
       "ad": "no",
       "url": "https://sb.5gseo.net/?url="
