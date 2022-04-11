@@ -1,5 +1,23 @@
 {
   "data": [
+   {
+      "id": 1,
+      "name": "美剧虫",
+      "url": "https://meijuchong.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl": "https://meijuchong.com/api.php/v1.vod/detail?vod_id=detailId",
+      "cate": "欧美剧,1&&海外剧,2&&日韩剧,3&&电影,4&&动漫,5",
+      "type": "json",
+      "click": true
+    },
+    {
+      "id": 1,
+      "name": "火猫视频",
+      "url": "http://vv.humaoweb.com/mogai_api.php/gctvapi.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl": "http://vv.humaoweb.com/mogai_api.php/gctvapi.vod/detail?vod_id=detailId",
+      "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
+      "type": "json",
+      "click": true
+    },
     {
       "id":1,
       "name":"CK原生解码",
