@@ -104,6 +104,12 @@
     },
     {
       "id": 1,
+      "name": "番茄",
+      "ad": "no",
+      "url": "https://dp.fqplayer.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "自定义2",
       "ad": "no",
       "url": "https://sb.5gseo.net/?url="
