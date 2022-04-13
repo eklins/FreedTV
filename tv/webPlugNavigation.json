@@ -67,19 +67,19 @@
       "click": true
     },
     {
-      "name": "人人美剧7（Web）",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "name": "YouTube（Web）",
+      "pic": "https://www.youtube.com/img/desktop/yt_1200.png",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://kan.meiju7.com/",
+      "webUrl": "https://youtu.be/",
       "webOpen": true,
       "click": true
     },
     {
       "name": "中天新闻（Web）",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "pic": "https://i.ytimg.com/vi/_QbRXRnHMVY/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9kgTxO1T6ly5EHwzBrV-7jvRxGQ",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
@@ -89,13 +89,79 @@
       "click": true
     },
     {
-      "name": "YouTube（Web）",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "name": "二分之一强（Web）",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtiQr-NlRkNxd20uSu12mLwA3TbGP3ezUjg&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://youtu.be/",
+      "webUrl": "https://youtube.com/playlist?list=PLyi-Ztspx3ak8Y5MFFSlMiUi4hSAUjVCl",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "经典传奇2022（Web）",
+      "pic": "https://puui.qpic.cn/vcolumn_vt_pic/0/4t01p91519637698/0",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://youtube.com/playlist?list=PLWyKG_HBHHZk0flIIrA6ZKMUAPH51ESDm",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "经典传奇2021（Web）",
+      "pic": "https://puui.qpic.cn/vcolumn_vt_pic/0/4t01p91519637698/0",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://youtube.com/playlist?list=PLWyKG_HBHHZkdLT1V4APYUugvM3GvX2xY",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "经典传奇2020（Web）",
+      "pic": "https://puui.qpic.cn/vcolumn_vt_pic/0/4t01p91519637698/0",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://youtube.com/playlist?list=PLWyKG_HBHHZkSghx2I-wlKVuyjPM1aU0y",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "经典传奇2018-2019（Web）",
+      "pic": "https://puui.qpic.cn/vcolumn_vt_pic/0/4t01p91519637698/0",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://youtube.com/playlist?list=PLWyKG_HBHHZnu_Vab2Ga5dvnek8Bog1gj",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "经典传奇2017（Web）",
+      "pic": "https://puui.qpic.cn/vcolumn_vt_pic/0/4t01p91519637698/0",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://youtube.com/playlist?list=PLWyKG_HBHHZlO2KiWE0d7VeRVLSahQdjK",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "经典传奇2016（Web）",
+      "pic": "https://puui.qpic.cn/vcolumn_vt_pic/0/4t01p91519637698/0",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://youtube.com/playlist?list=PLWyKG_HBHHZmRc6K7JQ_djcrcZ9wzqwTn",
       "webOpen": true,
       "click": true
     },
@@ -118,6 +184,17 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.tvbkt.cc/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "人人美剧7（Web）",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://kan.meiju7.com/",
       "webOpen": true,
       "click": true
     },
