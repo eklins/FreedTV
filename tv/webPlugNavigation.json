@@ -24,7 +24,7 @@
     },
     {
       "name": "88直播（足球）",
-      "pic": "https://pic.baike.soso.com/ugc/baikepic2/12250/cut-20181219204208-824033828_jpg_571_381_46192.jpg/800",
+      "pic": "https://www.wgi8.com/uploadfile/article/2017/11/26/300322317878716.png",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
@@ -45,24 +45,24 @@
       "click": true
     },
     {
-      "name": "StripChat",
-      "pic": "https://cdn.strpst.com/assets/icons/metaogimage.jpg",
+      "name": "考古纪录片",
+      "pic": "https://m.media-amazon.com/images/M/MV5BY2MwOGIyZGYtNzgxZC00N2Q5LTllYjItM2U4MTkwMDBjYzUyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://zh.stripchat.global/",
+      "webUrl": "https://youtube.com/playlist?list=PL30o6wc1jf3E5Q9ueXN1--4BYphMNZXbw",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "AZNude",
-      "pic": "https://yt3.ggpht.com/ytc/AKedOLSdbawhrRSeaI4Kjsv7dD1-8mwZr9A3wVM1xFdi=s900-c-k-c0x00ffffff-no-rj",
+      "name": "探索♦考古进行时",
+      "pic": "https://img.tvdog.tv/vod/20210325-4/68b69f79683bfec05ddb1171e927aaba.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.aznude.com/",
+      "webUrl": "https://youtube.com/playlist?list=PL30o6wc1jf3G4aXaf3J-Pa76OXAbLqRqC",
       "webOpen": true,
       "click": true
     },
@@ -166,6 +166,28 @@
       "click": true
     },
     {
+      "name": "StripChat",
+      "pic": "https://cdn.strpst.com/assets/icons/metaogimage.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://zh.stripchat.global/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "AZNude",
+      "pic": "https://yt3.ggpht.com/ytc/AKedOLSdbawhrRSeaI4Kjsv7dD1-8mwZr9A3wVM1xFdi=s900-c-k-c0x00ffffff-no-rj",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.aznude.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "KTK卡通站",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "keyDownPlay": false,
@@ -189,7 +211,7 @@
     },
     {
       "name": "人人美剧7",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "pic": "https://m.media-amazon.com/images/M/MV5BY2MwOGIyZGYtNzgxZC00N2Q5LTllYjItM2U4MTkwMDBjYzUyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
