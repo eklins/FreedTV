@@ -33,6 +33,22 @@
       "webPlus": {}
     },
     {
+      "name": "某鱼一起看",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E6%9F%90%E9%B1%BC%E4%B8%80%E8%B5%B7%E7%9C%8B.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "txt格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt",
@@ -47,7 +63,8 @@
       "ads": "",
       "decoder": 0,
       "webPlus": {}
-    }, {
+    },
+    {
       "name": "json格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://pastebin.com/raw/Ue63BWUp",
