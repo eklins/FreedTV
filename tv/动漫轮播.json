@@ -36,6 +36,11 @@
       "parse": true
     },
     {
+      "name": "动漫电影",
+      "url": "https://m.douyu.com/10395973",
+      "parse": true
+    },
+    {
       "name": "经典动漫轮播",
       "url": "https://www.douyu.com/2317390",
       "parse": true
