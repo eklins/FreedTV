@@ -46,6 +46,11 @@
       "parse": true
     },
     {
+      "name": "欧美电影05",
+      "url": "https://m.douyu.com/20415",
+      "parse": true
+    },
+    {
       "name": "刘德华01",
       "url": "https://m.douyu.com/8985415",
       "parse": true
