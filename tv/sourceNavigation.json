@@ -35,7 +35,7 @@
     {
       "name": "轮播 ",
       "pic": "http://puui.qpic.cn/vcover_vt_pic/0/o1l8clummn1wkryt1465297264.jpg/0",
-      "webUrl": "https://github.com/eklins/FreedTV/blob/main/tv/%E8%BD%AE%E6%92%AD.txt",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E8%BD%AE%E6%92%AD.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -67,7 +67,7 @@
     {
       "name": "电视剧轮播 ",
       "pic": "https://m.media-amazon.com/images/M/MV5BY2MwOGIyZGYtNzgxZC00N2Q5LTllYjItM2U4MTkwMDBjYzUyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_.jpg",
-      "webUrl": "https://github.com/eklins/FreedTV/blob/main/tv/%E7%94%B5%E8%A7%86%E5%89%A7%E8%BD%AE%E6%92%AD%E6%92%AD.json",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%94%B5%E8%A7%86%E5%89%A7%E8%BD%AE%E6%92%AD%E6%92%AD.json",
       "type": "json",
       "subTitle": "",
       "click": true,
