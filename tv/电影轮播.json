@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "name": "粤语电影A01",
+      "url": "https://m.douyu.com/1226741",
+      "parse": true
+    },
+    {
+      "name": "粤语电影A02",
+      "url": "https://m.douyu.com/2466104",
+      "parse": true
+    },
+    {
+      "name": "粤语电影A03",
+      "url": "https://m.douyu.com/6566671",
+      "parse": true
+    },
+    {
+      "name": "粤语电影A04",
+      "url": "https://m.douyu.com/8603174",
+      "parse": true
+    },
+    {
+      "name": "粤语电影B01",
+      "url": "https://m.douyu.com/5033502",
+      "parse": true
+    },
+    {
+      "name": "欧美电影01",
+      "url": "https://m.douyu.com/323876",
+      "parse": true
+    },
+    {
+      "name": "欧美电影02",
+      "url": "https://m.douyu.com/5403257",
+      "parse": true
+    },
+    {
+      "name": "欧美电影03",
+      "url": "https://m.douyu.com/6537888",
+      "parse": true
+    },
+    {
+      "name": "欧美电影04",
+      "url": "https://m.douyu.com/864157",
+      "parse": true
+    },
+    {
+      "name": "刘德华01",
+      "url": "https://m.douyu.com/8985415",
+      "parse": true
+    },
+    {
+      "name": "刘德华02",
+      "url": "https://m.douyu.com/2516864",
+      "parse": true
+    },
+    {
+      "name": "成龙、洪金宝",
+      "url": "https://m.douyu.com/4833289",
+      "parse": true
+    },
+    {
+      "name": "李连杰",
+      "url": "https://m.douyu.com/10395964",
+      "parse": true
+    },
+    {
+      "name": "林正英",
+      "url": "https://m.douyu.com/218859",
+      "parse": true
+    },
+    {
+      "name": "胡歌",
+      "url": "https://m.douyu.com/5448413",
+      "parse": true
+    },
+    {
+      "name": "动作、武侠",
+      "url": "https://m.douyu.com/6763930",
+      "parse": true
+    },
+    {
+      "name": "邵氏电影",
+      "url": "https://m.douyu.com/4246519",
+      "parse": true
+    }
+  ]
+}
