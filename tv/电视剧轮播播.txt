@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "name": "中天新闻",
+      "url": "https://youtu.be/_QbRXRnHMVY",
+      "parse": true
+    },
+    {
+      "name": "大秦帝国A",
+      "url": "https://m.douyu.com/1584198",
+      "parse": true
+    },
+    {
+      "name": "大秦帝国B",
+      "url": "https://m.douyu.com/6582435",
+      "parse": true
+    },
+    {
+      "name": "康熙微服私访记",
+      "url": "https://m.douyu.com/7550220",
+      "parse": true
+    }
+  ]
+}
