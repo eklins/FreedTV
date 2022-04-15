@@ -65,6 +65,22 @@
       "webPlus": {}
     },
     {
+      "name": "电视剧轮播 ",
+      "pic": "https://m.media-amazon.com/images/M/MV5BY2MwOGIyZGYtNzgxZC00N2Q5LTllYjItM2U4MTkwMDBjYzUyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_.jpg",
+      "webUrl": "https://github.com/eklins/FreedTV/blob/main/tv/%E7%94%B5%E8%A7%86%E5%89%A7%E8%BD%AE%E6%92%AD%E6%92%AD.json",
+      "type": "json",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "动漫轮播 ",
       "pic": "https://www.17happy.cn/film-img/20061263231145.jpg",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E5%8A%A8%E6%BC%AB%E8%BD%AE%E6%92%AD.json",
