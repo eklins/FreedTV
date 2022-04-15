@@ -3,51 +3,61 @@
     {
       "name": "海绵宝宝1",
       "url": "https://m.douyu.com/3949681",
+      "pic": "https://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/n/n8gu5alv5hjhzjp.jpg",
       "parse": true
     },
     {
       "name": "海绵宝宝2",
       "url": "https://m.douyu.com/2250349",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa5BhAZq33BNvnqo9M3j4gsuKCtn1I4yk_RQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "热血动漫",
       "url": "https://www.douyu.com/7528160",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
       "name": "综合动漫",
       "url": "https://www.douyu.com/426517",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
       "name": "经典童年",
       "url": "https://www.douyu.com/235716",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
       "name": "圣斗士",
       "url": "https://www.douyu.com/3949681",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
       "name": "动漫剧场版",
       "url": "https://www.douyu.com/8458270",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
       "name": "动漫电影",
       "url": "https://m.douyu.com/10395973",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
       "name": "经典动漫轮播",
       "url": "https://www.douyu.com/2317390",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
       "name": "经典欧美动画",
       "url": "https://www.douyu.com/4540290",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     }
   ]
