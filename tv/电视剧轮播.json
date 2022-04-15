@@ -1,13 +1,18 @@
 {
   "data": [
     {
-      "name": "大秦帝国A",
+      "name": "大秦帝国01裂变",
+      "url": "https://m.douyu.com/6582435",
+      "parse": true
+    },
+    {
+      "name": "大秦帝国02纵横",
       "url": "https://m.douyu.com/1584198",
       "parse": true
     },
     {
-      "name": "大秦帝国B",
-      "url": "https://m.douyu.com/6582435",
+      "name": "雍正王朝",
+      "url": "https://m.douyu.com/9650836",
       "parse": true
     },
     {
