@@ -61,8 +61,13 @@
       "parse": true
     },
     {
-      "name": "欧美电影0",
+      "name": "欧美电影09",
       "url": "https://m.douyu.com/248753",
+      "parse": true
+    },
+    {
+      "name": "欧美电影10",
+      "url": "https://m.douyu.com/431460",
       "parse": true
     },
     {
