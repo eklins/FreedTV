@@ -34,7 +34,7 @@
     },
     {
       "name": "电影轮播 ",
-      "pic": "https://m.media-amazon.com/images/M/MV5BY2MwOGIyZGYtNzgxZC00N2Q5LTllYjItM2U4MTkwMDBjYzUyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_.jpg",
+      "pic": "http://puui.qpic.cn/vcover_vt_pic/0/o1l8clummn1wkryt1465297264.jpg/0",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%94%B5%E5%BD%B1%E8%BD%AE%E6%92%AD.json",
       "type": "json",
       "subTitle": "",
@@ -82,7 +82,7 @@
     },
     {
       "name": "轮播 ",
-      "pic": "http://puui.qpic.cn/vcover_vt_pic/0/o1l8clummn1wkryt1465297264.jpg/0",
+      "pic": "https://img1.jqingdashi.xyz/upload/vod/20210525-1/dadcbbada3f4012a1d93386398af74cc.jpg",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E8%BD%AE%E6%92%AD.txt",
       "type": "txt",
       "subTitle": "",
@@ -98,7 +98,7 @@
     },
     {
       "name": "NewTV ",
-      "pic": "https://m.media-amazon.com/images/M/MV5BY2MwOGIyZGYtNzgxZC00N2Q5LTllYjItM2U4MTkwMDBjYzUyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_.jpg",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/newtv.m3u",
       "type": "txt",
       "subTitle": "",
