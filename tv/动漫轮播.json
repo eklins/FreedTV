@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "name": "海绵宝宝❶",
-      "url": "https://www.douyu.com/426517",
+      "name": "海绵宝宝1",
+      "url": "https://m.douyu.com/3949681",
       "parse": true
     },
     {
-      "name": "海绵宝宝❷",
-      "url": "https://m.douyu.com/3949681",
+      "name": "海绵宝宝2",
+      "url": "https://m.douyu.com/2250349",
       "parse": true
     },
     {
@@ -16,7 +16,7 @@
       "parse": true
     },
     {
-      "name": "名侦探柯南",
+      "name": "综合动漫",
       "url": "https://www.douyu.com/426517",
       "parse": true
     },
