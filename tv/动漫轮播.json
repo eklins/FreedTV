@@ -43,8 +43,14 @@
       "parse": true
     },
     {
-      "name": "经典动漫轮播",
+      "name": "经典动漫",
       "url": "https://www.douyu.com/2317390",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "怀旧动漫",
+      "url": "https://m.douyu.com/1174353",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
