@@ -43,12 +43,6 @@
       "parse": true
     },
     {
-      "name": "欧美电影03",
-      "url": "https://m.douyu.com/6537888",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
       "name": "欧美电影04",
       "url": "https://m.douyu.com/20415",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
@@ -115,8 +109,14 @@
       "parse": true
     },
     {
-      "name": "综合电影",
+      "name": "综合电影01",
       "url": "https://m.douyu.com/431460",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "欧美电影02",
+      "url": "https://m.douyu.com/6537888",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
