@@ -19,7 +19,19 @@
       "parse": true
     },
     {
-      "name": "雍正王朝",
+      "name": "新三国2010",
+      "url": "https://m.douyu.com/276200",
+      "pic": "http://puui.qpic.cn/vcover_vt_pic/0/ceusrubximxm0g81534834778/0",
+      "parse": true
+    },
+    {
+      "name": "朱元璋2006",
+      "url": "https://m.douyu.com/308752",
+      "pic": "https://i.linkeddb.com/upload/c204/df28/39e9983ddb32677aa9e26455.jpg?x-oss-process=image/resize,m_lfit,w_175,h_240/format,webp",
+      "parse": true
+    },
+    {
+      "name": "雍正王朝1999",
       "url": "https://m.douyu.com/9650836",
       "pic": "https://blog.udn.com/community/img/PSN_PHOTO/rosylovesyou/f_1655603_1.jpg",
       "parse": true
@@ -28,6 +40,42 @@
       "name": "康熙微服私访记",
       "url": "https://m.douyu.com/7550220",
       "pic": "http://puui.qpic.cn/vcover_vt_pic/0/efi7joueq8fpoit1550802012/0",
+      "parse": true
+    },
+    {
+      "name": "少年包青天",
+      "url": "https://m.douyu.com/7280583",
+      "pic": "https://photocdn.sohu.com/kis/fengmian/38/38098/38098_ver_big.jpg",
+      "parse": true
+    },
+    {
+      "name": "金庸经典武侠剧",
+      "url": "https://m.douyu.com/7754031",
+      "pic": "https://www.sinaimg.cn/ent/v/h/2006-05-11/U1735P28T3D1078991F326DT20060511201112.jpg",
+      "parse": true
+    },
+    {
+      "name": "西游记TVB（华）01",
+      "url": "https://m.douyu.com/9518204",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6c/Journey_to_the_West_II.jpg/250px-Journey_to_the_West_II.jpg",
+      "parse": true
+    },
+    {
+      "name": "西游记TVB（华）02",
+      "url": "https://m.douyu.com/10198644",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6c/Journey_to_the_West_II.jpg/250px-Journey_to_the_West_II.jpg",
+      "parse": true
+    },
+    {
+      "name": "庆余年",
+      "url": "https://m.douyu.com/7489563",
+      "pic": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/r/rjae621myqca41h.jpg",
+      "parse": true
+    },
+    {
+      "name": "古装电视剧",
+      "url": "https://m.douyu.com/5981206",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     }
   ]
