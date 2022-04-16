@@ -67,6 +67,12 @@
       "parse": true
     },
     {
+      "name": "欧美电影07",
+      "url": "https://m.douyu.com/2793084",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "刘德华01",
       "url": "https://m.douyu.com/8985415",
       "pic": "https://p5.toutiaoimg.com/large/pgc-image/bb79469f27b6431d9c81bb3f85e8d507",
@@ -115,7 +121,7 @@
       "parse": true
     },
     {
-      "name": "欧美电影02",
+      "name": "综合电影02",
       "url": "https://m.douyu.com/6537888",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
@@ -123,7 +129,13 @@
     {
       "name": "邵氏电影",
       "url": "https://m.douyu.com/4246519",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpEkh-UfizwRuCWaWmlznhEQErw1FjBIrkQ&usqp=CAU",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "怀旧粤语MV",
+      "url": "https://m.douyu.com/5325029",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     }
   ]
