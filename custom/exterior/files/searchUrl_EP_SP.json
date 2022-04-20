@@ -89,6 +89,14 @@
       "wePlus": {}
     },
     {
+      "id": 1,
+      "name": "播放呀",
+      "url": "https://www.bofangya.com/api.php/provide/vod/at/xml",
+      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&纪录片,21&&泰剧,23&&惊辣片,24&&犯罪片,25&&冒险片,26&&悬疑片,27&&动画片,28&&武侠片,29&&奇幻片,30",
+      "click": true,
+      "wePlus": {}
+    },
+    {
       "id":1,
       "name":"MBO",
       "url":"https://www.mbomovie.com/api.php/provide/vod/at/xml/",
