@@ -850,33 +850,6 @@
       "click": true
     },
     {
-      "name": "素白白(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "type": "webPlug",
-      "ads": "id=6933",
-      "webUrl": "https://www.subaibai.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "奈非高清(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "type": "webPlug",
-      "ads": "ad,https://nfxhd.com/pic/p.gif",
-      "webUrl": "https://nfxhd.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "NO视频(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "type": "webPlug",
-      "ads": "ad,https://nfxhd.com/pic/p.gif",
-      "webUrl": "https://www.novipnoad.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "zzzfun(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
