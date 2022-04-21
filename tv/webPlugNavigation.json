@@ -232,6 +232,17 @@
       "click": true
     },
     {
+      "name": "UU粤语网",
+      "pic": "https://p0.ssl.img.360kuai.com/t01025f66daf4b6004d.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.uuyuuy.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "欧乐影院",
       "pic": "https://p0.ssl.img.360kuai.com/t01025f66daf4b6004d.jpg",
       "keyDownPlay": false,
@@ -243,17 +254,6 @@
       "click": true
     },
     {
-      "name": "韩剧宝",
-      "pic": "https://p0.ssl.img.360kuai.com/t01025f66daf4b6004d.jpg",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://www.hanjubo.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "小宝影院",
       "pic": "https://p0.ssl.img.360kuai.com/t01025f66daf4b6004d.jpg",
       "keyDownPlay": false,
@@ -261,6 +261,50 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://xiaoheimi.net/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "努努影院",
+      "pic": "https://p0.ssl.img.360kuai.com/t01025f66daf4b6004d.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.nnyy6.top/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "枫林网",
+      "pic": "https://p0.ssl.img.360kuai.com/t01025f66daf4b6004d.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://imaple.co/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "Auete影视",
+      "pic": "https://p0.ssl.img.360kuai.com/t01025f66daf4b6004d.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://auete.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "韩剧宝",
+      "pic": "https://p0.ssl.img.360kuai.com/t01025f66daf4b6004d.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.hanjubo.com/",
       "webOpen": true,
       "click": true
     },
