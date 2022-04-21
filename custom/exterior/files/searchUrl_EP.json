@@ -1,21 +1,10 @@
 {
   "data": [
-   {
-      "id": 1,
-      "name": "美剧虫",
-      "url": "https://meijuchong.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-      "detailUrl": "https://meijuchong.com/api.php/v1.vod/detail?vod_id=detailId",
-      "cate": "欧美剧,1&&海外剧,2&&日韩剧,3&&电影,4&&动漫,5",
-      "type": "json",
-      "click": true
-    },
     {
       "id": 1,
-      "name": "火猫视频",
-      "url": "http://vv.humaoweb.com/mogai_api.php/gctvapi.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-      "detailUrl": "http://vv.humaoweb.com/mogai_api.php/gctvapi.vod/detail?vod_id=detailId",
-      "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
-      "type": "json",
+      "name": "海外电影",
+      "url": "https://www.200121.com/api.php/provide/vod/at/xml/",
+      "cate":"电影,1&&连续剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&纪录片,24&&奇幻片,25&&泰国剧,26&&足球,32",
       "click": true
     },
     {
@@ -49,6 +38,24 @@
       "cate":"电影,1&&电视剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&美剧,14&&韩剧,15&&日剧,16&&港剧,17&&台剧,18&&泰剧,19&&记录片,20&&悬疑片,21&&犯罪片,22&&海外剧,23&&中国综艺,25&&日韩综艺,26&&港台综艺,27&&欧美综艺,28&&中国动漫,29&&日韩动漫,30&&欧美动漫,31&&冒险片,38&&动画片,39&&惊悚片,40&&奇幻片,43&&港台动漫,44&&海外动漫,45",
       "click":true,
       "wePlus": {}
+    },
+   {
+      "id": 1,
+      "name": "美剧虫",
+      "url": "https://meijuchong.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl": "https://meijuchong.com/api.php/v1.vod/detail?vod_id=detailId",
+      "cate": "欧美剧,1&&海外剧,2&&日韩剧,3&&电影,4&&动漫,5",
+      "type": "json",
+      "click": true
+    },
+    {
+      "id": 1,
+      "name": "火猫视频",
+      "url": "http://vv.humaoweb.com/mogai_api.php/gctvapi.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl": "http://vv.humaoweb.com/mogai_api.php/gctvapi.vod/detail?vod_id=detailId",
+      "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4",
+      "type": "json",
+      "click": true
     },
     {
       "id": 1,
