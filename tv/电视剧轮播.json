@@ -43,6 +43,12 @@
       "parse": true
     },
     {
+      "name": "宰相刘罗锅1996",
+      "url": "https://m.douyu.com/8543072",
+      "pic": "http://puui.qpic.cn/vcover_vt_pic/0/0wjt7acjcp2spvqt1444794666.jpg/0",
+      "parse": true
+    },
+    {
       "name": "龙门镖局2013",
       "url": "https://m.douyu.com/9650860",
       "pic": "http://puui.qpic.cn/vcover_vt_pic/0/e4k3pucrm2fm6w0t1444823068.jpg/0",
@@ -67,6 +73,12 @@
       "parse": true
     },
     {
+      "name": "粤语电视剧",
+      "url": "https://m.douyu.com/252308",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "西游记TVB（华）01",
       "url": "https://m.douyu.com/9518204",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6c/Journey_to_the_West_II.jpg/250px-Journey_to_the_West_II.jpg",
@@ -82,6 +94,12 @@
       "name": "庆余年",
       "url": "https://m.douyu.com/7489563",
       "pic": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/r/rjae621myqca41h.jpg",
+      "parse": true
+    },
+    {
+      "name": "神话、武侠",
+      "url": "https://m.douyu.com/338759",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     }
   ]
