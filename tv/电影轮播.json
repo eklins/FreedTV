@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "Marvel",
+      "url": "https://m.douyu.com/6140589",
+      "pic": "https://www.boxofficepro.com/wp-content/uploads/2020/06/mcu-rewind775x970-479x600.png",
+      "parse": true
+    },
+    {
       "name": "粤语电影01",
       "url": "https://m.douyu.com/6566671",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIutC24EhzcNPrKiJCxAkQOEJpZC9KjU-og&usqp=CAU",
@@ -73,6 +79,12 @@
       "parse": true
     },
     {
+      "name": "欧美电影08",
+      "url": "https://m.douyu.com/8770422",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
       "name": "刘德华01",
       "url": "https://m.douyu.com/8985415",
       "pic": "https://p5.toutiaoimg.com/large/pgc-image/bb79469f27b6431d9c81bb3f85e8d507",
@@ -115,6 +127,12 @@
       "parse": true
     },
     {
+      "name": "恐怖、灵异",
+      "url": "https://m.douyu.com/3637726",
+      "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
+      "parse": true
+    },
+    {
       "name": "综合电影01",
       "url": "https://m.douyu.com/431460",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
@@ -123,6 +141,18 @@
     {
       "name": "综合电影02",
       "url": "https://m.douyu.com/6537888",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "香港喜剧电影（华）",
+      "url": "https://m.douyu.com/122402",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "香港经典电影（华）",
+      "url": "https://m.douyu.com/85894",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
