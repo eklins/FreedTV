@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "name": "大秦帝国01裂变",
-      "url": "https://m.douyu.com/6582435",
+      "name": "大秦帝国HD",
+      "url": "https://m.douyu.com/1584198",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/5/5b/%E7%94%B5%E8%A7%86%E5%89%A7%E5%A4%A7%E7%A7%A6%E5%B8%9D%E5%9B%BD.jpg",
       "parse": true
     },
     {
-      "name": "大秦帝国02纵横",
-      "url": "https://m.douyu.com/1584198",
+      "name": "大秦帝国SD",
+      "url": "https://m.douyu.com/6582435",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/4046/cut-20201231155258-149401053_jpg_582_776_77545.jpg/1284",
       "parse": true
     },
@@ -70,12 +70,6 @@
       "name": "庆余年",
       "url": "https://m.douyu.com/7489563",
       "pic": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/r/rjae621myqca41h.jpg",
-      "parse": true
-    },
-    {
-      "name": "古装电视剧",
-      "url": "https://m.douyu.com/5981206",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     }
   ]
