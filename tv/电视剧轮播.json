@@ -73,20 +73,14 @@
       "parse": true
     },
     {
-      "name": "粤语电视剧",
+      "name": "TVB粤语",
       "url": "https://m.douyu.com/252308",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "西游记TVB（华）01",
-      "url": "https://m.douyu.com/9518204",
-      "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6c/Journey_to_the_West_II.jpg/250px-Journey_to_the_West_II.jpg",
+      "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
       "parse": true
     },
     {
       "name": "西游记TVB（华）02",
-      "url": "https://m.douyu.com/10198644",
+      "url": "https://m.douyu.com/9518204",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6c/Journey_to_the_West_II.jpg/250px-Journey_to_the_West_II.jpg",
       "parse": true
     },
