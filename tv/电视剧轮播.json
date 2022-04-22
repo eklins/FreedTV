@@ -43,9 +43,21 @@
       "parse": true
     },
     {
+      "name": "龙门镖局",
+      "url": "https://m.douyu.com/9650860",
+      "pic": "http://puui.qpic.cn/vcover_vt_pic/0/e4k3pucrm2fm6w0t1444823068.jpg/0",
+      "parse": true
+    },
+    {
       "name": "少年包青天",
       "url": "https://m.douyu.com/7280583",
       "pic": "https://photocdn.sohu.com/kis/fengmian/38/38098/38098_ver_big.jpg",
+      "parse": true
+    },
+    {
+      "name": "鬼吹灯",
+      "url": "https://m.douyu.com/9292503",
+      "pic": "https://cdn.pingwest.com/wp-content/uploads/2017/07/2.jpeg?x-oss-process=style/article-body",
       "parse": true
     },
     {
