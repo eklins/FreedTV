@@ -83,7 +83,7 @@
     {
       "id": 1,
       "name": "红牛",
-      "url": "https://www.hongniuzy1.com/inc/hnm3u8.php",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/",
       "cate": "国产剧,12&&韩国剧,18&&日本剧,14&&欧美剧,15&&台湾剧,16&&香港剧,13&&泰国剧,17&&动漫,4&&综艺,3&&动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11",
       "click": true,
       "wePlus": {}
