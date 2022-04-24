@@ -26,15 +26,21 @@
     },
     {
       "id": 1,
+      "name": "北斗H5",
+      "ad": "no",
+      "url": "https://player.bdxzym3u8.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "红牛P2P",
       "ad": "no",
       "url": "https://www.tutukiki.com/m3u8/?url="
     },
     {
       "id": 1,
-      "name": "北斗H5",
+      "name": "红牛备用",
       "ad": "no",
-      "url": "https://player.bdxzym3u8.com/dplayer/?url="
+      "url": "https://www.hongniujiexi.com/m3u8/?url="
     },
     {
       "id": 1,
@@ -77,12 +83,6 @@
       "name": "红牛",
       "ad": "no",
       "url": "https://www.hongniujiexi.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "速更",
-      "ad": "no",
-      "url": "https://wuxiezx.com/player/?url="
     },
     {
       "id": 1,
