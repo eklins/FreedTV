@@ -2,14 +2,128 @@
   "data": [
     {
       "name": "海绵宝宝1",
-      "url": "https://m.douyu.com/3949681",
+      "url": "http://zzy789.xyz/bili.php?id=4355330",
       "pic": "https://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/n/n8gu5alv5hjhzjp.jpg",
       "parse": true
     },
     {
       "name": "海绵宝宝2",
+      "url": "https://m.douyu.com/3949681",
+      "pic": "https://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/n/n8gu5alv5hjhzjp.jpg",
+      "parse": true
+    },
+    {
+      "name": "海绵宝宝3",
+      "url": "http://zzy789.xyz/bili.php?id=61834",
+      "pic": "https://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/n/n8gu5alv5hjhzjp.jpg",
+      "parse": true
+    },
+    {
+      "name": "海绵宝宝4",
       "url": "https://m.douyu.com/2250349",
       "pic": "https://img.aidotu.com/down/jpg/20200828/325e82163ae5d0c250c9d0bad76e64d6_126728_500_764.jpg",
+      "parse": true
+    },
+    {
+      "name": "海绵宝宝1－13（英）",
+      "url": "http://zzy789.xyz/bili.php?id=14495324",
+      "pic": "https://img.aidotu.com/down/jpg/20200828/325e82163ae5d0c250c9d0bad76e64d6_126728_500_764.jpg",
+      "parse": true
+    },
+    {
+      "name": "犬夜叉",
+      "url": "https://m.douyu.com/7422897",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oXuMFvRhu0mk_-M_o6nttrfyS2FCOw4iaA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "哆啦A梦",
+      "url": "http://zzy789.xyz/bili.php?id=1717236",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/c/c8/Doraemon_volume_1_cover.jpg",
+      "parse": true
+    },
+    {
+      "name": "哆啦A梦新番（日）",
+      "url": "http://zzy789.xyz/bili.php?id=482946",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNug9Ql_DwnWIcBNJiImyBCglR2k1W0kxCBg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "名侦探柯南1",
+      "url": "https://m.douyu.com/6484910",
+      "pic": "http://www.agedongman.com/upload/vod/20200906-6/8102054f21e2c2a4508812ab6a2a475e.jpg",
+      "parse": true
+    },
+    {
+      "name": "名侦探柯南2",
+      "url": "https://m.douyu.com/1783144",
+      "pic": "http://www.agedongman.com/upload/vod/20200906-6/8102054f21e2c2a4508812ab6a2a475e.jpg",
+      "parse": true
+    },
+    {
+      "name": "蜡笔小新",
+      "url": "http://zzy789.xyz/bili.php?id=10375360",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/0/0e/%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0.jpeg",
+      "parse": true
+    },
+    {
+      "name": "我们这一家",
+      "url": "http://zzy789.xyz/bili.php?id=14901318",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKL7-kLvPYajrac9sho5nmPo7_ErHiHf5Z3g&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "猫和老鼠",
+      "url": "https://m.douyu.com/7888428",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0uU_l4TnMXGBxiq7SnvsPef5HKEC4W9S3Q&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "芭比娃娃",
+      "url": "http://zzy789.xyz/bili.php?id=662181",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSasiI3lBlu8SYXGjxNO2HueYhtZW0K5zuWiw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "动漫电影（华）",
+      "url": "https://m.douyu.com/6449849",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "天使点播（华）",
+      "url": "https://m.douyu.com/1487654",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "海贼王（日）",
+      "url": "https://m.douyu.com/997925",
+      "pic": "https://dm530.in/poster/199956647.jpg",
+      "parse": true
+    },
+    {
+      "name": "圣斗士（日）",
+      "url": "https://m.douyu.com/8458270",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAUHtfjARglA_AnwYyvLBZoRNJcDPRAfthkA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "守护甜心（日）",
+      "url": "http://zzy789.xyz/bili.php?id=23041483",
+      "pic": "http://vorcdn.xiaodutv.com/6680d519bcd093dcd20f42aefae7c541",
+      "parse": true
+    },
+    {
+      "name": "此生无悔入夏目（日）",
+      "url": "https://m.douyu.com/10210568",
+      "pic": "http://5b0988e595225.cdn.sohucs.com/images/20190312/8f479ed962d54013a692f90c9626e761.jpeg",
+      "parse": true
+    },
+    {
+      "name": "全职猎人（日）",
+      "url": "https://m.douyu.com/6610883",
+      "pic": "https://imomoe.one/poster/20110048.jpg",
       "parse": true
     },
     {
@@ -51,6 +165,18 @@
     {
       "name": "怀旧动漫",
       "url": "https://m.douyu.com/1174353",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "日本动漫",
+      "url": "https://m.douyu.com/7256376",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "欧美动漫电影",
+      "url": "https://m.douyu.com/7493575",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
