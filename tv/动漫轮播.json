@@ -2,24 +2,12 @@
   "data": [
     {
       "name": "海绵宝宝1",
-      "url": "http://zzy789.xyz/bili.php?id=4355330",
-      "pic": "https://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/n/n8gu5alv5hjhzjp.jpg",
-      "parse": true
-    },
-    {
-      "name": "海绵宝宝2",
       "url": "https://m.douyu.com/3949681",
       "pic": "https://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/n/n8gu5alv5hjhzjp.jpg",
       "parse": true
     },
     {
-      "name": "海绵宝宝3",
-      "url": "http://zzy789.xyz/bili.php?id=61834",
-      "pic": "https://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/n/n8gu5alv5hjhzjp.jpg",
-      "parse": true
-    },
-    {
-      "name": "海绵宝宝4",
+      "name": "海绵宝宝2",
       "url": "https://m.douyu.com/2250349",
       "pic": "https://img.aidotu.com/down/jpg/20200828/325e82163ae5d0c250c9d0bad76e64d6_126728_500_764.jpg",
       "parse": true
