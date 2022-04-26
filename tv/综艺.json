@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "中国通史2013",
+      "url": "http://61.241.131.18/tx.rtmp.huya.com/1099531752680-1099531752680-86435804515139584-2199063628816-10057-A-0-1.m3u8",
+      "pic": "https://p1.img.cctvpic.com/fmspic/vms/image/2013/08/13/VSET_1376359331382880.jpg",
+      "parse": true
+    },
+    {
+      "name": "从秦始皇到汉武帝2016",
+      "url": "http://61.241.131.18/tx.rtmp.huya.com/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.m3u8",
+      "pic": "http://puui.qpic.cn/vcover_vt_pic/0/bc6u6b3ul17tffu1517914867/0",
+      "parse": true
+    },
+    {
+      "name": "Running Man",
+      "url": "http://61.241.131.18/tx.rtmp.huya.com/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8",
+      "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
+      "parse": true
+    },
+    {
+      "name": "怀旧粤语MV",
+      "url": "https://m.douyu.com/5325029",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    }
+  ]
+}
