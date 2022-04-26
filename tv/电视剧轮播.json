@@ -115,8 +115,14 @@
       "parse": true
     },
     {
-      "name": "TVB粤语",
+      "name": "TVB粤语01",
       "url": "https://m.douyu.com/252308",
+      "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
+      "parse": true
+    },
+    {
+      "name": "TVB粤语02",
+      "url": "http://zzy789.xyz/bili.php?id=3880983",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
       "parse": true
     },
@@ -127,7 +133,7 @@
       "parse": true
     },
     {
-      "name": "西游记TVB（华）02",
+      "name": "西游记TVB（华）",
       "url": "https://m.douyu.com/9518204",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6c/Journey_to_the_West_II.jpg/250px-Journey_to_the_West_II.jpg",
       "parse": true
