@@ -13,6 +13,12 @@
       "parse": true
     },
     {
+      "name": "大秦赋2020",
+      "url": "https://m.huya.com/11352881",
+      "pic": "https://p4.img.cctvpic.com/photoworkspace/contentimg/2020/12/23/2020122310491489092.jpg",
+      "parse": true
+    },
+    {
       "name": "三国演义1994",
       "url": "https://m.douyu.com/7459925",
       "pic": "http://n.sinaimg.cn/translate/592/w600h792/20190922/7ce0-iewtena2997723.jpg",
@@ -145,19 +151,13 @@
       "parse": true
     },
     {
-      "name": "TVB粤语02",
-      "url": "http://zzy789.xyz/bili.php?id=3880983",
-      "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
-      "parse": true
-    },
-    {
       "name": "西游记TVB（粤）",
       "url": "http://zzy789.xyz/bili.php?id=21515763",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6c/Journey_to_the_West_II.jpg/250px-Journey_to_the_West_II.jpg",
       "parse": true
     },
     {
-      "name": "西游记TVB（华）",
+      "name": "西游记TVB（华）02",
       "url": "https://m.douyu.com/9518204",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6c/Journey_to_the_West_II.jpg/250px-Journey_to_the_West_II.jpg",
       "parse": true
