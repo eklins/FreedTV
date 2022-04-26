@@ -13,6 +13,12 @@
       "parse": true
     },
     {
+      "name": "大秦赋2020",
+      "url": "http://61.241.131.18/tx.rtmp.huya.com/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8",
+      "pic": "https://p4.img.cctvpic.com/photoworkspace/contentimg/2020/12/23/2020122310491489092.jpg",
+      "parse": true
+    },
+    {
       "name": "三国演义1994",
       "url": "https://m.douyu.com/7459925",
       "pic": "http://n.sinaimg.cn/translate/592/w600h792/20190922/7ce0-iewtena2997723.jpg",
@@ -34,6 +40,12 @@
       "name": "朱元璋2006",
       "url": "https://m.douyu.com/308752",
       "pic": "https://i.linkeddb.com/upload/c204/df28/39e9983ddb32677aa9e26455.jpg?x-oss-process=image/resize,m_lfit,w_175,h_240/format,webp",
+      "parse": true
+    },
+    {
+      "name": "康熙王朝2001",
+      "url": "http://61.241.131.18/tx.rtmp.huya.com/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/7/75/%E5%BA%B7%E7%86%99%E7%8E%8B%E6%9C%9D.jpg/250px-%E5%BA%B7%E7%86%99%E7%8E%8B%E6%9C%9D.jpg",
       "parse": true
     },
     {
@@ -85,9 +97,21 @@
       "parse": true
     },
     {
+      "name": "神机妙算刘伯温2014",
+      "url": "http://61.241.131.18/tx.rtmp.huya.com/1250011-1250011-5368756364640256-2777027178-10057-A-0-1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nw7o_Ps9Jyqv63oF-KcYz5Gu5BXX_V0vKw&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "少年包青天",
       "url": "https://m.douyu.com/7280583",
       "pic": "https://photocdn.sohu.com/kis/fengmian/38/38098/38098_ver_big.jpg",
+      "parse": true
+    },
+    {
+      "name": "活佛济公",
+      "url": "http://61.241.131.18/tx.rtmp.huya.com/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.m3u8",
+      "pic": "https://img5.km.com/dianyingimg/tv/img/8/0/sup650.jpg?1455421982",
       "parse": true
     },
     {
@@ -106,6 +130,12 @@
       "name": "金庸经典武侠剧",
       "url": "https://m.douyu.com/7754031",
       "pic": "https://www.sinaimg.cn/ent/v/h/2006-05-11/U1735P28T3D1078991F326DT20060511201112.jpg",
+      "parse": true
+    },
+    {
+      "name": "神雕侠侣2014",
+      "url": "http://61.241.131.18/tx.rtmp.huya.com/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1.m3u8",
+      "pic": "https://img1.jqingdashi.xyz/upload/vod/20210713-1/2b999ce05081303db44c4e21d4fce9da.jpg",
       "parse": true
     },
     {
