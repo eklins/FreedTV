@@ -129,9 +129,25 @@
       "webPlus": {}
     },
     {
-      "name": "USA TV ",
+      "name": "US TV ",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/us.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "US 18X ",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/us%2018X.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
