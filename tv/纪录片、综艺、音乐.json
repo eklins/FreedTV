@@ -19,6 +19,12 @@
       "parse": true
     },
     {
+      "name": "CCTV-9 纪录",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunGOpNHKH2iuDkqWTmVS5WK9XcJwG1KuIvA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "怀旧粤语MV",
       "url": "https://m.douyu.com/5325029",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
