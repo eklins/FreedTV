@@ -161,22 +161,6 @@
       "webPlus": {}
     },
     {
-      "name": "World 18X ",
-      "pic": "https://i.beauty321.com/816x/https://il.beauty321.com/gallery/gallery/41813/photo-60e66c1e34ff9.jpg",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/world%2018x.m3u",
-      "type": "m3u",
-      "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "webOpen": false,
-      "keyDownPlay": true,
-      "keyUpPlay": true,
-      "userAgent": "",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-    },
-    {
       "name": "m3u格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://pastebin.com/raw/Dg5EDRXp",
