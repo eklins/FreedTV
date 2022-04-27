@@ -129,6 +129,22 @@
       "webPlus": {}
     },
     {
+      "name": "Global TV News ",
+      "pic": "https://chinese.aljazeera.net/wp-content/uploads/2021/07/Snipaste_2021-07-29_19-41-58.png?w=709&resize=709%2C645",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20news.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "USA TV ",
       "pic": "https://cdn11.bigcommerce.com/s-6g1miblx2o/images/stencil/1280x1280/products/2700/2766/apif8mz62__40941.1510865267.jpg?c=2",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/usa%20TV.m3u",
