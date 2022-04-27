@@ -1,15 +1,6 @@
 {
   "data": [
     {
-      "name": "中天新闻",
-      "url": "https://m.youtube.com/watch?v=_QbRXRnHMVY",
-      "pic": "https://i.ytimg.com/vi/_QbRXRnHMVY/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9kgTxO1T6ly",
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webOpen": true,
-      "parse": true
-    },
-    {
       "name": "中国通史2013",
       "url": "https://m.huya.com/20985822",
       "pic": "https://p1.img.cctvpic.com/fmspic/vms/image/2013/08/13/VSET_1376359331382880.jpg",
