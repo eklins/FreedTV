@@ -13,6 +13,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" status="online",CBS News (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="Cheddar.us" status="online",Cheddar News (720p)
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.us" status="online",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" status="online",DW English (1080p)
