@@ -33,23 +33,13 @@ https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" status="online",France 24 English (1080p)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" status="error",France 24 English (576p)
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow.us" status="online",NBC News Now (1080p)
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNowEvent1.us" status="online",NBC News Now Event 1 (720p)
-https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNowEvent2.us" status="online",NBC News Now Event 2 (360p)
-https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNowEvent3.us" status="online",NBC News Now Event 3 (460p)
-https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNowEvent4.us" status="online",NBC News Now Event 4 (720p)
-https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" status="online",Newsmax (720p)
 https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="SkyNewsExtra3.au" status="online",Sky News (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="YahooFinance.us" status="online",Yahoo! Finance (1080p)
+#EXTINF:-1 tvg-id="YahooFinance.us" status="online",Yahoo Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="YahooNews.us" status="online",Yahoo! News (720p)
+#EXTINF:-1 tvg-id="YahooNews.us" status="online",Yahoo News (720p)
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
