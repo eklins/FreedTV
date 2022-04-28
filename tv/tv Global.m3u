@@ -1,0 +1,108 @@
+#EXTM3U
+#EXTINF:-1, Argentina❤Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1, Australia❤ABC
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8221df52788a423c91b717158aadaf25/index.m3u8?hdnea=st=1651147145~exp=1651148045~acl=/*~hmac=d18b7202803b188f1893b5a7a673296b3d4d787da15d85fcc3c472bdc80255fe
+#EXTINF:-1, AUS❤ABC Me
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/index.m3u8?hdnea=st=1651147290~exp=1651148190~acl=/*~hmac=3994778a672665ddf5cdc8883d9204a520c4da98b5fbd3c00afd668e991f9f91
+#EXTINF:-1, AUS❤ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1, AUS❤ABC TV
+https://c.mjh.nz/3201026102E1
+#EXTINF:-1, AUS❤ABC TV Plus
+https://c.mjh.nz/abc2
+#EXTINF:-1, AUS❤Channel 44
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1, AUS❤Fuel TV
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, AUS❤Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, AUS❤Insight TV
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, AUS❤In Wild
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, AUS❤In Wonder
+https://inwonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, AUS❤MATV Malayalam
+https://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1, AUS❤Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, AUS❤Real Families
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1, AUS❤Sky Racing 1
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
+#EXTINF:-1, AUS❤Sky Thoroughbred Central
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8
+#EXTINF:-1, AUS❤Snowy Mountains TV
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
+#EXTINF:-1, AUS❤天和电视
+http://www.rtvcdn.com.au:8082/TV0002.m3u8
+#EXTINF:-1, Austria❤ORF3
+https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
+#EXTINF:-1, AUT❤OE24
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
+#EXTINF:-1, AUT❤W24
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1, AUT❤RTV
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1, AUT❤R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1, Belarus❤1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1, BLR❤Belros Ⓢ
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1, BLR❤Belarus 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1, BLR❤CTV Belarus Ⓢ
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1, BLR❤Nastoyashcheye vremya Ⓢ
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1, BLR❤Radio HIT Orsk
+http://lova.me/hls/hithd.m3u8
+#EXTINF:-1, BLR❤Vitebsk Telekanal
+https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Belgium❤BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1, BEL❤RTL-Be
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1, Brazil❤All Sports Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1, BRA❤COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
+#EXTINF:-1, BRA❤SBT Ⓢ
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1, BRA❤AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1, BRA❤RBC
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:-1, BRA❤Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1, BRA❤ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:-1, BRA❤Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1, BRA❤TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, Canada❤AZ Star TV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1, CAN❤CBC News
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1, CAN❤CTV News
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1, CAN❤CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1, CAN❤QVTV
+https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
+#EXTINF:-1, CAN❤
+#EXTINF:-1, CAN❤
+#EXTINF:-1, CAN❤
+
+
+
+#EXTINF:-1, CAN❤
+
+
+
+
