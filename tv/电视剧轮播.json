@@ -145,9 +145,15 @@
       "parse": true
     },
     {
-      "name": "西游记TVB（粤）",
+      "name": "TVB粤语02",
+      "url": "https://m.douyu.com/742565",
+      "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
+      "parse": true
+    },
+    {
+      "name": "TVB粤语03",
       "url": "http://zzy789.xyz/bili.php?id=21515763",
-      "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6c/Journey_to_the_West_II.jpg/250px-Journey_to_the_West_II.jpg",
+      "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
       "parse": true
     },
     {
