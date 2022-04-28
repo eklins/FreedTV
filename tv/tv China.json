@@ -3,64 +3,55 @@
     {
       "name": "CCTV-1 综合",
       "url": "http://183.207.249.9/PLTV/3/224/3221225530/index.m3u8",
-      "pic": "
-",
+      "pic": "http://i1.hdslb.com/bfs/archive/e2e1cba48cd0514ed96402fbc94d88fa5d191365.jpg",
       "parse": true
     },
     {
       "name": "CCTV-2 财经",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8",
-      "pic": "
-",
+      "pic": "https://www.newton.com.tw/img/c/f27/cGcq5iY0UWYzMzYwAjNiZDNyYmZ2IDM0MDNlFmZxIjZ2QTYwI2YidTYjZDZv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg",
       "parse": true
     },
     {
       "name": "CCTV-3 综艺",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8",
-      "pic": "
-",
+      "pic": "https://static.wikia.nocookie.net/logopedia/images/b/b2/E8254183-14B8-4B2F-9F3C-7A3F63AD7247.png/revision/latest/scale-to-width-down/250",
       "parse": true
     },
     {
       "name": "CCTV-4 中文国际",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8",
-      "pic": "
-",
+      "pic": "https://yt3.ggpht.com/ytc/AKedOLR8rN8yuqzpI_cRFZ8xkqGe8XrrMQFBI8h4cENaRQ=s900-c-k-c0x00ffffff-no-rj",
       "parse": true
     },
     {
       "name": "CCTV-5 体育",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8",
-      "pic": "
-",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaxmPgXO8EXUtsRO6YWwsS7ryPqwYCIQAOQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-5+ 体育赛事",
       "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8",
-      "pic": "
-",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZTwPBuXllOOSgFRdSjRcmWaKd1Nl9ErFRdw&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-6 电影",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8",
-      "pic": "
-",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNzeIiHftvxAMmc7sx0MnbN3x_wbeDWxBEg&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-7 国防军事",
       "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8",
-      "pic": "
-",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN9HCILZWD9W7b0LCOq9RsxVLTXzsJXclzw&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-8 电视剧",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8",
-      "pic": "
-",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJpOLumxorzY2M62X2tKPVHnuYe_leVqYDQ&usqp=CAU",
       "parse": true
     },
     {
@@ -78,75 +69,43 @@
     {
       "name": "CCTV-11 戏曲",
       "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8",
-      "pic": "
-",
+      "pic": "https://p3.img.cntv.cn/photoAlbum/page/performance/img/2019/9/11/1568168122399_415.jpg",
       "parse": true
     },
     {
-      "name": "CCTV-12 社会与法则",
+      "name": "CCTV-12 社会与法",
       "url": "http://183.207.249.8/PLTV/3/224/3221225556/index.m3u8",
-      "pic": "
-",
+      "pic": "https://p3.img.cntv.cn/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",
       "parse": true
     },
     {
       "name": "CCTV-13 新闻",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8",
-      "pic": "
-",
+      "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",
       "parse": true
     },
     {
       "name": "CCTV-14 少儿",
-      "url": "https://tv.cctv.com/live/cctvchild/m/
-",
-      "pic": "
-",
+      "url": "https://tv.cctv.com/live/cctvchild/m/",
+      "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568299186981_881.jpg",
       "parse": true
     },
     {
       "name": "CCTV-15 音乐",
       "url": "https://tv.cctv.com/live/cctv15/m/index.shtml?spm=C28340.PFfibrpzDugF.En59pIUdUZS1.22",
-      "pic": "
-",
+      "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168304286_282.jpg",
       "parse": true
     },
     {
       "name": "CCTV-17 农业农村",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8",
-      "pic": "
-",
-      "parse": true
-    },
-    {
-      "name": "CCTV-1",
-      "url": "
-",
-      "pic": "
-",
-      "parse": true
-    },
-    {
-      "name": "CCTV-1",
-      "url": "
-",
-      "pic": "
-",
-      "parse": true
-    },
-    {
-      "name": "CCTV-1",
-      "url": "
-",
-      "pic": "
-",
+      "pic": "https://p1.img.cctvpic.com/fmspic/vms/image/1564473159990.jpg",
       "parse": true
     },
     {
       "name": "点掌财经",
       "url": "http://cclive.aniu.tv/live/anzb.m3u8",
-      "pic": "
-",
+      "pic": "https://yt3.ggpht.com/ytc/AKedOLQvmwHHrWYH0CsLglY9aYMbvZwZj2vfbBZVR-tI=s900-c-k-c0x00ffffff-no-rj",
       "parse": true
     }
   ]
