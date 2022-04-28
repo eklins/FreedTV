@@ -193,6 +193,22 @@
       "webPlus": {}
     },
     {
+      "name": "Global TV ",
+      "pic": "https://chinese.aljazeera.net/wp-content/uploads/2021/07/Snipaste_2021-07-29_19-41-58.png?w=709&resize=709%2C645",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20Global.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "World TV ",
       "pic": "https://chinese.aljazeera.net/wp-content/uploads/2021/07/Snipaste_2021-07-29_19-41-58.png?w=709&resize=709%2C645",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20World.m3u",
