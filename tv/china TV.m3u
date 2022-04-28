@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "name": "CCTV-1 综合",
+      "url": "http://183.207.249.9/PLTV/3/224/3221225530/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-2 财经",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-3 综艺",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-4 中文国际",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-5 体育",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-5+ 体育赛事",
+      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-6 电影",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-7 国防军事",
+      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-8 电视剧",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-9 纪录",
+      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunGOpNHKH2iuDkqWTmVS5WK9XcJwG1KuIvA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "CCTV-10 科教",
+      "url": "http://183.207.249.34/PLTV/4/224/3221227317/index.m3u8",
+      "pic": "https://yt3.ggpht.com/ytc/AKedOLQO2PYa4b8bTIBKeOWkl2yJ1o7NTnJtqze0mO8BDw=s900-c-k-c0x00ffffff-no-rj",
+      "parse": true
+    },
+    {
+      "name": "CCTV-11 戏曲",
+      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-12 社会与法则",
+      "url": "http://183.207.249.8/PLTV/3/224/3221225556/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-13 新闻",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-14 少儿",
+      "url": "https://tv.cctv.com/live/cctvchild/m/
+",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-15 音乐",
+      "url": "https://tv.cctv.com/live/cctv15/m/index.shtml?spm=C28340.PFfibrpzDugF.En59pIUdUZS1.22",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-17 农业农村",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-1",
+      "url": "
+",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-1",
+      "url": "
+",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "CCTV-1",
+      "url": "
+",
+      "pic": "
+",
+      "parse": true
+    },
+    {
+      "name": "点掌财经",
+      "url": "http://cclive.aniu.tv/live/anzb.m3u8",
+      "pic": "
+",
+      "parse": true
+    }
+  ]
+}
