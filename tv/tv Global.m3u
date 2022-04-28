@@ -23,14 +23,18 @@ https://insighttv-samsungau.amagi.tv/playlist.m3u8
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1, AUS❤In Wonder
 https://inwonder-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1, AUS❤MATV Malayalam
+#EXTINF:-1, AUS❤M4TV Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1, AUS❤Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1, AUS❤Real Families
 https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
-
-
+#EXTINF:-1, AUS❤Real Stories
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, AUS❤Rialto
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1, AUS❤Timiline Australia
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1, AUS❤Sky Racing 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1, AUS❤Sky Thoroughbred Central
@@ -67,22 +71,24 @@ https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1, BEL❤RTL-Be
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:-1, Brazil❤All Sports Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1, BRA❤COM Brasil
-https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:-1, BRA❤SBT Ⓢ
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1, BRA❤AgroBrasil TV
+#EXTINF:-1, Brazil❤AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1, BRA❤RBC
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:-1, BRA❤All Sports Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1, BRA❤Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1, BRA❤COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 #EXTINF:-1, BRA❤ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:-1, BRA❤RBC
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 #EXTINF:-1, BRA❤Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1, BRA❤SBT Ⓢ
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1, BRA❤Tastemade Brasil
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1, BRA❤TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1, Canada❤AZ Star TV
@@ -93,16 +99,153 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1, CAN❤CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1, CAN❤Degrassi The Next Generation
+http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, CAN❤Insight TV
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1, CAN❤QVTV
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
-#EXTINF:-1, CAN❤
-#EXTINF:-1, CAN❤
-#EXTINF:-1, CAN❤
-
-
-
-#EXTINF:-1, CAN❤
-
-
-
-
+#EXTINF:-1, CAN❤Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:-1, CAN❤Stingray Everything 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1, CAN❤Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:-1, CAN❤Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:-1, CAN❤Stingray Hit List
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+#EXTINF:-1, CAN❤Stingray Hot Country
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+#EXTINF:-1, CAN❤Stingray Pop Adult
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:-1, CAN❤Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:-1, CAN❤Stingray Soul Storm
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/134/master.m3u8
+#EXTINF:-1, CAN❤Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:-1, CAN❤Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+#EXTINF:-1, CAN❤Weather Spy
+https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Czech❤CNN Prima News Ⓢ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1, CZE❤JOJ Family Ⓢ
+https://live.cdn.joj.sk/live/hls/family-540.m3u8
+#EXTINF:-1, CZE❤Óčko Ⓢ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1, CZE❤Óčko Expres Ⓢ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1, CZE❤Óčko Star Ⓢ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1, CZE❤Šlágr Premium Ⓢ
+https://arenasportslovakia.ddns.net/hls/slager.m3u8
+#EXTINF:-1, Denmark❤Africa News(English)
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, DNK❤Euronews(English)
+https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, DNK❤Kanal Hovedstaden (720p)
+https://59b954022ec35.streamlock.net/liveTV2/smil:liveTVstream2.transcoder.smil/playlist.m3u8
+#EXTINF:-1, DNK❤KKR TV
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:-1, DNK❤TV2 Bornholm (1080p) 
+https://live.tv2bornholm.dk/stream/live/playlist.m3u8
+#EXTINF:-1, DNK❤TV2 Fyn
+https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
+#EXTINF:-1, Ecuador❤7 Noticias
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:-1, ECU❤101 Tele Antequera (1080p)
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:-1, France❤Euronews(English)
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1, FRA❤BFM Grand Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1, FRA❤BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
+#EXTINF:-1, FRA❤BFM TV
+https://stream-12.dc3.dailymotion.com/sec(4cextmXq8crpVEOecERE_nfQtElgJGfsNlPA-v73dgqudFvhUZJDmEJ4PbXtpWP_)/dm/3/xgz4t1/d/live-4.m3u8#cell=lcore
+#EXTINF:-1, FRA❤FashionTV Czech & Slovakia
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1, FRA❤FashionTV L'Original
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, FRA❤FashionTV New York
+https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+#EXTINF:-1, FRA❤FashionTV PG16
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1, FRA❤France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1, FRA❤M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1, FRA❤MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1, FRA❤Persiana Cinema
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Classic
+http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Documentary
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Game & Tech
+http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Tranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Korea
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Plus
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1, FRA❤Persiana Varzesh
+http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1, FRA❤Wilside TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, Germany❤123 TV
+http://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1, DEU❤A•TV
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1, DEU❤Anixe HD Serie
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1, DEU❤Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1, DEU❤BLK TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1, DEU❤Das Erste Ⓖ
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1, DEU❤DW(English)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1, DEU❤Fitness TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1, DEU❤Health TV
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1, DEU❤HR Fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1, DEU❤KulturMD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1, DEU❤MDF 1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1, DEU❤ONE1 Music
+https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
+#EXTINF:-1, DEU❤Radio 21 TV
+http://playback.akamaized.net/streams/22300508_6675945_lsi8b513v22ovejhvrn_1/master.m3u8?dw=32&hdnts=exp=1651159035~acl=/streams/22300508_6675945_lsi8b513v22ovejhvrn_1/master.m3u8*~hmac=31c81ff6576c2cf830d7427a0e3b3a080bef89a98b16d19de2bc6348fc8f068d
+#EXTINF:-1, DEU❤Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1, DEU❤RAN1
+http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
+#EXTINF:-1, DEU❤RBW
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1, DEU❤RFH
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1, DEU❤Sophia TV
+https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
+#EXTINF:-1, DEU❤World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1, DEU❤ZWEI2 Music
+https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
