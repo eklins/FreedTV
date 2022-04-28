@@ -147,8 +147,8 @@
     {
       "name": "China TV ",
       "pic": "https://pic1.xuehuaimg.com/proxy/baijia/https://f12.baidu.com/it/u=2218732580,1124302771&fm=173&app=49&f=JPEG?w=640&h=849&s=1CB94A968C11C64579137FBE03008008&access=215967316",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20China.m3u",
-      "type": "m3u",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20China.json",
+      "type": "json",
       "subTitle": "",
       "click": true,
       "autoNext": false,
