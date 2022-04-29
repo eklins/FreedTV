@@ -68,7 +68,7 @@
       "name": "NewTV ",
       "pic": "https://img.downkuai.com/logo/20200917/a378ef747bc4a0997c244568ac25b9f6.png",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/newtv.m3u",
-      "type": "txt",
+      "type": "m3u",
       "subTitle": "",
       "click": true,
       "autoNext": false,
