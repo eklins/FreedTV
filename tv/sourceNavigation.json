@@ -161,22 +161,6 @@
       "webPlus": {}
     },
     {
-      "name": "China TV测试 ",
-      "pic": "https://pic1.xuehuaimg.com/proxy/baijia/https://f12.baidu.com/it/u=2218732580,1124302771&fm=173&app=49&f=JPEG?w=640&h=849&s=1CB94A968C11C64579137FBE03008008&access=215967316",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20test%20china.m3u",
-      "type": "m3u",
-      "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "webOpen": false,
-      "keyDownPlay": true,
-      "keyUpPlay": true,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-    },
-    {
       "name": "直播♥",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio",
