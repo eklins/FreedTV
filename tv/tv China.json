@@ -169,7 +169,7 @@
       "parse": true
     },
     {
-      "name": "香港无线J1",
+      "name": "TVB J2",
       "url": "https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
@@ -188,7 +188,7 @@
     },
     {
       "name": "耀才财经",
-      "url": "http://m.haoqu99.com/4/yccjt.html",
+      "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/0922/2e357e13827907f8b90e628ebdd1d1e3.jpg",
       "parse": true
     },
