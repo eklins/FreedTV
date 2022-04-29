@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV13.cn" status="online",CCTV-13新闻 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn" status="online",CCTV-13新闻 (720p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="CNA.sg" status="online",CNA (1080p)
@@ -15,14 +13,14 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" status="online",CBS News (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 ,CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 #EXTINF:-1 tvg-id="Cheddar.us" status="online",Cheddar News (720p)
 https://cheddar.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.us" status="online",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" status="online",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" status="error",DW English (720p)
-https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 #EXTINF:-1 tvg-id="" status="online",Euronews English (720p)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 tvg-id="FoxNewsNow.us" status="online",FOX News Now (720p)
