@@ -85,6 +85,12 @@
       "parse": true
     },
     {
+      "name": "CCTV-13 新闻。测试",
+      "url": "http://m.haoqu99.com/1/cctv-13.html",
+      "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",
+      "parse": true
+    },
+    {
       "name": "CCTV-14 少儿",
       "url": "https://tv.cctv.com/live/cctvchild/m/",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568299186981_881.jpg",
@@ -100,6 +106,24 @@
       "name": "CCTV-17 农业农村",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8",
       "pic": "https://p1.img.cctvpic.com/fmspic/vms/image/1564473159990.jpg",
+      "parse": true
+    },
+    {
+      "name": "风云足球",
+      "url": "http://m.haoqu99.com/1/fyzq.html",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
+      "parse": true
+    },
+    {
+      "name": "兵器科技",
+      "url": "http://m.haoqu99.com/1/cctvguofang.html",
+      "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
+      "parse": true
+    },
+    {
+      "name": "香港无线财经",
+      "url": "http://m.haoqu99.com/4/tvbcj.html",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
     },
     {
