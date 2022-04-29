@@ -127,6 +127,12 @@
       "parse": true
     },
     {
+      "name": "高达（日）",
+      "url": "https://m.douyu.com/426517",
+      "pic": "https://pic3.zhimg.com/80/v2-d6b33c9fc253de7ea605776570256382_1440w.jpg",
+      "parse": true
+    },
+    {
       "name": "热血动漫",
       "url": "https://www.douyu.com/7528160",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
@@ -171,6 +177,12 @@
     {
       "name": "日本动漫",
       "url": "https://m.douyu.com/7256376",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "3D动漫",
+      "url": "https://m.douyu.com/9283726",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
