@@ -103,6 +103,12 @@
       "parse": true
     },
     {
+      "name": "CNA 亚洲新闻台",
+      "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8",
+      "pic": "https://onecms-res.cloudinary.com/image/upload/v1628577495/mediacorp/cna/image/2021-08/cna-logo-data.jpg",
+      "parse": true
+    },
+    {
       "name": "风云足球",
       "url": "http://m.haoqu99.com/1/fyzq.html",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
@@ -169,6 +175,18 @@
       "parse": true
     },
     {
+      "name": "凤凰卫视中文台",
+      "url": "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg",
+      "parse": true
+    },
+    {
+      "name": "凤凰卫视资讯台",
+      "url": "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",
+      "parse": true
+    },
+    {
       "name": "TVB J2",
       "url": "https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
@@ -196,6 +214,42 @@
       "name": "点掌财经",
       "url": "http://cclive.aniu.tv/live/anzb.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLQvmwHHrWYH0CsLglY9aYMbvZwZj2vfbBZVR-tI=s900-c-k-c0x00ffffff-no-rj",
+      "parse": true
+    },
+    {
+      "name": "澳门微视",
+      "url": "http://61.244.22.4/ch3/ch3.live/playelist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "澳门有线 CH1",
+      "url": "http://61.244.22.4/ch1/ch1.live/playelist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "澳门有线 CH2",
+      "url": "http://61.244.22.4/ch2/ch2.live/playelist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "台湾大立电视",
+      "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "好消息",
+      "url": "http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0224/20140224053911581.jpg",
+      "parse": true
+    },
+    {
+      "name": "好消息 TV",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/1.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0224/20140224053911581.jpg",
       "parse": true
     }
   ]
