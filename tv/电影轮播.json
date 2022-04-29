@@ -49,6 +49,12 @@
       "parse": true
     },
     {
+      "name": "欧美科幻、动作",
+      "url": "https://m.douyu.com/4332",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
       "name": "欧美电影01",
       "url": "https://m.douyu.com/323876",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
@@ -74,7 +80,7 @@
     },
     {
       "name": "欧美电影05",
-      "url": "https://m.douyu.com/4332",
+      "url": "https://m.douyu.com/20415",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
       "parse": true
     },
@@ -93,12 +99,6 @@
     {
       "name": "欧美电影08",
       "url": "https://m.douyu.com/747764",
-      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
-      "parse": true
-    },
-    {
-      "name": "欧美电影09",
-      "url": "https://m.douyu.com/20415",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
       "parse": true
     },
@@ -145,6 +145,12 @@
       "parse": true
     },
     {
+      "name": "科幻、动作",
+      "url": "https://m.douyu.com/252802",
+      "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
+      "parse": true
+    },
+    {
       "name": "动作、武侠",
       "url": "https://m.douyu.com/6763930",
       "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
@@ -171,6 +177,12 @@
     {
       "name": "综合电影02",
       "url": "https://m.douyu.com/6537888",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "特辑电影",
+      "url": "https://m.douyu.com/3637778",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
