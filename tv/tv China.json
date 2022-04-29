@@ -1,12 +1,6 @@
 {
   "data": [
     {
-      "name": "中天新闻",
-      "url": "https://www.youtube.com/watch?v=_QbRXRnHMVY",
-      "pic": "http://i1.hdslb.com/bfs/archive/e2e1cba48cd0514ed96402fbc94d88fa5d191365.jpg",
-      "parse": true
-    },
-    {
       "name": "CCTV-1 综合",
       "url": "http://m.haoqu99.com/1/cctv1.html",
       "pic": "http://i1.hdslb.com/bfs/archive/e2e1cba48cd0514ed96402fbc94d88fa5d191365.jpg",
@@ -14,13 +8,13 @@
     },
     {
       "name": "CCTV-2 财经",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8",
+      "url": "http://m.haoqu99.com/1/347.html",
       "pic": "https://www.newton.com.tw/img/c/f27/cGcq5iY0UWYzMzYwAjNiZDNyYmZ2IDM0MDNlFmZxIjZ2QTYwI2YidTYjZDZv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg",
       "parse": true
     },
     {
       "name": "CCTV-3 综艺",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8",
+      "url": "http://m.haoqu99.com/1/cctv3.html",
       "pic": "https://static.wikia.nocookie.net/logopedia/images/b/b2/E8254183-14B8-4B2F-9F3C-7A3F63AD7247.png/revision/latest/scale-to-width-down/250",
       "parse": true
     },
@@ -32,85 +26,79 @@
     },
     {
       "name": "CCTV-5 体育",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8",
+      "url": "http://m.haoqu99.com/1/cctv5.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaxmPgXO8EXUtsRO6YWwsS7ryPqwYCIQAOQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-5+ 体育赛事",
-      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8",
+      "url": "http://m.haoqu99.com/1/cctv5+.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZTwPBuXllOOSgFRdSjRcmWaKd1Nl9ErFRdw&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-6 电影",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8",
+      "url": "http://m.haoqu99.com/1/cctv6.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNzeIiHftvxAMmc7sx0MnbN3x_wbeDWxBEg&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-7 国防军事",
-      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8",
+      "url": "http://m.haoqu99.com/1/cctv7.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN9HCILZWD9W7b0LCOq9RsxVLTXzsJXclzw&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-8 电视剧",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8",
+      "url": "http://m.haoqu99.com/1/353.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJpOLumxorzY2M62X2tKPVHnuYe_leVqYDQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-9 纪录",
-      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8",
+      "url": "http://m.haoqu99.com/1/cctv9.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunGOpNHKH2iuDkqWTmVS5WK9XcJwG1KuIvA&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-10 科教",
-      "url": "http://183.207.249.34/PLTV/4/224/3221227317/index.m3u8",
+      "url": "http://m.haoqu99.com/1/cctv10.html",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLQO2PYa4b8bTIBKeOWkl2yJ1o7NTnJtqze0mO8BDw=s900-c-k-c0x00ffffff-no-rj",
       "parse": true
     },
     {
       "name": "CCTV-11 戏曲",
-      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8",
+      "url": "http://m.haoqu99.com/1/cctv11.html",
       "pic": "https://p3.img.cntv.cn/photoAlbum/page/performance/img/2019/9/11/1568168122399_415.jpg",
       "parse": true
     },
     {
       "name": "CCTV-12 社会与法",
-      "url": "http://183.207.249.8/PLTV/3/224/3221225556/index.m3u8",
+      "url": "http://m.haoqu99.com/1/cctv12.html",
       "pic": "https://p3.img.cntv.cn/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",
       "parse": true
     },
     {
       "name": "CCTV-13 新闻",
-      "url": "http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8",
-      "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",
-      "parse": true
-    },
-    {
-      "name": "CCTV-13 新闻。测试",
       "url": "http://m.haoqu99.com/1/cctv-13.html",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",
       "parse": true
     },
     {
       "name": "CCTV-14 少儿",
-      "url": "https://tv.cctv.com/live/cctvchild/m/",
+      "url": "http://m.haoqu99.com/1/cctv14.html",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568299186981_881.jpg",
       "parse": true
     },
     {
       "name": "CCTV-15 音乐",
-      "url": "https://tv.cctv.com/live/cctv15/m/index.shtml?spm=C28340.PFfibrpzDugF.En59pIUdUZS1.22",
+      "url": "http://m.haoqu99.com/1/cctv15.html",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168304286_282.jpg",
       "parse": true
     },
     {
       "name": "CCTV-17 农业农村",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8",
+      "url": "http://m.haoqu99.com/1/cctv17.html",
       "pic": "https://p1.img.cctvpic.com/fmspic/vms/image/1564473159990.jpg",
       "parse": true
     },
@@ -175,15 +163,27 @@
       "parse": true
     },
     {
+      "name": "CCTV 4K高清",
+      "url": "http://m.haoqu99.com/1/cctv4k.html",
+      "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
+      "parse": true
+    },
+    {
+      "name": "香港无线新闻台",
+      "url": "http://m.haoqu99.com/4/tvbnews.html",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
+      "parse": true
+    },
+    {
       "name": "香港无线财经",
-      "url": "http://www.haoqu99.com/4/tvbcj.html",
+      "url": "http://m.haoqu99.com/4/tvbcj.html",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
     },
     {
-      "name": "香港无线财经（官方）",
-      "url": "https://news.tvb.com/live/j5_ch85",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
+      "name": "耀才财经",
+      "url": "http://m.haoqu99.com/4/yccjt.html",
+      "pic": "http://tv.haoqu99.com/d/file/2016/0922/2e357e13827907f8b90e628ebdd1d1e3.jpg",
       "parse": true
     },
     {
