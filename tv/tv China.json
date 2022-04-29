@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "中天新闻",
+      "url": "https://www.youtube.com/watch?v=_QbRXRnHMVY",
+      "pic": "http://i1.hdslb.com/bfs/archive/e2e1cba48cd0514ed96402fbc94d88fa5d191365.jpg",
+      "parse": true
+    },
+    {
       "name": "CCTV-1 综合",
       "url": "http://m.haoqu99.com/1/cctv1.html",
       "pic": "http://i1.hdslb.com/bfs/archive/e2e1cba48cd0514ed96402fbc94d88fa5d191365.jpg",
