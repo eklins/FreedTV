@@ -106,7 +106,7 @@
       "name": "CNA 亚洲新闻台",
       "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8",
       "pic": "https://onecms-res.cloudinary.com/image/upload/v1628577495/mediacorp/cna/image/2021-08/cna-logo-data.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "风云足球",
@@ -118,7 +118,7 @@
       "name": "精品体育",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "兵器科技",
@@ -130,7 +130,7 @@
       "name": "军事评论",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "第一剧场",
@@ -208,7 +208,7 @@
       "name": "RTHK 32",
       "url": "http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCAzyNmOxqNxh5Bl-_nA8fHsbOm7OV_iHWA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港无线新闻台",
