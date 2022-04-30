@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "CCTV-1 综合",
-      "url": "http://m.haoqu99.com/1/cctv1.html",
+      "url": "http://m.tvniu.com/m/cctv1.html",
       "pic": "http://i1.hdslb.com/bfs/archive/e2e1cba48cd0514ed96402fbc94d88fa5d191365.jpg",
       "parse": true
     },
@@ -80,7 +80,7 @@
     },
     {
       "name": "CCTV-13 新闻",
-      "url": "http://m.haoqu99.com/1/cctv-13.html",
+      "url": "http://m.tvniu.com/m/cctv13.html",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",
       "parse": true
     },
