@@ -115,12 +115,6 @@
       "parse": true
     },
     {
-      "name": "金庸经典武侠剧",
-      "url": "https://m.douyu.com/7754031",
-      "pic": "https://www.sinaimg.cn/ent/v/h/2006-05-11/U1735P28T3D1078991F326DT20060511201112.jpg",
-      "parse": true
-    },
-    {
       "name": "神雕侠侣2014",
       "url": "https://m.huya.com/11352964",
       "pic": "https://img1.jqingdashi.xyz/upload/vod/20210713-1/32498a016d4418bbde6e35474c2d16c2.jpg",
@@ -130,6 +124,36 @@
       "name": "七十二家房客",
       "url": "https://m.douyu.com/7489563",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/3/36/House_of_72_Tenants_poster.jpg",
+      "parse": true
+    },
+    {
+      "name": "第一剧场",
+      "url": "http://m.haoqu99.com/1/cctvdyjc.html",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
+      "parse": true
+    },
+    {
+      "name": "怀旧剧场",
+      "url": "http://m.haoqu99.com/1/cctvhjjc.html",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
+      "parse": true
+    },
+    {
+      "name": "风云剧场",
+      "url": "http://m.haoqu99.com/1/fyjc.html",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
+      "parse": true
+    },
+    {
+      "name": "金庸经典武侠剧",
+      "url": "https://m.douyu.com/7754031",
+      "pic": "https://www.sinaimg.cn/ent/v/h/2006-05-11/U1735P28T3D1078991F326DT20060511201112.jpg",
+      "parse": true
+    },
+    {
+      "name": "西游记TVB（粤）02",
+      "url": "https://m.huya.com/23734246",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6c/Journey_to_the_West_II.jpg/250px-Journey_to_the_West_II.jpg",
       "parse": true
     },
     {
@@ -148,12 +172,6 @@
       "name": "TVB粤语03",
       "url": "http://zzy789.xyz/bili.php?id=21515763",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
-      "parse": true
-    },
-    {
-      "name": "西游记TVB（粤）02",
-      "url": "https://m.huya.com/23734246",
-      "pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/6/6c/Journey_to_the_West_II.jpg/250px-Journey_to_the_West_II.jpg",
       "parse": true
     },
     {
