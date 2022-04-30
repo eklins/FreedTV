@@ -1,47 +1,47 @@
 #EXTM3U
 #EXTINF:-1 logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",CCTV-13新闻
 http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
-#EXTINF:-1 ,RTHK 32
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCAzyNmOxqNxh5Bl-_nA8fHsbOm7OV_iHWA&usqp=CAU",RTHK 32
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
-#EXTINF:-1 ,壹新闻
+#EXTINF:-1 logo="https://www.easyatm.com.tw/img/f/64b/nBnauM3XxgTMzUjN5YzM3UzM1UTM1QDN5MjM5ADMwAjMwUzL2MzL2czLt92YucmbvRWdo5Cd0FmLxE2LvoDc0RHa.jpg",壹新闻
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 ,CNA 亚洲新闻台
+#EXTINF:-1 logo="https://onecms-res.cloudinary.com/image/upload/v1628577495/mediacorp/cna/image/2021-08/cna-logo-data.jpg",CNA 亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="ABCNews.us" status="online",ABC News US (720p)
+#EXTINF:-1 tvg-id="ABCNews.us" status="online" logo="https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg",ABC News US (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="ABCNews.au" status="online",ABC News Australia (720p)
+#EXTINF:-1 tvg-id="ABCNews.au" status="online" logo="https://mumbrella.com.au/wp-content/uploads/2016/07/ABC-news.jpg",ABC News Australia (720p)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNewsEurope.uk" status="online",BBC World News (480p)
+#EXTINF:-1 tvg-id="BBCWorldNewsEurope.uk" status="online" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBq5HMC3YKexSqB4RHBLdd-_kOsBJ_ojI5w&usqp=CAU",BBC World News (480p)
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us" status="online",Bloomberg TV (1080p) 
+#EXTINF:-1 tvg-id="BloombergTV.us" status="online" logo="https://yt3.ggpht.com/ytc/AKedOLQxpBQ01Vx2z7gTHnswoy2N-iZ3ZIAI1QH0k14t=s900-c-k-c0x00ffffff-no-rj",Bloomberg TV (1080p) 
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
-#EXTINF:-1 tvg-id="CBSNews.us" status="online",CBS News (720p)
+#EXTINF:-1 tvg-id="CBSNews.us" status="online" logo="https://lh3.googleusercontent.com/HLGqlf3RsTYC_UQAUxFVeUkwcGnIVvq_su_-XD_hyPM-fb3bIoLjehvDnZpGl-WEG8lN",CBS News (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 ,CBSN
+#EXTINF:-1 logo="https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/01/02bd502e-6910-416e-9422-ab17d03e33fb/thumbnail/640x360/3731f847fc947390a0f72aaed0b73585/cbsn-h-blue.jpg",CBSN
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-#EXTINF:-1 tvg-id="Cheddar.us" status="online",Cheddar News (720p)
+#EXTINF:-1 tvg-id="Cheddar.us" status="online" logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/128.png",Cheddar News (720p)
 https://cheddar.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.us" status="online",CNN USA (720p)
+#EXTINF:-1 tvg-id="CNN.us" status="online" logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" status="online",DW English (1080p)
+#EXTINF:-1 tvg-id="DWEnglish.de" status="online" logo="https://s3.spbtv.com/spbtv-world-production/50577931455a0d496a75_512x512c.png",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="" status="online",Euronews English (720p)
+#EXTINF:-1 tvg-id="" status="online" logo="https://images-na.ssl-images-amazon.com/images/I/61-5K6QDrnL.png",Euronews English (720p)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-id="FoxNewsNow.us" status="online",FOX News Now (720p)
+#EXTINF:-1 tvg-id="FoxNewsNow.us" status="online" logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2021/01/FOX-5-NEWS-NOW-Logo-with-BG.jpg?w=1280",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxNewsRadio.us" status="online",Fox News Radio (720p)
+#EXTINF:-1 tvg-id="FoxNewsRadio.us" status="online" logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fox_News_Radio_logo.png",Fox News Radio (720p)
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us" status="online",Fox Weather (720p)
+#EXTINF:-1 tvg-id="FoxWeather.us" status="online" logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fox_Weather_logo.svg",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" status="online",France 24 English (1080p)
+#EXTINF:-1 tvg-id="France24English.fr" status="online" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyGuxCofh3wqGebKPnBav9EXEWkESCE3XKA&usqp=CAU",France 24 English (1080p)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNow.us" status="online",NBC News Now (1080p)
+#EXTINF:-1 tvg-id="NBCNewsNow.us" status="online" logo="https://static.wikia.nocookie.net/logopedia/images/4/46/NBC_News_Now.svg/revision/latest?cb=20210629125642",NBC News Now (1080p)
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us" status="online",Newsmax (720p)
+#EXTINF:-1 tvg-id="NewsmaxTV.us" status="online" logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s900-c-k-c0x00ffffff-no-rj",Newsmax (720p)
 https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra3.au" status="online",Sky News (1080p)
+#EXTINF:-1 tvg-id="SkyNewsExtra3.au" status="online" logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s900-c-k-c0x00ffffff-no-rj",Sky News (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="YahooFinance.us" status="online",Yahoo Finance (1080p)
+#EXTINF:-1 tvg-id="YahooFinance.us" status="online" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",Yahoo Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="YahooNews.us" status="online",Yahoo News (720p)
+#EXTINF:-1 tvg-id="YahooNews.us" status="online" logo="https://commed.umassmed.edu/sites/default/files/images/media-logo/Yahoo%20NEWS.png",Yahoo News (720p)
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
