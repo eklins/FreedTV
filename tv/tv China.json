@@ -85,18 +85,6 @@
       "parse": true
     },
     {
-      "name": "CCTV-13 新闻（官）",
-      "url": "https://tv.cctv.com/live/cctv13/m/",
-      "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",
-      "parse": true
-    },
-    {
-      "name": "CCTV-13 新闻（官无解析）",
-      "url": "https://tv.cctv.com/live/cctv13/m/",
-      "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",
-      "parse": false
-    },
-    {
       "name": "CCTV-14 少儿",
       "url": "http://m.haoqu99.com/1/cctv14.html",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568299186981_881.jpg",
@@ -213,12 +201,6 @@
     {
       "name": "香港无线财经",
       "url": "http://m.haoqu99.com/4/tvbcj.html",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
-    },
-    {
-      "name": "香港无线财经（官）",
-      "url": "https://news.tvb.com/live/j5_ch85?is_hd",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
     },
