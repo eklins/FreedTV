@@ -31,7 +31,13 @@
       "parse": true
     },
     {
-      "name": "Running Man",
+      "name": "极限挑战2015",
+      "url": "https://m.huya.com/11352914",
+      "pic": "http://5b0988e595225.cdn.sohucs.com/images/20200511/2d514c76a8ce4f9c878066a0e1ffdbef.jpeg",
+      "parse": true
+    },
+    {
+      "name": "Running Man 2010",
       "url": "https://m.douyu.com/7298973",
       "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
       "parse": true
@@ -46,6 +52,12 @@
       "name": "CCTV-10 科教",
       "url": "http://183.207.249.34/PLTV/4/224/3221227317/index.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLQO2PYa4b8bTIBKeOWkl2yJ1o7NTnJtqze0mO8BDw=s900-c-k-c0x00ffffff-no-rj",
+      "parse": true
+    },
+    {
+      "name": "Outdoor Adventure",
+      "url": "https://m.huya.com/21059555",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
