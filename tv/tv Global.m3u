@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Argentina❤Canal 26
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Argentina.png",Argentina❤Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1, Australia❤ABC News
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Australia.png",Australia❤ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1, AUS★Fuel TV
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
@@ -33,7 +33,7 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
 #EXTINF:-1, AUS★天和电视
 http://www.rtvcdn.com.au:8082/TV0002.m3u8
-#EXTINF:-1, Austria❤ORF3
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Austria.png",Austria❤ORF3
 https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
 #EXTINF:-1, AUT★OE24
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
@@ -43,7 +43,7 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 http://iptv.rtv-ooe.at/stream.m3u8
 #EXTINF:-1, AUT★R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1, Belarus❤1Mus
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belarus.png",Belarus❤1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1, BLR★Belros Ⓢ
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
@@ -57,11 +57,11 @@ https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 http://lova.me/hls/hithd.m3u8
 #EXTINF:-1, BLR★Vitebsk Telekanal
 https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Belgium❤BX1
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belgium.png",Belgium❤BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1, BEL★RTL-Be
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:-1, Brazil❤AgroBrasil TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Brazil.png",Brazil❤AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1, BRA★All Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
@@ -81,7 +81,7 @@ http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1, BRA★TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1, Canada❤AZ Star TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png",Canada❤AZ Star TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1, CAN★CBC News
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
@@ -119,7 +119,7 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
 #EXTINF:-1, CAN★Weather Spy
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, Czech❤CNN Prima News Ⓢ
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Czech-Republic.png",Czech❤CNN Prima News Ⓢ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1, CZE★JOJ Family Ⓢ
 https://live.cdn.joj.sk/live/hls/family-540.m3u8
@@ -131,7 +131,7 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1, CZE★Šlágr Premium Ⓢ
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
-#EXTINF:-1, Denmark❤Africa News(English)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Denmark.png",Denmark❤Africa News(English)
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, DNK★Euronews(English)
 https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
@@ -143,11 +143,11 @@ http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
 https://live.tv2bornholm.dk/stream/live/playlist.m3u8
 #EXTINF:-1, DNK★TV2 Fyn
 https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
-#EXTINF:-1, Ecuador❤7 Noticias
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ecuador.png",Ecuador❤7 Noticias
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1, ECU★101 Tele Antequera (1080p)
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
-#EXTINF:-1, France❤Euronews(English)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤Euronews(English)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1, FRA★BFM Grand Lille
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
@@ -197,7 +197,7 @@ http://51.210.199.21/hls/stream.m3u8
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1, FRA★Wilside TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1, Germany❤123 TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Germany.png",Germany❤123 TV
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1, DEU★A•TV
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
