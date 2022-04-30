@@ -1,18 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Argentina❤Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1, Australia❤ABC
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8221df52788a423c91b717158aadaf25/index.m3u8?hdnea=st=1651147145~exp=1651148045~acl=/*~hmac=d18b7202803b188f1893b5a7a673296b3d4d787da15d85fcc3c472bdc80255fe
-#EXTINF:-1, AUS★ABC Me
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/index.m3u8?hdnea=st=1651147290~exp=1651148190~acl=/*~hmac=3994778a672665ddf5cdc8883d9204a520c4da98b5fbd3c00afd668e991f9f91
-#EXTINF:-1, AUS★ABC News
+#EXTINF:-1, Australia❤ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1, AUS★ABC TV
-https://c.mjh.nz/3201026102E1
-#EXTINF:-1, AUS★ABC TV Plus
-https://c.mjh.nz/abc2
-#EXTINF:-1, AUS★Channel 44
-https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:-1, AUS★Fuel TV
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, AUS★Horse and Country
