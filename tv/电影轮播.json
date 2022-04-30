@@ -7,42 +7,6 @@
       "parse": true
     },
     {
-      "name": "粤语电影01",
-      "url": "https://m.douyu.com/6566671",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIutC24EhzcNPrKiJCxAkQOEJpZC9KjU-og&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语电影02",
-      "url": "https://m.douyu.com/8603174",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIutC24EhzcNPrKiJCxAkQOEJpZC9KjU-og&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语电影03",
-      "url": "https://m.douyu.com/5033502",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIutC24EhzcNPrKiJCxAkQOEJpZC9KjU-og&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语电影04",
-      "url": "http://zzy789.xyz/bili.php?id=24590020",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIutC24EhzcNPrKiJCxAkQOEJpZC9KjU-og&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语电影（非24h）01",
-      "url": "https://m.douyu.com/1226741",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOduGJ1rHyqxL8zRUXjBhXJXLVapn7E1QGg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语电影（非24h）02",
-      "url": "https://m.douyu.com/2466104",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOduGJ1rHyqxL8zRUXjBhXJXLVapn7E1QGg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "欧美科幻、动作",
       "url": "https://m.douyu.com/4332",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
@@ -81,19 +45,49 @@
     {
       "name": "欧美日韩01",
       "url": "https://m.douyu.com/36337",
-      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOduGJ1rHyqxL8zRUXjBhXJXLVapn7E1QGg&usqp=CAU",
       "parse": true
     },
     {
       "name": "欧美日韩02",
       "url": "https://m.douyu.com/8770422",
-      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOduGJ1rHyqxL8zRUXjBhXJXLVapn7E1QGg&usqp=CAU",
       "parse": true
     },
     {
       "name": "欧美日韩03",
       "url": "https://m.douyu.com/5403257",
-      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOduGJ1rHyqxL8zRUXjBhXJXLVapn7E1QGg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "粤语电影01",
+      "url": "https://m.douyu.com/6566671",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIutC24EhzcNPrKiJCxAkQOEJpZC9KjU-og&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "粤语电影02",
+      "url": "https://m.douyu.com/5033502",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIutC24EhzcNPrKiJCxAkQOEJpZC9KjU-og&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "粤语电影03",
+      "url": "https://m.douyu.com/1226741",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOduGJ1rHyqxL8zRUXjBhXJXLVapn7E1QGg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "粤语电影04",
+      "url": "https://m.douyu.com/2466104",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOduGJ1rHyqxL8zRUXjBhXJXLVapn7E1QGg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "粤语电影05",
+      "url": "http://zzy789.xyz/bili.php?id=24590020",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIutC24EhzcNPrKiJCxAkQOEJpZC9KjU-og&usqp=CAU",
       "parse": true
     },
     {
