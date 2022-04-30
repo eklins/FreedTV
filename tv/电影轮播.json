@@ -62,7 +62,7 @@
     },
     {
       "name": "欧美电影02",
-      "url": "https://m.douyu.com/5403257",
+      "url": "https://m.douyu.com/20415",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
       "parse": true
     },
@@ -74,31 +74,31 @@
     },
     {
       "name": "欧美电影04",
-      "url": "https://m.douyu.com/508118",
-      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
-      "parse": true
-    },
-    {
-      "name": "欧美电影05",
-      "url": "https://m.douyu.com/20415",
-      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
-      "parse": true
-    },
-    {
-      "name": "欧美电影06",
-      "url": "https://m.douyu.com/8770422",
-      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
-      "parse": true
-    },
-    {
-      "name": "欧美电影07",
       "url": "https://m.douyu.com/2793084",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
       "parse": true
     },
     {
-      "name": "欧美电影08",
+      "name": "欧美电影05",
       "url": "https://m.douyu.com/747764",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "欧美日韩01",
+      "url": "https://m.douyu.com/36337",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "欧美日韩02",
+      "url": "https://m.douyu.com/8770422",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "欧美日韩03",
+      "url": "https://m.douyu.com/5403257",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
       "parse": true
     },
@@ -160,12 +160,6 @@
       "name": "恐怖、灵异",
       "url": "https://m.douyu.com/3637726",
       "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
-      "parse": true
-    },
-    {
-      "name": "欧美日韩",
-      "url": "https://m.douyu.com/36337",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
