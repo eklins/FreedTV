@@ -49,6 +49,42 @@
       "parse": true
     },
     {
+      "name": "兵器科技",
+      "url": "http://m.haoqu99.com/1/cctvguofang.html",
+      "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
+      "parse": true
+    },
+    {
+      "name": "文化精品",
+      "url": "http://m.haoqu99.com/1/cctvysjp.html",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
+      "parse": true
+    },
+    {
+      "name": "发现之旅",
+      "url": "http://m.haoqu99.com/1/fxzl.html",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
+      "parse": true
+    },
+    {
+      "name": "世界地理",
+      "url": "http://m.haoqu99.com/1/sjdl.html",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055201348.jpg",
+      "parse": true
+    },
+    {
+      "name": "老故事",
+      "url": "http://m.haoqu99.com/1/laogushi.html",
+      "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
+      "parse": true
+    },
+    {
+      "name": "风云足球",
+      "url": "http://m.haoqu99.com/1/fyzq.html",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
+      "parse": true
+    },
+    {
       "name": "Outdoor Adventure",
       "url": "https://m.huya.com/21059555",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
@@ -64,6 +100,12 @@
       "name": "BTV Aurora Live",
       "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "风云音乐",
+      "url": "http://m.haoqu99.com/1/fyyy.html",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121053553871.jpg",
       "parse": true
     },
     {
