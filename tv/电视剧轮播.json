@@ -37,8 +37,14 @@
       "parse": true
     },
     {
-      "name": "雍正王朝1999",
+      "name": "康熙王朝2001",
       "url": "https://m.douyu.com/9650836",
+      "pic": "https://p5.toutiaoimg.com/large/pgc-image/5241d6e2a4794739959738ae89ec6ea2",
+      "parse": true
+    },
+    {
+      "name": "雍正王朝1999",
+      "url": "https://m.huya.com/11342439",
       "pic": "https://blog.udn.com/community/img/PSN_PHOTO/rosylovesyou/f_1655603_1.jpg",
       "parse": true
     },
@@ -80,7 +86,7 @@
     },
     {
       "name": "少年包青天",
-      "url": "https://m.douyu.com/7280583",
+      "url": "https://m.douyu.com/7476264",
       "pic": "https://photocdn.sohu.com/kis/fengmian/38/38098/38098_ver_big.jpg",
       "parse": true
     },
