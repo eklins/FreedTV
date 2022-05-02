@@ -15,7 +15,7 @@
     {
       "name": "CCTV-3 综艺",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8",
-      "pic": "https://static.wikia.nocookie.net/logopedia/images/b/b2/E8254183-14B8-4B2F-9F3C-7A3F63AD7247.png/revision/latest/scale-to-width-down/250",
+      "pic": "http://tv.haoqu99.com/d/file/2015/0417/20150417122415328.jpg",
       "parse": true
     },
     {
@@ -27,13 +27,13 @@
     {
       "name": "CCTV-5 体育",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225756/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaxmPgXO8EXUtsRO6YWwsS7ryPqwYCIQAOQ&usqp=CAU",
+      "pic": "http://tv.haoqu99.com/d/file/2015/0417/20150417122518526.jpg",
       "parse": true
     },
     {
       "name": "CCTV-5+ 体育赛事",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZTwPBuXllOOSgFRdSjRcmWaKd1Nl9ErFRdw&usqp=CAU",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0722/20140722110316660.jpg",
       "parse": true
     },
     {
