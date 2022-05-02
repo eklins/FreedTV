@@ -256,7 +256,7 @@
       "name": "香港无线财经",
       "url": "http://m.haoqu99.com/4/tvbcj.html",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "耀才财经",
