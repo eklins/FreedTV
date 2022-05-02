@@ -133,6 +133,12 @@
       "parse": true
     },
     {
+      "name": "黑莓电影",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "风云足球",
       "url": "http://m.haoqu99.com/1/fyzq.html",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
