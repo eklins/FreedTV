@@ -38,13 +38,13 @@
     },
     {
       "name": "CCTV-9 纪录",
-      "url": "http://m.haoqu99.com/1/cctv9.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunGOpNHKH2iuDkqWTmVS5WK9XcJwG1KuIvA&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-10 科教",
-      "url": "http://183.207.249.34/PLTV/4/224/3221227317/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLQO2PYa4b8bTIBKeOWkl2yJ1o7NTnJtqze0mO8BDw=s900-c-k-c0x00ffffff-no-rj",
       "parse": true
     },
