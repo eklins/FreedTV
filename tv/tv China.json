@@ -2,104 +2,116 @@
   "data": [
     {
       "name": "CCTV-1 综合",
-      "url": "http://m.tvniu.com/m/cctv1.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225630/index.m3u8",
       "pic": "http://i1.hdslb.com/bfs/archive/e2e1cba48cd0514ed96402fbc94d88fa5d191365.jpg",
       "parse": true
     },
     {
       "name": "CCTV-2 财经",
-      "url": "http://m.haoqu99.com/1/347.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8",
       "pic": "https://www.newton.com.tw/img/c/f27/cGcq5iY0UWYzMzYwAjNiZDNyYmZ2IDM0MDNlFmZxIjZ2QTYwI2YidTYjZDZv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg",
       "parse": true
     },
     {
       "name": "CCTV-3 综艺",
-      "url": "http://m.haoqu99.com/1/cctv3.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8",
       "pic": "https://static.wikia.nocookie.net/logopedia/images/b/b2/E8254183-14B8-4B2F-9F3C-7A3F63AD7247.png/revision/latest/scale-to-width-down/250",
       "parse": true
     },
     {
       "name": "CCTV-4 中文国际",
-      "url": "http://m.haoqu99.com/1/cctv4.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLR8rN8yuqzpI_cRFZ8xkqGe8XrrMQFBI8h4cENaRQ=s900-c-k-c0x00ffffff-no-rj",
       "parse": true
     },
     {
       "name": "CCTV-5 体育",
-      "url": "http://m.haoqu99.com/1/cctv5.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225756/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaxmPgXO8EXUtsRO6YWwsS7ryPqwYCIQAOQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-5+ 体育赛事",
-      "url": "http://m.haoqu99.com/1/cctv5+.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZTwPBuXllOOSgFRdSjRcmWaKd1Nl9ErFRdw&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-6 电影",
-      "url": "http://m.haoqu99.com/1/cctv6.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNzeIiHftvxAMmc7sx0MnbN3x_wbeDWxBEg&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-7 国防军事",
-      "url": "http://m.haoqu99.com/1/cctv7.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN9HCILZWD9W7b0LCOq9RsxVLTXzsJXclzw&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-8 电视剧",
-      "url": "http://m.haoqu99.com/1/353.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJpOLumxorzY2M62X2tKPVHnuYe_leVqYDQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-9 纪录",
-      "url": "http://m.haoqu99.com/1/cctv9.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunGOpNHKH2iuDkqWTmVS5WK9XcJwG1KuIvA&usqp=CAU",
       "parse": true
     },
     {
       "name": "CCTV-10 科教",
-      "url": "http://m.haoqu99.com/1/cctv10.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLQO2PYa4b8bTIBKeOWkl2yJ1o7NTnJtqze0mO8BDw=s900-c-k-c0x00ffffff-no-rj",
       "parse": true
     },
     {
       "name": "CCTV-11 戏曲",
-      "url": "http://m.haoqu99.com/1/cctv11.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8",
       "pic": "https://p3.img.cntv.cn/photoAlbum/page/performance/img/2019/9/11/1568168122399_415.jpg",
       "parse": true
     },
     {
       "name": "CCTV-12 社会与法",
-      "url": "http://m.haoqu99.com/1/cctv12.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8",
       "pic": "https://p3.img.cntv.cn/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",
       "parse": true
     },
     {
       "name": "CCTV-13 新闻",
-      "url": "http://m.tvniu.com/m/cctv13.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",
       "parse": true
     },
     {
       "name": "CCTV-14 少儿",
-      "url": "http://m.haoqu99.com/1/cctv14.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568299186981_881.jpg",
       "parse": true
     },
     {
       "name": "CCTV-15 音乐",
-      "url": "http://m.haoqu99.com/1/cctv15.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168304286_282.jpg",
       "parse": true
     },
     {
       "name": "CCTV-17 农业农村",
-      "url": "http://m.haoqu99.com/1/cctv17.html",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8",
       "pic": "https://p1.img.cctvpic.com/fmspic/vms/image/1564473159990.jpg",
+      "parse": true
+    },
+    {
+      "name": "CGTN 新闻",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2019/0801/2bc42b992ea918b8649261476ad427b9.png",
+      "parse": true
+    },
+    {
+      "name": "CGTN 纪录",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
       "parse": true
     },
     {
@@ -107,6 +119,26 @@
       "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8",
       "pic": "https://onecms-res.cloudinary.com/image/upload/v1628577495/mediacorp/cna/image/2021-08/cna-logo-data.jpg",
       "parse": false
+    },
+    {
+      "name": "CETV1",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls",
+      "pic": "http://tv.haoqu99.com/d/file/2016/1116/b16431a9f7728dbe6aa30c9b86cc5523.jpg",
+      "parse": true
+    },
+    {
+      "name": "CETV4",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2016/1116/0dc1732a6e6d5bf34b4beef698b97bba.jpg",
+      "parse": true
+    },
+    {
+      "name": "CETV",
+      "url": "
+",
+      "pic": "
+",
+      "parse": true
     },
     {
       "name": "风云足球",
@@ -196,6 +228,12 @@
       "name": "凤凰卫视资讯台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",
+      "parse": false
+    },
+    {
+      "name": "Now直播台",
+      "url": "https://api.leonardpark.dev/live/now/331",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
     {
