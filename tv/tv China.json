@@ -133,14 +133,6 @@
       "parse": true
     },
     {
-      "name": "CETV",
-      "url": "
-",
-      "pic": "
-",
-      "parse": true
-    },
-    {
       "name": "风云足球",
       "url": "http://m.haoqu99.com/1/fyzq.html",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
@@ -258,7 +250,7 @@
       "name": "香港无线财经",
       "url": "http://m.haoqu99.com/4/tvbcj.html",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "耀才财经",
