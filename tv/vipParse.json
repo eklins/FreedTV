@@ -2,6 +2,24 @@
   "data": [
     {
       "id": 1,
+      "name": "红牛P2P",
+      "ad": "no",
+      "url": "https://www.tutukiki.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "闪电",
+      "ad": "no",
+      "url": "https://www.shankubf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "神速",
+      "ad": "no",
+      "url": "https://player.sszyplayer.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "无尽",
       "ad": "no",
       "url": "https://jx.xhswglobal.com/dplayer/?url="
@@ -14,12 +32,6 @@
     },
     {
       "id": 1,
-      "name": "闪电",
-      "ad": "no",
-      "url": "https://www.shankubf.com/m3u8/?url="
-    },
-    {
-      "id": 1,
       "name": "速更源",
       "ad": "no",
       "url": "https://wuxiezx.com/player/?url="
@@ -29,12 +41,6 @@
       "name": "北斗H5",
       "ad": "no",
       "url": "https://player.bdxzym3u8.com/dplayer/?url="
-    },
-    {
-      "id": 1,
-      "name": "红牛P2P",
-      "ad": "no",
-      "url": "https://www.tutukiki.com/m3u8/?url="
     },
     {
       "id": 1,
@@ -80,21 +86,9 @@
     },
     {
       "id": 1,
-      "name": "红牛",
-      "ad": "no",
-      "url": "https://www.hongniujiexi.com/m3u8/?url="
-    },
-    {
-      "id": 1,
       "name": "新浪XL",
       "ad": "no",
       "url": "https://www.xinlangjiexi.com/m3u8?url="
-    },
-    {
-      "id": 1,
-      "name": "神速",
-      "ad": "no",
-      "url": "https://player.sszyplayer.com/dplayer/?url="
     },
     {
       "id": 1,
