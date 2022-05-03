@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "id": 1,
+      "name": "无尽",
+      "ad": "no",
+      "url": "https://jx.xhswglobal.com/dplayer/?url="
+    },
+    {
       "id": 19,
       "name": "自定义1",
       "ad": "no",
@@ -11,12 +17,6 @@
       "name": "自定义2",
       "ad": "no",
       "url": "https://sb.5gseo.net/?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽",
-      "ad": "no",
-      "url": "https://jx.xhswglobal.com/dplayer/?url="
     },
     {
       "id": 1,
