@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",香港无线财经
+http://m.haoqu99.com/4/tvbcj.html
 #EXTINF:-1 ,Now直播台
 https://api.leonardpark.dev/live/now/331
 #EXTINF:-1 ,TVB J2
