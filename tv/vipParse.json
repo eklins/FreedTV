@@ -2,15 +2,15 @@
   "data": [
     {
       "id": 1,
-      "name": "红牛P2P",
-      "ad": "no",
-      "url": "https://www.tutukiki.com/m3u8/?url="
-    },
-    {
-      "id": 1,
       "name": "闪电",
       "ad": "no",
       "url": "https://www.shankubf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "红牛P2P",
+      "ad": "no",
+      "url": "https://www.tutukiki.com/m3u8/?url="
     },
     {
       "id": 1,
