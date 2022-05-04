@@ -97,6 +97,12 @@
       "parse": true
     },
     {
+      "name": "CCTV-16 4K高清",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
+      "parse": true
+    },
+    {
       "name": "CCTV-17 农业农村",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8",
       "pic": "https://p1.img.cctvpic.com/fmspic/vms/image/1564473159990.jpg",
@@ -184,6 +190,12 @@
       "name": "文化精品",
       "url": "http://m.haoqu99.com/1/cctvysjp.html",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
+      "parse": true
+    },
+    {
+      "name": "发现之旅",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
       "parse": true
     },
     {
