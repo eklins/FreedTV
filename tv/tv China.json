@@ -211,12 +211,6 @@
       "parse": true
     },
     {
-      "name": "CCTV 4K高清",
-      "url": "http://m.haoqu99.com/1/cctv4k.html",
-      "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
-      "parse": true
-    },
-    {
       "name": "凤凰卫视中文台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg",
