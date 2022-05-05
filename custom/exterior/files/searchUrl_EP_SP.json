@@ -2,19 +2,19 @@
   "data": [
     {
       "id": 1,
-      "name": "美剧虫",
-      "url": "https://meijuchong.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-      "detailUrl": "https://meijuchong.com/api.php/v1.vod/detail?vod_id=detailId",
-      "cate": "欧美剧,1&&海外剧,2&&日韩剧,3&&电影,4&&动漫,5",
+      "name": "美剧范",
+      "url": "http://ttzmz.net/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl": "http://ttzmz.net/api.php/v1.vod/detail?vod_id=detailId",
+      "cate": "欧美剧,1&&英剧,2&&动漫,5",
       "type": "json",
       "click": true
     },
     {
       "id": 1,
-      "name": "美剧范",
-      "url": "http://ttzmz.net/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-      "detailUrl": "http://ttzmz.net/api.php/v1.vod/detail?vod_id=detailId",
-      "cate": "欧美剧,1&&英剧,2&&动漫,5",
+      "name": "美剧虫",
+      "url": "https://meijuchong.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl": "https://meijuchong.com/api.php/v1.vod/detail?vod_id=detailId",
+      "cate": "欧美剧,1&&海外剧,2&&日韩剧,3&&电影,4&&动漫,5",
       "type": "json",
       "click": true
     },
@@ -122,7 +122,7 @@
       "name": "每天看看",
       "url": "http://47.113.126.237:1234/api.php/provide/vod/at/xml/",
       "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&犯罪片,20&&奇幻片,21&&悬疑片,22&&惊悚片,23&&其他剧,25&&泰国剧,26&&纪录片,27&&武侠片,29&&国产动漫,30&&日韩动漫,31&&欧美动漫,32&&大陆综艺,35&&港台综艺,36&&日韩综艺,37&&欧美综艺,38&&国创,40&&番剧,41&&B站资源,42&&少儿,43",
-      "click": true
+      "click": true,
       "type": "xml",
       "detailUrl": ""
     },
@@ -131,7 +131,7 @@
       "name": "筋斗云",
       "url": "https://tv.jindcloud.com/api.php/provide/vod/at/xml/",
       "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4",
-      "click": true
+      "click": true,
       "type": "xml",
       "detailUrl": ""
     },
