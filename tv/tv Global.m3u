@@ -317,8 +317,6 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 https://juyunlive.juyun.tv/live/24950198.m3u8
 #EXTINF:-1, HKG★Now直播台
 https://api.leonardpark.dev/live/now/331
-#EXTINF:-1, HKG★RTHK 31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1, HKG★RTHK 32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 #EXTINF:-1, HKG★TVB J1
