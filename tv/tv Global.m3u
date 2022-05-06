@@ -293,3 +293,57 @@ https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1, GRC★Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Guatemala.png",Guatemala❤Canal 3
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
+#EXTINF:-1, GTM★Canal 7 Televisiete（Sport）
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
+#EXTINF:-1, GTM★Canal Antigua
+https://streaming.canal32hn.com/CanalAntigua/myStream/playlist.m3u8
+#EXTINF:-1, GTM★TN 23
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbkU0-6_hoIOmcd4PNdC5DaLqA8OLzu2Il6QfsKjpOujqC8OLb&s",Hong Kong❤凤凰卫视中文台
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1, HKG★凤凰卫视资讯台
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1, HKG★香港无线新闻台 TVB News
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:-1, HKG★耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1, HKG★点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1, HKG★香港开电视 HKSTV-HKS
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1, HKG★iMode TV
+https://juyunlive.juyun.tv/live/24950198.m3u8
+#EXTINF:-1, HKG★Now直播台
+https://api.leonardpark.dev/live/now/331
+#EXTINF:-1, HKG★RTHK 31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1, HKG★RTHK 32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1, HKG★TVB J1
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Honduras.png",Honduras❤Alfa & Omega Visión
+https://srv.panelcast.net/aovision/aovision/playlist.m3u8
+#EXTINF:-1, HND★CCI Channel (480p) 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x836wjl
+#EXTINF:-1, HND★Ebenezer TV (360p)
+https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/chunklist_w156791259_b850000_slen.m3u8
+#EXTINF:-1, HND★HCH (Hable Como Habla)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x81za5c
+#EXTINF:-1, HND★Hondured 13 (480p) 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x83axzj
+#EXTINF:-1, HND★Lenca Television (Canal 40) 
+http://lencatelevision.com:8080/hls/ltv1.m3u8
+#EXTINF:-1, HND★LTV
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+#EXTINF:-1, HND★Radio Ideal 104.7 FM (La Esperanza)
+http://lencatelevision.com:8080/hls/ltv3.m3u8
+#EXTINF:-1, HND★Roatán Hable Claro (RHC) 
+https://stmv1.zcastbr.com/roatanhableclaro/roatanhableclaro/playlist.m3u8
+#EXTINF:-1, HND★Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+#EXTINF:-1, HND★TeleProgreso
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/playlist.m3u8
+#EXTINF:-1, HND★TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
