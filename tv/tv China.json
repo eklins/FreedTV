@@ -241,12 +241,6 @@
       "parse": false
     },
     {
-      "name": "RTHK 31",
-      "url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8",
-      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/440px-RTHK_TV_31.svg.png",
-      "parse": false
-    },
-    {
       "name": "RTHK 32",
       "url": "http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCAzyNmOxqNxh5Bl-_nA8fHsbOm7OV_iHWA&usqp=CAU",
@@ -257,12 +251,6 @@
       "url": "https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
       "parse": false
-    },
-    {
-      "name": "香港无线财经资讯",
-      "url": "http://m.haoqu99.com/4/tvbcj.html",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
     },
     {
       "name": "耀才财经",
