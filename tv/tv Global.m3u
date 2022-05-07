@@ -321,26 +321,6 @@ https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1, HTI★Radio Télé 4VEH
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbkU0-6_hoIOmcd4PNdC5DaLqA8OLzu2Il6QfsKjpOujqC8OLb&s",Hong Kong❤凤凰卫视中文台
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1, HKG★凤凰卫视资讯台
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1, HKG★香港无线新闻台 TVB News
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-#EXTINF:-1, HKG★耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1, HKG★点掌财经
-http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1, HKG★香港开电视 HKSTV-HKS
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1, HKG★iMode TV
-https://juyunlive.juyun.tv/live/24950198.m3u8
-#EXTINF:-1, HKG★Now直播台
-https://api.leonardpark.dev/live/now/331
-#EXTINF:-1, HKG★RTHK 32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
-#EXTINF:-1, HKG★TVB J1
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Honduras.png",Honduras❤Alfa & Omega Visión
 https://srv.panelcast.net/aovision/aovision/playlist.m3u8
 #EXTINF:-1, HND★CCI Channel (480p) 
@@ -365,6 +345,26 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/playlist.m3u8
 #EXTINF:-1, HND★TEN Canal 10
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbkU0-6_hoIOmcd4PNdC5DaLqA8OLzu2Il6QfsKjpOujqC8OLb&s",Hong Kong❤凤凰卫视中文台
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1, HKG★凤凰卫视资讯台
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1, HKG★香港无线新闻台 TVB News
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:-1, HKG★耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1, HKG★点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1, HKG★香港开电视 HKSTV-HKS
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1, HKG★iMode TV
+https://juyunlive.juyun.tv/live/24950198.m3u8
+#EXTINF:-1, HKG★Now直播台
+https://api.leonardpark.dev/live/now/331
+#EXTINF:-1, HKG★RTHK 32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1, HKG★TVB J1
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Hungary.png",Hungary❤ATV
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, HUN★Balaton TV
