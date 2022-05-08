@@ -907,6 +907,14 @@ https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 https://streamone.simpaisa.com:8443/pitvlive1/mehran.smil/playlist.m3u8
 #EXTINF:-1, PAK★Sindh TV News
 https://streamone.simpaisa.com:8443/pitvlive1/sindhnews.smil/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Palestine.png",Palestine❤Ajyal TV
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1, PSE★Musawa Channel
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:-1, PSE★Palestine Satellite Channel
+https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:-1, PSE★Rajeen TV
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Panama.png",Panama❤Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 #EXTINF:-1, PAN★RPC
@@ -999,39 +1007,37 @@ https://tvreg.klemit.net/regionalna/stream/index.m3u8
 https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
 #EXTINF:-1, POL★TVT Zgorzelec
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 logo="
-",Puerto Rico❤
-
-#EXTINF:-1, PRI★
-
-#EXTINF:-1, PRI★
-
-#EXTINF:-1, PRI★
-
-#EXTINF:-1, PRI★
-
-#EXTINF:-1, PRI★
-
-
-
-
-
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Portugal.png",Portugal❤Canal 11
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1, PRT★Canal Parlamento
+https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:-1, PRT★Igreja Online
+http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+#EXTINF:-1, PRT★Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:-1, PRT★Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1, PRT★Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:-1, PRT★Porto Canal
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1, PRT★RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1, PRT★TVI Reality
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:-1, PRT★TV Maná Córdoba
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1, PRT★TV Maná 1
+http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8
+#EXTINF:-1, PRT★TV Maná 2
+http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/1200px-Flag_of_Puerto_Rico.svg.png",Puerto Rico❤Pura Palabra
+https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
+#EXTINF:-1, PRI★CDM TV
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:-1, PRI★Mas TV
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sri-Lanka.png",Sri Lanka❤ITN (720p)
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 #EXTINF:-1, LKA★Santhora TV (720p)
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 logo="
-",Poland❤
-
-#EXTINF:-1, POL★
-
-
-
-
-
