@@ -227,6 +227,8 @@ http://51.210.199.21/hls/stream.m3u8
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1, FRA★Wilside TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png",French Polynesia❤TNTV
+https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Germany.png",Germany❤123 TV
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1, DEU★A•TV
@@ -799,7 +801,237 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/
 http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1, MAR★Télé Maroc (1080p)
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mozambique.png",Mozambique❤TVM (480p)
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1, MOZ★TVM Internacional (480p)
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1, MOZ★TV Maná Moçambique (576p)
+http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Netherlands.png",Netherlands❤BR6
+https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
+#EXTINF:-1, NLD★Den Haag TV
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1, NLD★Feel Good TV
+https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
+#EXTINF:-1, NLD★GO-RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1, NLD★Groningen 1
+http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1, NLD★HK13 TV
+http://mtxstr001.matrixdata.nl/live/hk13/playlist.m3u8
+#EXTINF:-1, NLD★Ideaal TV
+https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+#EXTINF:-1, NLD★JenZ
+https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
+#EXTINF:-1, NLD★Lansingerland TV
+https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8
+#EXTINF:-1, NLD★LOE TV
+https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
+#EXTINF:-1, NLD★Meer TV
+https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
+#EXTINF:-1, NLD★MLS TV
+https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
+#EXTINF:-1, NLD★Omroep Brabant
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1, NLD★Omroep Brabant Radio
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1, NLD★Omroep Centraal TV
+https://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
+#EXTINF:-1, NLD★Omroep Ons West Brabant
+https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
+#EXTINF:-1, NLD★Omroep P&M TV
+https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
+#EXTINF:-1, NLD★Omroep Tilburg TV
+https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+#EXTINF:-1, NLD★Omrop Fryslân
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
+#EXTINF:-1, NLD★Qmusic
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1, NLD★Radio 350
+https://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1, NLD★RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1, NLD★RTV GO!
+http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1, NLD★RTV Maastricht
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+#EXTINF:-1, NLD★Samen1 TV
+https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
+#EXTINF:-1, NLD★TV Valkenburg
+https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
+#EXTINF:-1, NLD★UStad
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+#EXTINF:-1, NLD★Vechtdal TV
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:-1, NLD★Visit-X TV
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+#EXTINF:-1, NLD★WOS TV
+https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-New-Zealand.png",New Zealand❤Breeze TV
+https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
+#EXTINF:-1, NZL★Juice TV
+https://juicex.nz/hls/mystream.m3u8
+#EXTINF:-1, NZL★Kordia TV
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1, NZL★The Edge
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+#EXTINF:-1, NZL★Wairarapa TV
+https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Nicaragua.png",Nicaragua❤Canal 6 (480p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
+#EXTINF:-1, NIC★Telenica Canal 8
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
+#EXTINF:-1, NIC★Viva Nicaragua Canal 13
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vivanicaragua13
+#EXTINF:-1, NIC★Vos TV
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Norway.png",Norway❤Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1, NOR★Duck TV
+https://mmm-ducktv-4-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, NOR★Kanal Asia 10
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:-1, NOR★TV2 Nyhetsstrømmen
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+#EXTINF:-1, NOR★TV2 Sporten
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Oman.png",Oman❤Oman Sports TV
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1, OMN★Oman TV
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Pakistan.png",Pakistan❤ATV
+https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
+#EXTINF:-1, PAK★Dunya News (UK Feed)
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+#EXTINF:-1, PAK★Mehran TV
+https://streamone.simpaisa.com:8443/pitvlive1/mehran.smil/playlist.m3u8
+#EXTINF:-1, PAK★Sindh TV News
+https://streamone.simpaisa.com:8443/pitvlive1/sindhnews.smil/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Panama.png",Panama❤Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
+#EXTINF:-1, PAN★RPC
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Peru.png",Peru❤Activa TV
+https://cloudvideo.servers10.com:8081/8126/index.m3u8
+#EXTINF:-1, PER★Andes Televisión (Sicusani)
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+#EXTINF:-1, PER★Antares Televisión
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1, PER★AsiriTV (Lima)
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1, PER★ATV Sport
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:-1, PER★ATV+ Noticias
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+#EXTINF:-1, PER★Bella Asuncion TV
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1, PER★Best Cable Music
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1, PER★Bethel TV
+https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
+#EXTINF:-1, PER★Canal 8 (Catacaos)
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+#EXTINF:-1, PER★Central TV (Chosica)
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1, PER★CharapaTV (Pucallpa)
+https://cloudvideo.servers10.com:8081/8168/index.m3u8
+#EXTINF:-1, PER★Chicos IPe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1, PER★Clips TV (Ica)
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1, PER★Conecta2TV (Lima)
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1, PER★Contacto Deportivo
+https://live.obslivestream.com/cdeportivomux/index.m3u8
+#EXTINF:-1, PER★Controversia TV (Moyobamba)
+https://live.obslivestream.com/controversiamux/index.m3u8
+#EXTINF:-1, PER★CR Television (Moyobamba)
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1, PER★Cultura 24
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1, PER★Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1, PER★Hatun TV
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
+#EXTINF:-1, PER★Hoynet (540p)
+https://tv.portalexpress.es:3641/hybrid/play.m3u8
+#EXTINF:-1, PER★Huacho Perú TV
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
+#EXTINF:-1, PER★Identidad TV
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+#EXTINF:-1, PER★Impacto Televisión (Cajamarca)
+https://eu1.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1, PER★Innova FM (Bagua Grande)
+https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8
+#EXTINF:-1, PER★Karibeña
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1, PER★La Luz TV
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:-1, PER★La Ribereña (Pucallpa)
+https://cloudvideo.servers10.com:8081/8098/index.m3u8
+#EXTINF:-1, PER★Master TV (Tarapoto)
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:-1, PER★Memorias TV
+https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
+#EXTINF:-1, PER★Panamericana TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
+#EXTINF:-1, PER★TecSatel Cine TV (Arequipa)
+https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1, PER★X TV (Chachapoyas)
+https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Philippines.png",Philippines❤CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1, PHL★Life TV Asia
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+#EXTINF:-1, PHL★Philippines CH5
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:-1, PHL★SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1, PHL★TeleRadyo
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Poland.png",Poland❤Белсат ТВ
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1, POL★dlaCiebie.tv
+http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
+#EXTINF:-1, POL★TV Regionalna (Lubin)
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1, POL★TV Republika
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+#EXTINF:-1, POL★TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 logo="
+",Puerto Rico❤
+
+#EXTINF:-1, PRI★
+
+#EXTINF:-1, PRI★
+
+#EXTINF:-1, PRI★
+
+#EXTINF:-1, PRI★
+
+#EXTINF:-1, PRI★
+
+
+
+
+
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sri-Lanka.png",Sri Lanka❤ITN (720p)
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 #EXTINF:-1, LKA★Santhora TV (720p)
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 logo="
+",Poland❤
+
+#EXTINF:-1, POL★
+
+
+
+
+
