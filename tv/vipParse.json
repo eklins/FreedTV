@@ -2,12 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "无尽",
-      "ad": "no",
-      "url": "https://jx.xhswglobal.com/dplayer/?url="
-    },
-    {
-      "id": 1,
       "name": "闪电",
       "ad": "no",
       "url": "https://www.shankubf.com/m3u8/?url="
@@ -20,9 +14,9 @@
     },
     {
       "id": 1,
-      "name": "神速",
+      "name": "无尽",
       "ad": "no",
-      "url": "https://player.sszyplayer.com/dplayer/?url="
+      "url": "https://jx.xhswglobal.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -35,6 +29,12 @@
       "name": "速更源",
       "ad": "no",
       "url": "https://wuxiezx.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "神速",
+      "ad": "no",
+      "url": "https://player.sszyplayer.com/dplayer/?url="
     },
     {
       "id": 1,
