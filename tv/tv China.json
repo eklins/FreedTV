@@ -152,20 +152,26 @@
     },
     {
       "name": "魅力足球",
-      "url": "http://www.weishizaixian.com/v/59.html",
+      "url": "http://m.haoqu99.com/3/shanghai/mlyy+.html",
       "pic": "http://tv.haoqu99.com/d/file/2021/0218/4d56ad1ebbb4685c2d09789e11704721.jpg",
-      "parse": true
-    },
-    {
-      "name": "劲爆体育",
-      "url": "http://www.weishizaixian.com/v/60.html",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
       "parse": true
     },
     {
       "name": "五星体育",
       "url": "http://www.weishizaixian.com/v/58.html",
       "pic": "http://tv.haoqu99.com/d/file/2016/1012/af0110995a6085842ac7a7d3f5df9452.jpg",
+      "parse": true
+    },
+    {
+      "name": "新视觉体育",
+      "url": "http://www.weishizaixian.com/v/59.html",
+      "pic": "http://www.weishizaixian.com/res/2021/06-29/bb11dc822c31e374d6a91da86b06c812.jpg",
+      "parse": true
+    },
+    {
+      "name": "劲爆体育",
+      "url": "http://www.weishizaixian.com/v/60.html",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
       "parse": true
     },
     {
