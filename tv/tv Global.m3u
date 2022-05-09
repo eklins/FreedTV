@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/8TV_Chinese.png",8TV 八度空间
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uJeVy7V4n65RWZsVhkA1cKpjqclqWcI-qA&usqp=CAU",Bernama TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33tZ3Fpvn4I5nNSQn4_mAdFA4M3X6xuUgjg&usqp=CAU",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSmPGc7aQMeRHFI5T1VECspSQLy_4vPDfBEsrjg2w=s900-c-k-c0x00ffffff-no-rj",Maah TV
+http://51.210.199.33/hls/stream.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNRkKkPp2LCPJafaVEAZ6h5IzbClkrvrq-Q&usqp=CAU",NTV7
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1 logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png",RTM Berita
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1 logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",RTM Okey
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 logo="https://www.rtm.gov.my/images/2021/04/05/dewanrakyatbaharu.jpg",RTM Parlimen Dewan Rakyat
+https://rtmklik.rtm.gov.my/tv/7
+#EXTINF:-1 logo="https://www.rtm.gov.my/images/2021/04/01/sukanrtmbaharu.jpg",RTM Sukan
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpoxvRef94zWT_VgzRRAxOY2QX1j41E6b8ag&usqp=CAU",TV1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwM3cnfiFBgQ9WqbPNGFd24ZOJFXZ37bixGw&usqp=CAU",TV2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqaca-JqaWqs_UvieEK88tQpOBeeQRFDNxg&usqp=CAU",TV3
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1CxRLBjYvDYEaFTnvzrQ1qV4HvyESmSgKTg&usqp=CAU",TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/150px-NewlogoTV9_%28Malaysia%29.png",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Argentina.png",Argentina❤Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Australia.png",Australia❤ABC News
@@ -707,34 +737,6 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-North-Macedonia.png",Macedonia❤Sky Folk TV
 https://skyfolk.mk/live.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Malaysia.png",Malaysia❤Astro Awani (720p)
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1, MY★Drama Sangat (720p)
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-#EXTINF:-1, MY★Maah TV (720p)
-http://51.210.199.33/hls/stream.m3u8
-#EXTINF:-1, MY★NTV 7
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-#EXTINF:-1, MY★RTM Berita
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-#EXTINF:-1, MY★RTM Okey
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1, MY★RTM Parlimen Dewan Rakyat
-https://rtmklik.rtm.gov.my/tv/7
-#EXTINF:-1, MY★RTM Sukan
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1, MY★TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-#EXTINF:-1, MY★TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-#EXTINF:-1, MY★TV3
-https://www.tonton.com.my/live/tv3
-#EXTINF:-1, MY★TV6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/8TV_Chinese.png",MY★TV8 八度空间
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-#EXTINF:-1, MY★TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Maldives.png",Maldives❤VTV
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mali.png",Mali❤ORTM 1
