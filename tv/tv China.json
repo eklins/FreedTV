@@ -335,18 +335,6 @@
       "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
-    },
-    {
-      "name": "好消息",
-      "url": "http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0224/20140224053911581.jpg",
-      "parse": true
-    },
-    {
-      "name": "好消息 TV",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/1.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0224/20140224053911581.jpg",
-      "parse": false
     }
   ]
 }
