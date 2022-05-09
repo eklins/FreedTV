@@ -3,8 +3,6 @@
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uJeVy7V4n65RWZsVhkA1cKpjqclqWcI-qA&usqp=CAU",Bernama TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33tZ3Fpvn4I5nNSQn4_mAdFA4M3X6xuUgjg&usqp=CAU",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSmPGc7aQMeRHFI5T1VECspSQLy_4vPDfBEsrjg2w=s900-c-k-c0x00ffffff-no-rj",Maah TV
