@@ -2,6 +2,12 @@
   "data": [
     {
       "id": 1,
+      "name": "无尽",
+      "ad": "no",
+      "url": "https://jx.xhswglobal.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "闪电",
       "ad": "no",
       "url": "https://www.shankubf.com/m3u8/?url="
@@ -17,12 +23,6 @@
       "name": "神速",
       "ad": "no",
       "url": "https://player.sszyplayer.com/dplayer/?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽",
-      "ad": "no",
-      "url": "https://jx.xhswglobal.com/dplayer/?url="
     },
     {
       "id": 1,
