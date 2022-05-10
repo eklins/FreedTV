@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, 中天新闻
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/_QbRXRnHMVY
+#EXTINF:-1, CNBC
+http://www.freeintertv.com/view/id-2566
+#EXTINF:-1, CNBC 18
+https://www.cnbctv18.com/live-tv/
