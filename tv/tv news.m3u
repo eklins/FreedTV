@@ -35,6 +35,8 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 https://live.chdrstatic.com/cbn/index.m3u8
 #EXTINF:-1 logo="https://onecms-res.cloudinary.com/image/upload/v1628577495/mediacorp/cna/image/2021-08/cna-logo-data.jpg",CNA 亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 logo="https://s3.spbtv.com/spbtv-world-production/50577931455a0d496a75_512x512c.png",DW English (1080p)
