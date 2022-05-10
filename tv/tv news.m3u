@@ -57,6 +57,8 @@ https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s900-c-k-c0x00ffffff-no-rj",Sky News (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 logo="https://pic.baike.soso.com/ugc/baikepic2/19426/20180813201649-420903712_jpeg_427_284_24385.jpg/0",UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",Yahoo Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 logo="https://commed.umassmed.edu/sites/default/files/images/media-logo/Yahoo%20NEWS.png",Yahoo News (720p)
