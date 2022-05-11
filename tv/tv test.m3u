@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1, 中天新闻
+#EXTINF:-1, 台湾中天新闻
 https://www.chaojidianshi.net/zhibo/42.html
+#EXTINF:-1, 香港有线新闻台
+https://www.chaojidianshi.net/zhibo/62.html
 #EXTINF:-1, CNBC
 http://www.freeintertv.com/view/id-2566
 #EXTINF:-1, CNBC 18
