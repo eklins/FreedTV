@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:-1, 台湾中天新闻
+#EXTINF:-1, 台湾中天新闻（牛视网）
 https://www.chaojidianshi.net/zhibo/42.html
-#EXTINF:-1, 香港有线新闻台
-https://www.chaojidianshi.net/zhibo/62.html
-#EXTINF:-1, 香港无线财经资讯台
+#EXTINF:-1, 香港无线财经资讯台 nettv
+http://nettv.live/m/play.php?aid=4563
+#EXTINF:-1, 香港无线财经资讯台 haoqu99
 http://m.haoqu99.com/4/tvbcj.html
-#EXTINF:-1, 香港无线财经资讯台 HD
-https://news.tvb.com/live/j5_ch85?is_hd
+#EXTINF:-1, 香港无线财经资讯台（官网）SD
+https://news.tvb.com/live/j5_ch85?is_sd
+#EXTINF:-1, 香港有线新闻台（牛视网）
+https://www.chaojidianshi.net/zhibo/62.html
 #EXTINF:-1, CNBC
 http://www.freeintertv.com/view/id-2566
 #EXTINF:-1, CNBC 18
