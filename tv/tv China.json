@@ -139,20 +139,8 @@
       "parse": true
     },
     {
-      "name": "黑莓电影",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "CHC动作电影",
-      "url": "http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "CHC家庭影院",
-      "url": "http://117.148.179.147/PLTV/88888888/224/3221231799/index.m3u8",
+      "name": "PP体育",
+      "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
@@ -256,6 +244,30 @@
       "name": "风云音乐",
       "url": "http://m.haoqu99.com/1/fyyy.html",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121053553871.jpg",
+      "parse": true
+    },
+    {
+      "name": "黑莓电影",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "CHC 动作电影",
+      "url": "http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "CHC 家庭影院",
+      "url": "http://117.148.179.147/PLTV/88888888/224/3221231799/index.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "咪咕：红色谍战剧场",
+      "url": "http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
