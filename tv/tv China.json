@@ -158,7 +158,7 @@
     },
     {
       "name": "五星体育",
-      "url": "http://www.weishizaixian.com/v/58.html",
+      "url": "http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1012/af0110995a6085842ac7a7d3f5df9452.jpg",
       "parse": true
     },
@@ -267,6 +267,12 @@
     {
       "name": "咪咕：红色谍战剧场",
       "url": "http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "优漫卡通",
+      "url": "http://117.148.179.183/PLTV/88888888/224/3221231574/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
