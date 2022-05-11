@@ -1207,6 +1207,34 @@ https://v2.catcast.tv/content/33816/index.m3u8
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 #EXTINF:-1, RWA★RTV Rwanda
 http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Saudi-Arabia.png",Saudi Arabia❤Al Ekhbariya
+https://cllive.itworkscdn.net/ikhbariyalive/token=nva=1652273887~dirs=1~hash=0bac6bee4f3ae6cd056ae/ikhbariya.smil/playlist.m3u8
+#EXTINF:-1, SAU★Al Khalij
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:-1, SAU★Al Saudiya
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1, SAU★Asharq
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+#EXTINF:-1, SAU★Atfal Wa Mawaheb
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1, SAU★KSA Sports 1
+https://cllive.itworkscdn.net/ksasports1live/token=nva=1652274173~dirs=1~hash=0e1218fddb2c410c09a24/ksasports1.smil/playlist.m3u8
+#EXTINF:-1, SAU★KSA Sports 2
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1, SAU★Rotana Cinema KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1, SAU★Rotana Classic
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1, SAU★Rotana Khalijia
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1, SAU★Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1, SAU★Rotana+
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1, SAU★SBC
+https://cllive.itworkscdn.net/sbclive/token=nva=1652274433~dirs=1~hash=01efbdb91fae0d98a4b99/sbc.smil/playlist.m3u8
+#EXTINF:-1, SAU★Thikrayat TV
+https://edge.taghtia.com/sa/3.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Serbia.png",Serbia❤Djak TV
 https://srv1.adriatelekom.com/DjakTV/index.m3u8
 #EXTINF:-1, SRB★Kurir TV
@@ -1221,3 +1249,21 @@ https://srv1.adriatelekom.com/TVAS/index.m3u8
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 #EXTINF:-1, LKA★Santhora TV (720p)
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sudan.png",Sudan❤Africa TV1
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1, SDN★Africa TV2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sweden.png",Sweden❤ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1, SWE★Azerbaijan News TV
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1, SWE★Expressen TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+#EXTINF:-1, SWE★Kanal 10 Asia
+https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/chunklist_w522739009_b2128000.m3u8
+#EXTINF:-1, SWE★Öppna Kanalen
+https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
+#EXTINF:-1, SWE★TV4
+https://csm-e-cet4eurxaws102j8-78k15gpy268.tls1.yospace.com/csm/live/142791716.m3u8?yo.oh=Y3NtLWUtdHY0c2UtZWIudGxzMS55b3NwYWNlLmNvbQ==
+#EXTINF:-1, SWE★Västmanlands TV
+https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
