@@ -529,6 +529,8 @@ https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 #EXTINF:-1, ITA★Parole di Vita
 https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
+#EXTINF:-1, ITA★Polo TV
+http://54.39.17.6:8080/polotv/playlist.m3u8
 #EXTINF:-1, ITA★Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1, ITA★Radio 51 TV
