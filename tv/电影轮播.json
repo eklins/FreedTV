@@ -7,8 +7,26 @@
       "parse": true
     },
     {
+      "name": "DC",
+      "url": "https://m.huya.com/11342428",
+      "pic": "http://qimg.hxnews.com/2017/1119/1511084273459.jpeg",
+      "parse": true
+    },
+    {
+      "name": "欧美喜剧",
+      "url": "https://m.huya.com/11352959",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
       "name": "欧美科幻、动作",
       "url": "https://m.douyu.com/4332",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "欧美热血、校园",
+      "url": "https://m.huya.com/11352934",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
       "parse": true
     },
@@ -64,6 +82,12 @@
       "name": "欧美日韩03",
       "url": "https://m.douyu.com/5403257",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOduGJ1rHyqxL8zRUXjBhXJXLVapn7E1QGg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "粤语喜剧",
+      "url": "https://m.huya.com/11352894",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIutC24EhzcNPrKiJCxAkQOEJpZC9KjU-og&usqp=CAU",
       "parse": true
     },
     {
@@ -139,6 +163,18 @@
       "parse": true
     },
     {
+      "name": "许氏三杰",
+      "url": "https://m.huya.com/11602033",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4uadw7nJQDvMX5JjofW9g67dPW0hVyXiYA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "镖行天下系列",
+      "url": "https://m.huya.com/11352969",
+      "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
+      "parse": true
+    },
+    {
       "name": "科幻、动作",
       "url": "https://m.douyu.com/252802",
       "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
@@ -159,6 +195,54 @@
     {
       "name": "警匪、动作",
       "url": "https://m.douyu.com/10240510",
+      "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
+      "parse": true
+    },
+    {
+      "name": "古墓、探险",
+      "url": "https://m.huya.com/11352913",
+      "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
+      "parse": true
+    },
+    {
+      "name": "搞笑、恐怖",
+      "url": "https://m.huya.com/11601960",
+      "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
+      "parse": true
+    },
+    {
+      "name": "喜剧",
+      "url": "https://m.huya.com/11352897",
+      "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
+      "parse": true
+    },
+    {
+      "name": "灾难",
+      "url": "https://m.huya.com/11602075",
+      "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
+      "parse": true
+    },
+    {
+      "name": "动作",
+      "url": "https://m.huya.com/11602041",
+      "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
+      "parse": true
+    },
+    {
+      "name": "悬疑",
+      "url": "https://m.huya.com/11342395",
+      "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
+      "parse": true
+    },
+    {
+      "name": "贺岁电影",
+      "url": "https://m.huya.com/11601986",
+      "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
+      "parse": true
+    },
+    {
+      "name": "香港喜剧",
+      "url": "https://m.huya.com/11342423",
       "pic": "https://uploadfile.huiyi8.com/2015/0604/20150604032159456.jpg",
       "parse": true
     },
@@ -187,6 +271,12 @@
       "parse": true
     },
     {
+      "name": "香港经典女神（华）",
+      "url": "https://m.huya.com/11352909",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "香港喜剧电影（华）",
       "url": "https://m.douyu.com/122402",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
@@ -196,6 +286,12 @@
       "name": "香港经典电影（华）",
       "url": "https://m.douyu.com/85894",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "金庸武侠",
+      "url": "https://m.huya.com/11342435",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
