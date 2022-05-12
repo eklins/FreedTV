@@ -85,26 +85,8 @@
       "parse": true
     },
     {
-      "name": "PP体育",
-      "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "风云足球",
-      "url": "http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
-      "parse": true
-    },
-    {
       "name": "岳云鹏相声",
       "url": "https://m.huya.com/11342437",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "日本女子摔跤",
-      "url": "https://m.huya.com/11602069",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
