@@ -79,6 +79,18 @@
       "parse": true
     },
     {
+      "name": "All Sports Brasil",
+      "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "ATV Sport (Peru)",
+      "url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "Dubai Sport 1",
       "url": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
@@ -121,6 +133,12 @@
       "parse": true
     },
     {
+      "name": "Oman Sports TV",
+      "url": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "RTM Sukan",
       "url": "https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd",
       "pic": "https://www.rtm.gov.my/images/2021/04/01/sukanrtmbaharu.jpg",
@@ -145,8 +163,50 @@
       "parse": true
     },
     {
+      "name": "TNT Sports 2 (Brazil)",
+      "url": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "TNT Sports 3 (Brazil)",
+      "url": "https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "TNT Sports 4 (Brazil)",
+      "url": "https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "TNT Sports 5 (Brazil)",
+      "url": "https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "Sharjah Sports TV (UAE)",
+      "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "Turkmenistan Sport",
       "url": "http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "TV2 Sporten (Norway)",
+      "url": "https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "World of Freeports",
+      "url": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
