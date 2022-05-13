@@ -559,12 +559,6 @@
       "parse": true
     },
     {
-      "name": "台湾三立财经新闻iNEWS",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTv9JvAx7ZiowJn0RiXptVILq86Vxxe_gYtg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "台湾TVBS新闻",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129",
       "pic": "https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg",
@@ -581,6 +575,12 @@
       "url": "http://stream.nexttv.com.tw/n001/hd/live.m3u8",
       "pic": "https://www.easyatm.com.tw/img/f/64b/nBnauM3XxgTMzUjN5YzM3UzM1UTM1QDN5MjM5ADMwAjMwUzL2MzL2czLt92YucmbvRWdo5Cd0FmLxE2LvoDc0RHa.jpg",
       "parse": false
+    },
+    {
+      "name": "台湾三立财经新闻iNEWS",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTv9JvAx7ZiowJn0RiXptVILq86Vxxe_gYtg&usqp=CAU",
+      "parse": true
     },
     {
       "name": "台湾SBN全球财经",
