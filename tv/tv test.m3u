@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, 三立新闻 FS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/CKjSm5ZeehE?list=TLGG3k0l2ItimdExMzA1MjAyMg
+#EXTINF:-1, 三立新闻 YT
+https://youtu.be/CKjSm5ZeehE?list=TLGG3k0l2ItimdExMzA1MjAyMg
 #EXTINF:-1, 台湾中天新闻（牛视网）
 https://www.chaojidianshi.net/zhibo/42.html
 #EXTINF:-1, 香港无线财经资讯台 nettv
