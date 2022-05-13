@@ -148,7 +148,7 @@
       "name": "RTM Sukan",
       "url": "https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd",
       "pic": "https://www.rtm.gov.my/images/2021/04/01/sukanrtmbaharu.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Sports Grid",
