@@ -211,9 +211,15 @@
       "parse": true
     },
     {
+      "name": "欧美女子摔跤",
+      "url": "https://m.huya.com/19197508",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "日本女子摔跤",
       "url": "https://m.huya.com/11602069",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     }
   ]
