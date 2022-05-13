@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "name": "三立新闻 FS",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/CKjSm5ZeehE?list=TLGG3k0l2ItimdExMzA1MjAyMg",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "三立新闻 YT",
+      "url": "https://youtu.be/CKjSm5ZeehE?list=TLGG3k0l2ItimdExMzA1MjAyMg",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "台湾中天新闻（牛视网）",
+      "url": "https://www.chaojidianshi.net/zhibo/42.html",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "香港无线财经资讯台 nettv",
+      "url": "http://nettv.live/m/play.php?aid=4563",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "香港无线财经资讯台 haoqu99",
+      "url": "http://m.haoqu99.com/4/tvbcj.html",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "香港无线财经资讯台（官网）SD",
+      "url": "https://news.tvb.com/live/j5_ch85?is_sd",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "香港有线新闻台（牛视网）",
+      "url": "https://www.chaojidianshi.net/zhibo/62.html",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "CNBC",
+      "url": "http://www.freeintertv.com/view/id-2566",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "CNBC TV18",
+      "url": "https://www.cnbctv18.com/live-tv/",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "北京影视 True",
+      "url": "rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "北京体育 False",
+      "url": "rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    }
+  ]
+}
