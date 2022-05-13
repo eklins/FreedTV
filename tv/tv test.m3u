@@ -13,3 +13,7 @@ https://www.chaojidianshi.net/zhibo/62.html
 http://www.freeintertv.com/view/id-2566
 #EXTINF:-1, CNBC 18
 https://www.cnbctv18.com/live-tv/
+#EXTINF:-1, 北京影视
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
+#EXTINF:-1, 北京体育
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
