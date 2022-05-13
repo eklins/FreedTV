@@ -579,8 +579,8 @@
     {
       "name": "台湾壹新闻",
       "url": "http://stream.nexttv.com.tw/n001/hd/live.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "pic": "https://www.easyatm.com.tw/img/f/64b/nBnauM3XxgTMzUjN5YzM3UzM1UTM1QDN5MjM5ADMwAjMwUzL2MzL2czLt92YucmbvRWdo5Cd0FmLxE2LvoDc0RHa.jpg",
+      "parse": false
     },
     {
       "name": "台湾SBN全球财经台",
