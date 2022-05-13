@@ -325,6 +325,12 @@
       "parse": true
     },
     {
+      "name": "香港有线体育 CH603",
+      "url": "https://www.chaojidianshi.net/zhibo/92.html",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/2/26/Hd_603_logo.png",
+      "parse": true
+    },
+    {
       "name": "澳视体育 CH4",
       "url": "http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
@@ -433,15 +439,57 @@
       "parse": true
     },
     {
+      "name": "TVB 翡翠台",
+      "url": "https://www.chaojidianshi.net/zhibo/78.html",
+      "pic": "https://pic.baike.soso.com/ugc/baikepic2/29741/cut-20190627111118-175179980_jpg_286_229_7658.jpg/300",
+      "parse": true
+    },
+    {
+      "name": "TVB 明珠台",
+      "url": "https://www.chaojidianshi.net/zhibo/77.html",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSXSDYSCPmYB3nyL8VoC2i25ajFtLaR3mVw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "TVB 星河频道",
+      "url": "https://www.chaojidianshi.net/zhibo/76.html",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",
+      "parse": true
+    },
+    {
+      "name": "天映经典",
+      "url": "https://www.chaojidianshi.net/zhibo/90.html",
+      "pic": "https://p6-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/5f8cfe0ff7a049558357648ae41a6067~tplv-mlhdmxsy5m-q75:0:0.image",
+      "parse": true
+    },
+    {
       "name": "TVB J1",
       "url": "https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
+      "name": "TVB J2",
+      "url": "https://www.chaojidianshi.net/zhibo/74.html",
+      "pic": "http://tv.haoqu99.com/d/file/2016/0922/ec93b4441247781ef3f6d303dd553ed1.jpg",
+      "parse": true
+    },
+    {
+      "name": "RTHK 31",
+      "url": "https://www.chaojidianshi.net/zhibo/96.html",
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",
+      "parse": true
+    },
+    {
       "name": "RTHK 32",
       "url": "http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCAzyNmOxqNxh5Bl-_nA8fHsbOm7OV_iHWA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "ViuTV",
+      "url": "https://www.chaojidianshi.net/zhibo/94.html",
+      "pic": "https://static.wikia.nocookie.net/etvhk/images/f/fa/Viutv.png/revision/latest?cb=20161226023532&path-prefix=zh-hk",
       "parse": true
     },
     {
@@ -457,9 +505,27 @@
       "parse": true
     },
     {
+      "name": "香港有线电影台",
+      "url": "https://www.chaojidianshi.net/zhibo/61.html",
+      "pic": "https://www.nettvpro.live/uploads/20/1-200319145514C3.jpg",
+      "parse": true
+    },
+    {
+      "name": "香港有线 CH18",
+      "url": "https://www.chaojidianshi.net/zhibo/59.html",
+      "pic": "http://m.tvniu.com/tvimg/img/icable18.jpg",
+      "parse": true
+    },
+    {
       "name": "香港无线新闻台",
       "url": "https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
+      "parse": true
+    },
+    {
+      "name": "香港无线财经•资讯台",
+      "url": "https://www.chaojidianshi.net/zhibo/79.html",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
     },
     {
@@ -568,6 +634,12 @@
       "name": "台湾TVBS新闻",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129",
       "pic": "https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg",
+      "parse": true
+    },
+    {
+      "name": "台湾TVBS综合台",
+      "url": "https://www.chaojidianshi.net/zhibo/37.html",
+      "pic": "https://img.isuper.tv/live-tv/tvbs-live.jpg",
       "parse": true
     },
     {
