@@ -1,10 +1,16 @@
 {
   "data": [
     {
-      "name": "海绵宝宝S1-13",
+      "name": "海绵宝宝S1-13T",
       "url": "https://live.bilibili.com/h5/61834?hotRank=0&session_id=9039f72a9b15b05377aa3bed3d1d72d9_3786796A-B381-4FDA-A8B6-06D58832BD3B",
       "pic": "https://img.aidotu.com/down/jpg/20200828/325e82163ae5d0c250c9d0bad76e64d6_126728_500_764.jpg",
       "parse": true
+    },
+    {
+      "name": "海绵宝宝S1-13F",
+      "url": "https://live.bilibili.com/h5/61834?hotRank=0&session_id=9039f72a9b15b05377aa3bed3d1d72d9_3786796A-B381-4FDA-A8B6-06D58832BD3B",
+      "pic": "https://img.aidotu.com/down/jpg/20200828/325e82163ae5d0c250c9d0bad76e64d6_126728_500_764.jpg",
+      "parse": false
     },
     {
       "name": "蜡笔小新",
