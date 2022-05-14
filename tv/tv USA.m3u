@@ -405,6 +405,40 @@ https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-id="FolkTVEast.us" status="online",Folk TV East (480p) [Not 24/7]
 https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX Q13 Seattle WA (KCPQ) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 9 ST Paul Minneapolis MN (KMSP) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 26 Houston TX (KRIV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KRIV-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 10 Phoenix AZ (KZAS) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KSAZ-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 7 Austin TX (KTBC) (720p) [Not 24/7]
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTBC-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 11 Los Angeles CA (KTTV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 2 San Francisco CA (KTVU) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 32 Chicago IL (WFLD) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 6 Milwaukee WI (WITI) (720p) [Not 24/7]
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WITI-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 2 Detroit MI (WJBK) (720p) [Not 24/7]
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 5 New York NY (WNYW) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 35 Orlando FL (WOFL) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WOFL-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 5 Washington DC (WTTG) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 13 Tampa Bay FL (WTVT) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTVT-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" status="online",FOX 29 Philadelphia PA (WTXF-TV) (720p) [Not 24/7]
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTXF-Monetizer.m3u8
 #EXTINF:-1 tvg-id="FoxGreece.gr" status="online",Fox Greece (480p) [Not 24/7]
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" status="online",Fox News Radio (720p)
