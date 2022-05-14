@@ -121,18 +121,6 @@
       "parse": false
     },
     {
-      "name": "BTV Animals Live",
-      "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "BTV Aurora Live",
-      "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
       "name": "风云音乐",
       "url": "http://m.haoqu99.com/1/fyyy.html",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121053553871.jpg",
