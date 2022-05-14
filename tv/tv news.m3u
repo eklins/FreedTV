@@ -27,6 +27,8 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 logo="https://shortyawards.imgix.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png?auto=format&fit=crop&h=300&q=65&w=500&s=cb21d6a342f58f8b5d569fb92fe02d19",Bloomberg Quicktake (1080p)
 https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fYpZml0sLFA-53NYsRRS6UKV42iZ_yeXQA&usqp=CAU",CBC News Highlights (720p)
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
 #EXTINF:-1 logo="https://lh3.googleusercontent.com/HLGqlf3RsTYC_UQAUxFVeUkwcGnIVvq_su_-XD_hyPM-fb3bIoLjehvDnZpGl-WEG8lN",CBS News (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 logo="https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/01/02bd502e-6910-416e-9422-ab17d03e33fb/thumbnail/640x360/3731f847fc947390a0f72aaed0b73585/cbsn-h-blue.jpg",CBSN
@@ -57,6 +59,8 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s900-c-k-c0x00ffffff-no-rj",Newsmax (720p)
 https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRBf0L188buhIlbd0bVKlCHvAZuvCuRTGTm2VKrRQ=s900-c-k-c0x00ffffff-no-rj",News 12 New York (1080p)
+https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/1200px-Newsy_2021.svg.png",Newsy US
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/RussiaToday-logo.jpg/revision/latest/scale-to-width-down/200?cb=20150103194351",RT News
