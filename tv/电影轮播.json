@@ -79,6 +79,18 @@
       "parse": true
     },
     {
+      "name": "Cinevault 80s",
+      "url": "https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "Cinevault Westerns",
+      "url": "https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
       "name": "ConTV",
       "url": "https://contv-tcl.amagi.tv/playlist.m3u8",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
