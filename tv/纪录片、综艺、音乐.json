@@ -157,6 +157,12 @@
       "parse": true
     },
     {
+      "name": "AXS TV Now",
+      "url": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Channel V",
       "url": "http://live.tvfix.org/hls/channelv.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1212/0dad8b3a9b619ca3134c54e3c5356bb2.jpg",
