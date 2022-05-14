@@ -79,6 +79,66 @@
       "parse": true
     },
     {
+      "name": "STIRR American Classics",
+      "url": "https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "STIRR Cine House",
+      "url": "https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "STIRR Cine Life",
+      "url": "https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "STIRR City",
+      "url": "https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "STIRR City Amarillo",
+      "url": "https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "STIRR Gravitas Movies",
+      "url": "https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "STIRR Horror Movies",
+      "url": "https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "STIRR Midnight Pulp",
+      "url": "https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "STIRR Mystery Science Theater 3000",
+      "url": "https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "STIRR Space 1999",
+      "url": "https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
       "name": "欧美日韩01",
       "url": "https://m.douyu.com/36337",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOduGJ1rHyqxL8zRUXjBhXJXLVapn7E1QGg&usqp=CAU",
