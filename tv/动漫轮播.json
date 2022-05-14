@@ -109,6 +109,12 @@
       "parse": true
     },
     {
+      "name": "LEGO Channels",
+      "url": "https://legochannel-vizio.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZqlwt-ZSmE6_AzVKjm5HeP_mXOn8wtSkqA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "幽游白书（日）",
       "url": "https://m.douyu.com/9938431",
       "pic": "https://dm530.in/poster/199269201.jpg",
