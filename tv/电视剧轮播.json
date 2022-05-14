@@ -236,6 +236,12 @@
     },
     {
       "name": "TVB粤语04",
+      "url": "https://m.douyu.com/8524186",
+      "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
+      "parse": true
+    },
+    {
+      "name": "TVB粤语05",
       "url": "http://zzy789.xyz/bili.php?id=21515763",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
       "parse": true
