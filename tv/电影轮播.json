@@ -103,6 +103,36 @@
       "parse": true
     },
     {
+      "name": "Rakuten Action UK",
+      "url": "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "Rakuten Comedy UK",
+      "url": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "Rakuten Film Streams UK",
+      "url": "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "Rakuten Top Free UK",
+      "url": "https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "Rakuten TV Shows UK",
+      "url": "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
       "name": "STIRR American Classics",
       "url": "https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
