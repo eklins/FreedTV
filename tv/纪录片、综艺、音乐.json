@@ -91,9 +91,9 @@
       "parse": true
     },
     {
-      "name": "America Funniest Video",
+      "name": "America Funniest Home Video",
       "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4iz3xL7C1b9h_juK8PmVTHKWh5mrJ-pahg&usqp=CAU",
       "parse": true
     },
     {
@@ -109,9 +109,15 @@
       "parse": true
     },
     {
+      "name": "PBS America",
+      "url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57S0TUTObRSuDoQw5TcnZGtlcPhUiba7VJw&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Young Hollywood",
       "url": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://m.media-amazon.com/images/M/MV5BMjhkNjZhYjUtMTE0Mi00MzRmLTgyMzktNmZjMjk5MThiMTJlXkEyXkFqcGdeQXVyMzMzNDgxMjE@._V1_FMjpg_UX1000_.jpg",
       "parse": true
     },
     {
