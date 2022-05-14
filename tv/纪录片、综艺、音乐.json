@@ -97,6 +97,12 @@
       "parse": true
     },
     {
+      "name": "NASA TV",
+      "url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxDxEGClTI2kghsItcV8EtUUo7-Ks8LhRnsA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Outdoor Adventure",
       "url": "https://m.huya.com/21059555",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
@@ -148,6 +154,12 @@
       "name": "Polo TV (Italy)",
       "url": "http://54.39.17.6:8080/polotv/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "Qello Concerts",
+      "url": "https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2016/1212/0dad8b3a9b619ca3134c54e3c5356bb2.jpg",
       "parse": true
     },
     {
