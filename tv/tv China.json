@@ -110,21 +110,21 @@
     },
     {
       "name": "第一剧场",
-      "url": "http://m.haoqu99.com/1/cctvdyjc.html",
+      "url": "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "怀旧剧场",
-      "url": "http://m.haoqu99.com/1/cctvhjjc.html",
+      "url": "http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "风云剧场",
-      "url": "http://m.haoqu99.com/1/fyjc.html",
+      "url": "http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "咪咕：红色谍战剧场",
@@ -346,31 +346,31 @@
       "name": "军事评论",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "文化精品",
-      "url": "http://m.haoqu99.com/1/cctvysjp.html",
+      "url": "http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "发现之旅",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "世界地理",
       "url": "http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055201348.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "女性时尚",
       "url": "http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "老故事",
