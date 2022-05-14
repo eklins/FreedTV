@@ -61,6 +61,12 @@
       "parse": true
     },
     {
+      "name": "CGTN 纪录",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
+      "parse": true
+    },
+    {
       "name": "兵器科技",
       "url": "http://m.haoqu99.com/1/cctvguofang.html",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
