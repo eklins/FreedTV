@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "蜡笔小新",
+      "url": "https://live.bilibili.com/h5/10375360?spm_id_from=333.999.space_home.strengthen_live_card.click",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/0/0e/%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0.jpeg",
+      "parse": true
+    },
+    {
       "name": "RTM Sukan",
       "url": "https://rtmklik.rtm.gov.my/tv/4",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
