@@ -397,12 +397,6 @@
       "parse": true
     },
     {
-      "name": "CNA 亚洲新闻台",
-      "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8",
-      "pic": "https://onecms-res.cloudinary.com/image/upload/v1628577495/mediacorp/cna/image/2021-08/cna-logo-data.jpg",
-      "parse": true
-    },
-    {
       "name": "CETV1",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls",
       "pic": "http://tv.haoqu99.com/d/file/2016/1116/b16431a9f7728dbe6aa30c9b86cc5523.jpg",
