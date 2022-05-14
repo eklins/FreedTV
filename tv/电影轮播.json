@@ -109,6 +109,12 @@
       "parse": true
     },
     {
+      "name": "Monarch TV (360p)",
+      "url": "https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
       "name": "Movie Kingdom TV",
       "url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
