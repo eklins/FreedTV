@@ -91,6 +91,12 @@
       "parse": true
     },
     {
+      "name": "Classic Movies Channel",
+      "url": "https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
       "name": "Comedy Channel",
       "url": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
@@ -115,7 +121,7 @@
       "parse": true
     },
     {
-      "name": "Movie Kingdom TV",
+      "name": "Movie Kingdom",
       "url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
       "parse": true
@@ -250,6 +256,48 @@
       "name": "TV Destak (360p)",
       "url": "https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "TVS Drive In Movie (360p)",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
+      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
+      "parse": true
+    },
+    {
+      "name": "TVS Film Noir Network",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8",
+      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
+      "parse": true
+    },
+    {
+      "name": "TVS Front Page Detective",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8",
+      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
+      "parse": true
+    },
+    {
+      "name": "TVS Hollywood History (582p)",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8",
+      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
+      "parse": true
+    },
+    {
+      "name": "TVS Horror Network (476p)",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8",
+      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
+      "parse": true
+    },
+    {
+      "name": "TVS Music Network",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8",
+      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
+      "parse": true
+    },
+    {
+      "name": "TVS Nostalgia (472p)",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8",
+      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
       "parse": true
     },
     {
