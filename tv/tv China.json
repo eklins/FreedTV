@@ -490,7 +490,7 @@
       "name": "香港开电视 HKSTV-HKS",
       "url": "http://media.fantv.hk/m3u8/archive/channel2.m3u8",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港有线新闻台",
