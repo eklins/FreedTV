@@ -69,6 +69,8 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/TASf99Oe8tliGLeSwUSdjNgpTRKs14fQt4RubTGd8pNzo5eYPXx7CLXPpzgY5iwFMFfXGzpc1g=s900-c-k-c0x00ffffff-no-rj",US Law & Crime (720p)
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/The_First_TV_logo.png",US The First
+https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",Yahoo Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 logo="https://commed.umassmed.edu/sites/default/files/images/media-logo/Yahoo%20NEWS.png",Yahoo News (720p)
