@@ -94,13 +94,13 @@
       "name": "America Funniest Home Video",
       "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4iz3xL7C1b9h_juK8PmVTHKWh5mrJ-pahg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "NASA TV",
       "url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxDxEGClTI2kghsItcV8EtUUo7-Ks8LhRnsA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Outdoor Adventure",
@@ -112,25 +112,25 @@
       "name": "PBS America",
       "url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57S0TUTObRSuDoQw5TcnZGtlcPhUiba7VJw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Young Hollywood",
       "url": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
       "pic": "https://m.media-amazon.com/images/M/MV5BMjhkNjZhYjUtMTE0Mi00MzRmLTgyMzktNmZjMjk5MThiMTJlXkEyXkFqcGdeQXVyMzMzNDgxMjE@._V1_FMjpg_UX1000_.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "BTV Animals Live",
       "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "BTV Aurora Live",
       "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "风云音乐",
@@ -154,115 +154,115 @@
       "name": "AlbKanale Music TV",
       "url": "https://albportal.net/albkanalemusic.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "AXS TV Now",
       "url": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Channel V",
       "url": "http://live.tvfix.org/hls/channelv.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1212/0dad8b3a9b619ca3134c54e3c5356bb2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "MTV (USA)",
       "url": "http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Polo TV (Italy)",
       "url": "http://54.39.17.6:8080/polotv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Qello Concerts",
       "url": "https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Spotlight TV",
       "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "The Country Network",
       "url": "https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Stingray Classic Rock",
       "url": "https://stirr.ott-channels.stingray.com/101/master.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Stingray Djazz",
       "url": "https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Stingray Everything 80s",
       "url": "https://stirr.ott-channels.stingray.com/128/master.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Stingray Flashback 70s",
       "url": "https://stirr.ott-channels.stingray.com/115/master.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Stingray Hits List",
       "url": "https://stirr.ott-channels.stingray.com/107/master.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Stingray Holiday Hits",
       "url": "https://stirr.ott-channels.stingray.com/155/master.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Stingray Hot Country",
       "url": "https://stirr.ott-channels.stingray.com/108/master.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Stingray Karaoke",
       "url": "https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Stingray Naturescape",
       "url": "https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Stingray Pop",
       "url": "https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Stingray Today's Latin Pop",
       "url": "https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     }
   ]
 }
