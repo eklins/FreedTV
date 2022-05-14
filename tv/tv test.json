@@ -1,10 +1,16 @@
 {
   "data": [
     {
-      "name": "海绵宝宝S1-13 (14495324)",
+      "name": "海绵宝宝S1-13 (14495324)T",
       "url": "http://zzy789.xyz/bili.php?id=14495324",
       "pic": "https://img.aidotu.com/down/jpg/20200828/325e82163ae5d0c250c9d0bad76e64d6_126728_500_764.jpg",
       "parse": true
+    },
+    {
+      "name": "海绵宝宝S1-13 (61834)F",
+      "url": "http://zzy789.xyz/bili.php?id=61834",
+      "pic": "https://img.aidotu.com/down/jpg/20200828/325e82163ae5d0c250c9d0bad76e64d6_126728_500_764.jpg",
+      "parse": false
     },
     {
       "name": "犬夜叉2000",
