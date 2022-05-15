@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "电影轮播 ",
-      "pic": "http://puui.qpic.cn/vcover_vt_pic/0/o1l8clummn1wkryt1465297264.jpg/0",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFQZkfW4mB8-y1U43eM8kk1wegyRlphXO6g&usqp=CAU",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%94%B5%E5%BD%B1%E8%BD%AE%E6%92%AD.json",
       "type": "json",
       "subTitle": "",
@@ -18,7 +18,7 @@
     },
     {
       "name": "电视剧轮播 ",
-      "pic": "https://m.media-amazon.com/images/M/MV5BY2MwOGIyZGYtNzgxZC00N2Q5LTllYjItM2U4MTkwMDBjYzUyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JbDAisQCMVx6Q-zJ9SxT7aEfVGHZA7Jh9A&usqp=CAU",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%94%B5%E8%A7%86%E5%89%A7%E8%BD%AE%E6%92%AD.json",
       "type": "json",
       "subTitle": "",
@@ -34,7 +34,7 @@
     },
     {
       "name": "动漫轮播 ",
-      "pic": "https://www.17happy.cn/film-img/20061263231145.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa06nulHaH-fHaRBeOuU-m0rHYDR2dqcfxRA&usqp=CAU",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E5%8A%A8%E6%BC%AB%E8%BD%AE%E6%92%AD.json",
       "type": "json",
       "subTitle": "",
@@ -66,7 +66,7 @@
     },
     {
       "name": "体育台 ",
-      "pic": "https://img.599ku.com/element_min_new_pic/11/29/96/40/d7e4192775239e35d0b2199bb215364d.png",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDfsenVNcBvC14yv6J7n0wjlP-Pz_pbb-dg&usqp=CAU",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E4%BD%93%E8%82%B2.json",
       "type": "json",
       "subTitle": "",
@@ -82,7 +82,7 @@
     },
     {
       "name": "NewTV ",
-      "pic": "https://img.downkuai.com/logo/20200917/a378ef747bc4a0997c244568ac25b9f6.png",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzBjsosYl96sGv0yyLiLT_YguqTu5KjCsvCQ&usqp=CAU",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/newtv.m3u",
       "type": "txt",
       "subTitle": "",
@@ -114,7 +114,7 @@
     },
     {
       "name": "China TV ",
-      "pic": "https://pic1.xuehuaimg.com/proxy/baijia/https://f12.baidu.com/it/u=2218732580,1124302771&fm=173&app=49&f=JPEG?w=640&h=849&s=1CB94A968C11C64579137FBE03008008&access=215967316",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxiWDXgLiDbvrJalOcxFsedP__HwZ-9tTYUA&usqp=CAU",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20China.json",
       "type": "json",
       "subTitle": "",
@@ -130,7 +130,7 @@
     },
     {
       "name": "USA TV ",
-      "pic": "https://cdn11.bigcommerce.com/s-6g1miblx2o/images/stencil/1280x1280/products/2700/2766/apif8mz62__40941.1510865267.jpg?c=2",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2t6I8u-RbV6-wyfDNZiDsgC2K9pLq4RpPKQ&usqp=CAU",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20USA.m3u",
       "type": "m3u",
       "subTitle": "",
@@ -146,7 +146,7 @@
     },
     {
       "name": "US 18X ",
-      "pic": "https://i.beauty321.com/816x/https://il.beauty321.com/gallery/gallery/41813/photo-60e66c1e34ff9.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-B0Yxy981z3qDZn3V_9au3CpqgC36sp3HYw&usqp=CAU",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/us%2018X.m3u",
       "type": "m3u",
       "subTitle": "",
