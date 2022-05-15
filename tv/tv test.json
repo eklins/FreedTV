@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "香港无线财经•资讯台F",
+      "url": "http://50.7.218.42:8278/tvbcaijing_twn/playlist.m3u8?tid=mbc57c85dcc17&ct=18336&tsum=1423657d67e66f6bb156158f2dd60353",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
+      "parse": false
+    },
+    {
       "name": "海绵宝宝S1-13 (14495324)T",
       "url": "http://zzy789.xyz/bili.php?id=14495324",
       "pic": "https://img.aidotu.com/down/jpg/20200828/325e82163ae5d0c250c9d0bad76e64d6_126728_500_764.jpg",
