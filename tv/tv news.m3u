@@ -37,7 +37,7 @@ https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 logo="https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/01/02bd502e-6910-416e-9422-ab17d03e33fb/thumbnail/640x360/3731f847fc947390a0f72aaed0b73585/cbsn-h-blue.jpg",CBSN
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-#EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2019/0801/2bc42b992ea918b8649261476ad427b9.png",CGTN 新闻
+#EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2019/0801/2bc42b992ea918b8649261476ad427b9.png",CGTN News
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8
 #EXTINF:-1 logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/128.png",Cheddar News (1080p)
 https://live.chdrstatic.com/cbn/index.m3u8
