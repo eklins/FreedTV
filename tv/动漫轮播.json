@@ -115,6 +115,12 @@
       "parse": false
     },
     {
+      "name": "XUMO Kabillion",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "幽游白书（日）",
       "url": "https://m.douyu.com/9938431",
       "pic": "https://dm530.in/poster/199269201.jpg",
