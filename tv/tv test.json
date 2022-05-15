@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "name": "CCTV-5+ 体育赛事",
+      "name": "CCTV-5+ 体育赛事F",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0722/20140722110316660.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港无线财经•资讯台F",
