@@ -250,7 +250,7 @@
       "name": "人间卫视",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomB6l3aMAr-mcMqShmgNlqIx_PCxieWWpHg&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "山东卫视",
