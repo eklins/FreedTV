@@ -205,6 +205,12 @@
       "parse": true
     },
     {
+      "name": "金庸频道",
+      "url": "http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "金庸经典武侠剧",
       "url": "https://m.douyu.com/7644931",
       "pic": "https://www.sinaimg.cn/ent/v/h/2006-05-11/U1735P28T3D1078991F326DT20060511201112.jpg",
