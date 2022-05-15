@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "CCTV-5+ 体育赛事",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0722/20140722110316660.jpg",
+      "parse": true
+    },
+    {
       "name": "香港无线财经•资讯台F",
       "url": "http://50.7.218.42:8278/tvbcaijing_twn/playlist.m3u8?tid=mbc57c85dcc17&ct=18336&tsum=1423657d67e66f6bb156158f2dd60353",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
