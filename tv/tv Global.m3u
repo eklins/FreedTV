@@ -705,7 +705,9 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kuwait.png",Kuwait❤Al Rai TV (720p)
 https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Laos.png",Laos❤Dao Lane Xang (720p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Laos.png",Laos❤Champa TV2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1, LAO★Dao Lane Xang (720p)
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 #EXTINF:-1, LAO★NAT TV (1080p)
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
