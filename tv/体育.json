@@ -4,31 +4,79 @@
       "name": "CCTV-5 体育",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225756/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/0417/20150417122518526.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-5+ 体育赛事",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0722/20140722110316660.jpg",
-      "parse": true
+      "parse": false
+    },
+    {
+      "name": "CCTV 冬奥纪实",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221233356/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 冬奥纪实 4K",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221233419/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 冬奥纪实 8K",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221233142/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 台球",
+      "url": "http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 高尔夫•网球",
+      "url": "http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
+      "parse": false
     },
     {
       "name": "PP体育",
       "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "风云足球",
       "url": "http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "魅力足球",
       "url": "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/0218/4d56ad1ebbb4685c2d09789e11704721.jpg",
-      "parse": true
+      "parse": false
+    },
+    {
+      "name": "新视觉体育",
+      "url": "http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8",
+      "pic": "http://www.weishizaixian.com/res/2021/06-29/bb11dc822c31e374d6a91da86b06c812.jpg",
+      "parse": false
+    },
+    {
+      "name": "精品体育",
+      "url": "http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "超级体育",
+      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAUebp",
+      "parse": false
     },
     {
       "name": "五星体育",
@@ -37,27 +85,9 @@
       "parse": false
     },
     {
-      "name": "新视觉体育",
-      "url": "http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8",
-      "pic": "http://www.weishizaixian.com/res/2021/06-29/bb11dc822c31e374d6a91da86b06c812.jpg",
-      "parse": true
-    },
-    {
       "name": "劲爆体育",
       "url": "http://live.tvfix.org/hls/jbtyhd.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
-      "parse": true
-    },
-    {
-      "name": "精品体育",
-      "url": "http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "超级体育",
-      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAUebp",
       "parse": true
     },
     {
