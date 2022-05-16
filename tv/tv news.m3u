@@ -13,6 +13,8 @@ https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/53240
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQvmwHHrWYH0CsLglY9aYMbvZwZj2vfbBZVR-tI=s900-c-k-c0x00ffffff-no-rj",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6sQaCsPXlX8oVHGoV-LDHKdH4aZbJB26jg&usqp=CAU",东方财经•浦东
+http://117.148.179.176/PLTV/88888888/224/3221231646/index.m3u8
 #EXTINF:-1 logo="https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg",ABC News US (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 logo="https://mumbrella.com.au/wp-content/uploads/2016/07/ABC-news.jpg",ABC News Australia (720p)
