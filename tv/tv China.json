@@ -97,8 +97,20 @@
       "parse": false
     },
     {
-      "name": "CCTV-16 4K高清",
+      "name": "CCTV-16 奥林匹克",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221233403/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiYz9cTj9snQ_sJdWtiTJDatTgi-Qvou46g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 4K高清",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 4K剧场",
+      "url": "http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
       "parse": false
     },
@@ -379,6 +391,12 @@
       "parse": false
     },
     {
+      "name": "少林剧场",
+      "url": "http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "京视剧场",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -487,6 +505,12 @@
       "parse": false
     },
     {
+      "name": "喜剧电影",
+      "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "咪咕：每日科幻电影",
       "url": "http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -523,6 +547,36 @@
       "parse": false
     },
     {
+      "name": "CCTV 冬奥纪实",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221233356/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 冬奥纪实 4K",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221233419/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 冬奥纪实 8K",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221233142/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 台球",
+      "url": "http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 高尔夫•网球",
+      "url": "http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
+      "parse": false
+    },
+    {
       "name": "PP体育",
       "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -541,21 +595,9 @@
       "parse": true
     },
     {
-      "name": "五星体育",
-      "url": "http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2016/1012/af0110995a6085842ac7a7d3f5df9452.jpg",
-      "parse": false
-    },
-    {
       "name": "新视觉体育",
       "url": "http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8",
       "pic": "http://www.weishizaixian.com/res/2021/06-29/bb11dc822c31e374d6a91da86b06c812.jpg",
-      "parse": true
-    },
-    {
-      "name": "劲爆体育",
-      "url": "http://live.tvfix.org/hls/jbtyhd.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
       "parse": true
     },
     {
@@ -568,6 +610,18 @@
       "name": "超级体育",
       "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "五星体育",
+      "url": "http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2016/1012/af0110995a6085842ac7a7d3f5df9452.jpg",
+      "parse": false
+    },
+    {
+      "name": "劲爆体育",
+      "url": "http://live.tvfix.org/hls/jbtyhd.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
       "parse": true
     },
     {
@@ -679,6 +733,12 @@
       "parse": true
     },
     {
+      "name": "天映经典",
+      "url": "https://www.chaojidianshi.net/zhibo/90.html",
+      "pic": "https://p6-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/5f8cfe0ff7a049558357648ae41a6067~tplv-mlhdmxsy5m-q75:0:0.image",
+      "parse": true
+    },
+    {
       "name": "TVB 翡翠台",
       "url": "https://www.chaojidianshi.net/zhibo/78.html",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/29741/cut-20190627111118-175179980_jpg_286_229_7658.jpg/300",
@@ -697,10 +757,10 @@
       "parse": true
     },
     {
-      "name": "天映经典",
-      "url": "https://www.chaojidianshi.net/zhibo/90.html",
-      "pic": "https://p6-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/5f8cfe0ff7a049558357648ae41a6067~tplv-mlhdmxsy5m-q75:0:0.image",
-      "parse": true
+      "name": "TVB 剧场",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
+      "parse": false
     },
     {
       "name": "TVB J1",
@@ -809,6 +869,12 @@
       "url": "http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
+    },
+    {
+      "name": "澳门澳视综艺",
+      "url": "http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
     },
     {
       "name": "澳门 Canal CH02",
@@ -937,6 +1003,12 @@
       "parse": true
     },
     {
+      "name": "台湾ELTA影剧台",
+      "url": "http://50.7.218.42:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "台湾经典电影台",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
@@ -1061,6 +1133,12 @@
       "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
+    },
+    {
+      "name": "台湾猪哥亮歌厅秀",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
     },
     {
       "name": "Indigenous TV",
