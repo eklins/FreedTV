@@ -367,6 +367,12 @@
       "parse": true
     },
     {
+      "name": "粤语电影06",
+      "url": "http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "周星驰（粤）",
       "url": "https://m.huya.com/11336587",
       "pic": "https://www.xingzhua.com/uploadfile/2020/0504/20200504071331791.jpg",
