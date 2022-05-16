@@ -159,13 +159,19 @@
     {
       "name": "全职猎人（日）",
       "url": "https://m.douyu.com/6610883",
-      "pic": "https://imomoe.one/poster/20110048.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnno6AT7_4KZcvK1ewCzZRptfC8zpCwonGA&usqp=CAU",
       "parse": true
     },
     {
       "name": "高达（日）",
       "url": "https://m.douyu.com/426517",
-      "pic": "https://pic3.zhimg.com/80/v2-d6b33c9fc253de7ea605776570256382_1440w.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgg6kgaVVLi2dJ9MAFZCIAeseyROwi5ixPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "奥特曼（日）",
+      "url": "http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVXOzPm-zT3L_4UUfxpNjENHKMCtazQazXQ&usqp=CAU",
       "parse": true
     },
     {
