@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "name": "无线财经T",
+      "url": "https://www.nettvpro.live/m/play.php?aid=4563",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "无线财经F",
+      "url": "https://www.nettvpro.live/m/play.php?aid=4563",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
       "name": "美亚电影（粤）T",
       "url": "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=89&pathid=1",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
