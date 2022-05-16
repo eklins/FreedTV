@@ -223,6 +223,12 @@
       "parse": true
     },
     {
+      "name": "TVB 剧场",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TVB粤语01",
       "url": "https://m.douyu.com/252308",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
