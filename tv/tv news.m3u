@@ -9,6 +9,8 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",香港无线新闻台 TVB News
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",香港无线财经•资讯台
+http://50.7.218.42:8278/tvbcaijing_twn/playlist.m3u8?tid=mbc57c85dcc17&ct=18336&tsum=1423657d67e66f6bb156158f2dd60353
 #EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2016/0922/2e357e13827907f8b90e628ebdd1d1e3.jpg",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQvmwHHrWYH0CsLglY9aYMbvZwZj2vfbBZVR-tI=s900-c-k-c0x00ffffff-no-rj",点掌财经
