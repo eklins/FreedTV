@@ -2,15 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "美剧范",
-      "url": "http://ttzmz.net/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-      "detailUrl": "http://ttzmz.net/api.php/v1.vod/detail?vod_id=detailId",
-      "cate": "欧美剧,1&&英剧,2&&动漫,5",
-      "type": "json",
-      "click": true
-    },
-    {
-      "id": 1,
       "name": "美剧虫",
       "url": "https://meijuchong.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
       "detailUrl": "https://meijuchong.com/api.php/v1.vod/detail?vod_id=detailId",
