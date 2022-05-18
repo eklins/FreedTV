@@ -985,6 +985,12 @@
       "parse": true
     },
     {
+      "name": "台湾纬来体育",
+      "url": "https://www.chaojidianshi.net/zhibo/726.html",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4B6vycraVMWqIcUO1DLzcKyp0ebsSIEe48g&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "台湾公视戏剧",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
