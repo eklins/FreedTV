@@ -43,8 +43,14 @@
       "parse": true
     },
     {
-      "name": "宝可梦",
+      "name": "宝可梦01",
       "url": "https://m.douyu.com/9765742",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3iO2XREqy57y9h0-8Uu1lOoTPX2JFEUd3w&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "宝可梦02",
+      "url": "http://zzy789.xyz/bili.php?id=24335292",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3iO2XREqy57y9h0-8Uu1lOoTPX2JFEUd3w&usqp=CAU",
       "parse": true
     },
