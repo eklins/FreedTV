@@ -115,6 +115,12 @@
       "parse": true
     },
     {
+      "name": "台湾纬来体育",
+      "url": "https://www.chaojidianshi.net/zhibo/726.html",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4B6vycraVMWqIcUO1DLzcKyp0ebsSIEe48g&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Астрахань.Ru Sport",
       "url": "http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -197,6 +203,12 @@
       "url": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "NBA Canada",
+      "url": "https://www.chaojidianshi.net/zhibo/653.html",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9OAoADnhEu0ZC1gNFa1oOZ4Px5JE3b3dbiw&usqp=CAU",
+      "parse": true
     },
     {
       "name": "Oman Sports TV",
