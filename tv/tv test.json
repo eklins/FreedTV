@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "第一财经",
+      "url": "https://m.yicai.com/tv/",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "无线财经T",
       "url": "https://www.nettvpro.live/m/play.php?aid=4563",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
