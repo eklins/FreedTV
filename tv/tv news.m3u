@@ -15,6 +15,8 @@ http://50.7.218.42:8278/tvbcaijing_twn/playlist.m3u8?tid=mbc57c85dcc17&ct=18336&
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQvmwHHrWYH0CsLglY9aYMbvZwZj2vfbBZVR-tI=s900-c-k-c0x00ffffff-no-rj",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuR5H4Tebef3-p_nUbHxU08Ks5LvlVQ8pZfA&usqp=CAU",第一财经
+http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6sQaCsPXlX8oVHGoV-LDHKdH4aZbJB26jg&usqp=CAU",东方财经•浦东
 http://117.148.179.176/PLTV/88888888/224/3221231646/index.m3u8
 #EXTINF:-1 logo="https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg",ABC News US (720p)
