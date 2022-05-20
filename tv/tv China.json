@@ -800,9 +800,9 @@
     },
     {
       "name": "香港有线新闻台",
-      "url": "https://www.chaojidianshi.net/zhibo/62.html",
+      "url": "https://api.leonardpark.dev/live/icable/109",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkcwR6oAHj40u1_WK0Ke3tXc55qfNGE8W3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港有线电影台",
@@ -838,6 +838,12 @@
       "name": "点掌财经",
       "url": "http://cclive.aniu.tv/live/anzb.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLQvmwHHrWYH0CsLglY9aYMbvZwZj2vfbBZVR-tI=s900-c-k-c0x00ffffff-no-rj",
+      "parse": false
+    },
+    {
+      "name": "第一财经",
+      "url": "http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuR5H4Tebef3-p_nUbHxU08Ks5LvlVQ8pZfA&usqp=CAU",
       "parse": false
     },
     {
