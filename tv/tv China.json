@@ -802,7 +802,7 @@
       "name": "香港有线新闻台",
       "url": "https://api.leonardpark.dev/live/icable/109",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkcwR6oAHj40u1_WK0Ke3tXc55qfNGE8W3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "香港有线电影台",
