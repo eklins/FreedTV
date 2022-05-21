@@ -33,10 +33,10 @@ https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRc38l1gl1JCFmSEKKuNjvlTPkuk25TH2fyw&usqp=CAU",Black News Channel (720p)
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="https://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV USA
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQxpBQ01Vx2z7gTHnswoy2N-iZ3ZIAI1QH0k14t=s900-c-k-c0x00ffffff-no-rj",Bloomberg TV Mexico
 https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 logo="https://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV USA
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 logo="https://shortyawards.imgix.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png?auto=format&fit=crop&h=300&q=65&w=500&s=cb21d6a342f58f8b5d569fb92fe02d19",Bloomberg Quicktake (1080p)
 https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fYpZml0sLFA-53NYsRRS6UKV42iZ_yeXQA&usqp=CAU",CBC News Highlights (720p)
