@@ -27,9 +27,11 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS934k9F2F5q9sTpqIbEJgSTfHYP-h2hkbHmg&usqp=CAU",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-vD5XSq3zKeTkKJcKiqxfF67F9Caqgz1Ig&usqp=CAU",Ameritrade (1080p)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-vD5XSq3zKeTkKJcKiqxfF67F9Caqgz1Ig&usqp=CAU",Ameritrade
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBq5HMC3YKexSqB4RHBLdd-_kOsBJ_ojI5w&usqp=CAU",BBC World News (480p)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",BBC News
+http://live.tvfix.org/hls/bbcnews.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWydvEITUDSPECwODd3bwcbdNa4PegZgFRQ&usqp=CAU",BBC World News (480p)
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRc38l1gl1JCFmSEKKuNjvlTPkuk25TH2fyw&usqp=CAU",Black News Channel (720p)
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
@@ -37,7 +39,7 @@ https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71P4mnHdjmdwkH7R6ydUECWuLKxGKVX1-Hw&usqp=CAU",Bloomberg TV USA
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 logo="https://shortyawards.imgix.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png?auto=format&fit=crop&h=300&q=65&w=500&s=cb21d6a342f58f8b5d569fb92fe02d19",Bloomberg Quicktake (1080p)
+#EXTINF:-1 logo="https://shortyawards.imgix.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png?auto=format&fit=crop&h=300&q=65&w=500&s=cb21d6a342f58f8b5d569fb92fe02d19",Bloomberg Quicktake
 https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fYpZml0sLFA-53NYsRRS6UKV42iZ_yeXQA&usqp=CAU",CBC News Highlights (720p)
 https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
@@ -47,7 +49,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 #EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2019/0801/2bc42b992ea918b8649261476ad427b9.png",CGTN News
 http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
-#EXTINF:-1 logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/128.png",Cheddar News (1080p)
+#EXTINF:-1 logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/128.png",Cheddar News
 https://live.chdrstatic.com/cbn/index.m3u8
 #EXTINF:-1 logo="https://onecms-res.cloudinary.com/image/upload/v1628577495/mediacorp/cna/image/2021-08/cna-logo-data.jpg",CNA 亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -55,7 +57,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 logo="https://s3.spbtv.com/spbtv-world-production/50577931455a0d496a75_512x512c.png",DW English (1080p)
+#EXTINF:-1 logo="https://s3.spbtv.com/spbtv-world-production/50577931455a0d496a75_512x512c.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/61-5K6QDrnL.png",Euronews English (720p)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
@@ -65,17 +67,17 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:-1 logo="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/1024/512/Fox-Weather-THUMB-SLIDE-3.jpg?ve=1&tl=1",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyGuxCofh3wqGebKPnBav9EXEWkESCE3XKA&usqp=CAU",France 24 English (1080p)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyGuxCofh3wqGebKPnBav9EXEWkESCE3XKA&usqp=CAU",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXaOxqLJW05rS3SHdrohAaZObWOjXeuXxWlg&usqp=CAU",NBC News Now (1080p)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXaOxqLJW05rS3SHdrohAaZObWOjXeuXxWlg&usqp=CAU",NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s900-c-k-c0x00ffffff-no-rj",Newsmax (720p)
 https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRBf0L188buhIlbd0bVKlCHvAZuvCuRTGTm2VKrRQ=s900-c-k-c0x00ffffff-no-rj",News 12 New York (1080p)
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRBf0L188buhIlbd0bVKlCHvAZuvCuRTGTm2VKrRQ=s900-c-k-c0x00ffffff-no-rj",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/1200px-Newsy_2021.svg.png",Newsy US
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJLxHdFg-KXgCdhJFBXaW6ziXZ5MxBk7cS3g&usqp=CAU",OAN (1080p)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJLxHdFg-KXgCdhJFBXaW6ziXZ5MxBk7cS3g&usqp=CAU",OAN
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/RussiaToday-logo.jpg/revision/latest/scale-to-width-down/200?cb=20150103194351",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -89,7 +91,7 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/The_First_TV_logo.png",US The First
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",Yahoo Finance (1080p)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 logo="https://commed.umassmed.edu/sites/default/files/images/media-logo/Yahoo%20NEWS.png",Yahoo News (720p)
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
