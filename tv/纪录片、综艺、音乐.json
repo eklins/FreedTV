@@ -43,6 +43,12 @@
       "parse": true
     },
     {
+      "name": "岳云鹏相声",
+      "url": "https://m.huya.com/11342437",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Running Man 2010",
       "url": "https://m.douyu.com/7298973",
       "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
@@ -61,18 +67,6 @@
       "parse": false
     },
     {
-      "name": "CGTN Documentary",
-      "url": "http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
-      "parse": false
-    },
-    {
-      "name": "Discovery",
-      "url": "http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
       "name": "兵器科技",
       "url": "http://m.haoqu99.com/1/cctvguofang.html",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
@@ -81,7 +75,7 @@
     {
       "name": "军事评论",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": false
     },
     {
@@ -109,10 +103,16 @@
       "parse": true
     },
     {
-      "name": "岳云鹏相声",
-      "url": "https://m.huya.com/11342437",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "name": "Absolute Reality WeTV",
+      "url": "https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmQw4gt6li-nMIPdvFq7p5Pr7NgNTGudCFw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AMC Presents",
+      "url": "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOaCaboV-zr2p-qy5PhOiJGEC8MMiC1LXvi0oG6NRrTGdw5KE4&s",
+      "parse": false
     },
     {
       "name": "America Funniest Home Video",
@@ -121,15 +121,27 @@
       "parse": false
     },
     {
+      "name": "CGTN Documentary",
+      "url": "http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
+      "parse": false
+    },
+    {
+      "name": "Discovery",
+      "url": "http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "NASA TV",
       "url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxDxEGClTI2kghsItcV8EtUUo7-Ks8LhRnsA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8YtOWRGP5NpBd3TLoE3pPQRQgDSAzke_wmA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Outdoor Adventure",
       "url": "https://m.huya.com/21059555",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
@@ -159,7 +171,7 @@
     {
       "name": "韩国女团",
       "url": "https://m.douyu.com/10639903",
-      "pic": "https://thumbs.dreamstime.com/b/korean-popular-music-style-k-pop-korean-popular-music-style-south-korea-flag-k-pop-hand-drawn-lettering-banner-print-postcard-175831319.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jjqlPhEC5L2zVyAnqtFnsWAXOyEoWCXzkw&usqp=CAUint-postcard-175831319.jpg",
       "parse": true
     },
     {
@@ -177,7 +189,7 @@
     {
       "name": "Channel V",
       "url": "http://live.tvfix.org/hls/channelv.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2016/1212/0dad8b3a9b619ca3134c54e3c5356bb2.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8EXebhEUZ80cpRq_YEvdtybb-unk75buhdQ&usqp=CAU",
       "parse": false
     },
     {
