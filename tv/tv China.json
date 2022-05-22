@@ -975,13 +975,19 @@
     {
       "name": "台湾三立新闻",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/CKjSm5ZeehE?list=TLGG3k0l2ItimdExMzA1MjAyMg",
-      "pic": "https://i.ytimg.com/vi/pJ0VgJloR9E/maxresdefault.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
       "parse": true
     },
     {
-      "name": "台湾三立财经新闻iNEWS",
+      "name": "台湾三立新闻（海外直播）",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=FoBfXvlOR6I",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9Z-aC6taPLKZTdxmtz0VSWRwXuQlBWIxZQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾三立财经新闻",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTv9JvAx7ZiowJn0RiXptVILq86Vxxe_gYtg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyXBEnFoM_2tBFAq79GbvBd97AmvRtjCm9A&usqp=CAU",
       "parse": true
     },
     {
