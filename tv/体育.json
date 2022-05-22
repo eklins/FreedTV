@@ -85,6 +85,12 @@
       "parse": false
     },
     {
+      "name": "咪咕体育",
+      "url": "http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "五星体育",
       "url": "http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1012/af0110995a6085842ac7a7d3f5df9452.jpg",
