@@ -145,9 +145,9 @@
       "webPlus": {}
     },
     {
-      "name": "US 18X ",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-B0Yxy981z3qDZn3V_9au3CpqgC36sp3HYw&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/us%2018X.m3u",
+      "name": "Global TV ",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxtbviCaL2IHaeTGsvzF9STDJcqLIWRj1kw&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20Global.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -161,9 +161,9 @@
       "webPlus": {}
     },
     {
-      "name": "Global TV ",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxtbviCaL2IHaeTGsvzF9STDJcqLIWRj1kw&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20Global.m3u",
+      "name": "成人TV🔞",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-B0Yxy981z3qDZn3V_9au3CpqgC36sp3HYw&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/us%2018X.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
