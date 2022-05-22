@@ -229,6 +229,12 @@
       "parse": true
     },
     {
+      "name": "午夜剧场",
+      "url": "http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "神话、武侠",
       "url": "https://m.douyu.com/338759",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
