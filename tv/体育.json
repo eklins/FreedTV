@@ -99,14 +99,14 @@
     {
       "name": "iHot体育",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg",
+      "parse": true
     },
     {
       "name": "iHot赛车",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251IS50-L.jpg",
+      "parse": true
     },
     {
       "name": "江苏体育",
