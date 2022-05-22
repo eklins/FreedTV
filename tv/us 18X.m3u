@@ -1,88 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" status="online",IPTV Anal (720p)
+#EXTINF:-1 ,Anal
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" status="online",IPTV Asian (720p)
+#EXTINF:-1 ,Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" status="online",IPTV Big Ass (720p)
+#EXTINF:-1 ,Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" status="online",IPTV Big Dick (720p)
+#EXTINF:-1 ,Big Dick
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" status="online",IPTV Big Tits (720p)
+#EXTINF:-1 ,Big Tits
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" status="online",IPTV Blonde (720p)
+#EXTINF:-1 ,Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" status="online",IPTV Blowjob (720p)
+#EXTINF:-1 ,Blowjob
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" status="online",IPTV Brunette (720p)
+#EXTINF:-1 ,Brunette
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" status="online",IPTV Compilation (720p)
+#EXTINF:-1 ,Compilation
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" status="online",IPTV Cuckold (720p)
+#EXTINF:-1 ,Cuckold
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" status="online",IPTV Fetish (720p)
+#EXTINF:-1 ,Fetish
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" status="online",IPTV Gangbang (720p)
+#EXTINF:-1 ,Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" status="online",IPTV Gay (720p)
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" status="online",IPTV Hardcore (720p)
+#EXTINF:-1 ,Hardcore
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" status="online",IPTV Interracial (720p)
+#EXTINF:-1 ,Interracial
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" status="online",IPTV Latina (720p)
+#EXTINF:-1 ,Latina
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" status="online",IPTV Lesbian (720p)
+#EXTINF:-1 ,Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" status="online",IPTV Live Cams (720p)
+#EXTINF:-1 ,Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" status="online",IPTV MILF (720p)
+#EXTINF:-1 ,MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" status="online",IPTV Pornstar (720p)
+#EXTINF:-1 ,Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" status="online",IPTV POV (720p)
+#EXTINF:-1 ,POV
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" status="online",IPTV Rough (720p)
+#EXTINF:-1 ,Rough
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" status="online",IPTV Russian (720p)
+#EXTINF:-1 ,Russian
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" status="online",IPTV Teen (720p)
+#EXTINF:-1 ,Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" status="online",IPTV Threesome (720p)
+#EXTINF:-1 ,Threesome
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" status="online",IPTV Woman (720p)
+#EXTINF:-1 ,Woman
 http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 ,卫星机房专用30
-http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
 #EXTINF:-1 ,卫星机房专用35
 http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 #EXTINF:-1 ,卫星机房专用36
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 ,松视1欧美版
-http://live.redtraffic.xyz:80/fetish.m3u8
-#EXTINF:-1 ,松视2欧美版
-http://live.redtraffic.xyz:80/interracial.m3u8
-#EXTINF:-1 ,松视3欧美版
-http://live.redtraffic.xyz:80/bigtits.m3u8
-#EXTINF:-1 ,松视4欧美版
-http://live.redtraffic.xyz:80/bigdick.m3u8
-#EXTINF:-1 ,潘多拉欧美版
-http://live.redtraffic.xyz:80/pornstar.m3u8
-#EXTINF:-1 ,香蕉台欧美版
-http://live.redtraffic.xyz:80/milf.m3u8
-#EXTINF:-1 ,K频道欧美版
-http://live.redtraffic.xyz:80/threesome.m3u8
-#EXTINF:-1 ,惊艳台欧美版
-http://live.redtraffic.xyz:80/cuckold.m3u8
-#EXTINF:-1 ,HOT欧美版
-http://live.redtraffic.xyz:80/hardcore.m3u8
-#EXTINF:-1 ,粉红台欧美版
-http://live.redtraffic.xyz:80/teen.m3u8
-#EXTINF:-1 ,玩美台欧美版
-http://live.redtraffic.xyz:80/pov.m3u8
-#EXTINF:-1 ,歐美高清10
-http://live.redtraffic.xyz/bigass.m3u8fluxuslust.m3u8
-#EXTINF:-1 ,VISIT-X TV HD (18+)
-http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+#EXTINF:-1 ,Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 ,VISIT-X TV 1935
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 ,VISIT-X TV Chunklist
+http://stream.visit-x.tv/vxtv/live/chunklist_w1769846509.m3u8
+#EXTINF:-1 ,VISIT-X TV Playlist
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:0,CamTV Teen Girls
 http://live.mycamtv.com/teen.m3u8
 #EXTINF:0,CamTV MILF
@@ -401,116 +379,6 @@ https://47b61.cdnedge.live/file/avple-images/hls/60705b9190160a18a06bac75/playli
 https://47b61.cdnedge.live/file/avple-images/hls/6070548990160a18a06bac73/playlist.m3u8
 #EXTINF:-1 ,新麻豆657
 https://47b61.cdnedge.live/file/avple-images/hls/606eedf13d938869f8b4803e/playlist.m3u8
-#EXTINF:-1 ,Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 ,VISIT-X
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 ,Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 ,Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 ,Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 ,Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 ,Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 ,Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 ,Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 ,Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 ,Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 ,POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 ,Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 ,Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 ,Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 ,Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 ,Big Tits
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 ,Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 ,MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 ,Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 ,Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 ,Gay
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 ,Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 ,Bigass HD
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 ,Cuckold HD
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 ,Fetish HD
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 ,Hard Core
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 ,Interracial HD
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 ,Latina HD 720
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 ,Lesbian HD
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 ,Milf HD
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 ,Pornstar HD
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 ,POV HD 720
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 ,歐美2
-http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-#EXTINF:-1 ,歐美3
-http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
-#EXTINF:-1 ,歐美4
-http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-#EXTINF:-1 ,歐美5
-http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-#EXTINF:-1 ,歐美6
-http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-#EXTINF:-1 ,歐美7
-http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-#EXTINF:-1 ,歐美8
-http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-#EXTINF:-1 ,歐美9
-http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-#EXTINF:-1 ,歐美10
-http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-#EXTINF:-1 ,歐美11
-http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-#EXTINF:-1 ,歐美12
-http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-#EXTINF:-1 ,褐髮 720
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 ,合集 720
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 ,綠帽 720
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 ,群交 720
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 ,RedTraffic Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 ,RedTraffic Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 ,RedTraffic Russian
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 ,RedTraffic Teen
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 ,RedTraffic Threesome
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 ,VISIT-X TV
-http://stream.visit-x.tv/vxtv/live/chunklist_w1769846509.m3u8
-#EXTINF:-1 ,VISIT-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 ,SET-009c-僕生中出人妻 篠田ゆう
 http://videocdn.quweikm.com:8091/20180730/SET-009c/index.m3u8
 #EXTINF:-1 ,SERO-0205c-抜14発中出  武井麻希
