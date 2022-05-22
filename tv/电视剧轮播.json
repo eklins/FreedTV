@@ -205,6 +205,12 @@
       "parse": true
     },
     {
+      "name": "4K剧场",
+      "url": "http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "第一剧场",
       "url": "http://m.haoqu99.com/1/cctvdyjc.html",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
@@ -227,6 +233,24 @@
       "url": "https://m.douyu.com/8168353",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
+    },
+    {
+      "name": "武侠剧场",
+      "url": "http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "少林剧场",
+      "url": "http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "军旅剧场",
+      "url": "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
     },
     {
       "name": "午夜剧场",
