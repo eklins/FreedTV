@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "name": "Bloomberg Financial YouTube",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dp8PhLsUcFE",
+      "name": "TVB星河台",
+      "url": "http://liuy.usa7.20212021.ga/ns.php?id=76",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
@@ -17,18 +17,6 @@
       "url": "https://m.yicai.com/tv/",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
-    },
-    {
-      "name": "无线财经T",
-      "url": "https://www.nettvpro.live/m/play.php?aid=4563",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "无线财经F",
-      "url": "https://www.nettvpro.live/m/play.php?aid=4563",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
     },
     {
       "name": "美亚电影（粤）T",
@@ -99,6 +87,18 @@
     {
       "name": "香港无线财经资讯台 nettv",
       "url": "http://nettv.live/m/play.php?aid=4563",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "无线财经 nettvpro",
+      "url": "https://www.nettvpro.live/m/play.php?aid=4563",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
+      "name": "无线财经 liuy",
+      "url": "http://liuy.usa7.20212021.ga/ns.php?id=79",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
