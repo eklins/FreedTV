@@ -58,13 +58,13 @@
       "name": "CCTV-9 纪录",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunGOpNHKH2iuDkqWTmVS5WK9XcJwG1KuIvA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "CCTV-10 科教",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLQO2PYa4b8bTIBKeOWkl2yJ1o7NTnJtqze0mO8BDw=s900-c-k-c0x00ffffff-no-rj",
-      "parse": false
+      "parse": true
     },
     {
       "name": "兵器科技",
@@ -76,25 +76,25 @@
       "name": "军事评论",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "文化精品",
       "url": "http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "发现之旅",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "世界地理",
       "url": "http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055201348.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "老故事",
@@ -106,49 +106,49 @@
       "name": "iHot历史",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HA20-L.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "iHot解密",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H1090-L.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "iHot探索",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J6430-L.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "iHot奇谈",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HU90-L.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "iHot猎奇",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J5500-L.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "iHot世界",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I0500-L.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "iHot极限",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "iHot科学",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "成都熊猫繁育研究基地",
@@ -160,25 +160,25 @@
       "name": "Absolute Reality WeTV",
       "url": "https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmQw4gt6li-nMIPdvFq7p5Pr7NgNTGudCFw&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "AMC Presents",
       "url": "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOaCaboV-zr2p-qy5PhOiJGEC8MMiC1LXvi0oG6NRrTGdw5KE4&s",
-      "parse": false
+      "parse": true
     },
     {
       "name": "America Funniest Home Video",
       "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4iz3xL7C1b9h_juK8PmVTHKWh5mrJ-pahg&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "CGTN Documentary",
       "url": "http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Discovery",
@@ -190,7 +190,7 @@
       "name": "NASA TV",
       "url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8YtOWRGP5NpBd3TLoE3pPQRQgDSAzke_wmA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Outdoor Adventure",
@@ -202,13 +202,13 @@
       "name": "PBS America",
       "url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57S0TUTObRSuDoQw5TcnZGtlcPhUiba7VJw&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Young Hollywood",
       "url": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
       "pic": "https://m.media-amazon.com/images/M/MV5BMjhkNjZhYjUtMTE0Mi00MzRmLTgyMzktNmZjMjk5MThiMTJlXkEyXkFqcGdeQXVyMzMzNDgxMjE@._V1_FMjpg_UX1000_.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "风云音乐",
@@ -232,115 +232,115 @@
       "name": "AlbKanale Music TV",
       "url": "https://albportal.net/albkanalemusic.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "AXS TV Now",
       "url": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Channel V",
       "url": "http://live.tvfix.org/hls/channelv.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8EXebhEUZ80cpRq_YEvdtybb-unk75buhdQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "MTV (USA)",
       "url": "http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Polo TV (Italy)",
       "url": "http://54.39.17.6:8080/polotv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Qello Concerts",
       "url": "https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Spotlight TV",
       "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "The Country Network",
       "url": "https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Stingray Classic Rock",
       "url": "https://stirr.ott-channels.stingray.com/101/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Stingray Djazz",
       "url": "https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Stingray Everything 80s",
       "url": "https://stirr.ott-channels.stingray.com/128/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Stingray Flashback 70s",
       "url": "https://stirr.ott-channels.stingray.com/115/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Stingray Hits List",
       "url": "https://stirr.ott-channels.stingray.com/107/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Stingray Holiday Hits",
       "url": "https://stirr.ott-channels.stingray.com/155/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Stingray Hot Country",
       "url": "https://stirr.ott-channels.stingray.com/108/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Stingray Karaoke",
       "url": "https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Stingray Naturescape",
       "url": "https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Stingray Pop",
       "url": "https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Stingray Today's Latin Pop",
       "url": "https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     }
   ]
 }
