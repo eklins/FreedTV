@@ -172,31 +172,31 @@
       "name": "Rakuten Action UK",
       "url": "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Rakuten Comedy UK",
       "url": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Rakuten Film Streams UK",
       "url": "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Rakuten Top Free UK",
       "url": "https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Rakuten TV Shows UK",
       "url": "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "STIRR American Classics",
