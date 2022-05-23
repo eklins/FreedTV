@@ -69,8 +69,8 @@
     {
       "name": "神探狄仁杰2004",
       "url": "http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEOiRrr_mzaCw1n1m51yJPvuSJnc-DBQcwQ&usqp=CAU",
-      "parse": false
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmNbfckKx_YJkdR7L6oxsM_Sj528yekbzlA&usqp=CAU",
+      "parse": true
     },
     {
       "name": "神机妙算刘伯温2014",
@@ -208,7 +208,7 @@
       "name": "4K剧场",
       "url": "http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "第一剧场",
@@ -238,25 +238,25 @@
       "name": "武侠剧场",
       "url": "http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "少林剧场",
       "url": "http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "军旅剧场",
       "url": "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "午夜剧场",
       "url": "http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "神话、武侠",
@@ -268,13 +268,13 @@
       "name": "古龙频道",
       "url": "http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYw2qx_1IT8atHLL9_fh6ihN2T4ySPfAqmw&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "金庸频道",
       "url": "http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6eIMvG4MP7IAnckZrVMJfMx3XtM6pcFFFSQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "金庸经典武侠剧",
@@ -292,7 +292,7 @@
       "name": "TVB 剧场",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "TVB粤语01",
