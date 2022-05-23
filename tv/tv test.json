@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "台湾中天新闻 YouTube",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_QbRXRnHMVY",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "TVB星河台",
       "url": "http://liuy.usa7.20212021.ga/ns.php?id=76",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
