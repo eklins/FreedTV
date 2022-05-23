@@ -37,12 +37,6 @@
       "parse": true
     },
     {
-      "name": "追剧少女",
-      "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
-      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
-      "parse": true
-    },
-    {
       "name": "欧美电影01",
       "url": "https://m.douyu.com/323876",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
@@ -339,6 +333,12 @@
     {
       "name": "欧美日韩03",
       "url": "https://m.douyu.com/5403257",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "追剧少女",
+      "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
