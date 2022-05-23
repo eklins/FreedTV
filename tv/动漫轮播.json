@@ -112,7 +112,7 @@
       "name": "ConTV Anime",
       "url": "https://contvanime-tcl.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttiEPZL-aldVy-qc4OeeVI6tVaMqUtpFtzg&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Disney",
@@ -124,19 +124,19 @@
       "name": "Garfield (PlutoTV)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLSlJ0WKLFFIUzTqEbLaTYScWjJjNeST7_aQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "LEGO Channels",
       "url": "https://legochannel-vizio.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93K8SRMrz7LTPBMuNfZraMbuLsom9wXKEdA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "XUMO Kabillion",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "幽游白书（日）",
@@ -250,55 +250,55 @@
       "name": "CN卡通频道",
       "url": "http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "优漫卡通台",
       "url": "http://117.148.179.183/PLTV/88888888/224/3221231574/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "嘉佳卡通台",
       "url": "http://117.148.179.144/PLTV/88888888/224/3221231483/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "金鹰卡通台",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "靖天卡通台",
       "url": "http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "经典卡通台",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "精选动漫台",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "福州少儿",
       "url": "http://live.zohi.tv/video/s10001-sepd-4/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "南京少儿",
       "url": "http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "浙江少儿",
