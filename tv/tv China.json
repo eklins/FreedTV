@@ -716,8 +716,8 @@
     },
     {
       "name": "iHot动漫",
-      "url": "https://www.nettvpro.live/uploads/allimg/20/1-2003251GS70-L.jpg",
-      "pic": "http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt",
+      "url": "http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251GS70-L.jpg",
       "parse": true
     },
     {
@@ -1131,7 +1131,7 @@
     {
       "name": "台湾壹新闻",
       "url": "http://stream.nexttv.com.tw/n001/hd/live.m3u8",
-      "pic": "https://www.easyatm.com.tw/img/f/64b/nBnauM3XxgTMzUjN5YzM3UzM1UTM1QDN5MjM5ADMwAjMwUzL2MzL2czLt92YucmbvRWdo5Cd0FmLxE2LvoDc0RHa.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlCiY9BqZWCTHTzVJ1KPbQF3M2fVdn0G-rdA&usqp=CAU",
       "parse": false
     },
     {
