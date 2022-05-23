@@ -89,13 +89,13 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 logo="https://pic.baike.soso.com/ugc/baikepic2/19426/20180813201649-420903712_jpeg_427_284_24385.jpg/0",UN Web TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 logo="https://yt3.ggpht.com/TASf99Oe8tliGLeSwUSdjNgpTRKs14fQt4RubTGd8pNzo5eYPXx7CLXPpzgY5iwFMFfXGzpc1g=s900-c-k-c0x00ffffff-no-rj",US Law & Crime
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzaAjxJxTLytDaxwPOVKJm6FMpkgJauAs0tw&usqp=CAU",US Law & Crime
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/The_First_TV_logo.png",US The First
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 logo="https://commed.umassmed.edu/sites/default/files/images/media-logo/Yahoo%20NEWS.png",Yahoo News
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVpE5eWLZwYejT5ZB-mdHwrVwiW0f-PwK5g&usqp=CAU",Yahoo News
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg",台湾TVBS新闻
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
@@ -109,7 +109,7 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmmTdCyLry8FfUSEecc2Vcobs-7dbL8lrlA&usqp=CAU",台湾镜电视新闻
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-#EXTINF:-1 logo="https://www.easyatm.com.tw/img/f/64b/nBnauM3XxgTMzUjN5YzM3UzM1UTM1QDN5MjM5ADMwAjMwUzL2MzL2czLt92YucmbvRWdo5Cd0FmLxE2LvoDc0RHa.jpg",台湾壹新闻
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlCiY9BqZWCTHTzVJ1KPbQF3M2fVdn0G-rdA&usqp=CAU",台湾壹新闻
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",台湾三立新闻
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EB4g7wecgTI
