@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 ,中天新闻
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_QbRXRnHMVY
-#EXTINF:-1 ,无线财经台
+#EXTINF:-1 ,无线财经台 tvfix
+http://live.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 ,无线财经台 liuy
 http://liuy.usa7.20212021.ga/ns.php?id=79
 #EXTINF:-1 ,Bloomberg Financial
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dp8PhLsUcFE
