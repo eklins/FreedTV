@@ -85,6 +85,12 @@
       "parse": true
     },
     {
+      "name": "香港无线财经资讯台 tvfix",
+      "url": "http://live.tvfix.org/hls/finance.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "香港无线财经资讯台（牛视网）",
       "url": "https://www.chaojidianshi.net/zhibo/79.html",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
