@@ -19,12 +19,6 @@
       "parse": true
     },
     {
-      "name": "全纪实",
-      "url": "http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8",
-      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
-      "parse": true
-    },
-    {
       "name": "历史揭秘",
       "url": "https://m.douyu.com/5464884",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
@@ -118,6 +112,12 @@
       "name": "老故事",
       "url": "http://m.haoqu99.com/1/laogushi.html",
       "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
+      "parse": true
+    },
+    {
+      "name": "全纪实",
+      "url": "http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
