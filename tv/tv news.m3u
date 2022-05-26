@@ -7,6 +7,10 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",凤凰卫视资讯台
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIg00bYuU-iKxdD8mBlCPfe1VSq3IxjH5urw&usqp=CAU",香港Now直播台 CH331
+http://livetv.dnsfor.me/channel.3.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToCpmCkU23XAMFnNBAS8bXTbOk1p3Ow6zFw&usqp=CAU",香港Now新闻台 CH332
+http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",香港无线新闻台
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 #EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",香港无线财经•资讯台
