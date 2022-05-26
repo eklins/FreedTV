@@ -511,6 +511,12 @@
       "parse": true
     },
     {
+      "name": "僵尸剧场",
+      "url": "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "贺岁电影",
       "url": "https://m.huya.com/11601986",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
