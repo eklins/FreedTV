@@ -91,6 +91,12 @@
       "parse": true
     },
     {
+      "name": "大宋提刑官2005",
+      "url": "https://m.douyu.com/7784862",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFulMYzQinENsi9z8MhM76DF793v0NB2Ixw&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "济公活佛2010",
       "url": "https://m.huya.com/11342400",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11EfLF3IamYDbKaEhgIu8uY7T9BM6ztjc3g&usqp=CAU",
@@ -226,6 +232,12 @@
       "name": "风云剧场",
       "url": "http://m.haoqu99.com/1/fyjc.html",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
+      "parse": true
+    },
+    {
+      "name": "王朝系列",
+      "url": "https://m.douyu.com/10860758",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
