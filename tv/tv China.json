@@ -889,12 +889,6 @@
       "parse": true
     },
     {
-      "name": "Now直播台",
-      "url": "https://api.leonardpark.dev/live/now/331",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
       "name": "天映经典",
       "url": "https://www.chaojidianshi.net/zhibo/90.html",
       "pic": "https://p6-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/5f8cfe0ff7a049558357648ae41a6067~tplv-mlhdmxsy5m-q75:0:0.image",
@@ -987,7 +981,7 @@
     {
       "name": "香港Now新闻台 CH332",
       "url": "http://livetv.dnsfor.me:80/channel.4.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VNMZ_2h2NOWsBT6XTcoGF52OeinJJpUcgA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToCpmCkU23XAMFnNBAS8bXTbOk1p3Ow6zFw&usqp=CAU",
       "parse": true
     },
     {
