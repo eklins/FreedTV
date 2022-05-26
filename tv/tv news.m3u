@@ -45,6 +45,8 @@ https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 logo="https://shortyawards.imgix.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png?auto=format&fit=crop&h=300&q=65&w=500&s=cb21d6a342f58f8b5d569fb92fe02d19",Bloomberg Quicktake
 https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLslZXLDkiM2Yz_tX9VeSlzYJQeHWZyvDVQ&usqp=CAU",Canada Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fYpZml0sLFA-53NYsRRS6UKV42iZ_yeXQA&usqp=CAU",CBC News Highlights
 https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
 #EXTINF:-1 logo="https://lh3.googleusercontent.com/HLGqlf3RsTYC_UQAUxFVeUkwcGnIVvq_su_-XD_hyPM-fb3bIoLjehvDnZpGl-WEG8lN",CBS News
@@ -97,6 +99,8 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/The_First_TV_logo.png",US The First
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lj7oMcPEPDgSrK234wDk9e8o3FbvXt74ow&usqp=CAU",VOA 美国之音
+https://4gtvfreepc-mozai.4gtv.tv/5ZwmWzNBtCBGJmd3qQPpmZz_Hu1QXzi14iwp5l7ZoyY%3d/stream2.m3u8?token=kqac7GfwXGt8I4XQfHaHjw&expires=1653587540&refer=OTg3ZThmODktMTgyZS00NDNmLTkyMWEtN2I2MjE4NDNiNjYx&token1=8nEd09vzzar52PgLfowo3A&expires1=1653587540&y=0&vt=
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVpE5eWLZwYejT5ZB-mdHwrVwiW0f-PwK5g&usqp=CAU",Yahoo News
