@@ -992,9 +992,9 @@
     },
     {
       "name": "香港无线财经•资讯台",
-      "url": "http://liuy.usa7.20212021.ga/ns.php?id=79",
+      "url": "http://111.229.84.232/yulin/tvb.php?id=2",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "耀才财经",
