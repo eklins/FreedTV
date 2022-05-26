@@ -79,10 +79,10 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=7fIU2aMImMQ
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXaOxqLJW05rS3SHdrohAaZObWOjXeuXxWlg&usqp=CAU",NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s900-c-k-c0x00ffffff-no-rj",Newsmax
-https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRBf0L188buhIlbd0bVKlCHvAZuvCuRTGTm2VKrRQ=s900-c-k-c0x00ffffff-no-rj",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s900-c-k-c0x00ffffff-no-rj",Newsmax
+https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/1200px-Newsy_2021.svg.png",Newsy US
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJLxHdFg-KXgCdhJFBXaW6ziXZ5MxBk7cS3g&usqp=CAU",OAN
@@ -105,6 +105,8 @@ https://4gtvfreepc-mozai.4gtv.tv/5ZwmWzNBtCBGJmd3qQPpmZz_Hu1QXzi14iwp5l7ZoyY%3d/
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVpE5eWLZwYejT5ZB-mdHwrVwiW0f-PwK5g&usqp=CAU",Yahoo News
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
+#EXTINF:-1 logo="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg",台湾TVBS国际新闻
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=s57usyDOsPY
 #EXTINF:-1 logo="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg",台湾TVBS新闻
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 #EXTINF:-1 logo="https://img.youtube.com/vi/yguQ1SzPM5U/0.jpg",台湾民视新闻
