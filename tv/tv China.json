@@ -979,6 +979,18 @@
       "parse": true
     },
     {
+      "name": "香港Now直播台 CH331",
+      "url": "http://livetv.dnsfor.me/channel.3.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIg00bYuU-iKxdD8mBlCPfe1VSq3IxjH5urw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "香港Now新闻台 CH332",
+      "url": "http://livetv.dnsfor.me:80/channel.4.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VNMZ_2h2NOWsBT6XTcoGF52OeinJJpUcgA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "香港无线新闻台",
       "url": "https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
