@@ -1287,7 +1287,19 @@
     {
       "name": "台湾客家电视台",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFU4YTpRS-YU8rdyadbTU6668syJrSqxGwg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾原住民电视",
+      "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLRBlTD236PRJiIkFQteXsTyab6Tod0dm-A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾原住民频道",
+      "url": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLRBlTD236PRJiIkFQteXsTyab6Tod0dm-A&usqp=CAU",
       "parse": true
     },
     {
