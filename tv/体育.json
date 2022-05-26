@@ -115,6 +115,12 @@
       "parse": true
     },
     {
+      "name": "香港Now Sports Prime",
+      "url": "http://livetv.dnsfor.me/channel.12.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMOEtbLKC6Xr3fItU331ukELJDWPwSXfPG6g&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "香港有线体育 CH603",
       "url": "https://www.chaojidianshi.net/zhibo/92.html",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/2/26/Hd_603_logo.png",
