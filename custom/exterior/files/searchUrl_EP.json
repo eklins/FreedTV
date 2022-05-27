@@ -20,6 +20,24 @@
     },
     {
       "id": 1,
+      "name": "美剧迷",
+      "url": "http://mj.zjtv.cc/ruifenglb_api.php/v1.vod?type=typeId&class=&area=&year=&by=&page=pageNum",
+      "detailUrl": "http://mj.zjtv.cc/ruifenglb_api.php/v1.vod/detail?vod_id=detailId",
+      "cate": "美剧,3&&电影,29&&番剧,34&&动漫,38&&电视剧,37&&国内电影,40",
+      "type": "json",
+      "click": true
+    },
+    {
+      "id": 1,
+      "name": "蜗牛动漫",
+      "url": "http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod?type=typeId&class=&area=&year=&by=&page=pageNum",
+      "detailUrl": "http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod/detail?vod_id=detailId",
+      "cate": "动漫,31&&剧场&OVA,32",
+      "type": "json",
+      "click": true
+    },
+    {
+      "id": 1,
       "name": "唐人资源",
       "url": "https://tangrenzyz.com/api.php/provide/vod/at/xml/",
       "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&悬疑片,20&&冒险片,21&&记录片,22&&古装片,23&&惊悚片,24",
