@@ -95,6 +95,8 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 logo="https://pic.baike.soso.com/ugc/baikepic2/19426/20180813201649-420903712_jpeg_427_284_24385.jpg/0",UN Web TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ3iOW4EgwMn672k9VqDBlzkIhUkGNcx4aSQ&usqp=CAU",US Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzaAjxJxTLytDaxwPOVKJm6FMpkgJauAs0tw&usqp=CAU",US Law & Crime
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/The_First_TV_logo.png",US The First
