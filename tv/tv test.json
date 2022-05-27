@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "香港无线财经资讯台 prd",
+      "url": "http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "大宋提刑官2005",
       "url": "https://live.bilibili.com/h5/21546991?from=search&seid=4680587096208588186",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFulMYzQinENsi9z8MhM76DF793v0NB2Ixw&usqp=CAU",
