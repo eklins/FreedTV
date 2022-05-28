@@ -121,12 +121,6 @@
       "parse": true
     },
     {
-      "name": "少年包青天2000",
-      "url": "https://m.douyu.com/7476264",
-      "pic": "https://photocdn.sohu.com/kis/fengmian/38/38098/38098_ver_big.jpg",
-      "parse": true
-    },
-    {
       "name": "鬼吹灯",
       "url": "https://m.douyu.com/9292503",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmCpSl-n8GCmSWvL4dTen_Rv3uzBWC7gF-A&usqp=CAU",
@@ -229,6 +223,12 @@
       "parse": true
     },
     {
+      "name": "剧场",
+      "url": "https://m.douyu.com/7476264",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "4K剧场",
       "url": "http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -236,19 +236,19 @@
     },
     {
       "name": "第一剧场",
-      "url": "http://m.haoqu99.com/1/cctvdyjc.html",
+      "url": "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
       "parse": true
     },
     {
       "name": "怀旧剧场",
-      "url": "http://m.haoqu99.com/1/cctvhjjc.html",
+      "url": "http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
       "parse": true
     },
     {
       "name": "风云剧场",
-      "url": "http://m.haoqu99.com/1/fyjc.html",
+      "url": "http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
       "parse": true
     },
@@ -343,8 +343,8 @@
       "parse": true
     },
     {
-      "name": "TVB粤语01",
-      "url": "https://m.douyu.com/252308",
+      "name": "TVB粤语0!",
+      "url": "https://m.douyu.com/9701481",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
       "parse": true
     },
@@ -368,7 +368,7 @@
     },
     {
       "name": "TVB粤语05",
-      "url": "https://m.douyu.com/9701481",
+      "url": "https://m.douyu.com/252308",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
       "parse": true
     },
