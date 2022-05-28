@@ -26,7 +26,7 @@
     },
     {
       "name": "新水浒传2011",
-      "url": "http://zzy789.xyz/bili.php?id=21747822",
+      "url": "https://m.douyu.com/6785471",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCOuB0fxbSjA4vCuu071vPGFwHlpkDsRVfA&usqp=CAU",
       "parse": true
     },
@@ -253,6 +253,12 @@
       "parse": true
     },
     {
+      "name": "四大名著",
+      "url": "https://m.douyu.com/6861249",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "王朝系列",
       "url": "https://m.douyu.com/10860758",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -265,8 +271,8 @@
       "parse": true
     },
     {
-      "name": "武侠剧场",
-      "url": "http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8",
+      "name": "盗墓剧场",
+      "url": "https://m.douyu.com/5265983",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
@@ -295,6 +301,12 @@
       "parse": true
     },
     {
+      "name": "武侠剧场",
+      "url": "http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "古龙频道",
       "url": "http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYw2qx_1IT8atHLL9_fh6ihN2T4ySPfAqmw&usqp=CAU",
@@ -313,13 +325,19 @@
       "parse": true
     },
     {
-      "name": "西游记TVB（粤）02",
+      "name": "西游记1996（华）",
+      "url": "https://m.huya.com/23728660",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBLTj796bEKG8yfbBrdFfbg7ZEu9yWfzwwg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "西游记1998（粤）",
       "url": "https://m.huya.com/23734246",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3GL2TS8glFCjXtvSJIYahoLO1IR4QivYcmA&usqp=CAU",
       "parse": true
     },
     {
-      "name": "TVB 剧场",
+      "name": "TVB剧场",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
       "parse": true
