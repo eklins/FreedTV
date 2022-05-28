@@ -247,6 +247,12 @@
       "parse": true
     },
     {
+      "name": "音乐MV",
+      "url": "https://m.douyu.com/3870925",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "怀旧粤语MV",
       "url": "https://m.douyu.com/5325029",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
