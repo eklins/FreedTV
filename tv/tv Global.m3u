@@ -663,23 +663,23 @@ https://tv.nknews.org/tvdash/stream.mpd
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1, KOR★한국선거방송 (720p)
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1, KOR★Arirang (720p)
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, KOR★Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 #EXTINF:-1, KOR★CBS (1080p)
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1, KOR★EBS 1 (400p)
-http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1, KOR★EBS 2 (400p)
-http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1, KOR★EBS e (400p)
-http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1, KOR★EBS Kids (400p)
-http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1, KOR★EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1, KOR★EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1, KOR★EBS E
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1, KOR★EBS Kids
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 #EXTINF:-1, KOR★GCN24 English (720p)
 http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_high/playlist.m3u8
 #EXTINF:-1, KOR★GCN24 Korean (480p)
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
-#EXTINF:-1, KOR★Gugbang TV (1080p)
+#EXTINF:-1, KOR★Gugbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1, KOR★KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
@@ -705,6 +705,8 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1, KOR★TV Work Net (480p)
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1, KOR★YTN
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kuwait.png",Kuwait❤Al Rai TV (720p)
 https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Laos.png",Laos❤Champa TV2
