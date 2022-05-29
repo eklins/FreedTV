@@ -223,8 +223,14 @@
       "parse": true
     },
     {
-      "name": "剧场",
+      "name": "点播剧场01",
       "url": "https://m.douyu.com/7476264",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "点播剧场02",
+      "url": "https://m.douyu.com/7314294",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
@@ -259,7 +265,7 @@
       "parse": true
     },
     {
-      "name": "王朝系列",
+      "name": "亚视、帝王系列",
       "url": "https://m.douyu.com/10860758",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
