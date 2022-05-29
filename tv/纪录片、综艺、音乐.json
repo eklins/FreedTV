@@ -13,14 +13,26 @@
       "parse": true
     },
     {
-      "name": "百家讲坛2001",
+      "name": "历史揭秘",
+      "url": "https://m.douyu.com/5464884",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "名家讲坛",
+      "url": "https://m.douyu.com/5283626",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "百家讲坛•文物2001",
       "url": "https://m.douyu.com/4034415",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQiRbyKrB2W4B_1w9seBlW1yVKPLWp8yz6g&usqp=CAU",
       "parse": true
     },
     {
-      "name": "历史揭秘",
-      "url": "https://m.douyu.com/5464884",
+      "name": "历史讲坛",
+      "url": "https://m.douyu.com/8913515",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
       "parse": true
     },
@@ -99,6 +111,12 @@
     {
       "name": "军事评论",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "军武大本营",
+      "url": "https://m.douyu.com/5483801",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
@@ -229,8 +247,26 @@
       "parse": true
     },
     {
-      "name": "Outdoor Adventure",
+      "name": "Nature Documentary",
+      "url": "https://m.douyu.com/4837387",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Outdoor Adventure 01",
       "url": "https://m.huya.com/21059555",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Outdoor Adventure 02",
+      "url": "https://m.douyu.com/454867",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Outdoor Survive",
+      "url": "https://m.douyu.com/1339207",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
