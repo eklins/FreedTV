@@ -19,6 +19,12 @@
       "parse": true
     },
     {
+      "name": "欧美科幻",
+      "url": "https://m.douyu.com/6712083",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
       "name": "欧美科幻、动作",
       "url": "https://m.douyu.com/4332",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
@@ -33,6 +39,12 @@
     {
       "name": "欧美惊悚、恐怖",
       "url": "https://m.huya.com/11352903",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
+      "name": "欧美惊悚、丧尸",
+      "url": "https://m.douyu.com/96577",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
       "parse": true
     },
