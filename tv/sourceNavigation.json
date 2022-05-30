@@ -209,7 +209,7 @@
       "webPlus": {}
     },
     {
-      "name": "m3u格式测试源",
+      "name": "m3u测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20test.m3u",
       "type": "m3u",
@@ -225,7 +225,7 @@
       "webPlus": {}
     },
     {
-      "name": "json格式测试源",
+      "name": "json测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20test.json",
       "type": "json",
@@ -241,7 +241,7 @@
       "webPlus": {}
     },
     {
-      "name": "直播•轮播后备 JSON",
+      "name": "直播•轮播后备 json",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%9B%B4%E6%92%AD%E3%80%81%E8%BD%AE%E6%92%AD%E5%90%8E%E5%A4%87.json",
       "type": "json",
