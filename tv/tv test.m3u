@@ -3,6 +3,8 @@
 http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1653630041~exp=1653716441~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=37eb1e6318a53add12dc00c667cb1daaf3a9edf0275cfde0846380db389a7321&p=3324
 #EXTINF:-1 ,香港无线财经 yulin
 http://111.229.84.232/yulin/tvb.php?id=2
+#EXTINF:-1 logo="https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg",台湾TVBS国际新闻
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=s57usyDOsPY
 #EXTINF:-1 ,VOA 美国之音
 https://4gtvfreepc-mozai.4gtv.tv/5ZwmWzNBtCBGJmd3qQPpmZz_Hu1QXzi14iwp5l7ZoyY%3d/stream2.m3u8?token=kqac7GfwXGt8I4XQfHaHjw&expires=1653587540&refer=OTg3ZThmODktMTgyZS00NDNmLTkyMWEtN2I2MjE4NDNiNjYx&token1=8nEd09vzzar52PgLfowo3A&expires1=1653587540&y=0&vt=
 #EXTINF:-1 ,Canada Global News
