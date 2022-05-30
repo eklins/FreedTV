@@ -1319,6 +1319,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, GBR★Horse Country TV
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1, GBR★IGN TV
+https://ign-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1, GBR★In Wild
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, GBR★In Wonder
