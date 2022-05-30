@@ -349,6 +349,12 @@
       "parse": true
     },
     {
+      "name": "Tennis Channel",
+      "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "TNT Sports 2 (Brazil)",
       "url": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
