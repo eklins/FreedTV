@@ -235,12 +235,6 @@
       "parse": true
     },
     {
-      "name": "4K剧场",
-      "url": "http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "第一剧场",
       "url": "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
@@ -291,6 +285,12 @@
     {
       "name": "军旅剧场",
       "url": "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "家庭剧场",
+      "url": "http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
