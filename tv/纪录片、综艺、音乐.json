@@ -103,6 +103,12 @@
       "parse": true
     },
     {
+      "name": "纪实人文",
+      "url": "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",
+      "parse": true
+    },
+    {
       "name": "兵器科技",
       "url": "http://m.haoqu99.com/1/cctvguofang.html",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
