@@ -16,7 +16,7 @@
       "name": "香港无线财经资讯台 yulin F",
       "url": "http://111.229.84.232/yulin/tvb.php?id=2",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "大宋提刑官2005",
