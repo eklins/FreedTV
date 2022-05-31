@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,无线财经
+http://radius.8866.org:880/hls/83/index.m3u8
+#EXTINF:-1 ,无线财经
+http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 #EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",香港无线财经•资讯台 livetv
 http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 ,香港无线财经 prd
