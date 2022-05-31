@@ -1,10 +1,16 @@
 {
   "data": [
     {
-      "name": "香港无线财经资讯台 prd",
+      "name": "香港无线财经资讯台 prd T",
       "url": "http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1653630115~exp=1653716515~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=bc11d8758eb8195506123c4ad106b7a1fc8c1ae122b1275780daca391ac834c3&p=3324",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
+    },
+    {
+      "name": "香港无线财经资讯台 prd F",
+      "url": "http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1653630115~exp=1653716515~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=bc11d8758eb8195506123c4ad106b7a1fc8c1ae122b1275780daca391ac834c3&p=3324",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
     },
     {
       "name": "香港无线财经资讯台 yulin T",
