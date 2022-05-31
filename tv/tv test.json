@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "name": "香港无线财经•资讯台 livetv T",
+      "url": "http://livetv.dnsfor.me:80/channel.11.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
+      "parse": true
+    },
+    {
+      "name": "香港无线财经•资讯台 livetv F",
+      "url": "http://livetv.dnsfor.me:80/channel.11.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
+      "parse": false
+    },
+    {
       "name": "香港无线财经资讯台 prd T",
       "url": "http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
