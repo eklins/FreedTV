@@ -23,6 +23,8 @@ http://cclive.aniu.tv/live/anzb.m3u8
 http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6sQaCsPXlX8oVHGoV-LDHKdH4aZbJB26jg&usqp=CAU",东方财经•浦东
 http://117.148.179.176/PLTV/88888888/224/3221231646/index.m3u8
+#EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2014/0512/20140512032937619.jpg",北京财经
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
 #EXTINF:-1 logo="https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg",ABC News US
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 logo="https://mumbrella.com.au/wp-content/uploads/2016/07/ABC-news.jpg",ABC News Australia
