@@ -938,7 +938,7 @@
     },
     {
       "name": "RTHK 32",
-      "url": "http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8",
+      "url": "https://www.chaojidianshi.net/zhibo/97.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCAzyNmOxqNxh5Bl-_nA8fHsbOm7OV_iHWA&usqp=CAU",
       "parse": true
     },
@@ -992,7 +992,7 @@
     },
     {
       "name": "香港无线财经•资讯台",
-      "url": "http://50.7.218.42:8278/tvbcaijing_twn/playlist.m3u8",
+      "url": "https://www.chaojidianshi.net/zhibo/79.html",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
     },
@@ -1082,7 +1082,7 @@
     },
     {
       "name": "台湾中天新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30",
+      "url": "https://www.chaojidianshi.net/zhibo/42.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": true
     },
