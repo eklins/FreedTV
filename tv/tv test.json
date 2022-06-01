@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "CHC 高清电影",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "香港无线财经•资讯台 livetv T",
       "url": "http://livetv.dnsfor.me:80/channel.11.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
