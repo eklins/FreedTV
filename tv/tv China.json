@@ -577,6 +577,12 @@
       "parse": true
     },
     {
+      "name": "足球",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226347/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "PP体育",
       "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -637,8 +643,14 @@
       "parse": true
     },
     {
+      "name": "纯享4K",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "兵器科技",
-      "url": "http://m.haoqu99.com/1/cctvguofang.html",
+      "url": "http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
       "parse": true
     },
@@ -674,7 +686,7 @@
     },
     {
       "name": "老故事",
-      "url": "http://m.haoqu99.com/1/laogushi.html",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
       "parse": true
     },
@@ -686,7 +698,7 @@
     },
     {
       "name": "CGTN News",
-      "url": "http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/2bc42b992ea918b8649261476ad427b9.png",
       "parse": true
     },
@@ -694,18 +706,6 @@
       "name": "CGTN Documentary",
       "url": "http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
-      "parse": true
-    },
-    {
-      "name": "CETV1",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls",
-      "pic": "http://tv.haoqu99.com/d/file/2016/1116/b16431a9f7728dbe6aa30c9b86cc5523.jpg",
-      "parse": true
-    },
-    {
-      "name": "CETV4",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2016/1116/0dc1732a6e6d5bf34b4beef698b97bba.jpg",
       "parse": true
     },
     {
