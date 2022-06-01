@@ -2,18 +2,6 @@
   "data": [
     {
       "id": 1,
-      "name": "MWO",
-      "ad": "no",
-      "url": "https://parse.mw0.cc/Bei/?url="
-    },
-    {
-      "id": 1,
-      "name": "猪蹄影院",
-      "ad": "no",
-      "url": "https://api.iztyy.com/jiexi/?url="
-    },
-    {
-      "id": 1,
       "name": "无尽",
       "ad": "no",
       "url": "https://jx.xhswglobal.com/dplayer/?url="
@@ -35,6 +23,18 @@
       "name": "探探",
       "ad": "no",
       "url": "https://jiexi.ttbfp1.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "MWO",
+      "ad": "no",
+      "url": "https://parse.mw0.cc/Bei/?url="
+    },
+    {
+      "id": 1,
+      "name": "猪蹄影院",
+      "ad": "no",
+      "url": "https://api.iztyy.com/jiexi/?url="
     },
     {
       "id": 1,
