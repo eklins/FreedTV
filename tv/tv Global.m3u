@@ -1290,7 +1290,7 @@ https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Kingdom.png",United Kingdom❤BBC News
 http://live.tvfix.org/hls/bbcnews.m3u8
 #EXTINF:-1, GBR★BBC World News
-https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1, GBR★Bloomberg TV UK
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, GBR★Box Hits (576p)
