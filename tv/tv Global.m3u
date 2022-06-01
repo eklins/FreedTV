@@ -1292,7 +1292,7 @@ https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1, GBR★BBC News
 http://live.tvfix.org/hls/bbcnews.m3u8
 #EXTINF:-1, GBR★BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1, GBR★Bloomberg TV UK
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, GBR★Box Hits (576p)
