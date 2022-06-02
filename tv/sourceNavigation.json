@@ -161,7 +161,7 @@
       "webPlus": {}
     },
     {
-      "name": "成人TV♦ ",
+      "name": "成人TV ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-B0Yxy981z3qDZn3V_9au3CpqgC36sp3HYw&usqp=CAU",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E6%88%90%E4%BA%BATV.m3u",
       "type": "m3u",
@@ -173,7 +173,7 @@
       "keyUpPlay": true,
       "userAgent": "",
       "ads": "",
-      "decoder": 1,
+      "decoder": 2,
       "webPlus": {}
     },
     {
