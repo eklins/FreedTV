@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU" decoder="2",台湾中天新闻
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 #EXTINF:-1 ,无线财经 radius
