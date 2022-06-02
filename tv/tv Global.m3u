@@ -236,7 +236,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_
 #EXTINF:-1, FRA★FashionTV PG16
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1, FRA★France 24
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, FRA★M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1, FRA★MDL
@@ -451,7 +451,9 @@ https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iceland.png",Iceland❤N4
 https://live.tv.c.is/n4/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-India.png",India❤Zee Cinema
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-India.png",India❤CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1, IND★Zee Cinema
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Indonesia.png",Indonesia❤Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
