@@ -97,6 +97,12 @@
       "parse": true
     },
     {
+      "name": "BBC America",
+      "url": "https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
       "name": "Cinemax（越南）",
       "url": "https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
