@@ -49,18 +49,6 @@ http://cdn.adultiptv.net/teen.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 ,Woman
 http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 ,成人6
-http://125.227.210.37:14583/VideoInput/play.ts
-#EXTINF:-1 ,成人6
-http://125.227.210.55:14583/VideoInput/play.ts
-#EXTINF:-1 ,成人7
-http://125.227.210.55:18685/VideoInput/play.ts
-#EXTINF:-1 ,成人7
-http://125.227.210.37:18685/VideoInput/play.ts
-#EXTINF:-1 ,成人成人电影台
-http://125.227.210.37:18789/VideoInput/play.ts
-#EXTINF:-1 ,成人电影台
-http://125.227.210.55:18789/VideoInput/play.ts
 #EXTINF:-1 ,卫星机房专用35
 http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 #EXTINF:-1 ,卫星机房专用36
