@@ -77,6 +77,8 @@ https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 https://rakuten-actionmovies-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, AUT★Rakuten Comedy Movies
 https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, AUT★Rakuten Family
+https://rakuten-family-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, AUT★Rakuten Spotlight
 https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, AUT★Rakuten Top Free
@@ -283,6 +285,8 @@ http://51.210.199.16/hls/stream.m3u8
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, FRA★Rakuten Comedy Movies
 https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, FRA★Rakuten Family
+https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, FRA★Rakuten Spotlight
 https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, FRA★Rakuten Thriller
@@ -333,6 +337,8 @@ http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
 https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, DEU★Rakuten Comedy Movies
 https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, DEU★Rakuten Family
+https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, DEU★Rakuten Spotlight
 https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, DEU★Rakuten Thriller
@@ -603,6 +609,8 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, ITA★Rakuten Comedy Movies
 https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ITA★Rakuten Family
+https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, ITA★Rakuten Spotlight
 https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, ITA★Rakuten The Design Network
@@ -1367,6 +1375,8 @@ https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, ESP★Rakuten Comedy Movies
 https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ESP★Rakuten Family
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, ESP★Rakuten Spotlight
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, ESP★Rakuten Thriller
@@ -1449,6 +1459,8 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, GBR★Rakuten Comedy Movies
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, GBR★Rakuten Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, GBR★Rakuten Spotlight
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, GBR★Rakuten Thriller
