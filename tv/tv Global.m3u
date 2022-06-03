@@ -67,6 +67,8 @@ https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1, AUS★Timiline Australia
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, AUS★Sky News
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1, AUS★Sky Racing 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1, AUS★Sky Thoroughbred Central
