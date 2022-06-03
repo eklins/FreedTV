@@ -205,6 +205,12 @@
       "parse": true
     },
     {
+      "name": "Rakuten Family UK",
+      "url": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Rakuten Film Streams UK",
       "url": "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
