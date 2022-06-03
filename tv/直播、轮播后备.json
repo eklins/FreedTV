@@ -49,6 +49,12 @@
       "parse": true
     },
     {
+      "name": "OAN",
+      "url": "https://oneamericanews-vizio.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJLxHdFg-KXgCdhJFBXaW6ziXZ5MxBk7cS3g&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Sky News Australia",
       "url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Qv0hwgns7uMA4Ynd-G-BP_eyBI3TzeAVIg&usqp=CAU",
