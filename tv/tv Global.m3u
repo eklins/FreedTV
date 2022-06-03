@@ -67,16 +67,26 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
 #EXTINF:-1, AUS★天和电视
 http://www.rtvcdn.com.au:8082/TV0002.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Austria.png",Austria❤ORF3
-https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
-#EXTINF:-1, AUT★OE24
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Austria.png",Austria❤OE24
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
-#EXTINF:-1, AUT★W24
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1, AUT★RTV
-http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1, AUT★ORF3
+https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
 #EXTINF:-1, AUT★R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1, AUT★Rakuten Action Movies
+https://rakuten-actionmovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, AUT★Rakuten Comedy Movies
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, AUT★Rakuten Spotlight
+https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, AUT★Rakuten Top Free
+https://rakuten-topfree-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, AUT★Rakuten TV Shows
+https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, AUT★RTV
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1, AUT★W24
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belarus.png",Belarus❤1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1, BLR★Belros Ⓢ
@@ -305,6 +315,16 @@ http://playback.akamaized.net/streams/22300508_6675945_lsi8b513v22ovejhvrn_1/mas
 https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1, DEU★RAN1
 http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
+#EXTINF:-1, DEU★Rakuten Action Movies
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, DEU★Rakuten Comedy Movies
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, DEU★Rakuten Spotlight
+https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, DEU★Rakuten Top Free
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, DEU★Rakuten TV Shows
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, DEU★RBW
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
 #EXTINF:-1, DEU★RFH
@@ -1269,6 +1289,60 @@ https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 https://live.rednet.rs/providus/redtv_multi.m3u8
 #EXTINF:-1, SRB★RTV AS
 https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Spain.png",Spain❤324
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
+#EXTINF:-1, ESP★À Punt
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1, ESP★EiTB ①
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1, ESP★EiTB ②
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:-1, ESP★HQM Arabic
+https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
+#EXTINF:-1, ESP★HQM Baladas
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+#EXTINF:-1, ESP★HQM Blues
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTINF:-1, ESP★HQM Chill Out
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+#EXTINF:-1, ESP★HQM Classic
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTINF:-1, ESP★HQM Dance
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+#EXTINF:-1, ESP★HQM Folk
+https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
+#EXTINF:-1, ESP★HQM Gym
+https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8
+#EXTINF:-1, ESP★HQM Hip Hop
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+#EXTINF:-1, ESP★HQM Hits
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+#EXTINF:-1, ESP★HQM Jazz
+https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
+#EXTINF:-1, ESP★HQM Kids
+https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+#EXTINF:-1, ESP★HQM Latin
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
+#EXTINF:-1, ESP★HQM Pop
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:-1, ESP★HQM Relax
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
+#EXTINF:-1, ESP★HQM Remember
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTINF:-1, ESP★HQM Rock
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1, ESP★HQM Spanish
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF:-1, ESP★Rakuten Action Movies
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ESP★Rakuten Comedy Movies
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ESP★Rakuten Spotlight
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ESP★Rakuten Top Free
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ESP★Rakuten TV Shows
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sri-Lanka.png",Sri Lanka❤ITN (720p)
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 #EXTINF:-1, LKA★Santhora TV (720p)
@@ -1339,15 +1413,15 @@ https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, GBR★PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1, GBR★Rakuten Action Movies UK
+#EXTINF:-1, GBR★Rakuten Action Movies
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1, GBR★Rakuten Comedy Movies UK
+#EXTINF:-1, GBR★Rakuten Comedy Movies
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1, GBR★Rakuten Spotlight UK
+#EXTINF:-1, GBR★Rakuten Spotlight
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1, GBR★Rakuten Top Free UK
+#EXTINF:-1, GBR★Rakuten Top Free
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1, GBR★Rakuten TV Shows UK
+#EXTINF:-1, GBR★Rakuten TV Shows
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, GBR★Real Stories
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8
