@@ -223,6 +223,12 @@
       "parse": true
     },
     {
+      "name": "Hits",
+      "url": "http://210.210.155.37/dr9445/h/h37/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "点播剧场01",
       "url": "https://m.douyu.com/7476264",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
