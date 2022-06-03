@@ -651,6 +651,8 @@ http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1, ITA★RTTR Trento
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1, ITA★San Marino RTV Sports
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1, ITA★Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1, ITA★Sophia TV
@@ -771,10 +773,20 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1, KOR★SBS 光州 (KBC 광주방송)
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1, KOR★SBS Golf
+http://51.81.66.195:1935/krtv/sbs_golf_540/playlist.m3u8
 #EXTINF:-1, KOR★SBS JIBS (720p)
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1, KOR★SBS KNN
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:-1, KOR★SBS Sports
+http://51.81.66.195:1935/krtv/sbs_sports_540/playlist.m3u8
+#EXTINF:-1, KOR★SPOTV ①
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1, KOR★SPOTV ②
+http://51.81.66.195:1935/krtv/spotv_2_540/playlist.m3u8
+#EXTINF:-1, KOR★Sky Sports
+http://51.81.66.195:1935/krtv/sky_sports_540/playlist.m3u8
 #EXTINF:-1, KOR★TBS Seoul (720p)
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1, KOR★TV Work Net (480p)
