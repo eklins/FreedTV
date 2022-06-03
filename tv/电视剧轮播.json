@@ -217,9 +217,21 @@
       "parse": true
     },
     {
-      "name": "2 Broke Girls",
+      "name": "2 Broke Girls 2011-2017",
       "url": "https://m.huya.com/11342417",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGgG3T1ekIEeQpgxzRQ532cG0A0E_RoIFykA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Baywatch 1989-2001",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d815eb889bca2ce7b746fdd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=142&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOlAAWjFVpNWy9egzIjy1BzNiMyNgQvwiKfg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "CSI",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-iGCzEWaHRGfKxjtWTBEJ49_IwaKIFLYFw&usqp=CAU",
       "parse": true
     },
     {
