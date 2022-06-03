@@ -10,7 +10,7 @@
       "name": "TVB 星河频道 F",
       "url": "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=76&pathid=1",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港无线财经•资讯台",
