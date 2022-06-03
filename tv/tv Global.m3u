@@ -15,9 +15,9 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 http://51.210.199.33/hls/stream.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNRkKkPp2LCPJafaVEAZ6h5IzbClkrvrq-Q&usqp=CAU",NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIzgPMYDjGIH2DVqOkbYsLxWbxgpF1ANs0g&usqp=CAU",Rock Entertainment (576p)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIzgPMYDjGIH2DVqOkbYsLxWbxgpF1ANs0g&usqp=CAU",ROCK Entertainment (576p)
 http://210.210.155.37/dr9445/h/h16/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-0l7Wwk6Ti1-ogUxr5ftDXsO4gN2RmQ_qA&usqp=CAU",Rock Extreme (576p)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-0l7Wwk6Ti1-ogUxr5ftDXsO4gN2RmQ_qA&usqp=CAU",ROCK Extreme (576p)
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1 logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png",RTM Berita
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
