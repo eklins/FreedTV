@@ -103,6 +103,12 @@
       "parse": true
     },
     {
+      "name": "Cinema World MY (576p)",
+      "url": "http://210.210.155.37/dr9445/h/h04/index.m3u8",
+      "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
+      "parse": true
+    },
+    {
       "name": "Cinemax（越南）",
       "url": "https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8",
       "pic": "http://vcdnb.huoying666.com/images/20210114/16a48cc628d8cab55709aa901fff349/16a48cc628.jpg_home-image-640",
