@@ -1,7 +1,13 @@
 {
   "data": [
     {
-      "name": "TVB 星河频道",
+      "name": "TVB 星河频道 T",
+      "url": "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=76&pathid=1",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",
+      "parse": true
+    },
+    {
+      "name": "TVB 星河频道 F",
       "url": "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=76&pathid=1",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",
       "parse": true
