@@ -47,6 +47,12 @@
       "url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWydvEITUDSPECwODd3bwcbdNa4PegZgFRQ&usqp=CAU",
       "parse": true
+    },
+    {
+      "name": "Sky News Australia",
+      "url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Qv0hwgns7uMA4Ynd-G-BP_eyBI3TzeAVIg&usqp=CAU",
+      "parse": true
     }
   ]
 }
