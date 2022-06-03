@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "TVB 星河频道",
+      "url": "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=76&pathid=1",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",
+      "parse": true
+    },
+    {
       "name": "香港无线财经•资讯台",
       "url": "http://kkmix1.f3322.net:762/hls/ch2/s.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
