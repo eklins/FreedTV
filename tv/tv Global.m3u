@@ -279,6 +279,20 @@ http://51.210.199.20/hls/stream.m3u8
 http://51.210.199.21/hls/stream.m3u8
 #EXTINF:-1, FRA★Persiana Varzesh
 http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1, FRA★Rakuten Action Movies
+https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, FRA★Rakuten Comedy Movies
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, FRA★Rakuten Spotlight
+https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, FRA★Rakuten Thriller
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, FRA★Rakuten Top Free
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, FRA★Rakuten TV Films Français
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, FRA★Rakuten TV Shows
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, FRA★Wilside TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png",French Polynesia❤TNTV
@@ -321,6 +335,8 @@ https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, DEU★Rakuten Spotlight
 https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, DEU★Rakuten Thriller
+https://rakuten-thriller-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, DEU★Rakuten Top Free
 https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, DEU★Rakuten TV Shows
@@ -583,6 +599,20 @@ http://ott-cdn.ucom.am/s29/04.m3u8
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1, ITA★Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1, ITA★Rakuten Action Movies
+https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ITA★Rakuten Comedy Movies
+https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ITA★Rakuten Spotlight
+https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ITA★Rakuten The Design Network
+https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ITA★Rakuten Thriller
+https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ITA★Rakuten Top Free
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ITA★Rakuten TV Shows
+https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, ITA★RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1, ITA★Reggio TV
@@ -1339,6 +1369,8 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, ESP★Rakuten Spotlight
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, ESP★Rakuten Thriller
+https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, ESP★Rakuten Top Free
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, ESP★Rakuten TV Shows
@@ -1419,6 +1451,8 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, GBR★Rakuten Spotlight
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, GBR★Rakuten Thriller
+https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, GBR★Rakuten Top Free
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, GBR★Rakuten TV Shows
