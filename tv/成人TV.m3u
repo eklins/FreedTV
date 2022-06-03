@@ -55,50 +55,62 @@ http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 ,Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 ,Estasy HD
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1 ,Fashion TV Midnight Secret
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 ,Miami TV Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 ,XY Max UK
+http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 ,XY Mix Uk
+http://95.87.227.29:8080/XYMIX_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 ,XY Plus UK
+http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 #EXTINF:-1 ,VISIT-X TV 1935
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 ,VISIT-X TV Chunklist
 http://stream.visit-x.tv/vxtv/live/chunklist_w1769846509.m3u8
 #EXTINF:-1 ,VISIT-X TV Playlist
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:0,CamTV Teen Girls
-http://live.mycamtv.com/teen.m3u8
-#EXTINF:0,CamTV MILF
-http://live.mycamtv.com/milf.m3u8
-#EXTINF:0,CamTV Young Girls
-http://live.mycamtv.com/young.m3u8
-#EXTINF:0,CamTV Mature
-http://live.mycamtv.com/bigtits.m3u8
-#EXTINF:0,CamTV Arab Girls
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:0,CamTV Ebony Girls
-http://live.mycamtv.com/ebony.m3u8
-#EXTINF:0,CamTV Asian Girls
-http://live.mycamtv.com/asian.m3u8
-#EXTINF:0,CamTV Brunette Girls
-http://live.mycamtv.com/brunette.m3u8
-#EXTINF:0,CamTV Latina Girls
-http://live.mycamtv.com/latina.m3u8
-#EXTINF:0,CamTV White Girls
-http://live.mycamtv.com/white.m3u8
-#EXTINF:0,CamTV Blonde Girls
-http://live.mycamtv.com/blonde.m3u8
-#EXTINF:0,CamTV Anal
+#EXTINF:0 ,CamTV Anal
 http://live.mycamtv.com/anal.m3u8
-#EXTINF:0,CamTV Big Ass Girls
+#EXTINF:0 ,CamTV Arab
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:0 ,CamTV Asian
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:0 ,CamTV Big Ass
 http://live.mycamtv.com/bigass.m3u8
-#EXTINF:0,CamTV Girls Squirt
-http://live.mycamtv.com/squirt.m3u8
-#EXTINF:0,CamTV Big Tits Girls
+#EXTINF:0 ,CamTV Big Tits
 http://live.mycamtv.com/bigtits.m3u8
-#EXTINF:0,CamTV Skinny Girls
-http://live.mycamtv.com/skinny.m3u8
-#EXTINF:0,CamTV Medium Girls
-http://live.mycamtv.com/medium.m3u8
-#EXTINF:0,CamTV Blowjob
+#EXTINF:0 ,CamTV Blonde
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:0 ,CamTV Blowjob
 http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:0,XXX Live Cams
+#EXTINF:0 ,CamTV Brunette
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:0 ,CamTV Ebony
+http://live.mycamtv.com/ebony.m3u8
+#EXTINF:0 ,CamTV Latina
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:0 ,CamTV Mature
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:0 ,CamTV Medium
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:0 ,CamTV MILF
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:0 ,CamTV Skinny
+http://live.mycamtv.com/skinny.m3u8
+#EXTINF:0 ,CamTV Squirt
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:0 ,CamTV Teen
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:0 ,CamTV White
+http://live.mycamtv.com/white.m3u8
+#EXTINF:0 ,CamTV XXX
 http://cdn.redtraffic.net/livecams.m3u8
+#EXTINF:0 ,CamTV Young Girls
+http://live.mycamtv.com/young.m3u8
 #EXTINF:-1 ,丝袜台
 http://89.248.160.57/iptv/URFPS4QVV53QPF/6237/index.m3u8
 #EXTINF:-1 ,黑人台
