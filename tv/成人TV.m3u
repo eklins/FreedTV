@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,XY Max UK
+http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 ,XY Mix Uk
+http://95.87.227.29:8080/XYMIX_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 ,XY Plus UK
+http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 #EXTINF:-1 ,Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 ,Asian
@@ -61,12 +67,6 @@ http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 ,Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-#EXTINF:-1 ,XY Max UK
-http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
-#EXTINF:-1 ,XY Mix Uk
-http://95.87.227.29:8080/XYMIX_FOR_PLATFORM/index.m3u8
-#EXTINF:-1 ,XY Plus UK
-http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 #EXTINF:-1 ,VISIT-X TV 1935
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 ,VISIT-X TV Chunklist
