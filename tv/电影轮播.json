@@ -94,211 +94,211 @@
       "name": "AMC Rush",
       "url": "https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "BBC America",
       "url": "https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Bloody Disgusting",
       "url": "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Charge!",
       "url": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Cinema World MY (576p)",
       "url": "http://210.210.155.37/dr9445/h/h04/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Cinemax（越南）",
       "url": "https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Cinevault 80s",
       "url": "https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Cinevault Westerns",
       "url": "https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Classic Movies Channel",
       "url": "https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Comedy Channel",
       "url": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "ConTV",
       "url": "https://contv-tcl.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Cowboy Theater",
       "url": "https://simultv.s.llnwi.net/o054/CowboyTheater/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Crackle",
       "url": "http://crackle-xumo.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "FilmRise Free Movies (Redbox)",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "FilmRise Free Movies (Vizio)",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisefreemovies/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Free Movies",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Fright Flix",
       "url": "https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Gravitas Movies",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Hallmark Movies & More",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "HBO（越南）",
       "url": "http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Horrify",
       "url": "https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "IFC Films Picks",
       "url": "https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Monarch TV (360p)",
       "url": "https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Movie Kingdom",
       "url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Movie Sphere",
       "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "MyTime Movie Network",
       "url": "https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "PopCornFlix Action",
       "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "PrimeTime Drama",
       "url": "https://simultv.s.llnwi.net/o064/PrimeTimeDrama/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "RedBox Spotlight",
       "url": "https://spotlight-redbox.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Runtime",
       "url": "https://ammoruntime-plex.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Rush by AMC",
       "url": "https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "The Film Detective",
       "url": "https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Thrill (576p)",
       "url": "http://210.210.155.37/qwr9ew/s/s34/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TV Destak (360p)",
       "url": "https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Watch It Scream!",
       "url": "https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "PlutoTV 70s Cinema",
@@ -436,157 +436,157 @@
       "name": "Rakuten Action UK",
       "url": "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Rakuten Comedy UK",
       "url": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Rakuten Family UK",
       "url": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Rakuten Film Streams UK",
       "url": "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Rakuten Thriller UK",
       "url": "https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Rakuten Top Free UK",
       "url": "https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Rakuten TV Shows UK",
       "url": "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR American Classics",
       "url": "https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR Cine House",
       "url": "https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR Cine Life",
       "url": "https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR City",
       "url": "https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR City Amarillo",
       "url": "https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR Gravitas Movies",
       "url": "https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR Horror Movies",
       "url": "https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR Midnight Pulp",
       "url": "https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR Mystery Science Theater 3000",
       "url": "https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR Space 1999",
       "url": "https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR The Archive",
       "url": "https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR Westerns",
       "url": "https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVS Drive In Movie (360p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVS Film Noir Network",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVS Front Page Detective",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVS Hollywood History (582p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVS Horror Network (476p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVS Music Network",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVS Nostalgia (472p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "欧美日韩01",
@@ -610,7 +610,7 @@
       "name": "追剧少女",
       "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "粤语喜剧",
@@ -688,7 +688,7 @@
       "name": "张国荣",
       "url": "http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLlUoc6MlX-3WpixX-56C8R0hywYUMumFpA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "林正英",
@@ -712,13 +712,13 @@
       "name": "刘亦菲",
       "url": "http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOCIBYP14DjqBeCxw3BE0-qbJ3xF_390cMw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "盗墓系列",
       "url": "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "镖行天下系列",
@@ -790,7 +790,7 @@
       "name": "僵尸剧场",
       "url": "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "贺岁电影",
@@ -808,31 +808,31 @@
       "name": "CHC动作电影",
       "url": "http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CHC家庭影院",
       "url": "http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "影院HD②",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221231757/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "影院HD③",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221231763/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "影院HD④",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221231787/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "黑莓电影",
@@ -844,7 +844,7 @@
       "name": "云上电影院",
       "url": "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "综合电影01",
