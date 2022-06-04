@@ -265,6 +265,12 @@
       "parse": true
     },
     {
+      "name": "BBC America",
+      "url": "https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "CGTN Documentary",
       "url": "http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
