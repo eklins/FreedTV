@@ -76,13 +76,13 @@
       "name": "倒霉熊",
       "url": "http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTLLKIgsjfUpnFqhHaYKHkWBOYVl02nFOYA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "小猪佩奇",
       "url": "http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrZMOkoDojER9DAIj-WXiUMhBkAIfJ975zQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "动漫电影（华）",
@@ -136,19 +136,19 @@
       "name": "Animax Asia",
       "url": "http://210.210.155.37/dr9445/h/h144/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF-7q9OoYu6ToquKI0OrqIjM8dMWgxQyOSA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Cartoon Circus",
       "url": "https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "ConTV Anime",
       "url": "https://contvanime-tcl.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttiEPZL-aldVy-qc4OeeVI6tVaMqUtpFtzg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Disney",
@@ -166,7 +166,7 @@
       "name": "LEGO Channels",
       "url": "https://legochannel-vizio.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93K8SRMrz7LTPBMuNfZraMbuLsom9wXKEdA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Nick Jr.",
@@ -178,19 +178,19 @@
       "name": "Pinkfong Baby Shark",
       "url": "https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Rakuten Family",
       "url": "https://rakuten-family-4-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Rakuten Family UK",
       "url": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Retro Toons",
@@ -202,7 +202,7 @@
       "name": "XUMO Kabillion",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "龙珠•改（日）",
@@ -256,7 +256,7 @@
       "name": "奥特曼（日）",
       "url": "http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVXOzPm-zT3L_4UUfxpNjENHKMCtazQazXQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "热血动漫",
@@ -322,31 +322,31 @@
       "name": "CN卡通频道",
       "url": "http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "优漫卡通台",
       "url": "http://117.148.179.183/PLTV/88888888/224/3221231574/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "嘉佳卡通台",
       "url": "http://117.148.179.144/PLTV/88888888/224/3221231483/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "金鹰卡通台",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "靖天卡通台",
       "url": "http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "经典卡通台",
@@ -364,19 +364,19 @@
       "name": "福州少儿",
       "url": "http://live.zohi.tv/video/s10001-sepd-4/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "南京少儿",
       "url": "http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "浙江少儿",
       "url": "http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     }
   ]
 }
