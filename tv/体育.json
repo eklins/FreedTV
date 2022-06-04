@@ -52,79 +52,79 @@
       "name": "江苏体育",
       "url": "http://183.207.249.11:80/PLTV/4/224/3221225935/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "PP体育",
       "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "风云足球",
       "url": "http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "魅力足球",
       "url": "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/0218/4d56ad1ebbb4685c2d09789e11704721.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "新视觉体育",
       "url": "http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8",
       "pic": "http://www.weishizaixian.com/res/2021/06-29/bb11dc822c31e374d6a91da86b06c812.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "精品体育",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "超级体育",
       "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAUebp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "五星体育",
       "url": "http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1012/af0110995a6085842ac7a7d3f5df9452.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "劲爆体育",
       "url": "http://live.tvfix.org/hls/jbtyhd.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot体育",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot赛车",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251IS50-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "江苏体育",
       "url": "http://183.207.249.11:80/PLTV/4/224/3221225935/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港Now Sports Prime",
       "url": "http://livetv.dnsfor.me/channel.12.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMOEtbLKC6Xr3fItU331ukELJDWPwSXfPG6g&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港有线体育 CH603",
@@ -136,7 +136,7 @@
       "name": "澳视体育 CH4",
       "url": "http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾智林体育台",
@@ -154,31 +154,31 @@
       "name": "1+1 Спорт (Ukraine)",
       "url": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Abu Dhabi Sports ①",
       "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Abu Dhabi Sports ②",
       "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Abu Dhabi Sports ③",
       "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "ACC Network",
       "url": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Action Sports",
@@ -190,31 +190,31 @@
       "name": "Астрахань.Ru Sport",
       "url": "http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "All Sports Brasil",
       "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "ATV Sport (Peru)",
       "url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Best Cable Sports (Peru)",
       "url": "https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Channel Fight UK",
       "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Combate World",
@@ -226,43 +226,43 @@
       "name": "Dubai Sport ①",
       "url": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Dubai Sport ②",
       "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Dubai Sport ③",
       "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "EDGE Sport",
       "url": "https://edgesport-samsungus.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Fight Network Canada",
       "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Fight Spirit US",
       "url": "https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Fight Sports",
       "url": "https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "FOX Sports",
@@ -274,19 +274,19 @@
       "name": "FOX Sports HD ①",
       "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "FTF Sports UK",
       "url": "https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "FTF Sports US",
       "url": "https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Glory Kickboxing",
@@ -298,67 +298,67 @@
       "name": "Hard Knocks",
       "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "HNC Free",
       "url": "https://hncfree-vizio.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "НТВ+ Спорт",
       "url": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "IMPACT! Wrestling US",
       "url": "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Japan Pro Wrestling World",
       "url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "KBP Sports US",
       "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "KSA Sports ①",
       "url": "https://edge.taghtia.com/sa/9.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "KSA Sports ②",
       "url": "https://edge.taghtia.com/sa/10.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "KTV Sports (Kuwait)",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSports",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "KTV Sports Plus (Kuwait)",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSportPlus",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Lax Sports Network TV",
       "url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "MLS (480p)",
@@ -370,7 +370,7 @@
       "name": "MMA Junkie US",
       "url": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "NBA TV Canada",
@@ -388,19 +388,19 @@
       "name": "Oman Sports TV",
       "url": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "One Golf",
       "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Pac12 Insider",
       "url": "https://pac12-sportstribal.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "PGA Tour",
@@ -418,145 +418,145 @@
       "name": "Red Bull TV",
       "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "RTM Sukan",
       "url": "https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd",
       "pic": "https://www.rtm.gov.my/images/2021/04/01/sukanrtmbaharu.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Rugby World TV",
       "url": "https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "San Marino RTV Sport (Italy)",
       "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Sharjah Sports TV (UAE)",
       "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Ski TV",
       "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Sky Sports (Korea)",
       "url": "http://51.81.66.195:1935/krtv/sky_sports_540/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Sports Grid UK",
       "url": "https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Sports Tonight UK",
       "url": "http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Sports TV Plus US",
       "url": "https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Sportskool TV US",
       "url": "https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Sporty Stuff TV",
       "url": "https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "SPOTV ① (Korea)",
       "url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "SPOTV ② (Korea)",
       "url": "http://51.81.66.195:1935/krtv/spotv_2_540/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Star Sport",
       "url": "http://live.tvfix.org/hls/starsports.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR MavTV",
       "url": "https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR Stadium",
       "url": "http://stadium.sinclair.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "STIRR Whistle Sports",
       "url": "https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Tennis Channel",
       "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TNT Sports ② (Brazil)",
       "url": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TNT Sports ③ (Brazil)",
       "url": "https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TNT Sports ④ (Brazil)",
       "url": "https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TNT Sports ⑤ (Brazil)",
       "url": "https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Turkmenistan Sport",
       "url": "http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TV Sports (UK)",
@@ -568,85 +568,85 @@
       "name": "TV2 Sporten (Norway)",
       "url": "https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVS Classic Sports",
       "url": "http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVS Sports",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVS Sports Bureau",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVS Women Sports",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "World of Freeports",
       "url": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Unbeaten US",
       "url": "https://unbeaten-roku.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Adventure Sports Network",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Football Daily",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Motorvision",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Nitro Circus",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Players TV",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Sports Network",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Stadium Sports",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "日本女子摔跤01",
