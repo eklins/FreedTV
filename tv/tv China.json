@@ -877,6 +877,12 @@
       "parse": true
     },
     {
+      "name": "iMode 时尚频道",
+      "url": "https://juyunlive.juyun.tv/live/24950198.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CUtJL1_MyXKez9jZSDzI4fk-089DZUgV8OeH7c7b&s",
+      "parse": true
+    },
+    {
       "name": "凤凰卫视中文台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg",
