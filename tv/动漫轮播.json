@@ -115,6 +115,12 @@
       "parse": false
     },
     {
+      "name": "Little Baby Bum",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5eb301b7395671000780d100&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=995&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReiqdO4BlmXhJ9TwrvZ4dC-3Kf3CHUrfqRGw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Nickelodeon Totally Turtles",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8livestitch/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d0c16d686454ead733d08f8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=983&terminate=false&userId=&profilesFromStream=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQVhGaHyiXeJl1hL45xfE_LX7RpWt1GNhRA&usqp=CAU",
