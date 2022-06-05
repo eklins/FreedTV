@@ -363,7 +363,7 @@
     {
       "name": "MLS (480p)",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cb626cfcaf83414128f439c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=712&terminate=false&userId=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxaOYHsrIootrDFlD2VjCW0nf5daRk7w6aw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
@@ -375,7 +375,7 @@
     {
       "name": "NBA TV Canada",
       "url": "https://www.chaojidianshi.net/zhibo/653.html",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9OAoADnhEu0ZC1gNFa1oOZ4Px5JE3b3dbiw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": true
     },
     {
@@ -405,7 +405,7 @@
     {
       "name": "PGA Tour",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs8ubABxzT76yK9hIZmvpJtrsCEltmVtKF9w&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
@@ -423,7 +423,7 @@
     {
       "name": "RTM Sukan",
       "url": "https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd",
-      "pic": "https://www.rtm.gov.my/images/2021/04/01/sukanrtmbaharu.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
@@ -499,30 +499,6 @@
       "parse": false
     },
     {
-      "name": "Star Sport",
-      "url": "http://live.tvfix.org/hls/starsports.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR MavTV",
-      "url": "https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Stadium",
-      "url": "http://stadium.sinclair.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR Whistle Sports",
-      "url": "https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Tennis Channel",
       "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -571,27 +547,9 @@
       "parse": false
     },
     {
-      "name": "TVS Classic Sports",
-      "url": "http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8",
-      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": false
-    },
-    {
-      "name": "TVS Sports",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8",
-      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": false
-    },
-    {
-      "name": "TVS Sports Bureau",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8",
-      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
-      "parse": false
-    },
-    {
-      "name": "TVS Women Sports",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8",
-      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
+      "name": "Unbeaten US",
+      "url": "https://unbeaten-roku.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
@@ -601,51 +559,87 @@
       "parse": false
     },
     {
-      "name": "Unbeaten US",
-      "url": "https://unbeaten-roku.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "name": "STIRR MavTV",
+      "url": "https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STIRR Stadium",
+      "url": "http://stadium.sinclair.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STIRR Whistle Sports",
+      "url": "https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVS Classic Sports",
+      "url": "http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVS Sports",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVS Sports Bureau",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVS Women Sports",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
       "name": "XUMO Adventure Sports Network",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
     {
       "name": "XUMO Football Daily",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
     {
       "name": "XUMO Motorvision",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
     {
       "name": "XUMO Nitro Circus",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
     {
       "name": "XUMO Players TV",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
     {
       "name": "XUMO Sports Network",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
     {
       "name": "XUMO Stadium Sports",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
     {
