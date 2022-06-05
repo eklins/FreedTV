@@ -391,24 +391,6 @@
       "parse": false
     },
     {
-      "name": "点播剧场①",
-      "url": "https://m.douyu.com/7476264",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "点播剧场②",
-      "url": "https://m.douyu.com/7314294",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "点播剧场③",
-      "url": "https://m.douyu.com/7494871",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "第一剧场",
       "url": "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
@@ -425,6 +407,24 @@
       "url": "http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
       "parse": false
+    },
+    {
+      "name": "点播剧场①",
+      "url": "https://m.douyu.com/7476264",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "点播剧场②",
+      "url": "https://m.douyu.com/7314294",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "点播剧场③",
+      "url": "https://m.douyu.com/7494871",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
     },
     {
       "name": "四大名著",
