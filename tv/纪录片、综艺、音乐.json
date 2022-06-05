@@ -103,15 +103,21 @@
       "parse": false
     },
     {
-      "name": "Entrepreneur",
-      "url": "https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Fear Factor 2001-2012 (480p)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c362ded581a86051df509b4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicS3X7o8Tb59O4STjRc7hFnPP35GlI1UTFg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Survivor 2000",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuBKBVxd89d9TdPprjGY8aRly1RsqKr_-3A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Amazing Race 2001",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH76O8909xT7y0_ZuuJctpPtJ_X3oG_g0iTQ&usqp=CAU",
       "parse": false
     },
     {
@@ -295,6 +301,12 @@
       "parse": false
     },
     {
+      "name": "Entrepreneur",
+      "url": "https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Haunt TV",
       "url": "https://haunttv-roku.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -319,13 +331,13 @@
       "parse": true
     },
     {
-      "name": "Outdoor Adventure 01",
+      "name": "Outdoor Adventure ①",
       "url": "https://m.huya.com/21059555",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
-      "name": "Outdoor Adventure 02",
+      "name": "Outdoor Adventure ②",
       "url": "https://m.douyu.com/454867",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
@@ -385,6 +397,12 @@
       "parse": false
     },
     {
+      "name": "PlutoTV Conspiracy UK",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4ae94ef1a1bbb350ca41bb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "PlutoTV Crime Investigation 360",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a5a9e767980007b497ca/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
@@ -397,6 +415,12 @@
       "parse": false
     },
     {
+      "name": "PlutoTV Drama Life",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "PlutoTV Explore",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
@@ -405,6 +429,12 @@
     {
       "name": "PlutoTV FBI Files",
       "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV G4 Select",
+      "url": "https://siloh.pluto.tv/lilo/production/G4EN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
@@ -469,8 +499,26 @@
       "parse": false
     },
     {
+      "name": "PlutoTV My5 Documentaries",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf901280e3550009139c86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=475&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV My5 GP's UK",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d2c57ee4f9ddf73da8a0ba5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=480&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "PlutoTV Mythbusters",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd833b41843b56328bac189/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV Paranormal UK",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4af2ffa9506ab29cf38c38&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=216&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
@@ -493,6 +541,18 @@
       "parse": false
     },
     {
+      "name": "PlutoTV Showtime Select",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV Smithsonian Channel Selects",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "PlutoTV Stand Up UK",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
@@ -505,14 +565,50 @@
       "parse": false
     },
     {
+      "name": "PlutoTV The Challenge",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV The First",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d486acc34ceb37d3c458a64&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=244&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "PlutoTV The New Detectives",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5aea40b35126c2157123aa64&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=376&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
     {
+      "name": "PlutoTV This Old House",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV Tiny House Nation",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV Tosh.0",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "PlutoTV True Crime",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812be1c249444e05d09cc50&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=365&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV Truly",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebd0ff1e1a4770007479dc7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
@@ -525,6 +621,24 @@
     {
       "name": "PlutoTV Unsolved Mysterious",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e96a0423e067bd6df6901&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=379&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV VH1 I Love Reality",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV Voyage Documentaries",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV Wild 'N Out",
+      "url": "http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
@@ -701,114 +815,6 @@
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "HQM Arabic",
-      "url": "https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Baladas",
-      "url": "https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Blues",
-      "url": "https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Chill Out",
-      "url": "https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Classic",
-      "url": "https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Dance",
-      "url": "https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Folk",
-      "url": "https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Gym",
-      "url": "https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Hip Hop",
-      "url": "https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Hits",
-      "url": "https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Jazz",
-      "url": "https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Kids",
-      "url": "https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Latin",
-      "url": "https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Pop",
-      "url": "https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Relax",
-      "url": "https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Remember",
-      "url": "https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Rock",
-      "url": "https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Spanish",
-      "url": "https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
     },
     {
       "name": "Stingray Classic Rock",
