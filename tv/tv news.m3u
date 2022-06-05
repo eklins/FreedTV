@@ -111,6 +111,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Qv0hwgns7uMA4Ynd-G-BP_eyBI3TzeAVIg&usqp=CAU",Sky News Australia
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSguQ_a8yvqAcoLyLLZJUbFfmUNpHv_n95lIg&usqp=CAU",Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYnaOLVLh4-GA2ktTzzm62gDLFyQ3tTIfhg&usqp=CAU",The First
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgY3ZlPnLYgHi_XRf2o77e2XUqqRareaj_w&usqp=CAU",TRT World
