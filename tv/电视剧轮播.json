@@ -301,19 +301,19 @@
       "parse": false
     },
     {
-      "name": "点播剧场01",
+      "name": "点播剧场①",
       "url": "https://m.douyu.com/7476264",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
-      "name": "点播剧场02",
+      "name": "点播剧场②",
       "url": "https://m.douyu.com/7314294",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
-      "name": "点播剧场03",
+      "name": "点播剧场③",
       "url": "https://m.douyu.com/7494871",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
@@ -433,19 +433,19 @@
       "parse": false
     },
     {
-      "name": "TVB粤语01",
+      "name": "TVB粤语①",
       "url": "https://m.douyu.com/9701481",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
       "parse": true
     },
     {
-      "name": "TVB粤语02",
+      "name": "TVB粤语②",
       "url": "https://m.douyu.com/742565",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
       "parse": true
     },
     {
-      "name": "TVB粤语03",
+      "name": "TVB粤语③",
       "url": "https://m.douyu.com/8524186",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/7237/20220208165640-69318850_jpeg_463_500_19490.jpg/300",
       "parse": true
