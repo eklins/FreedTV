@@ -637,16 +637,16 @@
       "parse": true
     },
     {
-      "name": "军事评论",
-      "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFgNeSexlKvbZNezB6OxTrWv9L9vS0jeeIA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "军武大本营",
       "url": "https://m.douyu.com/5483801",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzB_l6AIu32ou2adP261rj9uJ6JAXQKeifjw&usqp=CAU",
       "parse": true
+    },
+    {
+      "name": "军事评论",
+      "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFgNeSexlKvbZNezB6OxTrWv9L9vS0jeeIA&usqp=CAU",
+      "parse": false
     },
     {
       "name": "兵器科技",
