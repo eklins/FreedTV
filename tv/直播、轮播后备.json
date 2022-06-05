@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "name": "HQM Blues T",
-      "url": "https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HQM Blues F",
-      "url": "https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
       "url": "https://m.douyu.com/6582435",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
@@ -52,6 +40,12 @@
       "name": "宝可梦24335292",
       "url": "http://zzy789.xyz/bili.php?id=24335292",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3iO2XREqy57y9h0-8Uu1lOoTPX2JFEUd3w&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "东南亚丛林生活实录",
+      "url": "https://m.douyu.com/9612117",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
