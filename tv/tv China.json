@@ -637,21 +637,21 @@
       "parse": true
     },
     {
-      "name": "纯享4K",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "name": "军事评论",
+      "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFgNeSexlKvbZNezB6OxTrWv9L9vS0jeeIA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "军武大本营",
+      "url": "https://m.douyu.com/5483801",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzB_l6AIu32ou2adP261rj9uJ6JAXQKeifjw&usqp=CAU",
       "parse": true
     },
     {
       "name": "兵器科技",
       "url": "http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
-      "parse": true
-    },
-    {
-      "name": "军事评论",
-      "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
@@ -1335,7 +1335,7 @@
     {
       "name": "台湾国防时报TV",
       "url": "https://m.douyu.com/9680887",
-      "pic": "https://sf6-ttcdn-tos.pstatp.com/img/pgc-image/25b9618f7e724359a08f711d784763c7~300x300.image",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
