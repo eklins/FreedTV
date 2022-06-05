@@ -519,19 +519,37 @@
     {
       "name": "MTV (Japan)",
       "url": "http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpEaEzSAwzdatt0U5iF7AyjR10wphQ3j8GQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "MTV (USA)",
       "url": "http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpEaEzSAwzdatt0U5iF7AyjR10wphQ3j8GQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MTV (Vietnam)",
-      "url": "https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "name": "MTV Biggest Pop",
+      "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpEaEzSAwzdatt0U5iF7AyjR10wphQ3j8GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MTV Block Party",
+      "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpEaEzSAwzdatt0U5iF7AyjR10wphQ3j8GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MTV Dating",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpEaEzSAwzdatt0U5iF7AyjR10wphQ3j8GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MTV Spankin' New",
+      "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpEaEzSAwzdatt0U5iF7AyjR10wphQ3j8GQ&usqp=CAU",
       "parse": false
     },
     {
