@@ -295,12 +295,6 @@
       "parse": false
     },
     {
-      "name": "FBI Files",
-      "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Haunt TV",
       "url": "https://haunttv-roku.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -309,12 +303,6 @@
     {
       "name": "Lively Place",
       "url": "https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Military",
-      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb3fea0f711fd76340eebff&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=655&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -385,12 +373,6 @@
       "parse": false
     },
     {
-      "name": "World Poker Tour",
-      "url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
-      "pic": "https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",
-      "parse": false
-    },
-    {
       "name": "Young Hollywood",
       "url": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
       "pic": "https://m.media-amazon.com/images/M/MV5BMjhkNjZhYjUtMTE0Mi00MzRmLTgyMzktNmZjMjk5MThiMTJlXkEyXkFqcGdeQXVyMzMzNDgxMjE@._V1_FMjpg_UX1000_.jpg",
@@ -411,6 +393,18 @@
     {
       "name": "PlutoTV Deadly Women",
       "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca1df0d50be2571e393ad31/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=trueannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV Explore",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV FBI Files",
+      "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
@@ -439,6 +433,12 @@
       "parse": false
     },
     {
+      "name": "PlutoTV Military",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb3fea0f711fd76340eebff&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=655&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "PlutoTV Reality",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8bf0b06d2d855ee15115e3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=275&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
@@ -459,6 +459,12 @@
     {
       "name": "PlutoTV Unsolved Mysterious",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e96a0423e067bd6df6901&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=379&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV World Poker Tour",
+      "url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
