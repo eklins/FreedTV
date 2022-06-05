@@ -67,20 +67,26 @@
       "parse": true
     },
     {
+      "name": "岳云鹏•孙越相声",
+      "url": "https://m.huya.com/11342437",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4eqe32I6Ji2kVGcDaNJVrSpgYSuju9Z30w&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "冒险雷探长",
       "url": "https://m.douyu.com/5028934",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YB0ubH8Sc5G57nlyVXWegr70KGrwuog3Fg&usqp=CAU",
       "parse": true
     },
     {
       "name": "荒野游侠记",
       "url": "https://m.douyu.com/2259748",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUo6S_wFU7tmHwEEnazKtyuSkff0OG1NKcg&usqp=CAU",
       "parse": true
     },
     {
-      "name": "岳云鹏相声",
-      "url": "https://m.huya.com/11342437",
+      "name": "X调查•迷案解读",
+      "url": "https://m.douyu.com/10489378",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
@@ -133,27 +139,21 @@
       "parse": true
     },
     {
-      "name": "纪实人文",
-      "url": "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8",
-      "pic": "http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",
-      "parse": false
-    },
-    {
-      "name": "兵器科技",
-      "url": "http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls",
-      "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
-      "parse": true
-    },
-    {
       "name": "军事评论",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFgNeSexlKvbZNezB6OxTrWv9L9vS0jeeIA&usqp=CAU",
       "parse": false
     },
     {
       "name": "军武大本营",
       "url": "https://m.douyu.com/5483801",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzB_l6AIu32ou2adP261rj9uJ6JAXQKeifjw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "兵器科技",
+      "url": "http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls",
+      "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
       "parse": true
     },
     {
@@ -181,16 +181,16 @@
       "parse": true
     },
     {
-      "name": "全纪实",
-      "url": "http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8",
-      "pic": "http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",
+      "name": "纪实人文",
+      "url": "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx76NTDNiva_BFPxDpKKlt8f8rW3YkW7Gz1g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "X调查•迷案解读",
-      "url": "https://m.douyu.com/10489378",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
+      "name": "全纪实",
+      "url": "http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr0UMdxprWg6GQobAN2hdIavdQphjXPKgYw&usqp=CAU",
+      "parse": false
     },
     {
       "name": "iHot历史",
@@ -243,13 +243,7 @@
     {
       "name": "成都熊猫繁育研究基地",
       "url": "https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "东南亚丛林生活实录",
-      "url": "https://m.douyu.com/9612117",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZEeY5PE5fasqF2ar7Bsps3pKnrXV7EIKMA&usqp=CAU",
       "parse": true
     },
     {
