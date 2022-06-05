@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "name": "HQM Blues T",
+      "url": "https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "HQM Blues F",
+      "url": "https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
       "url": "https://m.douyu.com/6582435",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
