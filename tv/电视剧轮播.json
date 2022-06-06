@@ -397,6 +397,12 @@
       "parse": false
     },
     {
+      "name": "PrimeTime Drama",
+      "url": "https://simultv.s.llnwi.net/o064/PrimeTimeDrama/interlink.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "第一剧场",
       "url": "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
