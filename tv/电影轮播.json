@@ -109,6 +109,12 @@
       "parse": false
     },
     {
+      "name": "Brat TV",
+      "url": "https://brat-roku-us.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Charge!",
       "url": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
@@ -175,6 +181,12 @@
       "parse": false
     },
     {
+      "name": "Hi-YAH!",
+      "url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Horrify",
       "url": "https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
@@ -183,6 +195,12 @@
     {
       "name": "IFC Films Picks",
       "url": "https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Midnight Pulp",
+      "url": "https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": false
     },
@@ -199,13 +217,25 @@
       "parse": false
     },
     {
-      "name": "Movie Sphere",
+      "name": "Movie Sphere UK",
       "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MyTime Movie Network",
+      "name": "Movie Sphere US",
+      "url": "https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MyTime Movie Network UK",
+      "url": "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MyTime Movie Network US",
       "url": "https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": false
@@ -219,12 +249,6 @@
     {
       "name": "PrimeTime Drama",
       "url": "https://simultv.s.llnwi.net/o064/PrimeTimeDrama/interlink.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "RedBox Spotlight",
-      "url": "https://spotlight-redbox.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": false
     },
@@ -439,14 +463,14 @@
       "parse": false
     },
     {
-      "name": "Rakuten Family UK",
-      "url": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "name": "Rakuten Film Streams UK",
+      "url": "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Rakuten Film Streams UK",
-      "url": "https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "name": "Rakuten Lone Star US",
+      "url": "https://lonestar-rakuten.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
@@ -469,6 +493,36 @@
       "parse": false
     },
     {
+      "name": "RedBox Comedy",
+      "url": "https://comedy-redbox.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8BzbKLZ9Kwj3LTWWjJGYhY1LjUuoLKyLaQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "RedBox MST3K",
+      "url": "https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8BzbKLZ9Kwj3LTWWjJGYhY1LjUuoLKyLaQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "RedBox Spotlight",
+      "url": "https://spotlight-redbox.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8BzbKLZ9Kwj3LTWWjJGYhY1LjUuoLKyLaQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "RedBox Shout! Factory TV",
+      "url": "https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8BzbKLZ9Kwj3LTWWjJGYhY1LjUuoLKyLaQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "RedBox Rush",
+      "url": "https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8BzbKLZ9Kwj3LTWWjJGYhY1LjUuoLKyLaQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "STIRR American Classics",
       "url": "https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
@@ -487,14 +541,8 @@
       "parse": false
     },
     {
-      "name": "STIRR City",
-      "url": "https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR City Amarillo",
-      "url": "https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8",
+      "name": "STIRR FilmRise Free Movies",
+      "url": "https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
@@ -517,8 +565,26 @@
       "parse": false
     },
     {
+      "name": "STIRR Movies",
+      "url": "https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "STIRR Mystery Science Theater 3000",
       "url": "https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STIRR P.D.",
+      "url": "https://dai.google.com/linear/hls/event/dKG_ZFd_S82FPgNxHmhdJw/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STIRR Popstar! TV",
+      "url": "https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
@@ -531,6 +597,12 @@
     {
       "name": "STIRR The Archive",
       "url": "https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STIRR The Tim Conway Show",
+      "url": "https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
