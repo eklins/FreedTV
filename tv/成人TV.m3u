@@ -61,12 +61,18 @@ http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 ,AST TV①
 https://www.ast.tv/stream/1/master.m3u8
+#EXTINF:-1 ,AST TV②
+https://www.ast.tv/stream/2/master.m3u8
 #EXTINF:-1 ,Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 ,Estasy HD
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 ,Fashion TV Midnight Secret
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 ,Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 ,Miami TV Latino
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1 ,Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 ,VISIT-X TV 1935
@@ -121,12 +127,6 @@ http://89.248.160.57/iptv/URFPS4QVV53QPF/6202/index.m3u8
 http://89.248.160.57/iptv/URFPS4QVV53QPF/910/index.m3u8
 #EXTINF:-1 ,Brazzers
 http://89.248.160.57/iptv/URFPS4QVV53QPF/6182/index.m3u8
-#EXTINF:-1 ,XYMaxHD
-http://89.248.160.57/iptv/URFPS4QVV53QPF/6286/index.m3u8
-#EXTINF:-1 ,XYPlusHD
-http://89.248.160.57/iptv/URFPS4QVV53QPF/6288/index.m3u8
-#EXTINF:-1 ,XYMix HD
-http://89.248.160.57/iptv/URFPS4QVV53QPF/6287/index.m3u8
 #EXTINF:-1 ,Venus
 http://89.248.160.57/iptv/URFPS4QVV53QPF/6284/index.m3u8
 #EXTINF:-1 ,Hot Pleasure
