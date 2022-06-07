@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,QVC UK (540p)
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,QVC UK (540p)
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,QVC UK+1 (540p)
+https://live-qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
 #EXTINF:-1 ,UNTV News & Rescue
 https://cdn.untvweb.com/live-stream/playlist.m3u8
 #EXTINF:-1 ,HQM Blues
