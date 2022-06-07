@@ -637,6 +637,12 @@
       "parse": false
     },
     {
+      "name": "TVS Classic Movies (288p)",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8",
+      "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
+      "parse": false
+    },
+    {
       "name": "TVS Drive In Movie (360p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
       "pic": "https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",
