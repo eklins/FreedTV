@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Dust.us" status="online",Dust (1080p)
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1 tvg-id="Dabl.us" status="online",Dabl (1080p)
 http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:-1 ,QVC UK (540p)
