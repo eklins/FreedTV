@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ComedyDynamics.us" status="online",Comedy Dynamics (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
+#EXTINF:-1 tvg-id="Complex.us" status="online",Complex (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Docurama.us" status="online",Docurama (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us" status="online",Dove Channel (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 tvg-id="ElectricNow.us" status="online",Electric Now (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+#EXTINF:-1 tvg-id="eScapesXUMO.us" status="online",eScapes (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" status="online",FailArmy International (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" status="online",FilmRise Classic TV on Redbox (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" status="online",FilmRise Classic TV (432p)
+https://hls.xumo.com/channel-hls/v1/9fe012a9926c4e91/9999400/master.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFamily.us" status="online",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" status="online",FilmRise Free Movies (432p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="GoTraveler.us" status="online",Go Traveler (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="GQ.us" status="online",GQ (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="GQ.us" status="online",GQ (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HardKnocks.ca" status="online",Hard Knocks (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="NowThis.us" status="online",Now This (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="NowThisXUMO.us" status="online",Now This (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8
+#EXTINF:-1 tvg-id="PeopleareAwesomeUS.us" status="online",People are Awesome (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="PongaloNovelaclub.us" status="online",Pongalo Novelaclub (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="RedboxUnsolvedMysteries.us" status="online",FilmRise Forensic Files (XUMO) (432p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Reelz.us" status="online",Reelz (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ReelzChannelXUMO.us" status="online",Reelz Channel (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ShowtimeattheApollo.us" status="online",Showtime at the Apollo (432p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="SoYummy.us" status="online",So Yummy! (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="SoYummy.us" status="online",So Yummy! (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="ThePreviewChannel.us" status="online",The Preview Channel (720p)
+https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
+#EXTINF:-1 tvg-id="Vogue.us" status="online",Vogue (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Vogue.us" status="online",Vogue (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvogue/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Dust.us" status="online",Dust (1080p)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1 tvg-id="Dabl.us" status="online",Dabl (1080p)
