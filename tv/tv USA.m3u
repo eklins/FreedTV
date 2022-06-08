@@ -982,6 +982,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us" status="online",TVS Classic Sports (360p)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us" status="online",TVS Comedy Network (720p)
+https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8
 #EXTINF:-1 tvg-id="TVSDriveInMovie.us" status="online",TVS Drive In Movie (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-id="TVSFamilyChannel.us" status="online",TVS Family Channel (360p)
@@ -1030,9 +1032,9 @@ https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-id="TVSTodayHomeEntertainmentNetwork.us" status="online",TVS Today Home Entertainment Network (720p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8
-#EXTINF:-1 tvg-id="TVSTravel.us" status="online",TVS Travel Network (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVSTravelNetwork.us" status="online",TVS Travel Network (720p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
-#EXTINF:-1 tvg-id="TVSTurbo.us",TVS Turbo (360p)
+#EXTINF:-1 tvg-id="TVSTurbo.us" status="online",TVS Turbo (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 #EXTINF:-1 tvg-id="TVSWesternMovie.us" status="online",TVS Western Movie (270p)
 https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
