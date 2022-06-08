@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Dabl.us" status="online",Dabl (1080p)
+http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:-1 ,QVC UK (540p)
 https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 ,QVC UK (540p)
