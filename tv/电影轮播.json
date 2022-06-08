@@ -109,6 +109,18 @@
       "parse": false
     },
     {
+      "name": "Celestial Classic Movies 天映经典频道",
+      "url": "http://210.210.155.37/qwr9ew/s/s31/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Celestial Movies 天映频道",
+      "url": "http://210.210.155.37/dr9445/h/h14/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Charge!",
       "url": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -121,7 +133,7 @@
       "parse": false
     },
     {
-      "name": "Cinemax（越南）",
+      "name": "Cinemax（Vietnam）",
       "url": "https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -175,7 +187,7 @@
       "parse": false
     },
     {
-      "name": "HBO（越南）",
+      "name": "HBO（Vietnam)",
       "url": "http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -187,7 +199,7 @@
       "parse": false
     },
     {
-      "name": "Hits",
+      "name": "Hits (Indonesia)",
       "url": "http://210.210.155.37/dr9445/h/h37/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -859,8 +871,32 @@
       "parse": false
     },
     {
+      "name": "XUMO Dove Channel",
+      "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO Electric Now",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "XUMO FilmRise Action (432p)",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO FilmRise Classic TV (RedBox)",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO FilmRise Classic TV (432p)",
+      "url": "https://hls.xumo.com/channel-hls/v1/9fe012a9926c4e91/9999400/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
@@ -873,6 +909,12 @@
     {
       "name": "XUMO FilmRise Family (Roku)",
       "url": "http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO FilmRise Free Movies (432p)",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
@@ -951,6 +993,12 @@
     {
       "name": "XUMO Maverick Black Cinema (432p)",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO Novelaclub (Pongalo)",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
