@@ -277,6 +277,12 @@
       "parse": false
     },
     {
+      "name": "XUMO Yo Gabba Gabba!",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "龙珠•改（日）",
       "url": "https://m.huya.com/11601966?platForm=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJ5dREDA5RSGqAMIUKqMdyANSj3qLKNqRUw&usqp=CAU",
