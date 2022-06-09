@@ -889,6 +889,12 @@
       "parse": false
     },
     {
+      "name": "STIRR Nosey",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "STIRR Outdoor America",
       "url": "https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
