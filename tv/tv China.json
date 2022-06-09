@@ -121,6 +121,18 @@
       "parse": true
     },
     {
+      "name": "CNC",
+      "url": "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGei7LMlonN1Ow1BZz797GbkuEt4wlsL0LA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "CNC World",
+      "url": "http://source07.v.news.cn/live/CNC_EN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kT5PSUXc0FFuiwcGBHRVEFHsvtUC8kdbJg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "安徽卫视",
       "url": "http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/anhui.png",
@@ -328,6 +340,12 @@
       "name": "浙江卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "parse": true
+    },
+    {
+      "name": "4k剧场",
+      "url": "http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
