@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "Star TV",
+      "url": "http://96.242.237.206:8000/play/a085/index.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": true
+    },
+    {
       "name": "Hustler",
       "url": "http://totv.org/tv-hustler",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
