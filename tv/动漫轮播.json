@@ -13,13 +13,13 @@
       "parse": true
     },
     {
-      "name": "海绵宝宝S1-13",
+      "name": "海绵宝宝 S1-13",
       "url": "http://zzy789.xyz/bili.php?id=61834",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4haP2-Asg8a544pqQxwsE5umyfdLA0UJ7Q&usqp=CAU",
       "parse": true
     },
     {
-      "name": "犬夜叉2000",
+      "name": "犬夜叉 2000",
       "url": "https://m.douyu.com/7422897",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oXuMFvRhu0mk_-M_o6nttrfyS2FCOw4iaA&usqp=CAU",
       "parse": true
@@ -43,43 +43,43 @@
       "parse": true
     },
     {
-      "name": "名侦探柯南",
+      "name": "名侦探柯南 1996",
       "url": "https://m.douyu.com/6484910",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "宝可梦",
+      "name": "宝可梦 1997",
       "url": "https://m.douyu.com/9765742",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3iO2XREqy57y9h0-8Uu1lOoTPX2JFEUd3w&usqp=CAU",
       "parse": true
     },
     {
-      "name": "中华小当家",
+      "name": "中华小当家 2019",
       "url": "http://zzy789.xyz/bili.php?id=655291",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQth-oj2MMWq8RuU-u-ZNLBW7DueHHA3Xtgxw&usqp=CAU",
       "parse": true
     },
     {
-      "name": "蜡笔小新",
+      "name": "蜡笔小新 1992",
       "url": "http://zzy789.xyz/bili.php?id=10375360",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmBwhUkFMnCziTZLDntAiYttkAe1N58T9Zg&usqp=CAU",
       "parse": true
     },
     {
-      "name": "我们这一家",
+      "name": "我们这一家 2002-2009",
       "url": "http://zzy789.xyz/bili.php?id=14901318",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKL7-kLvPYajrac9sho5nmPo7_ErHiHf5Z3g&usqp=CAU",
       "parse": true
     },
     {
-      "name": "倒霉熊",
+      "name": "倒霉熊 2005",
       "url": "http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTLLKIgsjfUpnFqhHaYKHkWBOYVl02nFOYA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "小猪佩奇",
+      "name": "小猪佩奇 2004",
       "url": "http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrZMOkoDojER9DAIj-WXiUMhBkAIfJ975zQ&usqp=CAU",
       "parse": false
@@ -121,6 +121,12 @@
       "parse": false
     },
     {
+      "name": "Naruto 火影忍者 2002",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcRDF7z0wlbDWqPO35Aukcgcq04Z9K8UiGw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Popeye",
       "url": "https://m.douyu.com/7620081",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYoL-MVhntpNazGYFk_eDkrfDtszGBm8SDQ&usqp=CAU",
@@ -145,7 +151,7 @@
       "parse": false
     },
     {
-      "name": "Yu-Gi-Oh 游戏王",
+      "name": "Yu-Gi-Oh 游戏王 2000",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcHpXmt0AOjykm6YJtYKO02Oq0rJMibARMw&usqp=CAU",
       "parse": false
