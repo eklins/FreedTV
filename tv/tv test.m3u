@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Hustler
+http://totv.org/tv-hustler
 #EXTINF:-1 tvg-id="ThePreviewChannel.us" status="online",The Preview Channel (720p)
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 #EXTINF:-1 tvg-id="Vogue.us" status="online",Vogue (720p)
