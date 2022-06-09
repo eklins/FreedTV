@@ -4,637 +4,703 @@
       "name": "CCTV-1 综合",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225630/index.m3u8",
       "pic": "http://i1.hdslb.com/bfs/archive/e2e1cba48cd0514ed96402fbc94d88fa5d191365.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-2 财经",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8",
       "pic": "https://www.newton.com.tw/img/c/f27/cGcq5iY0UWYzMzYwAjNiZDNyYmZ2IDM0MDNlFmZxIjZ2QTYwI2YidTYjZDZv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-3 综艺",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/0417/20150417122415328.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-4 中文国际",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLR8rN8yuqzpI_cRFZ8xkqGe8XrrMQFBI8h4cENaRQ=s900-c-k-c0x00ffffff-no-rj",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-5 体育",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225756/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/0417/20150417122518526.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-5+ 体育赛事",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0722/20140722110316660.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-6 电影",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNzeIiHftvxAMmc7sx0MnbN3x_wbeDWxBEg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-7 国防军事",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN9HCILZWD9W7b0LCOq9RsxVLTXzsJXclzw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-8 电视剧",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJpOLumxorzY2M62X2tKPVHnuYe_leVqYDQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-9 纪录",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunGOpNHKH2iuDkqWTmVS5WK9XcJwG1KuIvA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-10 科教",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLQO2PYa4b8bTIBKeOWkl2yJ1o7NTnJtqze0mO8BDw=s900-c-k-c0x00ffffff-no-rj",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-11 戏曲",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8",
       "pic": "https://p3.img.cntv.cn/photoAlbum/page/performance/img/2019/9/11/1568168122399_415.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-12 社会与法",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8",
       "pic": "https://p3.img.cntv.cn/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-13 新闻",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-14 少儿",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568299186981_881.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-15 音乐",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8",
       "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168304286_282.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-16 奥林匹克",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221233403/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiYz9cTj9snQ_sJdWtiTJDatTgi-Qvou46g&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 4K高清",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 4K剧场",
-      "url": "http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8",
+      "url": "http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-17 农业农村",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8",
       "pic": "https://p1.img.cctvpic.com/fmspic/vms/image/1564473159990.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CNC",
       "url": "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGei7LMlonN1Ow1BZz797GbkuEt4wlsL0LA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CNC World",
       "url": "http://source07.v.news.cn/live/CNC_EN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kT5PSUXc0FFuiwcGBHRVEFHsvtUC8kdbJg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "安徽卫视",
       "url": "http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/anhui.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "北京卫视",
-      "url": "http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8",
+      "url": "http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/beijing.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "兵团卫视",
       "url": "http://117.148.179.162/PLTV/88888888/224/3221231469/index.m3u8",
       "pic": "http://ikanpic.kanketv.com/image/live/icon/bingtuan.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "重庆卫视",
       "url": "http://117.148.179.155/PLTV/88888888/224/3221231508/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/chongqing.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "东方卫视",
       "url": "http://117.148.179.167/PLTV/88888888/224/3221231450/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "东南卫视",
-      "url": "http://117.148.179.160/PLTV/88888888/224/3221231414/index.m3u8",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/dongnan.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "甘肃卫视",
       "url": "http://117.148.179.158/PLTV/88888888/224/3221231393/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/gansu.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "广东卫视",
-      "url": "http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8",
+      "url": "http://117.148.179.141:80/PLTV/88888888/224/3221231891/1.m3u8?$咪咕移动1080P",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/guangdong.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "广西卫视",
       "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/guangxi.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "贵州卫视",
-      "url": "http://117.148.179.160/PLTV/88888888/224/3221231676/index.m3u8",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/guizhou.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "河北卫视",
       "url": "http://117.148.179.179/PLTV/88888888/224/3221231411/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/hebei.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "河南卫视",
       "url": "http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/henan.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "黑龙江卫视",
       "url": "http://117.148.179.162/PLTV/88888888/224/3221231520/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "湖北卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/hubei.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "湖南卫视",
       "url": "http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/hunan.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "吉林卫视",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "江苏卫视",
       "url": "http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "江西卫视",
-      "url": "http://117.148.179.141/PLTV/88888888/224/3221231964/index.m3u8",
+      "url": "http://111.40.196.30/PLTV/88888888/224/3221225560/index.m3u8?$移动高清720P",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "辽宁卫视",
-      "url": "http://117.148.179.152/PLTV/88888888/224/3221231802/index.m3u8",
+      "url": "http://117.148.179.152:80/PLTV/88888888/224/3221231802/1.m3u8?$咪咕移动1080P",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "南方卫视",
       "url": "http://117.148.179.147/PLTV/88888888/224/3221231661/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVWUTw8pPjN9kxF7OULrQu9tKS8FW04Oztow&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "内蒙古卫视",
       "url": "http://117.148.179.151/PLTV/88888888/224/3221231478/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvPmfhxruz3Qze9VeBQD7SGhOKKG875NpTtw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "宁夏卫视",
-      "url": "http://117.148.179.160/PLTV/88888888/224/3221231441/index.m3u8",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWZsmZyWWz3IbLZ1KWJvG2y-jBy5DIw6MEw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "青海卫视",
       "url": "http://117.148.179.151/PLTV/88888888/224/3221231435/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/qinghai.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "人间卫视",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomB6l3aMAr-mcMqShmgNlqIx_PCxieWWpHg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "山东卫视",
       "url": "http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/shandong.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "山西卫视",
-      "url": "http://117.148.179.169/PLTV/88888888/224/3221231444/index.m3u8",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "陕西卫视",
       "url": "http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/shanxi.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "深圳卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "四川卫视",
       "url": "http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/sichuan.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "天津卫视",
       "url": "http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/tianjin.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "西藏卫视",
       "url": "http://117.148.179.162/PLTV/88888888/224/3221231558/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgshHGoYtmeAmNcwsYjdiBrUClnQL8nirWA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "厦门卫视",
       "url": "http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/xiamen.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "新疆卫视",
-      "url": "http://117.148.179.183/PLTV/88888888/224/3221231451/index.m3u8",
+      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "云南卫视",
-      "url": "http://117.148.179.141/PLTV/88888888/224/3221231499/index.m3u8",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "浙江卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
-      "parse": true
-    },
-    {
-      "name": "4k剧场",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "第一剧场",
       "url": "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "怀旧剧场",
       "url": "http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "风云剧场",
       "url": "http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "军旅剧场",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "古装剧场",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "武侠剧场",
       "url": "http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "家庭剧场",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "精品大剧",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "超级电视剧",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "少林剧场",
       "url": "http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "京视剧场",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "福州影视",
       "url": "http://live.zohi.tv/video/s10001-yspd-2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "哈尔滨影视",
       "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "杭州影视 HTV-4",
       "url": "http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_d",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "河北影视剧",
       "url": "https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "昆明影视综艺",
       "url": "http://wshls.live.migucloud.com/live/KYLNJWFD_C0_2/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "山东河东影视",
       "url": "https://jsylivealone302.iqilu.com/live/hedong_tv01.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "山东惠民影视",
       "url": "https://jsylivealone302.iqilu.com/live/huimin_tv02.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "山东莒南影视",
       "url": "https://jsylivealone302.iqilu.com/junan/junan_tv02.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "山东武城综艺影视",
       "url": "https://jsylivealone302.iqilu.com/live/wucheng_tv02.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "上海影视",
       "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "西安影视",
       "url": "http://stream2.xiancity.cn/xatv4/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "徐州文艺影视",
       "url": "http://stream1.huaihai.tv/wyys/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "浙江影视娱乐",
       "url": "http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "星卫电影台",
       "url": "http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "黑莓电影",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "超级电影",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "科幻电影",
       "url": "http://121.51.249.6/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "喜剧电影",
       "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "咪咕：每日科幻电影",
-      "url": "http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "咪咕：每日薦影",
-      "url": "http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "怀旧老片",
       "url": "http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "爱情公寓",
       "url": "http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CHC 动作电影",
       "url": "http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CHC 家庭影院",
       "url": "http://117.148.179.147/PLTV/88888888/224/3221231799/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
+    },
+    {
+      "name": "咪咕•每日薦影",
+      "url": "http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•SNH48剧场",
+      "url": "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•TVB剧场",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•云上电影院",
+      "url": "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•喜剧联盟",
+      "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•经典贺岁片",
+      "url": "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•怀旧老片",
+      "url": "http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•国际",
+      "url": "http://gslb.cdn.hk.chinamobile.com:80/live/d172754e7b0f4ec5969b5dec6fe5e37b/74ef089a0ca147ec8e1a7d9f8151d88b-1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•5G+",
+      "url": "http://117.148.179.166/PLTV/88888888/224/3221231736/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•僵尸剧场",
+      "url": "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•盗墓系列",
+      "url": "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•恐怖电影",
+      "url": "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•追剧少女",
+      "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•频道",
+      "url": "http://117.148.179.173/PLTV/88888888/224/3221232023/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
     },
     {
       "name": "CCTV 冬奥纪实",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221233356/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 冬奥纪实 4K",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221233419/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 冬奥纪实 8K",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221233142/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 台球",
       "url": "http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 高尔夫•网球",
       "url": "http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "足球",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226347/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "PP体育",
       "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "风云足球",
       "url": "http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "魅力足球",
       "url": "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/0218/4d56ad1ebbb4685c2d09789e11704721.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "新视觉体育",
       "url": "http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8",
       "pic": "http://www.weishizaixian.com/res/2021/06-29/bb11dc822c31e374d6a91da86b06c812.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "精品体育",
       "url": "http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "超级体育",
       "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "五星体育",
       "url": "http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1012/af0110995a6085842ac7a7d3f5df9452.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "劲爆体育",
