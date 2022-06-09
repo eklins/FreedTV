@@ -1016,13 +1016,13 @@
     },
     {
       "name": "RTHK 31",
-      "url": "https://www.chaojidianshi.net/zhibo/96.html",
+      "url": "http://livetv.dnsfor.me:80/channel.1.m3u8",
       "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",
       "parse": true
     },
     {
       "name": "RTHK 32",
-      "url": "https://www.chaojidianshi.net/zhibo/97.html",
+      "url": "http://livetv.dnsfor.me:80/channel.2.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCAzyNmOxqNxh5Bl-_nA8fHsbOm7OV_iHWA&usqp=CAU",
       "parse": true
     },
