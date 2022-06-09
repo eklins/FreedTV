@@ -391,6 +391,12 @@
       "parse": false
     },
     {
+      "name": "KBS World",
+      "url": "https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "PrimeTime Drama",
       "url": "https://simultv.s.llnwi.net/o064/PrimeTimeDrama/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -496,6 +502,12 @@
       "name": "STIRR Shout! Factory TV",
       "url": "https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•SNH48剧场",
+      "url": "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
       "parse": false
     },
     {
@@ -625,10 +637,16 @@
       "parse": true
     },
     {
+      "name": "咪咕•TVB剧场",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "TVB剧场",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "TVB粤语①",
