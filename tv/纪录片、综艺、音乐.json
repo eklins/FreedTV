@@ -193,12 +193,6 @@
       "parse": false
     },
     {
-      "name": "中国功夫",
-      "url": "http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNMypXHkLe-0trUwWGzn_ntJj97sEabu1NbA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "兵器科技",
       "url": "http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
