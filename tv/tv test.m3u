@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,BBV World News
+#EXTINF:-1 ,ELEVEN体育二台
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 ,BBC World News
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 ,无线财经 YE23
 http://ye23.win/iptv/tvb.php?id=2
