@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,BBV World News
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 ,无线财经 YE23
 http://ye23.win/iptv/tvb.php?id=2
 #EXTINF:-1 ,Hustler
