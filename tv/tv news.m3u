@@ -71,10 +71,10 @@ http://ott-cdn.ucom.am/s65/index.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GgSXzSdSxF7XTAo4EV4ZlLxoPakst_4b0w&usqp=CAU",CNBC TV18 (India)
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBt21a2KaqlSwB_PNmz8ZSkS8k_8uQIc74g&usqp=CAU",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
-#EXTINF:-1 logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN US
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63z4qh5lzy_EVbD_tVoXNsrmnwVbdrK4H8A&usqp=CAU",CTV News
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 logo="https://s3.spbtv.com/spbtv-world-production/50577931455a0d496a75_512x512c.png",DW English
@@ -85,7 +85,9 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2021/01/FOX-5-NEWS-NOW-Logo-with-BG.jpg?w=1280",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/1024/512/Fox-Weather-THUMB-SLIDE-3.jpg?ve=1&tl=1",Fox Weather
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDWpiol50Q-rQUJ9gyxpmlh6sbIWUl_cUwQ&usqp=CAU",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ae0JwGwgx9dRttQi1sg4k4Ufvcb5puBHUA&usqp=CAU",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyGuxCofh3wqGebKPnBav9EXEWkESCE3XKA&usqp=CAU",France 24 English
 https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
