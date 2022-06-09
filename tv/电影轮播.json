@@ -1105,7 +1105,7 @@
       "parse": false
     },
     {
-      "name": "追剧少女",
+      "name": "咪咕•追剧少女",
       "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": false
@@ -1231,8 +1231,74 @@
       "parse": false
     },
     {
-      "name": "盗墓系列",
+      "name": "咪咕•每日薦影",
+      "url": "http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•云上电影院",
+      "url": "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•喜剧联盟",
+      "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•经典贺岁片",
+      "url": "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•怀旧老片",
+      "url": "http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•国际",
+      "url": "http://gslb.cdn.hk.chinamobile.com:80/live/d172754e7b0f4ec5969b5dec6fe5e37b/74ef089a0ca147ec8e1a7d9f8151d88b-1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•5G+",
+      "url": "http://117.148.179.166/PLTV/88888888/224/3221231736/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•僵尸剧场",
+      "url": "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•盗墓系列",
       "url": "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "咪咕•恐怖电影",
+      "url": "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CHC动作电影",
+      "url": "http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CHC家庭影院",
+      "url": "http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -1307,24 +1373,6 @@
       "url": "https://m.huya.com/11601986",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
-    },
-    {
-      "name": "僵尸剧场",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CHC动作电影",
-      "url": "http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "CHC家庭影院",
-      "url": "http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
     },
     {
       "name": "影院HD②",
