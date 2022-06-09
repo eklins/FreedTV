@@ -121,7 +121,7 @@
       "parse": false
     },
     {
-      "name": "CNC",
+      "name": "CNC 新华社",
       "url": "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGei7LMlonN1Ow1BZz797GbkuEt4wlsL0LA&usqp=CAU",
       "parse": false
@@ -145,7 +145,7 @@
       "parse": false
     },
     {
-      "name": "兵团卫视",
+      "name": "兵团卫视（新疆）",
       "url": "http://117.148.179.162/PLTV/88888888/224/3221231469/index.m3u8",
       "pic": "http://ikanpic.kanketv.com/image/live/icon/bingtuan.png",
       "parse": false
@@ -157,13 +157,13 @@
       "parse": false
     },
     {
-      "name": "东方卫视",
+      "name": "东方卫视（上海）",
       "url": "http://117.148.179.167/PLTV/88888888/224/3221231450/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png",
       "parse": false
     },
     {
-      "name": "东南卫视",
+      "name": "东南卫视（福建）",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/dongnan.png",
       "parse": false
@@ -1010,7 +1010,7 @@
     },
     {
       "name": "TVB J2",
-      "url": "https://www.chaojidianshi.net/zhibo/74.html",
+      "url": "https://tx-b2.xsafetech.com/live/11666.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/0922/ec93b4441247781ef3f6d303dd553ed1.jpg",
       "parse": true
     },
