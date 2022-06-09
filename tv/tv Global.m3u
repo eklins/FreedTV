@@ -770,7 +770,7 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 ,KOR★KBS N Sports (540p)
 http://51.81.66.195:1935/krtv/kbs_n_sports_540/playlist.m3u8
 #EXTINF:-1 ,KOR★KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 ,KOR★KCTV 광주 CH05 (720p)
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 ,KOR★KCTV 광주 CH21
