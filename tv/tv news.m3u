@@ -63,11 +63,13 @@ http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
 https://live.chdrstatic.com/cbn/index.m3u8
 #EXTINF:-1 logo="https://onecms-res.cloudinary.com/image/upload/v1628577495/mediacorp/cna/image/2021-08/cna-logo-data.jpg",CNA 亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShCqoPVXQPFgZ4gDSY1G-XMPmgZg6-SKZ_Q&usqp=CAU",CNBC
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbq72Lp2epTgno002BMVVXJK3JmvG0TvF5dQ&usqp=CAU",CNBC Europe UK
 http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZuwxLWgOj5eZ7B3Ne9KAq4iZ1j43s4Fptuw&usqp=CAU",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CNBC_TV18.png/220px-CNBC_TV18.png",CNBC TV18 (India)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GgSXzSdSxF7XTAo4EV4ZlLxoPakst_4b0w&usqp=CAU",CNBC TV18 (India)
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBt21a2KaqlSwB_PNmz8ZSkS8k_8uQIc74g&usqp=CAU",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
