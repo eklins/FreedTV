@@ -704,19 +704,19 @@
     },
     {
       "name": "日本女子摔跤01",
-      "url": "https://m.douyu.com/425809",
+      "url": "https://www.douyu.com/425809",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     },
     {
       "name": "日本女子摔跤02",
-      "url": "https://m.huya.com/11602069",
+      "url": "https://www.huya.com/11602069",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     },
     {
       "name": "欧美女子摔跤",
-      "url": "https://m.huya.com/19197508",
+      "url": "https://www.huya.com/19197508",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     }
