@@ -973,10 +973,16 @@
       "parse": true
     },
     {
-      "name": "天映经典",
-      "url": "https://www.chaojidianshi.net/zhibo/90.html",
-      "pic": "https://p6-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/5f8cfe0ff7a049558357648ae41a6067~tplv-mlhdmxsy5m-q75:0:0.image",
-      "parse": true
+      "name": "天映频道",
+      "url": "http://210.210.155.37/dr9445/h/h14/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPyrpm--oApjOinvA6i18Ms5hFAgjN1jV7w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "天映经典频道",
+      "url": "http://210.210.155.37/qwr9ew/s/s31/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",
+      "parse": false
     },
     {
       "name": "TVB 翡翠台",
