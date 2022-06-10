@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",CCTV-13 新闻
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGei7LMlonN1Ow1BZz797GbkuEt4wlsL0LA&usqp=CAU",CNC 新华社
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kT5PSUXc0FFuiwcGBHRVEFHsvtUC8kdbJg&usqp=CAU”,CNC World
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",台湾中天新闻
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 #EXTINF:-1 logo="http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg",凤凰卫视中文台
