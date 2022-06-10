@@ -733,6 +733,12 @@ https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 tvg-id="NewsyTopStories.us" status="online",Newsy Top Stories (720p)
 https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
+#EXTINF:-1 tvg-id="" status="online",NTD TV (New Tang Dynasty Television)
+http://live.ntdimg.com/uwlive990/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",NTD TV (New Tang Dynasty Television)
+http://live2.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",NTD TV (New Tang Dynasty Television)
+http://live2.ntdimg.com/live330/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAustralia.au" status="online",Nickelodeon Australia (576p)
 http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
 #EXTINF:-1 tvg-id="NoseyDivorceCourt.us" status="online",Nosey Divorce Court (720p) [Not 24/7]
@@ -1450,6 +1456,8 @@ https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/anxcx913
 #EXTINF:-1 tvg-id="" status="online",3ABN Français (720p) [Not 24/7]
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:-1 tvg-id="" status="online",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",Toonami Aftermath Movies (540p)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",Hope Channel Norge (540p)
