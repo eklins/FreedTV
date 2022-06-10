@@ -7,10 +7,22 @@
       "parse": true
     },
     {
+      "name": "三国演义1994 zzy F",
+      "url": "http://zzy789.xyz/douyu1.php?id=7459925",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "三国演义1994 epg",
       "url": "http://epg.112114.xyz/douyu/7459925",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
       "parse": true
+    },
+    {
+      "name": "三国演义1994 epg F",
+      "url": "http://epg.112114.xyz/douyu/7459925",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
+      "parse": false
     },
     {
       "name": "爱上4K",
