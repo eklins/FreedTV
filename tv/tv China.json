@@ -271,12 +271,6 @@
       "parse": false
     },
     {
-      "name": "人间卫视（佛光山）",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomB6l3aMAr-mcMqShmgNlqIx_PCxieWWpHg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "山东卫视",
       "url": "http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/shandong.png",
@@ -1252,6 +1246,12 @@
       "name": "台湾SBN全球财经",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1LjHXLSG-6l6i1AEbxD48IZsuWJxWyHVOw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "人间卫视（佛光山）",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomB6l3aMAr-mcMqShmgNlqIx_PCxieWWpHg&usqp=CAU",
       "parse": true
     },
     {
