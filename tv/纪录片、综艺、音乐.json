@@ -505,6 +505,12 @@
       "parse": false
     },
     {
+      "name": "Tranquil Thunderstorms",
+      "url": "https://a.jsrdn.com/broadcast/18b42f9aef/+0000/c.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Tropics Live",
       "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -517,16 +523,10 @@
       "parse": false
     },
     {
-      "name": "TUBE Survival Wilderness",
-      "url": "https://www.douyu.com/9611578",
+      "name": "WATC-DT1",
+      "url": "https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "Variety",
-      "url": "https://www.douyu.com/4360438",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "World Fashion Channel",
@@ -1201,6 +1201,12 @@
       "parse": false
     },
     {
+      "name": "CMC (California Music Channel)",
+      "url": "https://cmc-ono.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "kroneHit",
       "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -1321,8 +1327,32 @@
       "parse": false
     },
     {
+      "name": "The Retro Channel",
+      "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "V2Beat",
       "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "VEVO Hip Hop",
+      "url": "https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "VEVO Latino",
+      "url": "https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "VEVO Pop Europe",
+      "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
