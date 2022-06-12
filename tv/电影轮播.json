@@ -277,12 +277,6 @@
       "parse": false
     },
     {
-      "name": "PopCornFlix Action",
-      "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "PrimeTime Drama",
       "url": "https://simultv.s.llnwi.net/o064/PrimeTimeDrama/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -412,6 +406,18 @@
       "name": "AMC Slightly Off",
       "url": "https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BumblebeeTV Action (PopCornFlix)",
+      "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BumblebeeTV Classics (480p)",
+      "url": "https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/manifest/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/0d14dc99-cc30-4c0e-8531-40cdfe650694/1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
       "parse": false
     },
     {
