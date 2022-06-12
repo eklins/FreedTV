@@ -559,7 +559,7 @@
       "parse": false
     },
     {
-      "name": "True Real",
+      "name": "True Real (WPXN-DT6)",
       "url": "https://scripps-truereal-1-us.vizio.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -1243,8 +1243,14 @@
       "parse": false
     },
     {
-      "name": "Circle",
+      "name": "Circle (Roku)",
       "url": "https://circle-roku.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Circle (WRNN-DT2)",
+      "url": "https://v-ny.theus6tv.tk/hls/48.2/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
