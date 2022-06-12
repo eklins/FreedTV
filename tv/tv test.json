@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "name": "iHot悬疑",
-      "url": "http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I2380-L.jpg",
-      "parse": false
+      "name": "鬼吹灯",
+      "url": "http://mmitv.top/pltv/yy.php?id=1331686180",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmCpSl-n8GCmSWvL4dTen_Rv3uzBWC7gF-A&usqp=CAU",
+      "parse": true
     },
     {
       "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
