@@ -1,0 +1,856 @@
+{
+  "data": [
+    {
+      "name": "CCTV-13 新闻",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8",
+      "pic": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568294757954_926.jpg",
+      "parse": true
+    },
+    {
+      "name": "CNC 新华社",
+      "url": "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGei7LMlonN1Ow1BZz797GbkuEt4wlsL0LA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "CNC World",
+      "url": "http://source07.v.news.cn/live/CNC_EN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kT5PSUXc0FFuiwcGBHRVEFHsvtUC8kdbJg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾中天新闻",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "凤凰卫视中文台",
+      "url": "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg",
+      "parse": true
+    },
+    {
+      "name": "凤凰卫视资讯台",
+      "url": "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",
+      "parse": true
+    },
+    {
+      "name": "香港Now直播台 CH331",
+      "url": "http://livetv.dnsfor.me/channel.3.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIg00bYuU-iKxdD8mBlCPfe1VSq3IxjH5urw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "香港Now新闻台 CH332",
+      "url": "http://livetv.dnsfor.me:80/channel.4.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToCpmCkU23XAMFnNBAS8bXTbOk1p3Ow6zFw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "And",
+      "url": "GH",
+      "pic": "GH",
+      "parse": true
+    },
+    {
+      "name": "台湾SBN全球财经",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1LjHXLSG-6l6i1AEbxD48IZsuWJxWyHVOw&usqp=CAU",
+      "parse": true
+    }
+  ]
+}
