@@ -622,169 +622,169 @@
       "name": "iHot历史",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HA20-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot解密",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H1090-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot探索",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J6430-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot奇谈",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HU90-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot猎奇",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J5500-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot世界",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I0500-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot悬疑",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I2380-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot怀旧",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J2230-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot家庭",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251JK20-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot谍战",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J4330-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot青春",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J9210-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot都市",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251G9340-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot经典",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H2130-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot江湖",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H0150-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot喜剧",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251G5050-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot科幻",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H4440-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot浪漫",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H5480-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot院线",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I4420-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot娱乐",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J3250-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot时尚",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H9580-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot美食",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HQ10-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot旅行",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J1040-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot动漫",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251GS70-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot玩具",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I1460-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot体育",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot赛车",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251IS50-L.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot极限",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iHot科学",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 冬奥纪实",
@@ -931,28 +931,16 @@
       "parse": true
     },
     {
-      "name": "风云音乐",
-      "url": "http://m.haoqu99.com/1/fyyy.html",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121053553871.jpg",
-      "parse": true
-    },
-    {
       "name": "CGTN News",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/2bc42b992ea918b8649261476ad427b9.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CGTN Documentary",
       "url": "http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
-      "parse": true
-    },
-    {
-      "name": "优漫卡通",
-      "url": "http://117.148.179.183/PLTV/88888888/224/3221231574/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "iMode 时尚频道",
@@ -964,13 +952,13 @@
       "name": "凤凰卫视中文台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "凤凰卫视资讯台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "天映频道",
