@@ -116,7 +116,7 @@
     },
     {
       "name": "CCTV-17 农业农村",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8",
       "pic": "https://p1.img.cctvpic.com/fmspic/vms/image/1564473159990.jpg",
       "parse": false
     },
@@ -134,79 +134,85 @@
     },
     {
       "name": "安徽卫视",
-      "url": "http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225541/index.m3u8?fmt=ts2hls",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/anhui.png",
       "parse": false
     },
     {
       "name": "北京卫视",
-      "url": "http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225543/index.m3u8?fmt=ts2hls",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/beijing.png",
       "parse": false
     },
     {
       "name": "兵团卫视（新疆）",
-      "url": "http://117.148.179.162/PLTV/88888888/224/3221231469/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226200/index.m3u8",
       "pic": "http://ikanpic.kanketv.com/image/live/icon/bingtuan.png",
       "parse": false
     },
     {
       "name": "重庆卫视",
-      "url": "http://117.148.179.155/PLTV/88888888/224/3221231508/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/chongqing.png",
       "parse": false
     },
     {
       "name": "东方卫视（上海）",
-      "url": "http://117.148.179.167/PLTV/88888888/224/3221231450/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225561/index.m3u8?fmt=ts2hls",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png",
       "parse": false
     },
     {
       "name": "东南卫视（福建）",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225552/index.m3u8?fmt=ts2hls",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/dongnan.png",
       "parse": false
     },
     {
       "name": "甘肃卫视",
-      "url": "http://117.148.179.158/PLTV/88888888/224/3221231393/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225724/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/gansu.png",
       "parse": false
     },
     {
       "name": "广东卫视",
-      "url": "http://117.148.179.141:80/PLTV/88888888/224/3221231891/1.m3u8?$咪咕移动1080P",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225558/index.m3u8?fmt=ts2hls",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/guangdong.png",
       "parse": false
     },
     {
       "name": "广西卫视",
-      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225731/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/guangxi.png",
       "parse": false
     },
     {
       "name": "贵州卫视",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225728/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/guizhou.png",
       "parse": false
     },
     {
+      "name": "海南卫视",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn4cURG65tc5PgWZXeuhowDd6CNFF_0iWS_g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "河北卫视",
-      "url": "http://117.148.179.179/PLTV/88888888/224/3221231411/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225732/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/hebei.png",
       "parse": false
     },
     {
       "name": "河南卫视",
-      "url": "http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226196/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/henan.png",
       "parse": false
     },
     {
       "name": "黑龙江卫视",
-      "url": "http://117.148.179.162/PLTV/88888888/224/3221231520/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225542/index.m3u8?fmt=ts2hls",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",
       "parse": false
     },
@@ -218,55 +224,55 @@
     },
     {
       "name": "湖南卫视",
-      "url": "http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225555/index.m3u8?fmt=ts2hls",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/hunan.png",
       "parse": false
     },
     {
       "name": "吉林卫视",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225680/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
       "parse": false
     },
     {
       "name": "江苏卫视",
-      "url": "http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",
       "parse": false
     },
     {
       "name": "江西卫视",
-      "url": "http://111.40.196.30/PLTV/88888888/224/3221225560/index.m3u8?$移动高清720P",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",
       "parse": false
     },
     {
       "name": "辽宁卫视",
-      "url": "http://117.148.179.152:80/PLTV/88888888/224/3221231802/1.m3u8?$咪咕移动1080P",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png",
       "parse": false
     },
     {
       "name": "南方卫视（广东）",
-      "url": "http://117.148.179.147/PLTV/88888888/224/3221231661/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226203/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVWUTw8pPjN9kxF7OULrQu9tKS8FW04Oztow&usqp=CAU",
       "parse": false
     },
     {
       "name": "内蒙古卫视",
-      "url": "http://117.148.179.151/PLTV/88888888/224/3221231478/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225667/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvPmfhxruz3Qze9VeBQD7SGhOKKG875NpTtw&usqp=CAU",
       "parse": false
     },
     {
       "name": "宁夏卫视",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225726/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWZsmZyWWz3IbLZ1KWJvG2y-jBy5DIw6MEw&usqp=CAU",
       "parse": false
     },
     {
       "name": "青海卫视",
-      "url": "http://117.148.179.151/PLTV/88888888/224/3221231435/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225727/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/qinghai.png",
       "parse": false
     },
@@ -278,13 +284,13 @@
     },
     {
       "name": "山西卫视",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",
       "parse": false
     },
     {
       "name": "陕西卫视",
-      "url": "http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225729/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/shanxi.png",
       "parse": false
     },
@@ -296,37 +302,37 @@
     },
     {
       "name": "四川卫视",
-      "url": "http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225733/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/sichuan.png",
       "parse": false
     },
     {
       "name": "天津卫视",
-      "url": "http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/tianjin.png",
       "parse": false
     },
     {
       "name": "西藏卫视",
-      "url": "http://117.148.179.162/PLTV/88888888/224/3221231558/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgshHGoYtmeAmNcwsYjdiBrUClnQL8nirWA&usqp=CAU",
       "parse": false
     },
     {
       "name": "厦门卫视",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/xiamen.png",
       "parse": false
     },
     {
       "name": "新疆卫视",
-      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225725/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",
       "parse": false
     },
     {
       "name": "云南卫视",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225664/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png",
       "parse": false
     },
@@ -794,7 +800,7 @@
     },
     {
       "name": "CCTV 冬奥纪实",
-      "url": "http://117.148.179.157/PLTV/88888888/224/3221233356/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
       "parse": false
     },
@@ -860,7 +866,7 @@
     },
     {
       "name": "超级体育",
-      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -907,6 +913,12 @@
       "parse": true
     },
     {
+      "name": "河南金鹰纪实",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/henan.png",
+      "parse": false
+    },
+    {
       "name": "文化精品",
       "url": "http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
@@ -944,7 +956,7 @@
     },
     {
       "name": "CGTN Documentary",
-      "url": "http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
       "parse": false
     },
