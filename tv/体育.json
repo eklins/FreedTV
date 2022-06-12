@@ -86,13 +86,13 @@
     },
     {
       "name": "精品体育",
-      "url": "http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
       "name": "超级体育",
-      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAUebp",
       "parse": false
     },
@@ -104,7 +104,7 @@
     },
     {
       "name": "劲爆体育",
-      "url": "http://live.tvfix.org/hls/jbtyhd.m3u8",
+      "url": "http://112.25.48.70/live/program/live/jbtyhd/4000000/mnf.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
       "parse": false
     },
