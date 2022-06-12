@@ -103,6 +103,84 @@
       "parse": false
     },
     {
+      "name": "CCTV-17 农业农村",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8",
+      "pic": "https://p1.img.cctvpic.com/fmspic/vms/image/1564473159990.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 冬奥纪实",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 冬奥纪实 4K",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221233419/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 冬奥纪实 8K",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221233142/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 风云足球",
+      "url": "http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 台球",
+      "url": "http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 高尔夫•网球",
+      "url": "http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 兵器科技",
+      "url": "http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls",
+      "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 文化精品",
+      "url": "http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 发现之旅",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 世界地理",
+      "url": "http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055201348.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 女性时尚",
+      "url": "http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
+      "name": "CCTV 老故事",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
+      "parse": false
+    },
+    {
       "name": "CCTV 4K剧场",
       "url": "http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
@@ -115,21 +193,21 @@
       "parse": false
     },
     {
-      "name": "CCTV-17 农业农村",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8",
-      "pic": "https://p1.img.cctvpic.com/fmspic/vms/image/1564473159990.jpg",
+      "name": "CCTV 第一剧场",
+      "url": "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
       "parse": false
     },
     {
-      "name": "CNC 新华社",
-      "url": "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGei7LMlonN1Ow1BZz797GbkuEt4wlsL0LA&usqp=CAU",
+      "name": "CCTV 怀旧剧场",
+      "url": "http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
       "parse": false
     },
     {
-      "name": "CNC World",
-      "url": "http://source07.v.news.cn/live/CNC_EN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kT5PSUXc0FFuiwcGBHRVEFHsvtUC8kdbJg&usqp=CAU",
+      "name": "CCTV 风云剧场",
+      "url": "http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
       "parse": false
     },
     {
@@ -207,6 +285,12 @@
     {
       "name": "河南卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226196/index.m3u8",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/henan.png",
+      "parse": false
+    },
+    {
+      "name": "河南金鹰纪实",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/henan.png",
       "parse": false
     },
@@ -340,24 +424,6 @@
       "name": "浙江卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
-      "parse": false
-    },
-    {
-      "name": "第一剧场",
-      "url": "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
-      "parse": false
-    },
-    {
-      "name": "怀旧剧场",
-      "url": "http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
-      "parse": false
-    },
-    {
-      "name": "风云剧场",
-      "url": "http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
       "parse": false
     },
     {
@@ -505,12 +571,6 @@
       "parse": false
     },
     {
-      "name": "超级电影",
-      "url": "http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "科幻电影",
       "url": "http://121.51.249.6/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -547,285 +607,405 @@
       "parse": false
     },
     {
-      "name": "咪咕•每日薦影",
-      "url": "http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•SNH48剧场",
-      "url": "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•TVB剧场",
-      "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•云上电影院",
-      "url": "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•喜剧联盟",
-      "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•经典贺岁片",
-      "url": "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•怀旧老片",
-      "url": "http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•僵尸剧场",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•盗墓系列",
-      "url": "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•恐怖电影",
-      "url": "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•追剧少女",
-      "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•频道",
-      "url": "http://117.148.179.173/PLTV/88888888/224/3221232023/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•5G+",
-      "url": "http://117.148.179.166/PLTV/88888888/224/3221231736/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•体育",
-      "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHot历史",
+      "name": "iHot 历史",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HA20-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot解密",
+      "name": "iHot 解密",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H1090-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot探索",
+      "name": "iHot 探索",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J6430-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot奇谈",
+      "name": "iHot 奇谈",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HU90-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot猎奇",
+      "name": "iHot 猎奇",
       "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J5500-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot世界",
+      "name": "iHot 世界",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I0500-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot悬疑",
+      "name": "iHot 悬疑",
       "url": "http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I2380-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot怀旧",
+      "name": "iHot 怀旧",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J2230-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot家庭",
+      "name": "iHot 家庭",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251JK20-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot谍战",
+      "name": "iHot 谍战",
       "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J4330-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot青春",
+      "name": "iHot 青春",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J9210-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot都市",
+      "name": "iHot 都市",
       "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251G9340-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot经典",
+      "name": "iHot 经典",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H2130-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot江湖",
+      "name": "iHot 江湖",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H0150-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot喜剧",
+      "name": "iHot 喜剧",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251G5050-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot科幻",
+      "name": "iHot 科幻",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H4440-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot浪漫",
+      "name": "iHot 浪漫",
       "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H5480-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot院线",
+      "name": "iHot 院线",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I4420-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot娱乐",
+      "name": "iHot 娱乐",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J3250-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot时尚",
+      "name": "iHot 时尚",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H9580-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot美食",
+      "name": "iHot 美食",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HQ10-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot旅行",
+      "name": "iHot 旅行",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J1040-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot动漫",
+      "name": "iHot 动漫",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251GS70-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot玩具",
+      "name": "iHot 玩具",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I1460-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot体育",
+      "name": "iHot 体育",
       "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot赛车",
+      "name": "iHot 赛车",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251IS50-L.jpg",
       "parse": false
     },
     {
-      "name": "iHot极限",
+      "name": "iHot 极限",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHot科学",
+      "name": "iHot 科学",
       "url": "http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "CCTV 冬奥纪实",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "name": "MIGU 5G+",
+      "url": "http://117.148.179.166/PLTV/88888888/224/3221231736/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "CCTV 冬奥纪实 4K",
-      "url": "http://117.148.179.157/PLTV/88888888/224/3221233419/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "name": "MIGU 体育",
+      "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "CCTV 冬奥纪实 8K",
-      "url": "http://117.148.179.157/PLTV/88888888/224/3221233142/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "name": "MIGU 频道",
+      "url": "http://117.148.179.173/PLTV/88888888/224/3221232023/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "CCTV 台球",
-      "url": "http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
+      "name": "MIGU 每日薦影",
+      "url": "http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
       "parse": false
     },
     {
-      "name": "CCTV 高尔夫•网球",
-      "url": "http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
+      "name": "MIGU SNH48剧场",
+      "url": "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU TVB剧场",
+      "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 云上电影院",
+      "url": "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 喜剧联盟",
+      "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 经典贺岁片",
+      "url": "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 怀旧老片",
+      "url": "http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 僵尸剧场",
+      "url": "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 盗墓系列",
+      "url": "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 恐怖电影",
+      "url": "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 追剧少女",
+      "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 爱情喜剧",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 动作电影",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225671/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 明星大片",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 惊悚悬疑",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 潮妈辣婆",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 超级电影",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 超级电视剧",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 军旅剧场",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 古装剧场",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 家庭剧场",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 欢乐剧场",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 海外剧场",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 东北热剧",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 精品大剧",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 精品纪录",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 军事评论",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 超级综艺",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 金牌综艺",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 中国功夫",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 武搏世界",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 农业致富",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 炫舞未来",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 怡伴健康",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 精品体育",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 超级体育",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
@@ -841,12 +1021,6 @@
       "parse": false
     },
     {
-      "name": "风云足球",
-      "url": "http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
-      "parse": false
-    },
-    {
       "name": "魅力足球",
       "url": "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/0218/4d56ad1ebbb4685c2d09789e11704721.jpg",
@@ -859,18 +1033,6 @@
       "parse": false
     },
     {
-      "name": "精品体育",
-      "url": "http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "超级体育",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "五星体育",
       "url": "http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1012/af0110995a6085842ac7a7d3f5df9452.jpg",
@@ -880,73 +1042,19 @@
       "name": "劲爆体育",
       "url": "http://live.tvfix.org/hls/jbtyhd.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
-      "parse": true
-    },
-    {
-      "name": "香港有线体育 CH603",
-      "url": "https://www.chaojidianshi.net/zhibo/92.html",
-      "pic": "https://upload.wikimedia.org/wikipedia/zh/2/26/Hd_603_logo.png",
-      "parse": true
-    },
-    {
-      "name": "澳视体育 CH4",
-      "url": "http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "军武大本营",
-      "url": "https://m.douyu.com/5483801",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzB_l6AIu32ou2adP261rj9uJ6JAXQKeifjw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "军事评论",
-      "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFgNeSexlKvbZNezB6OxTrWv9L9vS0jeeIA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "兵器科技",
-      "url": "http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls",
-      "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
-      "parse": true
-    },
-    {
-      "name": "河南金鹰纪实",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls",
-      "pic": "http://epg.51zmt.top:8000/tb1/ws/henan.png",
+      "name": "CNC 新华社",
+      "url": "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGei7LMlonN1Ow1BZz797GbkuEt4wlsL0LA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "文化精品",
-      "url": "http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
-      "parse": true
-    },
-    {
-      "name": "发现之旅",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
-      "parse": true
-    },
-    {
-      "name": "世界地理",
-      "url": "http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055201348.jpg",
-      "parse": true
-    },
-    {
-      "name": "女性时尚",
-      "url": "http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "老故事",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
-      "parse": true
+      "name": "CNC World",
+      "url": "http://source07.v.news.cn/live/CNC_EN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kT5PSUXc0FFuiwcGBHRVEFHsvtUC8kdbJg&usqp=CAU",
+      "parse": false
     },
     {
       "name": "CGTN News",
@@ -964,7 +1072,7 @@
       "name": "iMode 时尚频道",
       "url": "https://juyunlive.juyun.tv/live/24950198.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CUtJL1_MyXKez9jZSDzI4fk-089DZUgV8OeH7c7b&s",
-      "parse": true
+      "parse": false
     },
     {
       "name": "凤凰卫视中文台",
@@ -1069,6 +1177,12 @@
       "parse": true
     },
     {
+      "name": "香港有线体育 CH603",
+      "url": "https://www.chaojidianshi.net/zhibo/92.html",
+      "pic": "https://upload.wikimedia.org/wikipedia/zh/2/26/Hd_603_logo.png",
+      "parse": true
+    },
+    {
       "name": "香港Now直播台 CH331",
       "url": "http://livetv.dnsfor.me/channel.3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIg00bYuU-iKxdD8mBlCPfe1VSq3IxjH5urw&usqp=CAU",
@@ -1165,9 +1279,15 @@
       "parse": true
     },
     {
+      "name": "澳视体育 CH4",
+      "url": "http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "澳门资讯 CH05",
       "url": "http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
