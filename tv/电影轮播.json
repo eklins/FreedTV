@@ -1316,9 +1316,9 @@
     },
     {
       "name": "成龙",
-      "url": "https://m.douyu.com/4833289",
+      "url": "http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyonUE9t64WOsuo4wTjNzScnPBurY2S8_tdA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "李连杰",
@@ -1333,21 +1333,33 @@
       "parse": false
     },
     {
+      "name": "周润发",
+      "url": "http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkzkCCDTFAbDnZSsiov_KCW4wy8eNg6RL3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "古天乐",
+      "url": "http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_T345MuvNmmRVEcPCABEbmI0lo4ad1oustQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "林正英",
       "url": "https://m.douyu.com/218859",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevpbyR423Jajl6MUSac5XOG62gthORIqDkQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "胡歌",
-      "url": "https://m.douyu.com/5448413",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxoUfZdleuOqsM1Bglmc4y3pLhM4SqEX1JQ&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "许氏三杰",
       "url": "https://m.huya.com/11602033",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4uadw7nJQDvMX5JjofW9g67dPW0hVyXiYA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "胡歌",
+      "url": "https://m.douyu.com/5448413",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxoUfZdleuOqsM1Bglmc4y3pLhM4SqEX1JQ&usqp=CAU",
       "parse": true
     },
     {
