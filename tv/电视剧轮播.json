@@ -655,7 +655,7 @@
       "parse": false
     },
     {
-      "name": "金庸频道",
+      "name": "MIGU 金庸频道",
       "url": "http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6eIMvG4MP7IAnckZrVMJfMx3XtM6pcFFFSQ&usqp=CAU",
       "parse": false
@@ -679,9 +679,9 @@
       "parse": true
     },
     {
-      "name": "咪咕•TVB剧场",
+      "name": "MIGU TVB剧场",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
       "parse": true
     },
     {
