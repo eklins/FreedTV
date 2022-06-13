@@ -259,6 +259,18 @@
       "parse": false
     },
     {
+      "name": "LocalNow Drama",
+      "url": "https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "LocalNow Wild West",
+      "url": "https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Lone Star",
       "url": "https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1183,60 +1195,6 @@
       "parse": false
     },
     {
-      "name": "NewTV超级电影",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NewTV明星大片",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NewTV动作电影",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225671/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NewTV爱情喜剧",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NewTV惊悚悬疑",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NewTV 潮妈辣婆",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Celestial Classic Movies 天映经典频道",
-      "url": "http://210.210.155.37/qwr9ew/s/s31/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Celestial Movies 天映频道",
-      "url": "http://210.210.155.37/dr9445/h/h14/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPyrpm--oApjOinvA6i18Ms5hFAgjN1jV7w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•追剧少女",
-      "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "欧美日韩01",
       "url": "https://m.douyu.com/36337",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
@@ -1369,63 +1327,45 @@
       "parse": false
     },
     {
-      "name": "咪咕•每日薦影",
-      "url": "http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "name": "北京IPTV＋电影",
+      "url": "http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR+0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52/rO/0g1FiOsgmHLskIhGej57NNTIcVyR/C8/qFakBO7Z60nQmH/QdgWVzAI0y58w==:20211105223205,10000100000000050000000003887498,F6D75A298389DD1E7C3B7D397327CA23,-1,0,1,,,2,,,END",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "咪咕•云上电影院",
-      "url": "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "name": "BesTV 电影①",
+      "url": "http://bp-caster.bestv.com.cn/494/1/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "咪咕•喜剧联盟",
-      "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "name": "BesTV 电影②",
+      "url": "http://bp-caster.bestv.com.cn/532/1/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "咪咕•经典贺岁片",
-      "url": "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "name": "BesTV 电影④",
+      "url": "http://bp-caster.bestv.com.cn/490/1/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "咪咕•怀旧老片",
-      "url": "http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "name": "BesTV 电影⑤",
+      "url": "http://bp-caster.bestv.com.cn/480/1/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "咪咕•国际",
-      "url": "http://gslb.cdn.hk.chinamobile.com:80/live/d172754e7b0f4ec5969b5dec6fe5e37b/74ef089a0ca147ec8e1a7d9f8151d88b-1.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "name": "Celestial Classic Movies 天映经典频道",
+      "url": "http://210.210.155.37/qwr9ew/s/s31/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "咪咕•5G+",
-      "url": "http://117.148.179.166/PLTV/88888888/224/3221231736/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•僵尸剧场",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•盗墓系列",
-      "url": "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "咪咕•恐怖电影",
-      "url": "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNE7M0RpyJz9g-9vOQlBfoN56c8uAmScBeKQ&usqp=CAU",
+      "name": "Celestial Movies 天映频道",
+      "url": "http://210.210.155.37/dr9445/h/h14/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPyrpm--oApjOinvA6i18Ms5hFAgjN1jV7w&usqp=CAU",
       "parse": false
     },
     {
@@ -1441,9 +1381,117 @@
       "parse": false
     },
     {
+      "name": "MIGU 新片放映厅",
+      "url": "http://117.148.179.134/PLTV/88888888/224/3221231640/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 每日荐影",
+      "url": "http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 云上电影院",
+      "url": "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 喜剧联盟",
+      "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 经典贺岁片",
+      "url": "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 怀旧老片",
+      "url": "http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 追剧少女",
+      "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 国际",
+      "url": "http://gslb.cdn.hk.chinamobile.com:80/live/d172754e7b0f4ec5969b5dec6fe5e37b/74ef089a0ca147ec8e1a7d9f8151d88b-1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 5G+",
+      "url": "http://117.148.179.166/PLTV/88888888/224/3221231736/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 僵尸剧场",
+      "url": "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 盗墓系列",
+      "url": "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 恐怖电影",
+      "url": "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 超级电影",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 明星大片",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 动作电影",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225671/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 爱情喜剧",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 惊悚悬疑",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 潮妈辣婆",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "镖行天下系列",
       "url": "https://m.huya.com/11352969",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
