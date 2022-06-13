@@ -181,12 +181,6 @@
       "parse": false
     },
     {
-      "name": "CCTV 4K剧场",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
-      "parse": false
-    },
-    {
       "name": "CCTV 4K高清",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
@@ -781,8 +775,32 @@
       "parse": false
     },
     {
+      "name": "MIGU 综合",
+      "url": "http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 4K剧场",
+      "url": "http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MIGU 频道",
       "url": "http://117.148.179.173/PLTV/88888888/224/3221232023/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 金庸频道",
+      "url": "http://117.148.179.134/PLTV/88888888/224/3221231477/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 新片放映厅",
+      "url": "http://117.148.179.134/PLTV/88888888/224/3221231640/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
       "parse": false
     },
@@ -849,6 +867,12 @@
     {
       "name": "MIGU 追剧少女",
       "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 高能烧脑时刻",
+      "url": "http://117.148.179.134/PLTV/88888888/224/3221231504/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
       "parse": false
     },
