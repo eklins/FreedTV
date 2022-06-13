@@ -565,6 +565,30 @@
       "parse": false
     },
     {
+      "name": "BesTV 电影①",
+      "url": "http://bp-caster.bestv.com.cn/494/1/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 电影②",
+      "url": "http://bp-caster.bestv.com.cn/532/1/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 电影④",
+      "url": "http://bp-caster.bestv.com.cn/490/1/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 电影⑤",
+      "url": "http://bp-caster.bestv.com.cn/480/1/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "CHC 动作电影",
       "url": "http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -763,7 +787,7 @@
       "parse": false
     },
     {
-      "name": "MIGU 每日薦影",
+      "name": "MIGU 每日荐影",
       "url": "http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
       "parse": false
