@@ -535,26 +535,8 @@
       "parse": false
     },
     {
-      "name": "科幻电影",
-      "url": "http://121.51.249.6/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "喜剧电影",
       "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "怀旧老片",
-      "url": "http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "爱情公寓",
-      "url": "http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
