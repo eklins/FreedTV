@@ -1525,6 +1525,36 @@
       "parse": false
     },
     {
+      "name": "NewTV 古装剧场",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 军旅剧场",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 欢乐剧场",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 海外剧场",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 东北剧场",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "七彩戏剧",
       "url": "http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
