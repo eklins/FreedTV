@@ -1387,6 +1387,12 @@
       "parse": false
     },
     {
+      "name": "CCTV-6 电影",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4wKKnBl3g7MtCpyX7GxelHHFXn5POBIHKA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Celestial Classic Movies 天映经典频道",
       "url": "http://210.210.155.37/qwr9ew/s/s31/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",
