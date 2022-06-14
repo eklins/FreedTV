@@ -1195,19 +1195,19 @@
       "parse": false
     },
     {
-      "name": "欧美日韩01",
+      "name": "欧美日韩①",
       "url": "https://m.douyu.com/36337",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "欧美日韩02",
+      "name": "欧美日韩②",
       "url": "https://m.douyu.com/8770422",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "欧美日韩03",
+      "name": "欧美日韩③",
       "url": "https://m.douyu.com/5403257",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
