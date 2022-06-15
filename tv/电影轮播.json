@@ -1597,8 +1597,26 @@
       "parse": true
     },
     {
+      "name": "鬼片3000",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354790899",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "绝版鬼片",
+      "url": "http://mmitv.top/pltv/yy.php?id=1454587259",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "经典搞笑",
       "url": "http://mmitv.top/pltv/yy.php?id=42932063",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "热血动作",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736804",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
@@ -1635,12 +1653,6 @@
     {
       "name": "搞笑、恐怖",
       "url": "https://m.huya.com/11601960",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "鬼片",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354790899",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
