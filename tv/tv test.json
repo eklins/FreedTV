@@ -19,17 +19,23 @@
       "parse": false
     },
     {
-      "name": "台湾中天新闻",
+      "name": "台湾中天新闻 decod",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "decoder": 2,
       "parse": false
     },
     {
-      "name": "鬼吹灯",
+      "name": "鬼吹灯 T",
       "url": "http://mmitv.top/pltv/yy.php?id=1331686180",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmCpSl-n8GCmSWvL4dTen_Rv3uzBWC7gF-A&usqp=CAU",
       "parse": true
+    },
+    {
+      "name": "鬼吹灯 F",
+      "url": "http://mmitv.top/pltv/yy.php?id=1331686180",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmCpSl-n8GCmSWvL4dTen_Rv3uzBWC7gF-A&usqp=CAU",
+      "parse": false
     },
     {
       "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
