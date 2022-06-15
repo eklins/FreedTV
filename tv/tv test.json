@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "重案六组",
+      "url": "http://mmitv.top/pltv/yy.php?id=33567888",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "香港无线财经",
       "url": "http://livetv.dnsfor.me/channel.11.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
