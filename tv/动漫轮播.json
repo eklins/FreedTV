@@ -76,13 +76,25 @@
       "name": "倒霉熊2005",
       "url": "http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTLLKIgsjfUpnFqhHaYKHkWBOYVl02nFOYA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "小猪佩奇2004",
       "url": "http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrZMOkoDojER9DAIj-WXiUMhBkAIfJ975zQ&usqp=CAU",
-      "parse": false
+      "parse": true
+    },
+    {
+      "name": "斗罗大陆2018",
+      "url": "http://mmitv.top/pltv/yy.php?id=28796627",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqcpBVQYHD_GaZWFhdrjZt3gsMvpENR8M3A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 那些年……",
+      "url": "http://mmitv.top/pltv/yy.php?id=1351417866",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
     },
     {
       "name": "动漫电影（华）",
