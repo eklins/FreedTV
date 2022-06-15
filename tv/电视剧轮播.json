@@ -67,8 +67,14 @@
       "parse": true
     },
     {
-      "name": "神探狄仁杰2004",
+      "name": "护国良相狄仁杰2002",
       "url": "http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWU9yZhPvecMi_mTiBcuqSgUGta5zGk7546w&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "神探狄仁杰2004",
+      "url": "http://mmitv.top/pltv/yy.php?id=1351755386",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmNbfckKx_YJkdR7L6oxsM_Sj528yekbzlA&usqp=CAU",
       "parse": true
     },
@@ -106,6 +112,12 @@
       "name": "济公活佛2010",
       "url": "https://m.huya.com/11342400",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11EfLF3IamYDbKaEhgIu8uY7T9BM6ztjc3g&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "隋唐英雄2012",
+      "url": "http://mmitv.top/pltv/yy.php?id=1352475619",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMuRsG5s97BSbPQXTL78CVQ0_4SwVFPo89jg&usqp=CAU",
       "parse": true
     },
     {
@@ -148,6 +160,18 @@
       "name": "庆余年2019",
       "url": "https://m.douyu.com/7489563",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MWbCT00LROfbtH-ohRUwlSMZwzgNdekDkg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "天龙八部1997",
+      "url": "http://mmitv.top/pltv/yy.php?id=1351814644",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDr5ZqIbQZqxHfR_j4jT_jHXVYJnaXfIMIpg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "鹿鼎记1998",
+      "url": "http://mmitv.top/pltv/yy.php?id=28265277",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2SPKcTrBeq-MxMCuTULsQy85HVDSS7LT8w&usqp=CAU",
       "parse": true
     },
     {
@@ -199,9 +223,21 @@
       "parse": true
     },
     {
+      "name": "燕双鹰六部曲2012-2017",
+      "url": "http://mmitv.top/pltv/yy.php?id=1352227153",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUcHU3ztjUT71thGttj9Jc8C0bileTk0Sbg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "伪装者2015",
       "url": "https://m.huya.com/11602086",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrCDD97ubdn52y0XRiqWdhy0HYmLC9MeaXg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "地下交通站2007",
+      "url": "http://mmitv.top/pltv/yy.php?id=29907996",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2I6iApikrCbPbLMgjf0yce8CrskmIC5mHg&usqp=CAU",
       "parse": true
     },
     {
@@ -607,6 +643,30 @@
       "parse": true
     },
     {
+      "name": "YY剧场①",
+      "url": "http://mmitv.top/pltv/yy.php?id=1453059740",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY剧场②",
+      "url": "http://mmitv.top/pltv/yy.php?id=29216766",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY剧场③",
+      "url": "http://mmitv.top/pltv/yy.php?id=38525272",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY剧场④",
+      "url": "http://mmitv.top/pltv/yy.php?id=42932063",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "四大名著",
       "url": "https://m.douyu.com/6861249",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -645,6 +705,12 @@
     {
       "name": "神话、武侠",
       "url": "https://m.douyu.com/338759",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "武侠、玄幻",
+      "url": "http://mmitv.top/pltv/yy.php?id=28099939",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
