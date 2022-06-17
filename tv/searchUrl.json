@@ -488,15 +488,6 @@
     },
     {
       "id": 1,
-      "name": "美剧范",
-      "url": "http://ttzmz.net/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
-      "detailUrl": "http://ttzmz.net/api.php/v1.vod/detail?vod_id=detailId",
-      "cate": "欧美剧,1&&英剧,2&&动漫,5",
-      "type": "json",
-      "click": true
-    },
-    {
-      "id": 1,
       "name": "海外电影",
       "url": "https://www.200121.com/api.php/provide/vod/at/xml/",
       "cate":"电影,1&&连续剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&纪录片,24&&奇幻片,25&&泰国剧,26&&足球,32",
@@ -515,99 +506,27 @@
     },
     {
       "id": 1,
+      "name": "TOM资源",
+      "url": "https://api.tomcaiji.com/api.php/provide/vod/from/tomm3u8/at/xml/",
+      "cate": "❌,1&&❌,2&&❌,3&&动漫,25&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&日剧,15&&欧美剧,16&&韩剧,21&&泰剧,22&&纪录片,24&&日韩综艺,31&&欧美综艺,33&&日韩动漫,35&&欧美动漫,36&&犯罪片,38&&灾难片,39&&奇幻片,40&&悬疑片,41&&惊悚片,56",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
+      "id": 1,
+      "name": "美剧范",
+      "url": "http://ttzmz.net/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl": "http://ttzmz.net/api.php/v1.vod/detail?vod_id=detailId",
+      "cate": "欧美剧,1&&英剧,2&&动漫,5",
+      "type": "json",
+      "click": true
+    },
+    {
+      "id": 1,
       "name": "唐人街",
       "url": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
       "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&海外剧,27&&纪录片,28",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "诺讯资源",
-      "url": "http://caiji.nxflv.com/api.php/provide/vod/at/xml/",
-      "cate": "综艺频道,3&&动漫频道,4&&综合频道,5&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "江北资源",
-      "url": "https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml/",
-      "cate": "电影,40&&连续剧,2&&综艺,42&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&惊悚片,20&&犯罪片,21&&冒险片,22&&悬疑片,23&&动画片,24&&武侠片,25&&奇幻片,26&&纪录片,27&&古装片,28&&其他剧,29&&泰国剧,30&&少儿,33&&番剧,38&&国创,39&&电视剧,41",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "看猫",
-      "url": "http://124.222.83.15:88/api.php/provide/vod/at/xml/",
-      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "忆梦",
-      "url": "http://anltv.cn/api.php/provide/vod/at/xml/",
-      "cate": "综艺,3&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&惊悚片,21&&犯罪片,22&&冒险片,23&&悬疑片,24&&奇幻片,25&&武侠片,26&&电影(B站),29&&电视剧(B站),30&&番剧(B站),31&&国创(B站),32",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "小猫咪",
-      "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml/",
-      "cate": "综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综合频道,20",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "阿远采集",
-      "url": "https://www.cjzy.xyz:8888/api.php/provide/vod/at/xml/",
-      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "TOM资源",
-      "url": "https://api.tomcaiji.com/api.php/provide/vod/at/xml/",
-      "cate": "电影,1&&电视剧,2&&综艺,3&&动漫,25&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&日剧,15&&欧美剧,16&&韩剧,21&&泰剧,22&&纪录片,24&&日韩综艺,31&&欧美综艺,33&&日韩动漫,35&&欧美动漫,36&&犯罪片,38&&灾难片,39&&奇幻片,40&&悬疑片,41&&惊悚片,56",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "XYUI",
-      "url": "http://jx4.xyui.top:7001/api.php/provide/vod/at/xml/",
-      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "ASMR",
-      "url": "http://www.asmr19.in/api.php/provide/vod/at/xml/",
-      "cate": "ASMR,23",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "饭后电影",
-      "url": "http://yinliub.cn/api.php/provide/vod/at/xml/",
-      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&4K资源,20&&海外剧,21&&预告片,22",
       "click": true,
       "type": "xml",
       "detailUrl": ""
