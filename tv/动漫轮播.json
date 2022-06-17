@@ -133,14 +133,6 @@
       "parse": true
     },
     {
-      "name": "新网球王子（日）",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354889030",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-
-http://mmitv.top/pltv/yy.php?id=1382735563
-    {
       "name": "动漫电影（华）",
       "url": "https://m.douyu.com/6449849",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -468,6 +460,12 @@ http://mmitv.top/pltv/yy.php?id=1382735563
       "name": "全职猎人（日）1999",
       "url": "https://m.douyu.com/6610883",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnno6AT7_4KZcvK1ewCzZRptfC8zpCwonGA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "新网球王子（日）2012",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382735563",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DlcJONNSyMEx4kabBHeZ_4G1kkwT1Q0N1Q&usqp=CAU",
       "parse": true
     },
     {
