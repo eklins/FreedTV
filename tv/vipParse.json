@@ -20,6 +20,12 @@
     },
     {
       "id": 1,
+      "name": "光速",
+      "ad": "no",
+      "url": "https://www.guangsujx.com/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "猫眼",
       "ad": "no",
       "url": "https://jiexi.maoyanbf5.com/m3u8/?url="
@@ -47,12 +53,6 @@
       "name": "速更源（失效）",
       "ad": "no",
       "url": "https://wuxiezx.com/player/?url="
-    },
-    {
-      "id": 1,
-      "name": "神速",
-      "ad": "no",
-      "url": "https://player.sszyplayer.com/dplayer/?url="
     },
     {
       "id": 1,
@@ -125,6 +125,12 @@
       "name": "探探",
       "ad": "no",
       "url": "https://jiexi.ttbfp1.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "18X 神速",
+      "ad": "no",
+      "url": "https://player.yinwoplayer.com/m3u8/?url="
     },
     {
       "id": 1,
