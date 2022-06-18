@@ -145,6 +145,12 @@
       "parse": false
     },
     {
+      "name": "No Kitchen Required 2012",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736890",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fJEwOi9PQk_i4ZHYmO0VnS8bvEcDiXlL-A&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Survivor 2000",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuBKBVxd89d9TdPprjGY8aRly1RsqKr_-3A&usqp=CAU",
@@ -511,12 +517,6 @@
       "parse": true
     },
     {
-      "name": "No Kitchen Required 2012",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382736890",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fJEwOi9PQk_i4ZHYmO0VnS8bvEcDiXlL-A&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "Outdoor Adventure ①",
       "url": "https://m.huya.com/21059555",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -575,6 +575,12 @@
       "url": "https://studio71-craftistry-roku.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "The Great Human Race 原始人大挑战",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736884",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
     },
     {
       "name": "Timeline",
