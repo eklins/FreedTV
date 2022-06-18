@@ -103,6 +103,12 @@
       "parse": true
     },
     {
+      "name": "天下粮仓2002",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354932391",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdt1cmTKcTjTA9VhEiGanOgj2l_qyJwfqSrQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "神医喜来乐2003",
       "url": "https://m.huya.com/11601978",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbO8BBtUEJ1vDonU7BnKMZHVZPabAKvflcQ&usqp=CAU",
@@ -115,9 +121,21 @@
       "parse": true
     },
     {
+      "name": "青云志2015",
+      "url": "http://mmitv.top/pltv/yy.php?id=1459331991",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1uY1uArjc8j7HKdPdL8WYG-h6EKRwoWN6w&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "济公活佛2010",
       "url": "https://m.huya.com/11342400",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHtvMxJdFwSIIIY9UKRlpPBVYtkL4aEbkwg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "嫦娥2011",
+      "url": "http://mmitv.top/pltv/yy.php?id=1459331991",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmKkqP76cFHhvIOXPYBoCDhAvWBRWJ5IfBw&usqp=CAU",
       "parse": true
     },
     {
@@ -164,7 +182,7 @@
     },
     {
       "name": "庆余年2019",
-      "url": "https://m.douyu.com/7489563",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355268928",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MWbCT00LROfbtH-ohRUwlSMZwzgNdekDkg&usqp=CAU",
       "parse": true
     },
@@ -175,7 +193,13 @@
       "parse": true
     },
     {
-      "name": "神雕侠侣1995",
+      "name": "天龙八部1997",
+      "url": "http://mmitv.top/pltv/yy.php?id=1351814644",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDr5ZqIbQZqxHfR_j4jT_jHXVYJnaXfIMIpg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "神雕侠侣（粤）1995",
       "url": "http://mmitv.top/pltv/yy.php?id=1382735543",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjtA_r4URHwWY42oD6tDx5S_ENtBiQLQ8IoQ&usqp=CAU",
       "parse": true
@@ -199,6 +223,12 @@
       "parse": true
     },
     {
+      "name": "鹿鼎记1998",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382704650",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2SPKcTrBeq-MxMCuTULsQy85HVDSS7LT8w&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "大清盐商2014",
       "url": "https://m.huya.com/11342432",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLv1lcIWppREKu8_pegQlJvkR4dW5w5953Q&usqp=CAU",
@@ -208,6 +238,12 @@
       "name": "十大奇冤2008",
       "url": "https://m.huya.com/11352899",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlK6lwqEwxwuOq-aQuo7ILIr5nGkEY1ZNYwQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "无敌县令2002",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354932390",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTfTRUP03eaavpzLjCTYL1Umy8KLrPHL48Q&usqp=CAU",
       "parse": true
     },
     {
@@ -469,6 +505,12 @@
       "parse": false
     },
     {
+      "name": "YY",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382741639",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "AMC Slightly Off",
       "url": "https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
@@ -680,7 +722,19 @@
     },
     {
       "name": "YY剧场④",
-      "url": "http://mmitv.top/pltv/yy.php?id=42932063",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355260855",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY剧场⑤",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354744544",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY言情都市剧",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354936241",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
