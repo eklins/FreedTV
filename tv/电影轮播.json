@@ -1645,8 +1645,20 @@
       "parse": true
     },
     {
-      "name": "鬼片3000",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354790899",
+      "name": "香港电影3000",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355076627",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "香港鬼片2000",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355479289",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "香港鬼片5000",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355263385",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
