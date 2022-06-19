@@ -1399,14 +1399,14 @@
       "parse": false
     },
     {
-      "name": "Live in Concert",
-      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a",
+      "name": "Mastiii (India)",
+      "url": "http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Mastiii (India)",
-      "url": "http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8",
+      "name": "Messinia TV",
+      "url": "http://176.9.123.140:1935/messinia/messinia/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -1425,42 +1425,6 @@
     {
       "name": "MTV (Vietnam)",
       "url": "https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV Biggest Pop",
-      "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV Block Party",
-      "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV Dating",
-      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV Love Music",
-      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV Spankin' New",
-      "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV Unplugged",
-      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -1534,6 +1498,48 @@
       "name": "VEVO Pop Europe",
       "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV Live in Concert",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV MTV Biggest Pop",
+      "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV MTV Block Party",
+      "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV MTV Dating",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV MTV Love Music",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV MTV Spankin' New",
+      "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV MTV Unplugged",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
     {
