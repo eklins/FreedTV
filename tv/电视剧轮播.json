@@ -721,6 +721,42 @@
       "parse": false
     },
     {
+      "name": "YY 剧场①",
+      "url": "http://mmitv.top/pltv/yy.php?id=1453059740",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 剧场②",
+      "url": "http://mmitv.top/pltv/yy.php?id=29216766",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 剧场③",
+      "url": "http://mmitv.top/pltv/yy.php?id=38525272",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 剧场④",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355260855",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 玄幻修仙剧",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354744544",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 言情都市剧",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354936241",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "点播剧场①",
       "url": "https://m.douyu.com/7476264",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -735,42 +771,6 @@
     {
       "name": "点播剧场③",
       "url": "https://m.douyu.com/7494871",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "YY剧场①",
-      "url": "http://mmitv.top/pltv/yy.php?id=1453059740",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "YY剧场②",
-      "url": "http://mmitv.top/pltv/yy.php?id=29216766",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "YY剧场③",
-      "url": "http://mmitv.top/pltv/yy.php?id=38525272",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "YY剧场④",
-      "url": "http://mmitv.top/pltv/yy.php?id=1355260855",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "YY玄幻修仙剧",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354744544",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "YY言情都市剧",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354936241",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
