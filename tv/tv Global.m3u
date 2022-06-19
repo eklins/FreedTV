@@ -427,6 +427,8 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
 #EXTINF:-1 ,GRC★Star
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:-1 ,GRC★Star BUP
+http://78.83.87.222:9999/play/a017/index.m3u8
 #EXTINF:-1 ,GRC★Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Guatemala.png",Guatemala❤Canal 3
@@ -747,6 +749,12 @@ https://ntv2.mov3.co/hls/ntv.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 ,JPN★QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 ,JPN★Star Channel ①
+http://cdn.us195.jpnettv.live:1935/jptv/starch1_720/playlist.m3u8
+#EXTINF:-1 ,JPN★Star Channel ②
+http://cdn.us195.jpnettv.live:1935/jptv/starch2_720/playlist.m3u8
+#EXTINF:-1 ,JPN★Star Channel ③
+http://cdn.us195.jpnettv.live:1935/jptv/starch3_720/playlist.m3u8
 #EXTINF:-1 ,JPN★TBS
 https://tbs1.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 ,JPN★Tokyo MX1
