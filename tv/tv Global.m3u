@@ -533,6 +533,8 @@ https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 ,IDN★Kompas TV
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
+#EXTINF:-1 ,IDN★Kugo Star (576p)
+https://bravo.kugo.id/kugostar/udp.stream/chunklist.m3u8
 #EXTINF:-1 ,IDN★Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 ,IDN★Metro Globe Network
