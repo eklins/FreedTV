@@ -763,6 +763,18 @@
       "parse": false
     },
     {
+      "name": "YY 经典剧场",
+      "url": "http://47.242.164.123:444/15013_xv_1355114305_1355114305_0_0_0-15013_xa_1355114305_1355114305_0_0_0-0-0.m3u8?uuid=5951b8ddb0e94a75b9709ad8cad6fe36&org=yyweb&m=5d78757e4bf96e11c55bbd5e30d62ffc&r=873075541&v=1&t=1655676680&uid=0",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "YY 欢笑剧场",
+      "url": "http://8.210.208.172:450/15013_xv_1354888747_1354888747_0_0_0-15013_xa_1354888747_1354888747_0_0_0-0-0.m3u8?uuid=d3b2f0b135784e98a0560e7d35d0de79&org=yyweb&m=59510e0c345db84264f16f6b27637a25&r=496587020&v=1&t=1655676786&uid=0",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "YY 剧场①",
       "url": "http://47.242.164.123:444/15013_xv_1453059740_1453059740_0_1_0-15013_xa_1453059740_1453059740_0_0_0-0-0.m3u8?uuid=fc9999f84f584abc9d2ab7edb5b08b88&org=yyweb&m=0389c06f5e57aa6577bdac33b885cabc&r=1278014350&v=1&t=1655675251&uid=0",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
