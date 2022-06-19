@@ -133,12 +133,6 @@
       "parse": false
     },
     {
-      "name": "江苏体育",
-      "url": "http://183.207.249.11:80/PLTV/4/224/3221225935/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "香港Now Sports Prime",
       "url": "http://livetv.dnsfor.me/channel.12.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMOEtbLKC6Xr3fItU331ukELJDWPwSXfPG6g&usqp=CAU",
