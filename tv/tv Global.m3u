@@ -1009,6 +1009,8 @@ https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-New-Zealand.png",New Zealand❤Breeze TV
 https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
+#EXTINF:-1 ,NZL★Firstlight (576p)
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 ,NZL★Juice TV
 https://juicex.nz/hls/mystream.m3u8
 #EXTINF:-1 ,NZL★Kordia TV
