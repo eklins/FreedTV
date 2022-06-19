@@ -649,6 +649,24 @@
       "parse": false
     },
     {
+      "name": "CCTV 第一剧场",
+      "url": "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 怀旧剧场",
+      "url": "http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 风云剧场",
+      "url": "http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
+      "parse": false
+    },
+    {
       "name": "MIGU SNH48剧场",
       "url": "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
@@ -700,24 +718,6 @@
       "name": "NewTV 东北剧场",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "第一剧场",
-      "url": "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
-      "parse": false
-    },
-    {
-      "name": "怀旧剧场",
-      "url": "http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
-      "parse": false
-    },
-    {
-      "name": "风云剧场",
-      "url": "http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
       "parse": false
     },
     {
