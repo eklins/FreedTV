@@ -739,6 +739,8 @@ http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_720/playlist.m3u8
 http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_540/playlist.m3u8
 #EXTINF:-1 ,JPN★NHK World Japan
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 ,JPN★Nihon Elga TV
+http://cdn.us195.jpnettv.live:1935/jptv/igasennmonn_720/playlist.m3u8
 #EXTINF:-1 ,JPN★Nippon TV (540p)
 https://ntv2.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 ,JPN★NTV News24 (480p)
@@ -803,6 +805,8 @@ http://51.81.66.195:1935/krtv/mbc_sports_540/playlist.m3u8
 http://183.110.27.87/mtnlive/720/playlist.m3u8
 #EXTINF:-1 ,KOR★NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 ,KOR★OCN (576p)
+http://51.81.66.195:1935/krtv/ocn_540/playlist.m3u8
 #EXTINF:-1 ,KOR★OCN Movies (576p)
 http://51.81.66.195:1935/krtv/cgv_540/playlist.m3u8
 #EXTINF:-1 ,KOR★OCN Thrill (576p)
