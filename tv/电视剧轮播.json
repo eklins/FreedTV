@@ -385,6 +385,12 @@
       "parse": false
     },
     {
+      "name": "Friends 1994-2004 (YY)",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382741639",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2sCT_TzLI1TiKXJFe2_bggcsRf8HoYVMA-w&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Happy Days 1974-1984",
       "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7794162a4559000781fc12/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQzyBLOYcn354xdoA3SN5Ldsm5DdVUGkTqw&usqp=CAU",
@@ -539,12 +545,6 @@
       "url": "https://cdn.igocast.com/channel8_hls/channel8_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "YY",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382741639",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
     },
     {
       "name": "AMC Slightly Off",
