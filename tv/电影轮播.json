@@ -1099,8 +1099,8 @@
       "parse": false
     },
     {
-      "name": "XUMO Classic TV (432p)",
-      "url": "https://hls.xumo.com/channel-hls/v1/9fe012a9926c4e91/9999400/master.m3u8",
+      "name": "XUMO Classic TV (FilmRise)",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
