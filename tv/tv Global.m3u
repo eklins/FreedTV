@@ -173,8 +173,10 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 ,CAN★CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 ,CAN★Degrassi The Next Generation
+#EXTINF:-1 ,CAN★Degrassi: The Next Generation
 http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★Heartland
+https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,CAN★Insight TV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★QVTV
@@ -525,6 +527,8 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 #EXTINF:-1 ,IDN★CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 ,IDN★GPR TV
+https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 ,IDN★Hits
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 ,IDN★Kompas TV
@@ -1305,6 +1309,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 ,RUS★Надежда
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 ,RUS★HD 365
+https://netstreaming.eu:8080/hls/hd365.m3u8
 #EXTINF:-1 ,RUS★HTB
 https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
 #EXTINF:-1 ,RUS★НТС (Севастополь)
