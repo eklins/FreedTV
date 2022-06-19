@@ -155,15 +155,15 @@ https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cambodia.png",Cambodia❤Bayon TV (360p)
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-#EXTINF:-1 ,KHM★Fresh News (720p)
+#EXTINF:-1 ,KHM★Fresh News
 http://167.99.65.12:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 ,KHM★Netlink TV (720p)
+#EXTINF:-1 ,KHM★Netlink TV
 http://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 ,KHM★PNN (360p)
 http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
-#EXTINF:-1 ,KHM★SEA TV (1080p)
+#EXTINF:-1 ,KHM★SEA TV
 http://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 ,KHM★TVK Camboya (720p)
+#EXTINF:-1 ,KHM★TVK Camboya
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png",Canada❤AZ Star TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
@@ -237,21 +237,21 @@ https://arenasportslovakia.ddns.net/hls/slager.m3u8
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,DNK★Euronews(English)
 https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,DNK★Kanal Hovedstaden (720p)
+#EXTINF:-1 ,DNK★Kanal Hovedstaden
 https://59b954022ec35.streamlock.net/liveTV2/smil:liveTVstream2.transcoder.smil/playlist.m3u8
 #EXTINF:-1 ,DNK★KKR TV
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
-#EXTINF:-1 ,DNK★TV2 Bornholm (1080p) 
+#EXTINF:-1 ,DNK★TV2 Bornholm 
 https://live.tv2bornholm.dk/stream/live/playlist.m3u8
 #EXTINF:-1 ,DNK★TV2 Fyn
 https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ecuador.png",Ecuador❤7 Noticias
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,ECU★101 Tele Antequera (1080p)
+#EXTINF:-1 ,ECU★101 Tele Antequera
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤Euronews(English)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 ,FRA★Africa News Français (720p)
+#EXTINF:-1 ,FRA★Africa News Français
 https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,FRA★BFM Grand Lille
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
@@ -731,9 +731,13 @@ http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
 http://cdn.us195.jpnettv.live:1935/jptv/Neco/playlist.m3u8
 #EXTINF:-1 ,JPN★New Japan Pro Wrestling World (540p)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-#EXTINF:-1 ,JPN★NHK 华语视界 (720p)
+#EXTINF:-1 ,JPN★NHK Chinese Vision 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 ,JPN★NHK World Japan (720p)
+#EXTINF:-1 ,JPN★NHK G Kansai
+http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_720/playlist.m3u8
+#EXTINF:-1 ,JPN★NHK General Kanto
+http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_540/playlist.m3u8
+#EXTINF:-1 ,JPN★NHK World Japan
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 ,JPN★Nippon TV (540p)
 https://ntv2.mov3.co/hls/ntv.m3u8
@@ -753,19 +757,19 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 ,JOR★Jordan Satellite Channel
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kazakhstan.png",Kazakhstan❤Atameken Business (1080p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kazakhstan.png",Kazakhstan❤Atameken Business
 http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1 ,KAZ★Хабар 24 (720p)
+#EXTINF:-1 ,KAZ★Хабар 24
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Korea-North.png",Korea（N）❤KCTV (Korean Central Television)
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Korea-South.png",Korea（S）❤국악방송 (1080p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Korea-South.png",Korea（S）❤국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 ,KOR★한국선거방송 (720p)
+#EXTINF:-1 ,KOR★한국선거방송
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 ,KOR★Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-#EXTINF:-1 ,KOR★CBS (1080p)
+#EXTINF:-1 ,KOR★CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 ,KOR★EBS 1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
@@ -775,7 +779,7 @@ http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
 #EXTINF:-1 ,KOR★EBS Kids
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 ,KOR★GCN24 English (720p)
+#EXTINF:-1 ,KOR★GCN24 English
 http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_high/playlist.m3u8
 #EXTINF:-1 ,KOR★GCN24 Korean (480p)
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
@@ -785,7 +789,7 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 http://51.81.66.195:1935/krtv/kbs_n_sports_540/playlist.m3u8
 #EXTINF:-1 ,KOR★KBS World
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 ,KOR★KCTV 광주 CH05 (720p)
+#EXTINF:-1 ,KOR★KCTV 광주 CH05
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 ,KOR★KCTV 광주 CH21
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
@@ -797,7 +801,7 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://51.81.66.195:1935/krtv/mbc_sports_540/playlist.m3u8
 #EXTINF:-1 ,KOR★MTN
 http://183.110.27.87/mtnlive/720/playlist.m3u8
-#EXTINF:-1 ,KOR★NBS Korea Agricultural Broadcasting (720p)
+#EXTINF:-1 ,KOR★NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 ,KOR★OCN Movies (576p)
 http://51.81.66.195:1935/krtv/cgv_540/playlist.m3u8
@@ -809,7 +813,7 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 ,KOR★SBS Golf
 http://51.81.66.195:1935/krtv/sbs_golf_540/playlist.m3u8
-#EXTINF:-1 ,KOR★SBS JIBS (720p)
+#EXTINF:-1 ,KOR★SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 ,KOR★SBS KNN
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
@@ -821,41 +825,41 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 http://51.81.66.195:1935/krtv/spotv_2_540/playlist.m3u8
 #EXTINF:-1 ,KOR★Sky Sports
 http://51.81.66.195:1935/krtv/sky_sports_540/playlist.m3u8
-#EXTINF:-1 ,KOR★TBS Seoul (720p)
+#EXTINF:-1 ,KOR★TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 ,KOR★TV Work Net (480p)
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 ,KOR★YTN
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kuwait.png",Kuwait❤Al Rai TV (720p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kuwait.png",Kuwait❤Al Rai TV
 https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Laos.png",Laos❤Champa TV2
 https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
-#EXTINF:-1 ,LAO★Dao Lane Xang (720p)
+#EXTINF:-1 ,LAO★Dao Lane Xang
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
-#EXTINF:-1 ,LAO★NAT TV (1080p)
+#EXTINF:-1 ,LAO★NAT TV
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
-#EXTINF:-1 ,LAO★Oh Muang Lao TV (720p)
+#EXTINF:-1 ,LAO★Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Latvia.png",Latvia❤TVNET (360p)
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Lebanon.png",Lebanon❤Arabica TV (720p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Lebanon.png",Lebanon❤Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 ,LBN★Nabaa TV (720p)
+#EXTINF:-1 ,LBN★Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
-#EXTINF:-1 ,LBN★NBN (720p)
+#EXTINF:-1 ,LBN★NBN
 https://nbntv.me:8443/nbntv/index.m3u8
-#EXTINF:-1 ,LBN★TV Seventeen (720p)
+#EXTINF:-1 ,LBN★TV Seventeen
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Libya.png",Libya❤218 News (1080p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Libya.png",Libya❤218 News
 http://95.85.47.43/libya218news/playlist.m3u8
 #EXTINF:-1 ,LBY★Jamahiria TV (480p)
 https://master.starmena-cloud.com/hls/jam.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Liechtenstein.png",Liechtenstein❤Kommu TV (720p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Liechtenstein.png",Liechtenstein❤Kommu TV
 http://31.10.19.12:8066/live/999/0.m3u8
 #EXTINF:-1 ,LIE★Mediashop TV (576p)
 https://mediashop.akamaized.net/hls/live/2032402/Meine_Einkaufswelt/1.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Lithuania.png",Lithuania❤LRT Lituanica (720p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Lithuania.png",Lithuania❤LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 ,LTU★M-1 (480p)
 http://m-1.data.lt/m-1/smil:m-1.smil/chunklist_b1000000.m3u8
@@ -887,19 +891,19 @@ https://skyfolk.mk/live.m3u8
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mali.png",Mali❤ORTM 1
 http://51.210.1.13:18000/ortm/hls/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Malta.png",Malta❤Smash TV (720p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Malta.png",Malta❤Smash TV
 http://s3.smashmalta.com/hls/smash/smash.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mexico.png",Mexico❤AMX Noticias (720p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mexico.png",Mexico❤AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 ,MEX★Bloomberg TV (1080p)
+#EXTINF:-1 ,MEX★Bloomberg TV
 https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,MEX★Canal 10 Cancún (720p)
+#EXTINF:-1 ,MEX★Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 ,MEX★Canal 44 Chihuahua (720p)
+#EXTINF:-1 ,MEX★Canal 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 ,MEX★Canal Catorce (720p)
+#EXTINF:-1 ,MEX★Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-#EXTINF:-1 ,MEX★Conecta TV (720p)
+#EXTINF:-1 ,MEX★Conecta TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 ,MEX★CorTV (800p)
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
@@ -907,19 +911,19 @@ https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MEX★Fuel TV
 https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,MEX★Icrtv Colima (720p)
+#EXTINF:-1 ,MEX★Icrtv Colima
 https://5ca9af4645e15.streamlock.net/canal11/videocanal11/playlist.m3u8
-#EXTINF:-1 ,MEX★Jalisco TV (720p)
+#EXTINF:-1 ,MEX★Jalisco TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 ,MEX★México Travel Channel (480p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v76vf
-#EXTINF:-1 ,MEX★MyTime movie network Mexico (720p)
+#EXTINF:-1 ,MEX★MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MEX★POP TV (542p)
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 #EXTINF:-1 ,MEX★Quiero TV (480p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw
-#EXTINF:-1 ,MEX★RCG TV1 (1080p)
+#EXTINF:-1 ,MEX★RCG TV1
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 ,MEX★RCG TV 2 (360p)
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
@@ -927,29 +931,29 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1 ,MEX★Telemax (XEWH-TDT)
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 ,MEX★TV Lobo (720p)
+#EXTINF:-1 ,MEX★TV Lobo
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 ,MEX★TVP (720p)
+#EXTINF:-1 ,MEX★TVP
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 ,MEX★TVP Los Mochis (720p)
+#EXTINF:-1 ,MEX★TVP Los Mochis
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 ,MEX★TVP Obregón (542p)
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Moldova.png",Moldova❤Acasa TV (576p)
 http://hls.protv.md/acasatv/acasatv.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Monaco.png",Monaco❤Monaco Info (720p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Monaco.png",Monaco❤Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Montenegro.png",Montenegro❤TVCG 1 (720p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Montenegro.png",Montenegro❤TVCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 ,MNE★TVCG 2 (720p)
+#EXTINF:-1 ,MNE★TVCG 2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Morocco.png",Morocco❤2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 ,MAR★Al Aoula International (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-#EXTINF:-1 ,MAR★Medi 1 TV Afrique (1080p)
+#EXTINF:-1 ,MAR★Medi 1 TV Afrique
 http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:-1 ,MAR★Télé Maroc (1080p)
+#EXTINF:-1 ,MAR★Télé Maroc
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mozambique.png",Mozambique❤TVM (480p)
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
@@ -1223,7 +1227,7 @@ http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
 #EXTINF:-1 ,ROU★Kanal D (384p)
 https://stream1.kanald.ro/iphone/live.m3u8
-#EXTINF:-1 ,ROU★Naşul TV (720p)
+#EXTINF:-1 ,ROU★Naşul TV
 https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
 #EXTINF:-1 ,ROU★Pro TV
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
@@ -1297,7 +1301,7 @@ https://sc.id-tv.kz/Kinosemiya_hd.m3u8
 https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:-1 ,RUS★Курай
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 ,RUS★ЛДПР ТВ (720p)
+#EXTINF:-1 ,RUS★ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 ,RUS★Липецкое время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
@@ -1449,9 +1453,9 @@ https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Rakuten TV Shows
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sri-Lanka.png",Sri Lanka❤ITN (720p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sri-Lanka.png",Sri Lanka❤ITN
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
-#EXTINF:-1 ,LKA★Santhora TV (720p)
+#EXTINF:-1 ,LKA★Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sudan.png",Sudan❤Africa TV1
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
