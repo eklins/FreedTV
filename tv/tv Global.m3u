@@ -769,6 +769,12 @@ https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 ,JPN★Weather News (ウェザーニュース)
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 ,JPN★WOWOWシネマ (Cinema)
+http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
+#EXTINF:-1 ,JPN★WOWOWプライム (Prime)
+http://cdn.us195.jpnettv.live:1935/jptv/wowprime_720/playlist.m3u8
+#EXTINF:-1 ,JPN★WOWOWライブ (Live)
+http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Jordan.png",Jordan❤Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 ,JOR★Jordan Satellite Channel
