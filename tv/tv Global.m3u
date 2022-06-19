@@ -1269,6 +1269,8 @@ https://sc.id-tv.kz/dorama_hd.m3u8
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 ,RUS★Евразия (Орск)
 http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 ,RUS★FOX HD
+https://sc.id-tv.kz/FOX_HD.m3u8
 #EXTINF:-1 ,RUS★Губерния 33 (Владимир)
 https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 #EXTINF:-1 ,RUS★Губерния (Самара)
