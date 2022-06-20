@@ -145,7 +145,7 @@
       "parse": false
     },
     {
-      "name": "No Kitchen Required 2012",
+      "name": "No Kitchen Required 2012 (YY)",
       "url": "http://mmitv.top/pltv/yy.php?id=1382736890",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fJEwOi9PQk_i4ZHYmO0VnS8bvEcDiXlL-A&usqp=CAU",
       "parse": true
@@ -341,6 +341,12 @@
       "url": "https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0KxiNiBfWpBL9zHtpb54XQDiGEG_WRVxWw&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "Animal Migration (YY)",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354936142",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
     },
     {
       "name": "BBC America",
@@ -631,7 +637,7 @@
       "parse": false
     },
     {
-      "name": "The Great Human Race 原始人大挑战",
+      "name": "The Great Human Race 原始人大挑战 (YY)",
       "url": "http://mmitv.top/pltv/yy.php?id=1382736884",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
