@@ -763,8 +763,14 @@
       "parse": true
     },
     {
-      "name": "欧美女子摔跤",
+      "name": "欧美女子摔跤①",
       "url": "https://m.huya.com/19197508",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "欧美女子摔跤②",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382623703",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     }
