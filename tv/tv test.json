@@ -86,12 +86,6 @@
       "parse": true
     },
     {
-      "name": "无线财经 ye23-prd",
-      "url": "http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1654968708~exp=1655055108~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=846ae39724d8f28a37f3e6b5e488aa55fc147c2ab98a1ad83a4b8753a3f43557&p=3324",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
       "name": "特辑电视台",
       "url": "http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
