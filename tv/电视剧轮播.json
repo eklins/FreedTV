@@ -763,30 +763,6 @@
       "parse": false
     },
     {
-      "name": "🇰🇷Oh!我的鬼神君2015",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354936160",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHVu0ceQHNA-nrayw6EZXZK2dzyzA9KXRLTQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇰🇷名不虚传2017",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382749904",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkK9DkdiD2j18PYw0e0mdcUE4H45VG9kkzg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇰🇷大君－描绘爱情2018",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382736874",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvP9e9RSfb8GIFA-I8YVQKSjw0LDO_y4IR1A&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇰🇷爱的迫降2019",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354889042",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24in1MUMQmqx3_AbPsx8rICmHQVRl_IgbNQ&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "CCTV 第一剧场",
       "url": "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
@@ -857,6 +833,30 @@
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "🇰🇷Oh!我的鬼神君2015",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354936160",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHVu0ceQHNA-nrayw6EZXZK2dzyzA9KXRLTQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷名不虚传2017",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382749904",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkK9DkdiD2j18PYw0e0mdcUE4H45VG9kkzg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷大君－描绘爱情2018",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736874",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvP9e9RSfb8GIFA-I8YVQKSjw0LDO_y4IR1A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷爱的迫降2019",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354889042",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24in1MUMQmqx3_AbPsx8rICmHQVRl_IgbNQ&usqp=CAU",
+      "parse": true
     },
     {
       "name": "YY 经典剧场",
