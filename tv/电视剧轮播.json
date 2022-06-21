@@ -1234,7 +1234,7 @@
       "name": "TVB剧场",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVB粤语①",
