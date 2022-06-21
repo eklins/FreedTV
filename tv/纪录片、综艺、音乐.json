@@ -343,12 +343,6 @@
       "parse": false
     },
     {
-      "name": "Animal Migration (YY)",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354936142",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "BBC America",
       "url": "https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -677,12 +671,6 @@
       "url": "https://studio71-craftistry-roku.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "The Great Human Race 原始人大挑战 (YY)",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382736884",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
     },
     {
       "name": "Timeline",
@@ -1451,6 +1439,234 @@
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "YY Africa",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354936145",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY Animal Hunting",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736825",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY Animal Kingdom",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354930927",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY Animal Migration",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354936142",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY Blue Planet",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354930936",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY Endangered Species 频危物种",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354936141",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY Frozen Planet",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736849",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY Human Documentary 人类纪",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382735573",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY Ocean",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736850",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY Seven World's One Planet",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736919",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY The Great Human Race 原始人大挑战",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736884",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY The Island 孤岛求生 2015",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382735551",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY The Last Hunter",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382735576",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY The Last Lions",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382735577",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY Wilderness Adventure 独闯荒野",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354930932",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY Wilderness Spy",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354930937",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 巴渝文化记忆系列：传统村落",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354936134",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 大黄山",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354936131",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 黄河",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382745189",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 极致中国",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382735569",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 狂野中国",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736851",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 探索中国",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736917",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 下南洋",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354930963",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 中国旅游纪录片",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736848",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 好味广州：舌尖上的羊城",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382749920",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 炉火江湖",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736840",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 舌尖上的新年",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354930957",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 舌尖上的泰国",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736870",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 舌尖上的中国 S1",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354930952",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 舌尖上的中国 S2",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354930943",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 陕西地方美食",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736912",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 食一味：川味传奇美食系列",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736913",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 水果传",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354930948",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 天下一锅",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736914",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 寻味顺德",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736844",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 味道：记忆中的年味",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354932379",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 味道：云南",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354932359",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 一城一味（舌尖姐妹篇）",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382745179",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
     },
     {
       "name": "风云音乐",
