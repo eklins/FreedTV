@@ -433,12 +433,6 @@
       "parse": true
     },
     {
-      "name": "我们的快乐人生2012",
-      "url": "https://m.huya.com/11601961",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqXwGqd1-Dn67mF6ETnL94VOr5TdPFerX6A&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "鬼吹灯2016",
       "url": "https://m.douyu.com/9292503",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmCpSl-n8GCmSWvL4dTen_Rv3uzBWC7gF-A&usqp=CAU",
@@ -448,6 +442,12 @@
       "name": "欢乐颂2016",
       "url": "https://m.huya.com/11601979",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgFUMqJa6Ql9fH37MDCbiWopxlF3DxofKHvQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "我是幸运儿2017",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354936128",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxyYn0Ii92JLM2m9SZCb8ncGf-ldfpbE98w&usqp=CAU",
       "parse": true
     },
     {
@@ -871,9 +871,87 @@
       "parse": false
     },
     {
+      "name": "🇰🇷绅士的品格2012",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354930964",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP3C5DYwtlU1xgOyEXAkFZyLsbBOMHa6IgLg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷请回答1994（2013）",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382745110",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY5YZFdS91DFRo_B1JEfc-kjSpLTaq-or-dw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷请回答1988（2015）",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354932362",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSna4Zkz0jldkPVyPhXZaxOMElH0T1BxFM6Xg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷美女的诞生2014",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382745106",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRj8tjJoUzMqbyIKUgWV1h6EW-7OE7lGq5OA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷D-Day 2015",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382735540",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZsxjiAydJbkpQx0a_POy6jiN68J391z_oXQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🇰🇷Oh!我的鬼神君2015",
       "url": "http://mmitv.top/pltv/yy.php?id=1354936160",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHVu0ceQHNA-nrayw6EZXZK2dzyzA9KXRLTQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷W-两个世界2016",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354932426",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeK64LS5RczFEuSSPqLOmIdbq-wvdxofkgXA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷独饮男女2016",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736875",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnOGmtAqOTgzD1Ri7sqjRMir93Ly2zIjcW7w&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷举重妖精金福珠2016",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736813",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SqNpTSu3SWRHrLBWdAcTU6MZ3EsVoAMkfQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷大力女都奉顺2017",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382735542",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnl9M0xvE-N-sZA3d5OIFSWJjXPaRRCzflaA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷告白夫妇2017",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354932399",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT9rNtJ_AWTjt33dgtVUPKWHtqC_BYGFOwYQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷黑骑士2017",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382749901",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpqABmvdvj3AlqjFcoPrlObekBLPwT9zNuYw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷人孔：奇幻國度的奉弼2017",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354932429",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Ovw2gxr7lvuNueIppCE-BHxVuIQU3uyzWg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷河伯的新娘2017",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382749900",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41nhYDY_JxbeqOYPfPF5E_QPHlYZl3QSZnA&usqp=CAU",
       "parse": true
     },
     {
@@ -883,9 +961,33 @@
       "parse": true
     },
     {
+      "name": "🇰🇷七日的王妃2017",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382749906",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktlQYt_hkOLqGS_6aCYHZ0lRCn2j-SJvV9Q&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🇰🇷大君－描绘爱情2018",
       "url": "http://mmitv.top/pltv/yy.php?id=1382736874",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvP9e9RSfb8GIFA-I8YVQKSjw0LDO_y4IR1A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷伟大的诱惑者2018",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382745113",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA-ZGVOkThUi09Y_1WzZzGMKW2ARIyzMBwqw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷爱上变身情人（内在美）2018",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382745109",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREIUJ_PRHYrmijCx65eGoMeVbY7GiqmGST1Q&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷阳光先生2018",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382745114",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvxo1UiMtqA7mfo9U3wHB9Km_xdUddNqMfA&usqp=CAU",
       "parse": true
     },
     {
@@ -895,63 +997,93 @@
       "parse": true
     },
     {
+      "name": "🇰🇷德鲁纳酒店2019",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354931488",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6VGqVWvAXhY-QW7vmhwtqIHtdmM8mNlpdQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷浪客行2019",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736879",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDcStpkZS5k74epZ-AdVEVvWr-rNeV1XchOw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇰🇷便利店新星2020",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736807",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUdypEK7Dj4qRdTW0sdS9lRXfGIIeJTwELg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY🇰🇷最新韩剧",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354932402",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY🇰🇷搞笑励志",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736877",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "YY 经典剧场",
       "url": "http://mmitv.top/pltv/yy.php?id=1355114305",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "YY 欢笑剧场",
       "url": "http://mmitv.top/pltv/yy.php?id=1354888747",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "YY 剧场①",
       "url": "http://mmitv.top/pltv/yy.php?id=1453059740",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "YY 剧场②",
       "url": "http://mmitv.top/pltv/yy.php?id=29216766",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "YY 剧场③",
       "url": "http://mmitv.top/pltv/yy.php?id=38525272",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "YY 剧场④",
       "url": "http://mmitv.top/pltv/yy.php?id=1355260855",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "YY 剧场⑤",
       "url": "http://mmitv.top/pltv/yy.php?id=1382735541",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "YY 武侠、玄幻",
       "url": "http://mmitv.top/pltv/yy.php?id=28099939",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "YY 玄幻、修仙",
       "url": "http://mmitv.top/pltv/yy.php?id=1354744544",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "YY 言情、都市",
       "url": "http://mmitv.top/pltv/yy.php?id=1354936241",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
