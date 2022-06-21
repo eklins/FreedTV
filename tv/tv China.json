@@ -841,12 +841,6 @@
       "parse": false
     },
     {
-      "name": "MIGU TVB剧场",
-      "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MIGU 云上电影院",
       "url": "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
