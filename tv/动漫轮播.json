@@ -127,6 +127,12 @@
       "parse": true
     },
     {
+      "name": "双月之城2016",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736907",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQPTqFibV153K2gecLGHExaWnN7o0z6MWVnA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "斗罗大陆2018",
       "url": "http://mmitv.top/pltv/yy.php?id=28796627",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqcpBVQYHD_GaZWFhdrjZt3gsMvpENR8M3A&usqp=CAU",
@@ -141,12 +147,6 @@
     {
       "name": "YY 那些年……",
       "url": "http://mmitv.top/pltv/yy.php?id=1351417866",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "宫崎骏动漫",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354889030",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
@@ -457,24 +457,6 @@
       "parse": true
     },
     {
-      "name": "灌篮高手（日）1993",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382735559",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TuCEOnWL2fPN5zQHj9PiDEaRFtyYhNVdXA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "幽游白书（日）1992",
-      "url": "https://m.douyu.com/9938431",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfDzubI2r1GMWJGXmHf8sL7xIXm5xyDvgMw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "海贼王（日）1999",
-      "url": "https://m.douyu.com/997925",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfQsHD0OwpnJxsZ0vtTAhmjSTUofZDQAA1g&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "足球小将（日）1983",
       "url": "http://mmitv.top/pltv/yy.php?id=1382735558",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVr4lVboGJb7Ka--5iVzLu5NstfmdQC6JYZg&usqp=CAU",
@@ -487,9 +469,33 @@
       "parse": true
     },
     {
+      "name": "幽游白书（日）1992",
+      "url": "https://m.douyu.com/9938431",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfDzubI2r1GMWJGXmHf8sL7xIXm5xyDvgMw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "灌篮高手（日）1993",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382735559",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TuCEOnWL2fPN5zQHj9PiDEaRFtyYhNVdXA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "海贼王（日）1999",
+      "url": "https://m.douyu.com/997925",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfQsHD0OwpnJxsZ0vtTAhmjSTUofZDQAA1g&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "全职猎人（日）1999",
       "url": "https://m.douyu.com/6610883",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnno6AT7_4KZcvK1ewCzZRptfC8zpCwonGA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "守护甜心（日）2007",
+      "url": "http://zzy789.xyz/bili.php?id=23041483",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvS3joj21KRZbltFD7YsCSdGW6w003QBJeWA&usqp=CAU",
       "parse": true
     },
     {
@@ -505,37 +511,37 @@
       "parse": true
     },
     {
-      "name": "守护甜心（日）",
-      "url": "http://zzy789.xyz/bili.php?id=23041483",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvS3joj21KRZbltFD7YsCSdGW6w003QBJeWA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "此生无悔入夏目（日）",
       "url": "https://m.douyu.com/10210568",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZe8eaearzdwIQH3-aE_pzsDEIITm5k6mhKA&usqp=CAU",
       "parse": true
     },
     {
-      "name": "高达（日）",
-      "url": "https://m.douyu.com/426517",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgg6kgaVVLi2dJ9MAFZCIAeseyROwi5ixPw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "奥特曼（日）",
+      "name": "奥特曼（日）1966",
       "url": "http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVXOzPm-zT3L_4UUfxpNjENHKMCtazQazXQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "YY 动漫电影",
+      "name": "机动战士高达（日）1979",
+      "url": "https://m.douyu.com/426517",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgg6kgaVVLi2dJ9MAFZCIAeseyROwi5ixPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 宫崎骏动漫（日）",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354889030",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 动漫电影（日）",
       "url": "http://mmitv.top/pltv/yy.php?id=1354930967",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFjdMAZLZ73g543oef2AWF8rPxCY5QuMGaw&usqp=CAU",
       "parse": true
     },
     {
-      "name": "YY 热血超燃",
+      "name": "YY 热血超燃（日）",
       "url": "http://mmitv.top/pltv/yy.php?id=1382735560",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
