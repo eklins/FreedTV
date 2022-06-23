@@ -1591,6 +1591,18 @@
       "parse": false
     },
     {
+      "name": "SiTV 武侠剧场",
+      "url": "http://117.148.179.165/PLTV/88888888/224/3221231763/index.m3u8?zmid",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SiTV 少林剧场",
+      "url": "http://117.148.179.165/PLTV/88888888/224/3221231628/index.m3u8?zmid",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "SiTV 法治天地",
       "url": "http://shbu.live.bestvcdn.com.cn:8080/live/program/live/fztd/1300000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
