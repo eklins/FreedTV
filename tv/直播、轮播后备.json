@@ -19,6 +19,18 @@
       "parse": false
     },
     {
+      "name": "新三国2010",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382705738",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfoCWDswarGIVU7EBrJ_gN0AtNbNcIL8a8g&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "新三国2010",
+      "url": "https://m.douyu.com/276200",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfoCWDswarGIVU7EBrJ_gN0AtNbNcIL8a8g&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "琅琊榜2015",
       "url": "http://mmitv.top/pltv/yy.php?id=22089862",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw83WWLwPaCtmka1tMyEktC_JV04VDNyhEBA&usqp=CAU",
@@ -86,26 +98,32 @@
     },
     {
       "name": "雍正王朝1999",
-      "url": "http://zzy789.xyz/bili.php?id=21205932",
+      "url": "http://mmitv.top/pltv/yy.php?id=26650882",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "雍正王朝1999",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26650882",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "铁齿铜牙纪晓岚2002",
-      "url": "http://mmitv.top/pltv/yy.php?id=1460576282",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "铁齿铜牙纪晓岚2002",
       "url": "http://mmitv.top/pltv/yy.php?id=1457579747",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "铁齿铜牙纪晓岚2002",
+      "url": "http://zzy789.xyz/bili.php?id=6694373",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "铁齿铜牙纪晓岚2002",
+      "url": "https://m.douyu.com/9071554",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "神医喜来乐2003",
+      "url": "https://m.huya.com/11601978",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbO8BBtUEJ1vDonU7BnKMZHVZPabAKvflcQ&usqp=CAU",
       "parse": true
     },
     {
