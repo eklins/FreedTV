@@ -193,9 +193,15 @@
       "parse": false
     },
     {
-      "name": "Naruto•火影忍者 2002",
+      "name": "Naruto（火影忍者）2002",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcRDF7z0wlbDWqPO35Aukcgcq04Z9K8UiGw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "One Piece（海贼王）1999",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfQsHD0OwpnJxsZ0vtTAhmjSTUofZDQAA1g&usqp=CAU",
       "parse": false
     },
     {
@@ -223,7 +229,7 @@
       "parse": false
     },
     {
-      "name": "Yu-Gi-Oh•游戏王 2000",
+      "name": "Yu-Gi-Oh（游戏王）2000",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcHpXmt0AOjykm6YJtYKO02Oq0rJMibARMw&usqp=CAU",
       "parse": false
@@ -237,6 +243,12 @@
     {
       "name": "Animax Asia",
       "url": "http://210.210.155.37/dr9445/h/h144/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Aniplus (576p)",
+      "url": "http://210.210.155.37/dr9445/h/h02/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -333,6 +345,12 @@
     {
       "name": "Smile (540p)",
       "url": "https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Space Toon (Indonesia)",
+      "url": "https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -481,12 +499,6 @@
       "parse": true
     },
     {
-      "name": "海贼王（日）1999",
-      "url": "https://m.douyu.com/997925",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfQsHD0OwpnJxsZ0vtTAhmjSTUofZDQAA1g&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "全职猎人（日）1999",
       "url": "https://m.douyu.com/6610883",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnno6AT7_4KZcvK1ewCzZRptfC8zpCwonGA&usqp=CAU",
@@ -553,9 +565,15 @@
       "parse": true
     },
     {
-      "name": "综合动漫",
+      "name": "综合动漫①",
       "url": "https://m.douyu.com/426517",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "综合动漫②",
+      "url": "https://m.douyu.com/997925",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfQsHD0OwpnJxsZ0vtTAhmjSTUofZDQAA1g&usqp=CAU",
       "parse": true
     },
     {
