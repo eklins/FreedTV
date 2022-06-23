@@ -19,6 +19,12 @@
       "parse": false
     },
     {
+      "name": "壹号皇庭1992-1997",
+      "url": "http://mmitv.top/pltv/yy.php?id=95095060",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVLzBF1s8gBddy3Hl8K-h6nrOeY7iGReabnQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "琅琊榜2015",
       "url": "http://mmitv.top/pltv/yy.php?id=22089862",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw83WWLwPaCtmka1tMyEktC_JV04VDNyhEBA&usqp=CAU",
@@ -127,16 +133,22 @@
       "parse": false
     },
     {
+      "name": "林正英",
+      "url": "https://m.douyu.com/218859",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevpbyR423Jajl6MUSac5XOG62gthORIqDkQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "RTHK 31",
-      "url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8",
+      "url": "http://livetv.dnsfor.me:80/channel.1.m3u8",
       "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",
-      "parse": false
+      "parse": true
     },
     {
       "name": "RTHK 32",
-      "url": "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8",
+      "url": "http://livetv.dnsfor.me:80/channel.2.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCAzyNmOxqNxh5Bl-_nA8fHsbOm7OV_iHWA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "犬夜叉2000",
