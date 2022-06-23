@@ -13,6 +13,12 @@
       "parse": false
     },
     {
+      "name": "Blomberg TV (H03)",
+      "url": "http://210.210.155.37/dr9445/h/h03/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "琅琊榜2015",
       "url": "http://mmitv.top/pltv/yy.php?id=22089862",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw83WWLwPaCtmka1tMyEktC_JV04VDNyhEBA&usqp=CAU",
