@@ -343,6 +343,12 @@
       "parse": false
     },
     {
+      "name": "RTV",
+      "url": "http://210.210.155.37/dr9445/h/h10/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Smile (540p)",
       "url": "https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
