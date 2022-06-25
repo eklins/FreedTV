@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "犬夜叉2000",
+      "url": "http://epg.112114.xyz/douyu/7422897",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oXuMFvRhu0mk_-M_o6nttrfyS2FCOw4iaA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Marvel",
       "url": "http://mmitv.top/pltv/yy.php?id=1354930233",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
@@ -160,6 +166,24 @@
       "name": "RTHK 32",
       "url": "http://livetv.dnsfor.me:80/channel.2.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCAzyNmOxqNxh5Bl-_nA8fHsbOm7OV_iHWA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "海绵宝宝①",
+      "url": "https://m.douyu.com/3949681",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "海绵宝宝②",
+      "url": "https://m.douyu.com/2250349",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "海绵宝宝S1-13",
+      "url": "http://zzy789.xyz/bili.php?id=61834",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4haP2-Asg8a544pqQxwsE5umyfdLA0UJ7Q&usqp=CAU",
       "parse": true
     },
     {
