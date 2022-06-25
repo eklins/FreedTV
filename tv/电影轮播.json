@@ -97,19 +97,25 @@
       "parse": true
     },
     {
-      "name": "欧美电影①",
+      "name": "欧美YY电影①",
       "url": "http://mmitv.top/pltv/yy.php?id=1382736855",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
     {
-      "name": "欧美电影②",
+      "name": "欧美YY电影②",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382747628",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "欧美电影①",
       "url": "https://m.huya.com/11336591",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
     {
-      "name": "欧美电影③",
+      "name": "欧美电影②",
       "url": "https://m.huya.com/11352963",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
