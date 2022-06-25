@@ -1,8 +1,14 @@
 {
   "data": [
     {
-      "name": "犬夜叉2000",
+      "name": "犬夜叉2000 epg",
       "url": "http://epg.112114.xyz/douyu/7422897",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oXuMFvRhu0mk_-M_o6nttrfyS2FCOw4iaA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "犬夜叉2000 maomao",
+      "url": "http://maomao.kandiantv.cn/douyu1.php?id=7422897",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oXuMFvRhu0mk_-M_o6nttrfyS2FCOw4iaA&usqp=CAU",
       "parse": true
     },
