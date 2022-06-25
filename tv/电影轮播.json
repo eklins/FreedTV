@@ -1838,15 +1838,15 @@
     },
     {
       "name": "刘德华①",
-      "url": "https://m.douyu.com/8985415",
+      "url": "https://m.douyu.com/2516864",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xmPpq9apJ8h6UzY9SifmEd7l1ixJrAS91A&usqp=CAU",
       "parse": true
     },
     {
       "name": "刘德华②",
-      "url": "https://m.douyu.com/2516864",
+      "url": "http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4reAWJPRQYaxKDU7Q1OUFkEM1N6G09ASOA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "成龙",
