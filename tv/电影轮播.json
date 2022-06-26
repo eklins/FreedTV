@@ -4,7 +4,7 @@
       "name": "Marvel",
       "url": "http://mmitv.top/pltv/yy.php?id=1354930233",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "DC",
