@@ -495,6 +495,16 @@ https://api.leonardpark.dev/live/now/331
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 #EXTINF:-1 ,HKG★TVB J1
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 ,HKG★电台第一台
+https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+#EXTINF:-1 ,HKG★电台第二台
+https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+#EXTINF:-1 ,HKG★电台第三台
+https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:-1 ,HKG★电台第五台
+https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+#EXTINF:-1 ,HKG★电台第六台：香港之声
+http://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Hungary.png",Hungary❤ATV
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 ,HUN★Balaton TV
