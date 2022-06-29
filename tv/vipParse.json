@@ -8,6 +8,18 @@
     },
     {
       "id": 1,
+      "name": "无尽",
+      "ad": "no",
+      "url": "https://jx.xhswglobal.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "无尽备用",
+      "ad": "no",
+      "url": "https://jx.wujinkk.com/dplayer/?url="
+    },
+    {
+      "id": 1,
       "name": "卧龙",
       "ad": "no",
       "url": "https://jx.wolongzywcdn.com:65/m3u8.php?url="
@@ -137,18 +149,6 @@
       "name": "猪蹄影院",
       "ad": "no",
       "url": "https://api.iztyy.com/jiexi/?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽",
-      "ad": "no",
-      "url": "https://jx.xhswglobal.com/dplayer/?url="
-    },
-    {
-      "id": 1,
-      "name": "无尽备用",
-      "ad": "no",
-      "url": "https://jx.wujinkk.com/dplayer/?url="
     },
     {
       "id": 1,
