@@ -31,6 +31,24 @@
       "parse": false
     },
     {
+      "name": "Nature Documentary",
+      "url": "https://m.douyu.com/4837387",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Outdoor Adventure ②",
+      "url": "https://m.douyu.com/454867",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Outdoor Survive 荒野生存",
+      "url": "https://m.douyu.com/1339207",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "少年包青天2000",
       "url": "https://m.huya.com/11342393",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjARTAshfTUZPlvblKvaLXpDpNZjU0dBRoIQ&usqp=CAU",
