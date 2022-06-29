@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 ,BBC UHD Trial 1 (2160p) [Geo-blocked]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
+#EXTINF:-1 ,BBC UHD Trial 2 (2160p) [Geo-blocked]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_02.mpd
+#EXTINF:-1 ,BBC UHD Trial 3 (2160p) [Geo-blocked]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_03.mpd
+#EXTINF:-1 ,BBC UHD Trial 4 (2160p) [Geo-blocked]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_04.mpd
+#EXTINF:-1 ,BBC UHD Trial 5 (2160p) [Geo-blocked]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_05.mpd
 #EXTINF:-1 ,无线财经
 http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:-1 ,Sherlock Holmes
