@@ -1301,6 +1301,8 @@ https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 ,RUS★Backus TV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 ,RUS★Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1 ,RUS★БСТ (Башкирское спутниковое телевидение)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 ,RUS★Белгород 24
