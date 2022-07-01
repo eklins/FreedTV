@@ -1625,8 +1625,14 @@ https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★Da Nang TV1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 ,VNM★Da Nang TV2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 ,VNM★HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,VNM★HBTV (406p)
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 ,VNM★HTV1 (576p)
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
 #EXTINF:-1 ,VNM★HTV3 (576p)
