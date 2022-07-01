@@ -25,6 +25,18 @@
       "parse": true
     },
     {
+      "name": "STIRR Charge!",
+      "url": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STIRR Comet",
+      "url": "http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Blomberg TV (H03)",
       "url": "http://210.210.155.37/dr9445/h/h03/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71P4mnHdjmdwkH7R6ydUECWuLKxGKVX1-Hw&usqp=CAU",
