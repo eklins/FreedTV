@@ -735,8 +735,6 @@ https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 https://vse2-sa-all4.secdn.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Japan.png",Japan❤日テレNEWS24 Ⓢ
 https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
-#EXTINF:-1 ,JPN★Animax Japan (Vietnamese Subs)
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #EXTINF:-1 ,JPN★AT-X
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 ,JPN★Disney Channel
@@ -1615,3 +1613,43 @@ https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 ,VEN★TeleSUR English
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Vietnam.png",Vietnam❤Animax Asia
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★BBC Lifestyle Asia
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 ,VNM★Boomerang Southeast Asia
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★CBeebies Asia
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★Cinemax
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★HBO
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,VNM★HTV1 (576p)
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★HTV3 (576p)
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★HTV4 (576p)
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★Kix
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★MTV Vietnam (576p)
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★Rock Entertainment
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★Rock Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★VTC4
+https://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★VTC5 (576p)
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★VTC6 (576p)
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★National Geographic Asia
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★National Geographic Wild Asia
+https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★VTC2
+https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
