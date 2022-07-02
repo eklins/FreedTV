@@ -73,10 +73,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbq72Lp2epTgno002BMVVXJK3JmvG0TvF5dQ&usqp=CAU",CNBC Europe UK
 http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZuwxLWgOj5eZ7B3Ne9KAq4iZ1j43s4Fptuw&usqp=CAU",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GgSXzSdSxF7XTAo4EV4ZlLxoPakst_4b0w&usqp=CAU",CNBC TV18 (India)
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBt21a2KaqlSwB_PNmz8ZSkS8k_8uQIc74g&usqp=CAU",CNN Philippines
