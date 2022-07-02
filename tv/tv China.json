@@ -1142,13 +1142,13 @@
     },
     {
       "name": "CNC 新华社",
-      "url": "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8",
+      "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGei7LMlonN1Ow1BZz797GbkuEt4wlsL0LA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CNC World",
-      "url": "http://source07.v.news.cn/live/CNC_EN/playlist.m3u8",
+      "url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kT5PSUXc0FFuiwcGBHRVEFHsvtUC8kdbJg&usqp=CAU",
       "parse": false
     },
