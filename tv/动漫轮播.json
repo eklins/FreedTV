@@ -283,18 +283,6 @@
       "parse": false
     },
     {
-      "name": "ConTV",
-      "url": "https://contv-tcl.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ConTV Anime",
-      "url": "https://contvanime-tcl.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Disney",
       "url": "http://zzy789.xyz/bili.php?id=24489519",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ9xbptk8FhlBatA2SBAmWHHySAUUSLZpWhw&usqp=CAU",
@@ -454,6 +442,18 @@
       "name": "Rakuten Family UK",
       "url": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STIRR ConTV",
+      "url": "https://contv-tcl.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STIRR ConTV Anime",
+      "url": "https://contvanime-tcl.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
     {
