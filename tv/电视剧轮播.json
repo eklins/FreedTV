@@ -613,15 +613,9 @@
       "parse": true
     },
     {
-      "name": "仙剑奇侠传2005",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382706210",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9werolkAPG0T1IRIbUIrnZPAvE8ZRyh6Eyw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "仙剑奇侠传三2008",
+      "name": "仙剑奇侠传2005－2016",
       "url": "http://mmitv.top/pltv/yy.php?id=1462567824",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhArUstBqyE4uHGBhwSTehCfJJvRYTl7fXLw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9werolkAPG0T1IRIbUIrnZPAvE8ZRyh6Eyw&usqp=CAU",
       "parse": true
     },
     {
@@ -1281,6 +1275,12 @@
     {
       "name": "YY 剧场⑦",
       "url": "http://mmitv.top/pltv/yy.php?id=1354773983",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 剧场⑧",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382706210",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
