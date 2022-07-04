@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGei7LMlonN1Ow1BZz797GbkuEt4wlsL0LA&usqp=CAU",CNC 新华社
+http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kT5PSUXc0FFuiwcGBHRVEFHsvtUC8kdbJg&usqp=CAU",CNC World
+http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
 #EXTINF:-1 ,BBC UHD Trial 1 (2160p) [Geo-blocked]
 https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
 #EXTINF:-1 ,BBC UHD Trial 2 (2160p) [Geo-blocked]
