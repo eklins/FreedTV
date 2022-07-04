@@ -67,14 +67,8 @@
       "parse": true
     },
     {
-      "name": "🇱🇷Sci-Fi ①",
+      "name": "🇱🇷Sci-Fi",
       "url": "http://mmitv.top/pltv/yy.php?id=1354930209",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇱🇷Sci-Fi ②",
-      "url": "http://mmitv.top/pltv/yy.php?id=1355065896",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
@@ -2067,6 +2061,12 @@
     {
       "name": "YY 激战动作",
       "url": "http://mmitv.top/pltv/yy.php?id=1382745083",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 动作、科幻、玄幻",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355065896",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
