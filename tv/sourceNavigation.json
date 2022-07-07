@@ -99,8 +99,8 @@
     {
       "name": "Global News ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF9zSDPTv8-0dUMSimvMiPqHo4j0GPv-O6UQ&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20news.m3u",
-      "type": "m3u",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/tv%20news.json",
+      "type": "json",
       "subTitle": "",
       "click": true,
       "autoNext": false,
@@ -242,7 +242,7 @@
       "webPlus": {}
     },
     {
-      "name": "直播•轮播后备❤json",
+      "name": "直播•轮播后备json",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%9B%B4%E6%92%AD%E3%80%81%E8%BD%AE%E6%92%AD%E5%90%8E%E5%A4%87.json",
       "type": "json",
