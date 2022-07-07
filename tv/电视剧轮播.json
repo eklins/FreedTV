@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "大秦帝国（裂变、纵横、崛起）2009-2017",
-      "url": "https://m.douyu.com/1584198",
+      "url": "http://zzy789.xyz/bili.php?id=11259274",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
       "parse": true
     },
@@ -25,26 +25,8 @@
       "parse": true
     },
     {
-      "name": "新水浒传2011",
-      "url": "https://m.douyu.com/6785471",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCOuB0fxbSjA4vCuu071vPGFwHlpkDsRVfA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "汉武大帝2005",
-      "url": "http://mmitv.top/pltv/yy.php?id=1355260855",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDrMhO3P6gYdgZzgPn6YF0WnDUi_go2XERIw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "朱元璋2006",
-      "url": "https://m.douyu.com/308752",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcU9ndGhf8h1WTPxKgQkw5KmD9kXD6d7LDg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "康熙王朝2001",
-      "url": "https://m.douyu.com/9650836",
+      "url": "https://m.huya.com/11352940",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
       "parse": true
     },
@@ -56,7 +38,7 @@
     },
     {
       "name": "康熙微服私访记1997",
-      "url": "https://m.douyu.com/7550220",
+      "url": "https://m.huya.com/11342418",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
       "parse": true
     },
@@ -70,6 +52,24 @@
       "name": "芈月传2015",
       "url": "https://m.huya.com/11352975",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCvXm6EBSw9L68tp2BOqOzUsMNNDXmMlA3Q&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "包青天之七侠五义2010",
+      "url": "http://mmitv.top/pltv/yy.php?id=1456625255",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQysMSlKwkDteUDGfvvSD-BiZ5Og0SqVrN-aQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "护国良相狄仁杰2002",
+      "url": "http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWU9yZhPvecMi_mTiBcuqSgUGta5zGk7546w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "神探狄仁杰2004",
+      "url": "http://mmitv.top/pltv/yy.php?id=1351755386",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmNbfckKx_YJkdR7L6oxsM_Sj528yekbzlA&usqp=CAU",
       "parse": true
     },
     {
@@ -553,9 +553,21 @@
       "parse": false
     },
     {
-      "name": "包青天之七侠五义2010",
-      "url": "http://mmitv.top/pltv/yy.php?id=1456625255",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQysMSlKwkDteUDGfvvSD-BiZ5Og0SqVrN-aQ&usqp=CAU",
+      "name": "新水浒传2011",
+      "url": "https://m.douyu.com/6785471",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCOuB0fxbSjA4vCuu071vPGFwHlpkDsRVfA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "汉武大帝2005",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355260855",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDrMhO3P6gYdgZzgPn6YF0WnDUi_go2XERIw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "朱元璋2006",
+      "url": "https://m.douyu.com/308752",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcU9ndGhf8h1WTPxKgQkw5KmD9kXD6d7LDg&usqp=CAU",
       "parse": true
     },
     {
@@ -568,18 +580,6 @@
       "name": "宰相刘罗锅1996",
       "url": "https://m.douyu.com/8543072",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPT1DuFORJ95r05kypIYDsAhVkzErK69TlDA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "护国良相狄仁杰2002",
-      "url": "http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWU9yZhPvecMi_mTiBcuqSgUGta5zGk7546w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "神探狄仁杰2004",
-      "url": "http://mmitv.top/pltv/yy.php?id=1351755386",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmNbfckKx_YJkdR7L6oxsM_Sj528yekbzlA&usqp=CAU",
       "parse": true
     },
     {
