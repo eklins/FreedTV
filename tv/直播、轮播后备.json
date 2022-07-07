@@ -271,6 +271,18 @@
       "parse": true
     },
     {
+      "name": "Popeye",
+      "url": "https://m.douyu.com/7620081",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYoL-MVhntpNazGYFk_eDkrfDtszGBm8SDQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Tom & Jerry",
+      "url": "https://m.douyu.com/7888428",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0uU_l4TnMXGBxiq7SnvsPef5HKEC4W9S3Q&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "东南亚丛林生活实录",
       "url": "https://m.douyu.com/9612117",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
