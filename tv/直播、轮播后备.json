@@ -199,6 +199,12 @@
       "parse": true
     },
     {
+      "name": "四大名著",
+      "url": "https://m.douyu.com/6861249",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "RTHK 31",
       "url": "http://livetv.dnsfor.me:80/channel.1.m3u8",
       "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",
