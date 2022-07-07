@@ -1327,6 +1327,12 @@
       "parse": true
     },
     {
+      "name": "北京财经",
+      "url": "http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8",
+      "pic": "https://www.nettvpro.live/uploads/19/1-1Z42Q25030444.jpg",
+      "parse": true
+    },
+    {
       "name": "澳门微视",
       "url": "http://61.244.22.4/ch3/ch3.live/playelist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
