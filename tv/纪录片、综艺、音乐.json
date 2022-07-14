@@ -79,12 +79,6 @@
       "parse": false
     },
     {
-      "name": "Global Got Talent",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9Rb_7yPHl8MiuTYXA8gf16p2nbSQtB9i0w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Johnny Carson TV (PlutoTV)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66928133461100077dfd73/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5c0Y8TAdAhqfzMayX9TqZPpZfTF072Yj-iQ&usqp=CAU",
@@ -95,24 +89,6 @@
       "url": "https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5c0Y8TAdAhqfzMayX9TqZPpZfTF072Yj-iQ&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "Just for Laughs Gags (Roku)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-sMFYtG3W2JBZzyzyUGOawoThA7SK7kqPw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Just for Laughs Gags (Vizio)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-sMFYtG3W2JBZzyzyUGOawoThA7SK7kqPw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "No Kitchen Required 2012 (YY)",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382736890",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fJEwOi9PQk_i4ZHYmO0VnS8bvEcDiXlL-A&usqp=CAU",
-      "parse": true
     },
     {
       "name": "Survivor 2000",
@@ -1603,6 +1579,12 @@
       "parse": false
     },
     {
+      "name": "XUMO Global Got Talent",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "XUMO Go Traveler",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
@@ -1623,6 +1605,18 @@
     {
       "name": "XUMO Journy",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO Just for Laughs Gags (Roku)",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO Just for Laughs Gags (Vizio)",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
@@ -1756,6 +1750,12 @@
       "name": "YY Human Documentary 人类纪",
       "url": "http://mmitv.top/pltv/yy.php?id=1382735573",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY No Kitchen Required 2012",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736890",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fJEwOi9PQk_i4ZHYmO0VnS8bvEcDiXlL-A&usqp=CAU",
       "parse": true
     },
     {
