@@ -1641,6 +1641,10 @@ https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★BBC Lifestyle Asia
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 ,VNM★Blue Ant Entertainment
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,VNM★Blue Ant Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,VNM★Boomerang Southeast Asia
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★CBeebies Asia
