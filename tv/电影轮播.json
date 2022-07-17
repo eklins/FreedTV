@@ -247,6 +247,12 @@
       "parse": false
     },
     {
+      "name": "DVD Theater",
+      "url": "http://117.148.179.159/PLTV/88888888/224/3221231640/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Folk TV East (480p)",
       "url": "https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
