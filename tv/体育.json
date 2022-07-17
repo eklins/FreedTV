@@ -259,6 +259,12 @@
       "parse": false
     },
     {
+      "name": "ELEVEN 2",
+      "url": "http://61.221.81.93:8078/hls/26/80/esport2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Fight Network Canada",
       "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
