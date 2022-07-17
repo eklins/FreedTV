@@ -553,12 +553,6 @@
       "parse": false
     },
     {
-      "name": "长城剧场",
-      "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "纯享4K",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -1125,6 +1119,12 @@
     {
       "name": "Y+",
       "url": "http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "长城精品",
+      "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
