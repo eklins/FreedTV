@@ -547,6 +547,12 @@
       "parse": false
     },
     {
+      "name": "Y+剧场",
+      "url": "http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "新水浒传2011",
       "url": "https://m.douyu.com/6785471",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCOuB0fxbSjA4vCuu071vPGFwHlpkDsRVfA&usqp=CAU",
@@ -1173,13 +1179,13 @@
     {
       "name": "🇰🇷最新韩剧",
       "url": "http://mmitv.top/pltv/yy.php?id=1354932402",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇰🇷搞笑励志",
       "url": "http://mmitv.top/pltv/yy.php?id=1382736877",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": true
     },
     {
