@@ -575,6 +575,8 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 ,IDN★My Cinema
 http://210.210.155.35/uq2663/h/h192/index.m3u8
+#EXTINF:-1 ,IDN★National Geographic Wild Asia
+http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 #EXTINF:-1 ,IDN★Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 ,IDN★RRI Net
