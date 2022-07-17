@@ -553,12 +553,6 @@
       "parse": false
     },
     {
-      "name": "长城剧场",
-      "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "新水浒传2011",
       "url": "https://m.douyu.com/6785471",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCOuB0fxbSjA4vCuu071vPGFwHlpkDsRVfA&usqp=CAU",
