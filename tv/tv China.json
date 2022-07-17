@@ -1202,9 +1202,9 @@
     },
     {
       "name": "TVB 明珠台",
-      "url": "http://kkmix1.f3322.net:825/hls/ch1/s.m3u8",
+      "url": "http://198.204.239.194:27347/livehlsplay?channel_id=30026.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSXSDYSCPmYB3nyL8VoC2i25ajFtLaR3mVw&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "TVB 星河频道",
