@@ -141,6 +141,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 #EXTINF:-1 ,BRA★ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:-1 ,BRA★MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,BRA★RBC
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 #EXTINF:-1 ,BRA★Rede Brasil
@@ -559,7 +561,7 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 ,IDN★GPR TV
 https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
-#EXTINF:-1 ,IDN★Hits
+#EXTINF:-1 ,IDN★HITS
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 ,IDN★Kompas TV
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
@@ -1585,6 +1587,8 @@ https://dk7psf0dh3v1r.cloudfront.net/KMTV/playlist.m3u8
 https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
 #EXTINF:-1 ,GBR★Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Action Movies
@@ -1661,6 +1665,8 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 ,VNM★HBTV (406p)
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1 ,VNM★HITS
+http://api.vthanhtivii.xyz/v1/getlink/tv360/107/2.m3u8
 #EXTINF:-1 ,VNM★HTV1 (576p)
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
 #EXTINF:-1 ,VNM★HTV3 (576p)
