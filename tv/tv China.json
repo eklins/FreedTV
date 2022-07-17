@@ -589,8 +589,8 @@
       "parse": false
     },
     {
-      "name": "DVD影院",
-      "url": "http://117.148.179.159/PLTV/88888888/224/3221231640/index.m3u8",
+      "name": "香港电影",
+      "url": "http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
