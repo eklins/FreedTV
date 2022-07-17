@@ -319,6 +319,12 @@
       "parse": false
     },
     {
+      "name": "Blue Ant Extreme (Vietnam)",
+      "url": "https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Business Rockstars",
       "url": "https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8",
       "pic": "https://biztv.com/wp-content/uploads/2020/06/Shows-BusinessRockstars.jpg",
@@ -523,6 +529,12 @@
       "parse": false
     },
     {
+      "name": "ION",
+      "url": "https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ION Plus",
       "url": "https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -573,6 +585,12 @@
     {
       "name": "Magellan TV",
       "url": "https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Monarch TV (360p)",
+      "url": "https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
