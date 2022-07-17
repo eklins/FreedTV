@@ -553,6 +553,12 @@
       "parse": false
     },
     {
+      "name": "长城剧场",
+      "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "纯享4K",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -565,6 +571,12 @@
       "parse": false
     },
     {
+      "name": "星光影院",
+      "url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "黑莓电影",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -573,6 +585,18 @@
     {
       "name": "喜剧电影",
       "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DVD影院",
+      "url": "http://117.148.179.159/PLTV/88888888/224/3221231640/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "LSTime电影",
+      "url": "http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -1099,6 +1123,12 @@
       "parse": false
     },
     {
+      "name": "Y+",
+      "url": "http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "足球",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226347/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -1196,7 +1226,7 @@
     },
     {
       "name": "TVB 翡翠台",
-      "url": "https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8",
+      "url": "http://50.7.220.74:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/29741/cut-20190627111118-175179980_jpg_286_229_7658.jpg/300",
       "parse": false
     },
