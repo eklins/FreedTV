@@ -1198,13 +1198,13 @@
       "name": "TVB 翡翠台",
       "url": "https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/29741/cut-20190627111118-175179980_jpg_286_229_7658.jpg/300",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVB 明珠台",
       "url": "http://kkmix1.f3322.net:825/hls/ch1/s.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSXSDYSCPmYB3nyL8VoC2i25ajFtLaR3mVw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVB 星河频道",
@@ -1222,13 +1222,13 @@
       "name": "TVB J1",
       "url": "https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVB J2",
-      "url": "https://tx-b2.xsafetech.com/live/11666.m3u8",
+      "url": "http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e",
       "pic": "http://tv.haoqu99.com/d/file/2016/0922/ec93b4441247781ef3f6d303dd553ed1.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "RTHK 31",
