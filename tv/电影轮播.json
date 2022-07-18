@@ -284,7 +284,7 @@
     },
     {
       "name": "HBO (Vietnam)",
-      "url": "https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8",
+      "url": "https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
