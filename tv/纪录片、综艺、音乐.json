@@ -667,12 +667,6 @@
       "parse": false
     },
     {
-      "name": "Persiana Comedy (Iran)",
-      "url": "http://51.210.199.27/hls/stream.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Popstar! TV",
       "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
