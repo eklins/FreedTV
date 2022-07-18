@@ -457,6 +457,12 @@
       "parse": false
     },
     {
+      "name": "ET Live",
+      "url": "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "FOX Soul",
       "url": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1621,8 +1627,7 @@
       "parse": false
     },
     {
-      "name": "TVS Quiz Show Network",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8",
+      "name": "TVS Quiz Show jj"url": "https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
