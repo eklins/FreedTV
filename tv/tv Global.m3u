@@ -1459,42 +1459,8 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 ,ESP★EiTB ②
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:-1 ,ESP★HQM Arabic
-https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
-#EXTINF:-1 ,ESP★HQM Baladas
-https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-#EXTINF:-1 ,ESP★HQM Blues
-https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
-#EXTINF:-1 ,ESP★HQM Chill Out
-https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
-#EXTINF:-1 ,ESP★HQM Classic
-https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
-#EXTINF:-1 ,ESP★HQM Dance
-https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
-#EXTINF:-1 ,ESP★HQM Folk
-https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
-#EXTINF:-1 ,ESP★HQM Gym
-https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8
-#EXTINF:-1 ,ESP★HQM Hip Hop
-https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
-#EXTINF:-1 ,ESP★HQM Hits
-https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
-#EXTINF:-1 ,ESP★HQM Jazz
-https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
-#EXTINF:-1 ,ESP★HQM Kids
-https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
-#EXTINF:-1 ,ESP★HQM Latin
-https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
-#EXTINF:-1 ,ESP★HQM Pop
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:-1 ,ESP★HQM Relax
-https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
-#EXTINF:-1 ,ESP★HQM Remember
-https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
-#EXTINF:-1 ,ESP★HQM Rock
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-#EXTINF:-1 ,ESP★HQM Spanish
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF:-1 ,ESP★PlutoTV BBC Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,ESP★PlutoTV Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId=
 #EXTINF:-1 ,ESP★PlutoTV Cine Acción
@@ -1592,7 +1558,7 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Dark Matter TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8
+https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★EDGE Sport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★English Club TV
