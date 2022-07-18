@@ -563,6 +563,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 ,IDN★HITS
 http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 ,IDN★K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 ,IDN★Kompas TV
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 #EXTINF:-1 ,IDN★Kugo Star (576p)
