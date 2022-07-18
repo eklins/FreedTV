@@ -559,12 +559,6 @@
       "parse": false
     },
     {
-      "name": "TV Destak (360p)",
-      "url": "https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "tvN Movies (Indonesia)",
       "url": "http://210.210.155.37/dr9445/h/h21/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
