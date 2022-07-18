@@ -97,6 +97,12 @@
       "parse": false
     },
     {
+      "name": "Black Jesus 2014-2019",
+      "url": "https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_de.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrAjvQmFbWOFY7Z4cszVpgpKr8Wfz95fK_w&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "CSI 2000-2015",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-iGCzEWaHRGfKxjtWTBEJ49_IwaKIFLYFw&usqp=CAU",
