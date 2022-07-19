@@ -1933,81 +1933,15 @@
       "parse": false
     },
     {
-      "name": "欧美日韩①",
-      "url": "https://m.douyu.com/36337",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "欧美日韩②",
-      "url": "https://m.douyu.com/8770422",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "欧美日韩③",
-      "url": "https://m.douyu.com/5403257",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语喜剧",
-      "url": "https://m.huya.com/11352894",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语电影①",
-      "url": "https://m.douyu.com/6566671",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语电影②",
-      "url": "https://m.douyu.com/5033502",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语电影③",
-      "url": "https://m.douyu.com/1226741",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语电影④",
-      "url": "https://m.douyu.com/2466104",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语电影⑤",
-      "url": "https://m.douyu.com/8603174",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "粤语电影⑥",
-      "url": "http://zzy789.xyz/bili.php?id=24590020",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "周星驰（粤）",
       "url": "https://m.huya.com/11336587",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYHb0CIIAKXM7730yClboVdyBh4_52y9ntQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "刘德华①",
-      "url": "https://m.douyu.com/2516864",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xmPpq9apJ8h6UzY9SifmEd7l1ixJrAS91A&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "刘德华②",
+      "name": "刘德华",
       "url": "http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4reAWJPRQYaxKDU7Q1OUFkEM1N6G09ASOA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xmPpq9apJ8h6UzY9SifmEd7l1ixJrAS91A&usqp=CAU",
       "parse": false
     },
     {
@@ -2015,12 +1949,6 @@
       "url": "http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyonUE9t64WOsuo4wTjNzScnPBurY2S8_tdA&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "李连杰",
-      "url": "https://m.douyu.com/10395964",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YnpQVyhTIqYBTwki-jogP_fVGVb4NUfrFA&usqp=CAU",
-      "parse": true
     },
     {
       "name": "张国荣",
@@ -2063,6 +1991,18 @@
       "url": "http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOCIBYP14DjqBeCxw3BE0-qbJ3xF_390cMw&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "粤语喜剧",
+      "url": "https://m.huya.com/11352894",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "粤语电影",
+      "url": "http://zzy789.xyz/bili.php?id=24590020",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
     },
     {
       "name": "镖行天下系列",
@@ -2245,30 +2185,6 @@
       "parse": true
     },
     {
-      "name": "科幻、动作",
-      "url": "https://m.douyu.com/252802",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "动作、武侠",
-      "url": "https://m.douyu.com/6763930",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "恐怖、灵异",
-      "url": "https://m.douyu.com/3637726",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "警匪、动作",
-      "url": "https://m.douyu.com/10240510",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "古墓、探险",
       "url": "https://m.huya.com/11352913",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2311,44 +2227,14 @@
       "parse": true
     },
     {
-      "name": "综合电影①",
-      "url": "https://m.douyu.com/431460",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "综合电影②",
-      "url": "https://m.douyu.com/6537888",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "特辑电影",
-      "url": "https://m.douyu.com/3637778",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
       "name": "香港喜剧",
       "url": "https://m.huya.com/11342423",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": true
     },
     {
-      "name": "香港喜剧电影（华）",
-      "url": "https://m.douyu.com/122402",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "香港经典女神（华）",
       "url": "https://m.huya.com/11352909",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "香港经典电影（华）",
-      "url": "https://m.douyu.com/85894",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": true
     },
@@ -2362,12 +2248,6 @@
       "name": "金庸武侠②",
       "url": "https://m.huya.com/11342435",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6eIMvG4MP7IAnckZrVMJfMx3XtM6pcFFFSQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "邵氏电影",
-      "url": "https://m.douyu.com/4246519",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     }
   ]
