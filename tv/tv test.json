@@ -61,18 +61,6 @@
       "parse": false
     },
     {
-      "name": "ABC ME F",
-      "url": "https://c.mjh.nz/101002210224",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ABC ME T",
-      "url": "https://c.mjh.nz/101002210224",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "VOA",
       "url": "https://4gtvfreepc-mozai.4gtv.tv/5ZwmWzNBtCBGJmd3qQPpmZz_Hu1QXzi14iwp5l7ZoyY%3d/stream2.m3u8?token=kqac7GfwXGt8I4XQfHaHjw&expires=1653587540&refer=OTg3ZThmODktMTgyZS00NDNmLTkyMWEtN2I2MjE4NDNiNjYx&token1=8nEd09vzzar52PgLfowo3A&expires1=1653587540&y=0&vt=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lj7oMcPEPDgSrK234wDk9e8o3FbvXt74ow&usqp=CAU",
