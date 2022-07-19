@@ -55,12 +55,6 @@
       "parse": true
     },
     {
-      "name": "Running Man 2010",
-      "url": "https://m.douyu.com/7298973",
-      "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
-      "parse": true
-    },
-    {
       "name": "Beauty and The Geek 2005-2008",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18c138c32460007cc6b46/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaQLSgJokpghDSUhkIub_D3P8nG7NQHGp3g&usqp=CAU",
@@ -143,12 +137,6 @@
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFgNeSexlKvbZNezB6OxTrWv9L9vS0jeeIA&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "军武大本营",
-      "url": "https://m.douyu.com/5483801",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzB_l6AIu32ou2adP261rj9uJ6JAXQKeifjw&usqp=CAU",
-      "parse": true
     },
     {
       "name": "兵器科技",
@@ -2116,12 +2104,6 @@
       "name": "Brit Asia Live (US Pacific)",
       "url": "https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Channel V",
-      "url": "http://live.tvfix.org/hls/channelv.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8EXebhEUZ80cpRq_YEvdtybb-unk75buhdQ&usqp=CAU",
       "parse": false
     },
     {
