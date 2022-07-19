@@ -19,12 +19,6 @@
       "parse": true
     },
     {
-      "name": "犬夜叉2000",
-      "url": "https://m.douyu.com/7422897",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oXuMFvRhu0mk_-M_o6nttrfyS2FCOw4iaA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "哆啦A梦",
       "url": "http://zzy789.xyz/bili.php?id=1717236",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JDOcmPcc3Byrj8amfEnk87lWAyKdCD4Seg&usqp=CAU",
@@ -40,18 +34,6 @@
       "name": "哆啦A梦剧场版",
       "url": "http://zzy789.xyz/bili.php?id=6419694",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qnUhQ0AF5IRxsX5tOgFT4ucb1hBUiI94KQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "名侦探柯南1996",
-      "url": "https://m.douyu.com/6484910",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "宝可梦1997",
-      "url": "https://m.douyu.com/9765742",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3iO2XREqy57y9h0-8Uu1lOoTPX2JFEUd3w&usqp=CAU",
       "parse": true
     },
     {
@@ -153,18 +135,6 @@
     {
       "name": "YY 那些年……",
       "url": "http://mmitv.top/pltv/yy.php?id=1351417866",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "动漫电影（华）",
-      "url": "https://m.douyu.com/6449849",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "天使点播（华）",
-      "url": "https://m.douyu.com/1487654",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
@@ -511,27 +481,9 @@
       "parse": true
     },
     {
-      "name": "圣斗士星矢（日）1986",
-      "url": "https://m.douyu.com/8458270",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAUHtfjARglA_AnwYyvLBZoRNJcDPRAfthkA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "幽游白书（日）1992",
-      "url": "https://m.douyu.com/9938431",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfDzubI2r1GMWJGXmHf8sL7xIXm5xyDvgMw&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "灌篮高手（日）1993",
       "url": "http://mmitv.top/pltv/yy.php?id=1382735559",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TuCEOnWL2fPN5zQHj9PiDEaRFtyYhNVdXA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "全职猎人（日）1999",
-      "url": "https://m.douyu.com/6610883",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnno6AT7_4KZcvK1ewCzZRptfC8zpCwonGA&usqp=CAU",
       "parse": true
     },
     {
@@ -553,22 +505,10 @@
       "parse": true
     },
     {
-      "name": "此生无悔入夏目（日）",
-      "url": "https://m.douyu.com/10210568",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZe8eaearzdwIQH3-aE_pzsDEIITm5k6mhKA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "奥特曼（日）1966",
       "url": "http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVXOzPm-zT3L_4UUfxpNjENHKMCtazQazXQ&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "机动战士高达（日）1979",
-      "url": "https://m.douyu.com/426517",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgg6kgaVVLi2dJ9MAFZCIAeseyROwi5ixPw&usqp=CAU",
-      "parse": true
     },
     {
       "name": "YY 宫崎骏动漫（日）",
@@ -586,72 +526,6 @@
       "name": "YY 热血超燃（日）",
       "url": "http://mmitv.top/pltv/yy.php?id=1382735560",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "热血动漫",
-      "url": "https://m.douyu.com/7528160",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "综合动漫①",
-      "url": "https://m.douyu.com/426517",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "综合动漫②",
-      "url": "https://m.douyu.com/997925",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "经典童年",
-      "url": "https://m.douyu.com/235716",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "经典动漫",
-      "url": "https://m.douyu.com/2317390",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "怀旧动漫",
-      "url": "https://m.douyu.com/1174353",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "日本动漫",
-      "url": "https://m.douyu.com/7256376",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "动漫电影",
-      "url": "https://m.douyu.com/10395973",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "动漫剧场版",
-      "url": "https://m.douyu.com/8458270",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "欧美动漫电影",
-      "url": "https://m.douyu.com/7493575",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "经典欧美动画",
-      "url": "https://m.douyu.com/4540290",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     },
     {
