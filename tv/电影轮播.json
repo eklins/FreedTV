@@ -325,6 +325,12 @@
       "parse": false
     },
     {
+      "name": "Horror Machine",
+      "url": "https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "HorrOrfy",
       "url": "https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -399,6 +405,12 @@
     {
       "name": "Midnight Pulp",
       "url": "https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Military Home Life",
+      "url": "https://simultv.s.llnwi.net/n4s4/MilitaryHomeLife/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
