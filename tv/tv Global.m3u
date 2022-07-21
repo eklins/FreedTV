@@ -553,6 +553,12 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1 ,IDN★My Cinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
+#EXTINF:-1 ,IDN★My Cinema Europe (576p)
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+#EXTINF:-1 ,IDN★My Family Channel
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1 ,IDN★My Kidz
+http://210.210.155.35/uq2663/h/h191/index.m3u8
 #EXTINF:-1 ,IDN★National Geographic Wild Asia
 http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 #EXTINF:-1 ,IDN★Reformed 21
