@@ -531,6 +531,8 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 #EXTINF:-1 ,IDN★CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 ,IDN★Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 ,IDN★GPR TV
 https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 ,IDN★HITS
