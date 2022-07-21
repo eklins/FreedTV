@@ -561,12 +561,16 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 http://210.210.155.35/uq2663/h/h191/index.m3u8
 #EXTINF:-1 ,IDN★National Geographic Wild Asia
 http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+#EXTINF:-1 ,IDN★ONe TV Asia (576p)
+http://210.210.155.37/uq2663/h/h143/index.m3u8
 #EXTINF:-1 ,IDN★Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 ,IDN★RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 ,IDN★RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
+#EXTINF:-1 ,IDN★SCTV (480p)
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 ,IDN★TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 ,IDN★tvN Asia (576p)
