@@ -2161,6 +2161,12 @@
       "parse": false
     },
     {
+      "name": "Juice TV",
+      "url": "https://juicex.nz/hls/mystream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Kiss Kiss TV",
       "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -2281,7 +2287,7 @@
       "parse": false
     },
     {
-      "name": "The Edge",
+      "name": "The Edge TV",
       "url": "https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
