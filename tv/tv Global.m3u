@@ -521,6 +521,8 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Indonesia.png",Indonesia❤Ainos (576p)
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
+#EXTINF:-1 ,IDN★BBS TV
+http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 ,IDN★Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 ,IDN★Berita Satu World
