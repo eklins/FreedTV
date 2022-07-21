@@ -248,7 +248,7 @@
     },
     {
       "name": "FOX Soul",
-      "url": "http://fox-foxsoul-roku.amagi.tv/playlist.m3u8",
+      "url": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ331pYupaPjwjmPj333gHYmlvypsCrPcn7vQ&usqp=CAU",
       "parse": false
     },
