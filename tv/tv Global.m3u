@@ -209,6 +209,8 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
 #EXTINF:-1 ,CAN★Weather Spy
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Chile.png",Chile❤Retro Plus 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Croatia.png",Croatia❤HRT 1
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1 ,HRV★HRT 2
@@ -255,6 +257,8 @@ https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,ECU★101 Tele Antequera
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Egypt.png",Egypt❤Rotana Cinema
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤Euronews(English)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 ,FRA★Africa News Français
@@ -611,6 +615,10 @@ http://51.210.199.24/hls/stream.m3u8
 http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Persiana Plus
 http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 ,IRN★SL①
+http://51.210.199.3/hls/stream.m3u8
+#EXTINF:-1 ,IRN★SL②
+http://51.210.199.2/hls/stream.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ireland.png",Ireland❤Oireachtas TV
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Italy.png",Italy❤12 TV Parma
@@ -823,6 +831,8 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kazakhstan.png",Kazakhstan❤Atameken Business
 http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 ,KAZ★Ел Арна (576p)
+https://sc.id-tv.kz/ElArna.m3u8
 #EXTINF:-1 ,KAZ★Хабар 24
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Korea-North.png",Korea（N）❤KCTV (Korean Central Television)
