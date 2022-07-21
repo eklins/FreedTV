@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/8TV_Chinese.png",8TV 八度空间
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF-7q9OoYu6ToquKI0OrqIjM8dMWgxQyOSA&usqp=CAU",Animax Asia
-http://210.210.155.37/dr9445/h/h144/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",Celestial Classic Movies 天映经典频道
@@ -33,8 +31,6 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://rtmklik.rtm.gov.my/tv/7
 #EXTINF:-1 logo="https://www.rtm.gov.my/images/2021/04/01/sukanrtmbaharu.jpg",RTM Sukan
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1 ,RTV
-http://210.210.155.37/dr9445/h/h10/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpoxvRef94zWT_VgzRRAxOY2QX1j41E6b8ag&usqp=CAU",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwM3cnfiFBgQ9WqbPNGFd24ZOJFXZ37bixGw&usqp=CAU",TV2
@@ -559,6 +555,8 @@ http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 ,IDN★RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 ,IDN★RTV
+http://210.210.155.37/dr9445/h/h10/index.m3u8
 #EXTINF:-1 ,IDN★TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 ,IDN★tvN Asia (576p)
