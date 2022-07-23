@@ -1561,6 +1561,18 @@
       "parse": true
     },
     {
+      "name": "台湾龙华日韩",
+      "url": "http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
+      "name": "台湾龙华偶像",
+      "url": "http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
       "name": "台湾经典卡通台",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
