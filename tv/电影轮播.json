@@ -145,6 +145,12 @@
       "parse": false
     },
     {
+      "name": "ALKORQA Plus",
+      "url": "http://32.shqiptv.org/korca/albplus/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "American Horrors (480p)",
       "url": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1665,6 +1671,12 @@
     {
       "name": "NewTV 动作电影",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225671/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NewTV 中国功夫",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
