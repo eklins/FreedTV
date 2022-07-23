@@ -1701,6 +1701,8 @@ https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
 #EXTINF:-1 ,VNM★HTV4 (576p)
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★Kiên Giang
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 ,VNM★Kix
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★MTV Vietnam (576p)
