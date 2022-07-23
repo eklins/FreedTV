@@ -4,49 +4,49 @@
       "name": "CCTV-5 体育",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225756/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/0417/20150417122518526.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-5+ 体育赛事",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0722/20140722110316660.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV-16 奥林匹克",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221233403/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiYz9cTj9snQ_sJdWtiTJDatTgi-Qvou46g&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 冬奥纪实",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 冬奥纪实 4K",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221233419/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 冬奥纪实 8K",
       "url": "http://117.148.179.157/PLTV/88888888/224/3221233142/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 台球",
       "url": "http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "CCTV 高尔夫•网球",
       "url": "http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "江苏体育",
@@ -139,28 +139,16 @@
       "parse": false
     },
     {
-      "name": "香港有线体育 CH603",
-      "url": "https://www.chaojidianshi.net/zhibo/92.html",
-      "pic": "https://upload.wikimedia.org/wikipedia/zh/2/26/Hd_603_logo.png",
-      "parse": true
-    },
-    {
       "name": "澳视体育 CH4",
       "url": "http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾智林体育台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58",
+      "name": "极速汽车",
+      "url": "http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾纬来体育",
-      "url": "https://www.chaojidianshi.net/zhibo/726.html",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "1+1 Спорт (Ukraine)",
@@ -400,7 +388,7 @@
       "name": "Now Sports",
       "url": "http://livetv.dnsfor.me/channel.12.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Oman Sports TV",
@@ -424,7 +412,7 @@
       "name": "Players TV",
       "url": "https://playerstv-samsungca.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Real Madrid TV",
@@ -766,43 +754,43 @@
       "name": "XUMO Adventure Sports Network",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Football Daily",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Hard Knocks",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Motorvision",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Nitro Circus",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Sports Network",
       "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "XUMO Stadium",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "日本女子摔跤①",
