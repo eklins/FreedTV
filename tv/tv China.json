@@ -283,6 +283,12 @@
       "parse": false
     },
     {
+      "name": "海峡卫视（福建）",
+      "url": "http://61.219.170.95:18533/http/192.168.1.9:8077/hls/42/80/fjttv.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1-uVko3zu7-bcMeuYihWKrCOd6-nZ_ImSw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "河北卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225732/index.m3u8",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/hebei.png",
