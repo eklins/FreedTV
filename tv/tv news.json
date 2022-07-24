@@ -115,12 +115,6 @@
       "parse": false
     },
     {
-      "name": "BBC News",
-      "url": "http://live.tvfix.org/hls/bbcnews.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "BBC World News",
       "url": "https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWydvEITUDSPECwODd3bwcbdNa4PegZgFRQ&usqp=CAU",
@@ -208,12 +202,6 @@
       "name": "CNN",
       "url": "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJqy1bnWblN5euwv19wyNeY08WesyuwzE3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CNN Philippines",
-      "url": "https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBt21a2KaqlSwB_PNmz8ZSkS8k_8uQIc74g&usqp=CAU",
       "parse": false
     },
     {
