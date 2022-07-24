@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "CCTV-16 奥林匹克",
+      "url": "http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiYz9cTj9snQ_sJdWtiTJDatTgi-Qvou46g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Urban Movies",
       "url": "https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
