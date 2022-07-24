@@ -254,9 +254,9 @@
     },
     {
       "name": "成都熊猫繁育研究基地",
-      "url": "https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001",
+      "url": "http://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZEeY5PE5fasqF2ar7Bsps3pKnrXV7EIKMA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Absolute Reality (WeTV)",
