@@ -755,42 +755,24 @@ https://vse2-sa-all4.secdn.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3
 https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
 #EXTINF:-1 ,JPN★AT-X
 https://sub2.neetball.net/live/neet.m3u8
-#EXTINF:-1 ,JPN★Disney Channel
-http://cdn.us195.jpnettv.live:1935/jptv/disney_channel/playlist.m3u8
-#EXTINF:-1 ,JPN★FOX
-http://cdn.us195.jpnettv.live:1935/jptv/jfox/playlist.m3u8
 #EXTINF:-1 ,JPN★Fuji TV
 https://fujitv2.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 ,JPN★Gunma TV
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-#EXTINF:-1 ,JPN★Movie+
-http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
-#EXTINF:-1 ,JPN★NECO
-http://cdn.us195.jpnettv.live:1935/jptv/Neco/playlist.m3u8
 #EXTINF:-1 ,JPN★New Japan Pro Wrestling World (540p)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 #EXTINF:-1 ,JPN★NHK Chinese Vision 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 ,JPN★NHK G Kansai
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_720/playlist.m3u8
-#EXTINF:-1 ,JPN★NHK General Kanto
-http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_540/playlist.m3u8
+#EXTINF:-1 ,JPN★NHK General TV (540p)
+https://nhk2.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 ,JPN★NHK World Japan
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 ,JPN★Nihon Elga TV
-http://cdn.us195.jpnettv.live:1935/jptv/igasennmonn_720/playlist.m3u8
 #EXTINF:-1 ,JPN★Nippon TV (540p)
 https://ntv2.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 ,JPN★NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 ,JPN★QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 ,JPN★Star Channel ①
-http://cdn.us195.jpnettv.live:1935/jptv/starch1_720/playlist.m3u8
-#EXTINF:-1 ,JPN★Star Channel ②
-http://cdn.us195.jpnettv.live:1935/jptv/starch2_720/playlist.m3u8
-#EXTINF:-1 ,JPN★Star Channel ③
-http://cdn.us195.jpnettv.live:1935/jptv/starch3_720/playlist.m3u8
 #EXTINF:-1 ,JPN★TBS
 https://tbs1.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 ,JPN★Tokyo MX1
@@ -799,12 +781,6 @@ https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 ,JPN★Weather News (ウェザーニュース)
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1 ,JPN★WOWOWシネマ (Cinema)
-http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
-#EXTINF:-1 ,JPN★WOWOWプライム (Prime)
-http://cdn.us195.jpnettv.live:1935/jptv/wowprime_720/playlist.m3u8
-#EXTINF:-1 ,JPN★WOWOWライブ (Live)
-http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Jordan.png",Jordan❤Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 ,JOR★Jordan Satellite Channel
@@ -819,7 +795,7 @@ http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Korea-South.png",Korea（S）❤국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 ,KOR★한국선거방송
+#EXTINF:-1 ,KOR★한국선거방송（韩国选举广播）
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 ,KOR★Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
