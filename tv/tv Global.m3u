@@ -527,6 +527,8 @@ https://live.tv.c.is/n4/index.m3u8
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 ,IND★CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 ,IND★Star Gold (Utsav)
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 ,IND★Zee Cinema
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Indonesia.png",Indonesia❤Ainos (576p)
