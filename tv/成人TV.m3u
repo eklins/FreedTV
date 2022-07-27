@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,XY Max UK
-http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
-#EXTINF:-1 ,XY Plus UK
-http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 #EXTINF:-1 ,Anal (CDN•AdultIPTV)
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 ,Anal (Live•AdultIPTV)
@@ -163,6 +159,10 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 http://stream.visit-x.tv/vxtv/live/chunklist_w1769846509.m3u8
 #EXTINF:-1 ,VISIT-X TV Playlist
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 ,XY Max UK
+http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 ,XY Plus UK
+http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 #EXTINF:-1 ,丝袜台
 http://89.248.160.57/iptv/URFPS4QVV53QPF/6237/index.m3u8
 #EXTINF:-1 ,黑人台
