@@ -698,7 +698,7 @@
     },
     {
       "name": "The Archive",
-      "url": "https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us",
+      "url": "https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us&checkedby:iptvcat.com",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1483,20 +1483,8 @@
       "parse": false
     },
     {
-      "name": "XUMO Action (432p) FilmRise",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "XUMO American Classics (432p)",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Asylum",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
@@ -1507,13 +1495,7 @@
       "parse": false
     },
     {
-      "name": "XUMO Classic TV (FilmRise①)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Classic TV (FilmRise②)",
+      "name": "XUMO Classic TV (FilmRise)",
       "url": "https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
@@ -1549,26 +1531,8 @@
       "parse": false
     },
     {
-      "name": "XUMO Family (FilmRise-Roku)",
-      "url": "http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "XUMO Film Hub",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Free Movies",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Free Movies (FilmRise)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
@@ -1579,26 +1543,8 @@
       "parse": false
     },
     {
-      "name": "XUMO Free Movies (FilmRise-Vizio)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisefreemovies/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Gravitas Movies (RedBox)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Gravitas Movies (Roku)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugravitasmovies/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Hallmark Movies & More",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8",
+      "name": "XUMO Gravitas Movies",
+      "url": "https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
@@ -1609,26 +1555,8 @@
       "parse": false
     },
     {
-      "name": "XUMO Kocowa Classic",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "XUMO Maverick Black Cinema (432p)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Mystery (432p) FilmRise",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Sci-Fi (FilmRise)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8",
+      "url": "http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
@@ -1641,24 +1569,6 @@
     {
       "name": "XUMO The Archive (540p)",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO TMZ",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Westerns (432p)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "XUMO Western (FilmRise)",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
