@@ -247,6 +247,8 @@ https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 https://59b954022ec35.streamlock.net/liveTV2/smil:liveTVstream2.transcoder.smil/playlist.m3u8
 #EXTINF:-1 ,DNK★KKR TV
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten Spotlight
+https://rakuten-spotlight-10-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DNK★TV2 Bornholm 
 https://live.tv2bornholm.dk/stream/live/playlist.m3u8
 #EXTINF:-1 ,DNK★TV2 Fyn
@@ -257,6 +259,8 @@ https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Egypt.png",Egypt❤Rotana Cinema
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Finland.png",Finland❤Rakuten Spotlight
+https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤Euronews (English)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 ,FRA★Africa News Français
@@ -1095,6 +1099,8 @@ http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
 http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Samen1 TV
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Spotlight
+https://rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★TV Valkenburg
 https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
 #EXTINF:-1 ,NLD★UStad
@@ -1131,6 +1137,8 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 https://mmm-ducktv-4-no.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,NOR★Kanal Asia 10
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:-1 ,NOR★Rakuten Spotlight
+https://rakuten-spotlight-11-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NOR★TV2 Nyhetsstrømmen
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 #EXTINF:-1 ,NOR★TV2 Sporten
@@ -1551,6 +1559,18 @@ https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 http://210.210.155.35/uq2663/h/h18/index.m3u8
 #EXTINF:-1 ,CHE★One TV
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 ,CHE★Rakuten Action Movies
+https://rakuten-actionmovies-4-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CHE★Rakuten Comedy Movies
+https://rakuten-comedymovies-4-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CHE★Rakuten Family
+https://rakuten-family-4-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CHE★Rakuten Spotlight
+https://rakuten-spotlight-4-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CHE★Rakuten Top Free
+https://rakuten-topfree-4-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CHE★Rakuten TV Shows
+https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rouge TV
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤Cekmeköy Web TV
