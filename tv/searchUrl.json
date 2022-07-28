@@ -370,6 +370,15 @@
       "detailUrl": ""
     },
     {
+      "id":1,
+      "name":"光速",
+      "url":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/",
+      "cate":"综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&剧情片,10&&恐怖片,11&&战争片,12&&国产剧,13&&欧美剧,14&&香港剧,15&&韩国剧,16&&动漫电影,20&&日本剧,21&&台湾剧,22&&泰国剧,23&&纪录片,24&&❌,25&&❌,26&&❌,27&&❌,28&&❌,29&&❌,30",
+      "click":true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
       "id": 1,
       "name": "百度",
       "url": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml/",
