@@ -126,10 +126,11 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",北极光08
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDG629LbSwV4DBpJPt2c8spIA-cJVSBWEsA&usqp=CAU",彩虹01
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",音符
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa06nulHaH-fHaRBeOuU-m0rHYDR2dqcfxRA&usqp=CAU"城市猎人01
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnORsPMDf8UOBu0uctJKR3bKcASj3sIQP2cA&usqp=CAU"城市猎人02
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKJEk65xGFf3DX9tEOchZ42A-qAfAmdjGdw&usqp=CAU"城市猎人03
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMdjk_7ieX3bjs3zEtbnbkD8qSE7NUJrPdw&usqp=CAU"城市猎人04
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa06nulHaH-fHaRBeOuU-m0rHYDR2dqcfxRA&usqp=CAU",城市猎人01
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnORsPMDf8UOBu0uctJKR3bKcASj3sIQP2cA&usqp=CAU",城市猎人02
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKJEk65xGFf3DX9tEOchZ42A-qAfAmdjGdw&usqp=CAU",城市猎人03
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMdjk_7ieX3bjs3zEtbnbkD8qSE7NUJrPdw&usqp=CAU",城市猎人04
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSztZBEgOQE5JA9LZHVd2SxNUXoEI2i2B_Wtw&usqp=CAU",足球宝贝01
 #EXTINF:-1 logo="https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",浅蓝色
 #EXTINF:-1 logo="https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",绿黄色
 #EXTINF:-1 logo="https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",红紫色
