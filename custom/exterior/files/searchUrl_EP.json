@@ -2,6 +2,33 @@
   "data": [
     {
       "id":1,
+      "name":"哦呜",
+      "url":"http://www.cx99999.cn/lvdou_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl":"http://www.cx99999.cn/lvdou_api.php/v1.vod/detail?vod_id=detailId",
+      "cate":"电影,1&&电视剧,2&&综艺,3&&动漫,4",
+      "type":"json",
+      "click":true
+    },
+    {
+      "id":1,
+      "name":"暖光",
+      "url":"https://app.bl210.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl":"https://app.bl210.com/api.php/v1.vod/detail?vod_id=detailId",
+      "cate":"电影,1&&电视剧,2&&泰剧,3&&动漫,4",
+      "type":"json",
+      "click":true
+    },
+    {
+      "id":1,
+      "name":"益达",
+      "url":"http://luobu.yss6080.com/mogai_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl":"http://luobu.yss6080.com/mogai_api.php/v1.vod/detail?vod_id=detailId",
+      "cate":"电影,1&&电视剧,2&&综艺,3&&动漫,4",
+      "type":"json",
+      "click":true
+    },
+    {
+      "id":1,
       "name":"神速",
       "url":"https://api.sszyapi.com/api.php/provide/vod/from/ssm3u8/at/xml",
       "cate":"动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&犯罪片,11&&战争片,12&&国产剧,13&&香港剧,14&&台湾剧,15&&欧美剧,16&&动漫电影,20&&纪录片,21&&剧情片,22&&韩国剧,23&&日本剧,24&&海外剧,25&&中国综艺,26&&日韩综艺,27&&港台综艺,28&欧美综艺,29&&中国动漫,30&&欧美动漫,31&&日本动漫,32&&海外动漫,33&&电影解说,37&&奇幻片,38&&灾难片,39&&悬疑片,41&&❌,42&&泰国剧,43&&❌,44",
