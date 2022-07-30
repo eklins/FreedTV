@@ -514,6 +514,33 @@
       "detailUrl": ""
     },
     {
+      "id":1,
+      "name":"哦呜",
+      "url":"http://www.cx99999.cn/lvdou_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl":"http://www.cx99999.cn/lvdou_api.php/v1.vod/detail?vod_id=detailId",
+      "cate":"电影,1&&电视剧,2&&综艺,3&&动漫,4",
+      "type":"json",
+      "click":true
+    },
+    {
+      "id":1,
+      "name":"暖光",
+      "url":"https://app.bl210.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl":"https://app.bl210.com/api.php/v1.vod/detail?vod_id=detailId",
+      "cate":"电影,1&&电视剧,2&&泰剧,3&&动漫,4",
+      "type":"json",
+      "click":true
+    },
+    {
+      "id":1,
+      "name":"益达(APP)",
+      "url":"http://luobu.yss6080.com/mogai_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+      "detailUrl":"http://luobu.yss6080.com/mogai_api.php/v1.vod/detail?vod_id=detailId",
+      "cate":"电影,1&&电视剧,2&&综艺,3&&动漫,4",
+      "type":"json",
+      "click":true
+    },
+    {
       "id": 1,
       "name": "999美剧",
       "url": "https://www.999meiju.tv/api.php/provide/vod/at/xml",
