@@ -20,6 +20,12 @@
     },
     {
       "id": 1,
+      "name": "辉影视",
+      "ad": "no",
+      "url": "https://jx.wangyh.cf/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "卧龙",
       "ad": "no",
       "url": "https://jx.wolongzywcdn.com:65/m3u8.php?url="
