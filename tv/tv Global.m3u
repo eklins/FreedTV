@@ -851,6 +851,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 https://allanf181.github.io/adaptive-streams/streams/kr/AsiaN.m3u8
 #EXTINF:-1 ,KOR★CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 ,KOR★Channel China [Not 24/7]
+https://allanf181.github.io/adaptive-streams/streams/kr/ChannelChina.m3u8
 #EXTINF:-1 ,KOR★EBS 1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 #EXTINF:-1 ,KOR★EBS 2
