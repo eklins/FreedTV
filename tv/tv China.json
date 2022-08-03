@@ -583,12 +583,6 @@
       "parse": false
     },
     {
-      "name": "星卫电影",
-      "url": "http://47.242.164.123:444/15013_xv_29900720_29900720_0_1_0-15013_xa_29900720_29900720_0_0_0-0-0.m3u8?uuid=767b4b4910364dd890ef1cf40d63f291&org=yyweb&m=92713d279f2cc2209bca9592205eb660&r=805203590&v=1&t=1655672657&uid=0",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "星光影院",
       "url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
