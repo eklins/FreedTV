@@ -169,12 +169,6 @@
       "parse": false
     },
     {
-      "name": "AsiaN (Korea) [Not 24/7]",
-      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/AsiaN.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "AVA Series (Iran)",
       "url": "http://51.210.199.4/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -207,12 +201,6 @@
     {
       "name": "Brat TV",
       "url": "https://brat-roku-us.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Channel China (Korea) [Not 24/7]",
-      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/ChannelChina.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
