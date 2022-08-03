@@ -891,12 +891,16 @@ http://51.81.66.195:1935/krtv/mbc_sports_540/playlist.m3u8
 http://183.110.27.87/mtnlive/720/playlist.m3u8
 #EXTINF:-1 ,KOR★NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 ,KOR★OCN (576p)
-http://51.81.66.195:1935/krtv/ocn_540/playlist.m3u8
-#EXTINF:-1 ,KOR★OCN Movies (576p)
-http://51.81.66.195:1935/krtv/cgv_540/playlist.m3u8
-#EXTINF:-1 ,KOR★OCN Thrill (576p)
-http://51.81.66.195:1935/krtv/super_action_540/playlist.m3u8
+#EXTINF:-1 ,KOR★OCN [Not 24/7]
+https://allanf181.github.io/adaptive-streams/streams/kr/OCN.m3u8
+#EXTINF:-1 ,KOR★PLAYY Action Movie [Not 24/7]
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
+#EXTINF:-1 ,KOR★PLAYY Healing Movie [Not 24/7]
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYHealingMovie.m3u8
+#EXTINF:-1 ,KOR★PLAYY Premium Movie [Not 24/7]
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYPremiumMovie.m3u8
+#EXTINF:-1 ,KOR★PLAYY Well-Made Movie [Not 24/7]
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYWellMadeMovie.m3u8
 #EXTINF:-1 ,KOR★SBS 淸州 (CJB 청주방송)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 ,KOR★SBS 光州 (KBC 광주방송)
