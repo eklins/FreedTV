@@ -1,15 +1,21 @@
 {
   "data": [
     {
-      "name": "Marvel",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930233",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
+      "name": "Diema Sport①",
+      "url": "http://78.83.191.18:8000/play/a076",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": true
     },
     {
-      "name": "Marvel",
-      "url": "http://106.53.212.251/daili/yy.php?id=1354930233",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
+      "name": "Diema Sport②",
+      "url": "http://78.83.191.18:8000/play/a077",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Diema Sport③",
+      "url": "http://78.83.191.18:8000/play/a07e",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": true
     },
     {
