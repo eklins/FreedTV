@@ -145,12 +145,6 @@
       "parse": false
     },
     {
-      "name": "香港Now Sports Prime",
-      "url": "http://livetv.dnsfor.me/channel.12.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMOEtbLKC6Xr3fItU331ukELJDWPwSXfPG6g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "澳视体育 CH4",
       "url": "http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -445,7 +439,7 @@
       "parse": false
     },
     {
-      "name": "Now Sports",
+      "name": "Now Sports Prime (HK)",
       "url": "http://livetv.dnsfor.me/channel.12.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
