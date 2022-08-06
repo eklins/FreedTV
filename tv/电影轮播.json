@@ -170,7 +170,7 @@
     },
     {
       "name": "Antenna TV (480p) WPHL-DT2",
-      "url": "http://v-pi.theus6tv.duckdns.org/hls/17.2/playlist.m3u8",
+      "url": "https://v-pi.mybtv.net/live/356.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -242,7 +242,7 @@
     },
     {
       "name": "Circle (WRNN-DT2)",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/48.2/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/662.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -278,7 +278,7 @@
     },
     {
       "name": "COZI (432p) WCAU-DT2",
-      "url": "http://v-pi.theus6tv.duckdns.org/hls/10.2/playlist.m3u8",
+      "url": "https://v-pi.mybtv.net/live/346.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -290,7 +290,7 @@
     },
     {
       "name": "Decades (WNYW-DT5)",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/553.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -314,7 +314,7 @@
     },
     {
       "name": "Fave TV (WCBS-DT4)",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/648.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -356,7 +356,7 @@
     },
     {
       "name": "Grit (WJLP-DT3)",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/33.3/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/626.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -392,7 +392,7 @@
     },
     {
       "name": "Heroes & Icons (WWOR-DT3)",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/9.3/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/561.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -458,7 +458,7 @@
     },
     {
       "name": "Laff (WJLP-DT2)",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/33.2/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/625.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -518,7 +518,7 @@
     },
     {
       "name": "MeTV NY (WJLP-DT1)",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/33.1/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/637.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -578,7 +578,7 @@
     },
     {
       "name": "Movies! (WNYW-DT2)",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/551.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -692,13 +692,13 @@
     },
     {
       "name": "Retro TV (WJLP-DT5)",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/33.5/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/628.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Rewind TV (480p) WPIX-DT4",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/565.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -734,7 +734,7 @@
     },
     {
       "name": "Start TV (WCBS-DT2)",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/546.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -752,7 +752,7 @@
     },
     {
       "name": "The Grio (WNYW-DT4)",
-      "url": "http://v-ny.theus6tv.duckdns.org/hls/5.4/playlist.m3u8",
+      "url": "https://v-ny.mybtv.net/live/552.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
