@@ -1268,7 +1268,7 @@
     },
     {
       "name": "TVB 明珠台",
-      "url": "http://198.204.239.194:27347/livehlsplay?channel_id=30026.m3u8",
+      "url": "http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSXSDYSCPmYB3nyL8VoC2i25ajFtLaR3mVw&usqp=CAU",
       "parse": true
     },
