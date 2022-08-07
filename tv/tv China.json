@@ -439,14 +439,8 @@
       "parse": false
     },
     {
-      "name": "湖南电影",
-      "url": "http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000038/main.m3u8?湖南IPv6",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "星空国际 (360p)",
-      "url": "http://210.210.155.37/x6bnqe/s/s94/index2.m3u8",
+      "name": "北仑电视台",
+      "url": "http://play-sh.quklive.com/live/1626327731714170.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -495,6 +489,12 @@
     {
       "name": "衡水影视娱乐 (480p)",
       "url": "http://hls.hsrtv.cn/hls/hstv2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "湖南电影",
+      "url": "http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000038/main.m3u8?湖南IPv6",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -549,6 +549,12 @@
     {
       "name": "新泰影视 (480p)",
       "url": "http://111.17.214.4:1935/live/xtys/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "星空国际 (360p)",
+      "url": "http://210.210.155.37/x6bnqe/s/s94/index2.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
