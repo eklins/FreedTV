@@ -1629,8 +1629,10 @@ https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Kingdom.png",United Kingdom❤Baby TV
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ,GBR★BBC News
-http://live.tvfix.org/hls/bbcnews.m3u8
+#EXTINF:-1 ,GBR★BBC ①
+http://93.152.174.144:4000/play/bbc1/index.m3u8
+#EXTINF:-1 ,GBR★BBC ②
+http://93.152.174.144:4000/play/bbc2/index.m3u8
 #EXTINF:-1 ,GBR★BBC World News
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 ,GBR★Bloomberg TV UK
