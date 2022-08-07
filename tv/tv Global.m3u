@@ -307,6 +307,8 @@ https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten TV Shows
 https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FRA★Sofy TV
+https://sofytv-samsungfr.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Wild Side
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png",French Polynesia❤TNTV
@@ -373,7 +375,7 @@ https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
 #EXTINF:-1 ,DEU★RFH
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
-#EXTINF:-1 ,DEU★Sofy
+#EXTINF:-1 ,DEU★Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,DEU★Sophia TV
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
