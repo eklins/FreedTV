@@ -2311,6 +2311,12 @@
       "parse": false
     },
     {
+      "name": "K-Pop (Brazil)",
+      "url": "https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Kiss Kiss TV",
       "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -2433,12 +2439,6 @@
     {
       "name": "Retro TV (KCKS-LD9)",
       "url": "https://cdn.igocast.com/channel9_hls/channel9_master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sexy K-Pop",
-      "url": "https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
