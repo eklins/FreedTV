@@ -55,7 +55,9 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 https://streannlivecariflix.cachefly.net/cariflix5/cariflix5/playlist.m3u8
 #EXTINF:-1 ,ARG★Cine Hispano
 https://streannlivecariflix.cachefly.net/cariflix6/cariflix6/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Australia.png",Australia❤ABC News
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Australia.png",Australia❤ABC ME
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/index.m3u8?hdnea=st=1659859793~exp=1659860693~acl=/*~hmac=cab343ff31fa10e3f7260bd1ac7963be2818dc78fa95e89f263afe972222b09c
+#EXTINF:-1 ,AUS★ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 ,AUS★ausbiz
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
