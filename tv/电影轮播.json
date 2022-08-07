@@ -133,6 +133,12 @@
       "parse": true
     },
     {
+      "name": "🇦🇺ABC ME",
+      "url": "https://c.mjh.nz/101002210224",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🇱🇷热血、校园",
       "url": "https://m.huya.com/11352934",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
@@ -142,12 +148,6 @@
       "name": "2A Network",
       "url": "https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ABC ME",
-      "url": "https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/index.m3u8?hdnea=st=1659859793~exp=1659860693~acl=/*~hmac=cab343ff31fa10e3f7260bd1ac7963be2818dc78fa95e89f263afe972222b09c",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": false
     },
     {
