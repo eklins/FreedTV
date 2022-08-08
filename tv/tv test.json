@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "海绵宝宝②",
+      "url": "http://124.223.212.38:83/douyu/2250349",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "香港无线财经•资讯台",
       "url": "mitv://ns2.hellotvvod.com:9906/b57938a3640b42f5aa7ffe158616a555",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
