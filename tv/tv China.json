@@ -1276,13 +1276,7 @@
       "name": "TVB 明珠台",
       "url": "http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSXSDYSCPmYB3nyL8VoC2i25ajFtLaR3mVw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "TVB 星河频道",
-      "url": "https://www.chaojidianshi.net/zhibo/76.html",
-      "pic": "https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",
-      "parse": true
+      "parse": false
     },
     {
       "name": "TVB 剧场",
@@ -1315,16 +1309,10 @@
       "parse": false
     },
     {
-      "name": "香港ViuTV",
-      "url": "https://www.chaojidianshi.net/zhibo/94.html",
-      "pic": "https://static.wikia.nocookie.net/etvhk/images/f/fa/Viutv.png/revision/latest?cb=20161226023532&path-prefix=zh-hk",
-      "parse": true
-    },
-    {
       "name": "香港开电视 HKSTV-HKS",
       "url": "http://media.fantv.hk/m3u8/archive/channel2.m3u8",
       "pic": "https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港有线新闻台",
@@ -1333,40 +1321,22 @@
       "parse": true
     },
     {
-      "name": "香港有线电影台",
-      "url": "https://www.chaojidianshi.net/zhibo/61.html",
-      "pic": "https://www.nettvpro.live/uploads/20/1-200319145514C3.jpg",
-      "parse": true
-    },
-    {
-      "name": "香港有线 CH18",
-      "url": "https://www.chaojidianshi.net/zhibo/59.html",
-      "pic": "http://m.tvniu.com/tvimg/img/icable18.jpg",
-      "parse": true
-    },
-    {
-      "name": "香港有线体育 CH603",
-      "url": "https://www.chaojidianshi.net/zhibo/92.html",
-      "pic": "https://upload.wikimedia.org/wikipedia/zh/2/26/Hd_603_logo.png",
-      "parse": true
-    },
-    {
       "name": "香港Now直播台 CH331",
       "url": "http://livetv.dnsfor.me/channel.3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIg00bYuU-iKxdD8mBlCPfe1VSq3IxjH5urw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港Now新闻台 CH332",
       "url": "http://livetv.dnsfor.me:80/channel.4.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToCpmCkU23XAMFnNBAS8bXTbOk1p3Ow6zFw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港无线新闻台",
       "url": "https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港无线财经•资讯台",
@@ -1378,67 +1348,67 @@
       "name": "耀才财经",
       "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/0922/2e357e13827907f8b90e628ebdd1d1e3.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "点掌财经",
       "url": "http://cclive.aniu.tv/live/anzb.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLQvmwHHrWYH0CsLglY9aYMbvZwZj2vfbBZVR-tI=s900-c-k-c0x00ffffff-no-rj",
-      "parse": true
+      "parse": false
     },
     {
       "name": "第一财经",
       "url": "http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuR5H4Tebef3-p_nUbHxU08Ks5LvlVQ8pZfA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "东方财经•浦东",
       "url": "http://117.148.179.176/PLTV/88888888/224/3221231646/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6sQaCsPXlX8oVHGoV-LDHKdH4aZbJB26jg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "北京财经",
       "url": "http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8",
       "pic": "https://www.nettvpro.live/uploads/19/1-1Z42Q25030444.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "澳门微视",
       "url": "http://61.244.22.4/ch3/ch3.live/playelist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "澳门有线 CH1",
       "url": "http://61.244.22.4/ch1/ch1.live/playelist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "澳门有线 CH2",
       "url": "http://61.244.22.4/ch2/ch2.live/playelist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "澳门澳视 CH01",
       "url": "http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "澳视 Canal CH02",
       "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "澳视卫星 CH03",
       "url": "http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "澳视体育 CH4",
@@ -1450,13 +1420,49 @@
       "name": "澳视资讯 CH05",
       "url": "http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "澳视综艺 CH06",
       "url": "http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
+    },
+    {
+      "name": "台湾龙华日韩",
+      "url": "http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
+      "name": "台湾龙华偶像",
+      "url": "http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
+      "name": "台湾JET综合",
+      "url": "http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
+      "name": "台湾年代 MUCH",
+      "url": "http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
+      "name": "台湾 Star World",
+      "url": "http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
+      "name": "台湾番薯111",
+      "url": "http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
     },
     {
       "name": "台湾中天新闻",
@@ -1585,18 +1591,6 @@
       "parse": true
     },
     {
-      "name": "台湾龙华日韩",
-      "url": "http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾龙华偶像",
-      "url": "http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
       "name": "台湾经典卡通台",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
@@ -1625,18 +1619,6 @@
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
-    },
-    {
-      "name": "台湾年代 MUCH",
-      "url": "http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾 Star World",
-      "url": "http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
     },
     {
       "name": "台湾中天美食旅游",
@@ -1745,12 +1727,6 @@
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
-    },
-    {
-      "name": "台湾番薯111",
-      "url": "http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
     },
     {
       "name": "Indigenous TV",
