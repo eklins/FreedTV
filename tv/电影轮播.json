@@ -2263,6 +2263,12 @@
       "parse": false
     },
     {
+      "name": "黑莓动作电影",
+      "url": "http://117.148.179.160/PLTV/88888888/224/3221231565/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "龙华日韩",
       "url": "http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
