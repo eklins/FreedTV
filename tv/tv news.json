@@ -109,19 +109,19 @@
       "parse": false
     },
     {
-      "name": "ABC News Australia",
+      "name": "ABC News (Australia)",
       "url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
       "pic": "https://mumbrella.com.au/wp-content/uploads/2016/07/ABC-news.jpg",
       "parse": false
     },
     {
-      "name": "Africa News English",
+      "name": "Africa News (English)",
       "url": "https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://live.mrf.io/mstore/21612f2/8d0e01c7fa6e5e22a5d1b91c6525ef4da5d0c04e/icon.png?width=144&height=144",
       "parse": false
     },
     {
-      "name": "Al Jazeera English",
+      "name": "Al Jazeera (English)",
       "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS934k9F2F5q9sTpqIbEJgSTfHYP-h2hkbHmg&usqp=CAU",
       "parse": false
@@ -133,7 +133,7 @@
       "parse": false
     },
     {
-      "name": "Arirang English",
+      "name": "Arirang (English)",
       "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1o_yrkMSTiSWu64Fva8109Fw0AvbMvcqkNg&usqp=CAU",
       "parse": false
@@ -163,13 +163,13 @@
       "parse": false
     },
     {
-      "name": "Bloomberg TV Asia",
+      "name": "Bloomberg TV (Asia)",
       "url": "http://210.210.155.37/dr9445/h/h03/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Bloomberg TV Mexico",
+      "name": "Bloomberg TV (Mexico)",
       "url": "https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",
       "parse": false
@@ -223,13 +223,19 @@
       "parse": false
     },
     {
-      "name": "CNBC Europe UK",
+      "name": "CNBC Europe (UK)",
       "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbq72Lp2epTgno002BMVVXJK3JmvG0TvF5dQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CNN",
+      "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcIOFz3H5PMBQtQZBP_aznkjyPi3ibCb23A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNN International",
       "url": "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJqy1bnWblN5euwv19wyNeY08WesyuwzE3w&usqp=CAU",
       "parse": false
@@ -241,7 +247,7 @@
       "parse": false
     },
     {
-      "name": "DW English",
+      "name": "DW (English)",
       "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
       "pic": "https://s3.spbtv.com/spbtv-world-production/50577931455a0d496a75_512x512c.png",
       "parse": false
@@ -253,7 +259,7 @@
       "parse": false
     },
     {
-      "name": "Euronews English",
+      "name": "Euronews (English)",
       "url": "https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8",
       "pic": "https://images-na.ssl-images-amazon.com/images/I/61-5K6QDrnL.png",
       "parse": false
@@ -277,7 +283,7 @@
       "parse": false
     },
     {
-      "name": "France 24 English",
+      "name": "France 24 (English)",
       "url": "https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyGuxCofh3wqGebKPnBav9EXEWkESCE3XKA&usqp=CAU",
       "parse": false
@@ -325,7 +331,7 @@
       "parse": false
     },
     {
-      "name": "NHK World Japan",
+      "name": "NHK World (Japan)",
       "url": "http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlefI3-TyjxFiKubKCo_rSuTNrwE5CqypAw&usqp=CAU",
       "parse": false
@@ -367,19 +373,13 @@
       "parse": false
     },
     {
-      "name": "RTM Berita",
-      "url": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd",
-      "pic": "https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png",
-      "parse": false
-    },
-    {
       "name": "Sky News",
       "url": "https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYzof1cB7QA9TSfSieN-s70esnHQJTXgbgA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Sky News Australia",
+      "name": "Sky News (Australia)",
       "url": "https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Qv0hwgns7uMA4Ynd-G-BP_eyBI3TzeAVIg&usqp=CAU",
       "parse": false
