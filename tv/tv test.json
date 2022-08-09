@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "Eurosport",
+      "url": "http://78.83.191.18:8000/play/a05y",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "AMC",
       "url": "http://190.83.119.67:8000/play/a0q8/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
