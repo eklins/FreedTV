@@ -146,7 +146,7 @@
     },
     {
       "name": "CCTV 台球",
-      "url": "http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8",
+      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls",
       "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
       "parse": false
     },
@@ -176,7 +176,7 @@
     },
     {
       "name": "CCTV 世界地理",
-      "url": "http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8",
+      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055201348.jpg",
       "parse": false
     },
@@ -206,7 +206,7 @@
     },
     {
       "name": "CCTV 怀旧剧场",
-      "url": "http://120.253.104.16:808/hls/153/index.m3u8",
+      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
       "parse": false
     },
@@ -974,7 +974,7 @@
     },
     {
       "name": "NewTV 动作电影",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225671/index.m3u8",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
