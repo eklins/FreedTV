@@ -63,6 +63,8 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 ,AUS★ausbiz
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 ,AUS★C31 Melbourne (480p)
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 ,AUS★Channel 44 (480p)
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:-1 ,AUS★Fuel TV
