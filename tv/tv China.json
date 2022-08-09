@@ -26,13 +26,13 @@
     },
     {
       "name": "CCTV-4 欧洲",
-      "url": "http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8",
+      "url": "http://117.148.129.68/PLTV/88888888/224/3221231615/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyuj6ngrRtylzCez6Tcy1wdak8awwI03sLYQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV-4 美洲",
-      "url": "http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8",
+      "url": "http://112.17.40.220/PLTV/88888888/224/3221231654/index.m3u8?icpid=88888888&from=1&hms_devid=264,503",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyuj6ngrRtylzCez6Tcy1wdak8awwI03sLYQ&usqp=CAU",
       "parse": false
     },
@@ -164,7 +164,7 @@
     },
     {
       "name": "CCTV 文化精品",
-      "url": "http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8",
+      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
       "parse": false
     },
@@ -182,7 +182,7 @@
     },
     {
       "name": "CCTV 女性时尚",
-      "url": "http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8",
+      "url": "http://ott.mobaibox.com/PLTV/4/224/3221227026/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6FE_v2wtvMu4J7lyFBZUVVvxoE3BswYgPA&usqp=CAU",
       "parse": false
     },
@@ -374,7 +374,7 @@
     },
     {
       "name": "山东卫视",
-      "url": "http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8",
+      "url": "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225484/index.m3u8?fmt=ts2hls",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/shandong.png",
       "parse": false
     },
@@ -446,7 +446,7 @@
     },
     {
       "name": "东方影视",
-      "url": "http://117.148.179.166/PLTV/88888888/224/3221231639/index.m3u8",
+      "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -607,26 +607,8 @@
       "parse": false
     },
     {
-      "name": "黑莓动作电影",
-      "url": "http://117.148.179.160/PLTV/88888888/224/3221231565/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "黑莓动画",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "喜剧电影",
-      "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "香港电影",
-      "url": "http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -680,19 +662,13 @@
     },
     {
       "name": "CHC 动作电影",
-      "url": "http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8",
+      "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
       "name": "CHC 家庭影院",
       "url": "http://117.148.179.147/PLTV/88888888/224/3221231799/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CHC 中国电影",
-      "url": "http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -1184,7 +1160,7 @@
     },
     {
       "name": "长城精品",
-      "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8",
+      "url": "http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1394,7 +1370,7 @@
     },
     {
       "name": "东方财经•浦东",
-      "url": "http://117.148.179.176/PLTV/88888888/224/3221231646/index.m3u8",
+      "url": "http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6sQaCsPXlX8oVHGoV-LDHKdH4aZbJB26jg&usqp=CAU",
       "parse": false
     },
