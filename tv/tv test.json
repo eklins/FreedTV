@@ -7,6 +7,12 @@
       "parse": false
     },
     {
+      "name": "TVB",
+      "url": "http://117.148.179.134/PLTV/88888888/224/3221231733/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Eurosport",
       "url": "http://78.83.191.18:8000/play/a05y",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
