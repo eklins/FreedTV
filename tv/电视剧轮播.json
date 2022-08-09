@@ -494,7 +494,7 @@
     },
     {
       "name": "CCTV 怀旧剧场",
-      "url": "http://120.253.104.16:808/hls/153/index.m3u8",
+      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
       "parse": false
     },
