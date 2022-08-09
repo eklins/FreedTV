@@ -87,8 +87,6 @@ https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Rialto
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,AUS★RTV 天和电视
-http://www.rtvcdn.com.au:8082/TV0002.m3u8
 #EXTINF:-1 ,AUS★Timiline
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Sky News
@@ -779,7 +777,9 @@ http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 ,ITA★RTTR Trento
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 ,ITA★San Marino RTV Sports
+#EXTINF:-1 ,ITA★RTV (San Marino)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 ,ITA★RTV Sports (San Marino)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 ,ITA★Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
