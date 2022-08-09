@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "长城精品",
+      "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港有线新闻台",
       "url": "https://api.leonardpark.dev/live/icable/109",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkcwR6oAHj40u1_WK0Ke3tXc55qfNGE8W3w&usqp=CAU",
