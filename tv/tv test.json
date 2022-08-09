@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "CCTV 冬奥纪实 4K",
+      "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dajs-4k_8000.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Eurosport",
       "url": "http://78.83.191.18:8000/play/a05y",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
