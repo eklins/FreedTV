@@ -415,8 +415,14 @@
       "parse": false
     },
     {
-      "name": "IMPACT! Wrestling US",
+      "name": "IMPACT! Wrestling ①",
       "url": "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "IMPACT! Wrestling ②",
+      "url": "https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
