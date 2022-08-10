@@ -1436,9 +1436,9 @@
     },
     {
       "name": "澳门莲花",
-      "url": "http://nettvpro.live/hls/lotustv.php?zgangd",
+      "url": "http://anren.live/HK/BiIOU11uLA.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾龙华日韩",
