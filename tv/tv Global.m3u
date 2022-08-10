@@ -625,13 +625,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRIDKI)/ind
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRI4)/Stream (03)/index.m3u8
 #EXTINF:-1 ,IDN★The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤AVA Entertainment [Not 24/7]
-https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
-#EXTINF:-1 ,IRN★AVA Family
-http://51.210.199.5/hls/stream.m3u8
-#EXTINF:-1 ,IRN★AVA Series
-http://51.210.199.4/hls/stream.m3u8
-#EXTINF:-1 ,IRN★FX
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤FX
 http://51.210.199.52/hls/stream.m3u8
 #EXTINF:-1 ,IRN★iFilm [Not 24/7]
 https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
@@ -1621,7 +1615,13 @@ https://rakuten-topfree-4-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rouge TV
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤Cekmeköy Web TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤AVA Entertainment [Not 24/7]
+https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
+#EXTINF:-1 ,TUR★AVA Family
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 ,TUR★AVA Series
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Cekmeköy Web TV
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 #EXTINF:-1 ,TUR★FOX Türkiye
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
