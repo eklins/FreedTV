@@ -539,9 +539,7 @@ https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iceland.png",Iceland❤N4
 https://live.tv.c.is/n4/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-India.png",India❤ANTV (480p)
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1 ,IND★CNBC TV18
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-India.png",India❤CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 ,IND★Star Gold (Utsav)
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
@@ -549,6 +547,8 @@ http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Indonesia.png",Indonesia❤Ainos (576p)
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
+#EXTINF:-1 ,IDN★ANTV (480p)
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 ,IDN★BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 ,IDN★Berita Satu
