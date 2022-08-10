@@ -367,6 +367,12 @@
       "parse": false
     },
     {
+      "name": "Toonami Aftermath West (480p)",
+      "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BumblebeeTV Lego Toons",
       "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
