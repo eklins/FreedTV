@@ -1063,6 +1063,12 @@
       "parse": false
     },
     {
+      "name": "MG（备台）13",
+      "url": "http://39.135.137.203/000000001000/3000000010000015560/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MG（备台）14",
       "url": "http://39.135.46.102:6610/PLTV/77777777/224/3221225811/index.m3u8?hls",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
