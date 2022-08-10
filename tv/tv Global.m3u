@@ -189,7 +189,9 @@ http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 http://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 ,KHM★TVK Camboya
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png",Canada❤AZ Star TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png",Canada❤Amazing Discoveries
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 ,CAN★AZ Star TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 ,CAN★CBC News
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
@@ -199,10 +201,14 @@ https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 ,CAN★Degrassi: The Next Generation
 http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ,CAN★Heartland
 https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,CAN★Insight TV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★Plymouth Rock TV
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8
 #EXTINF:-1 ,CAN★QVTV
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
 #EXTINF:-1 ,CAN★Weather Spy
