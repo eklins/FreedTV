@@ -419,6 +419,8 @@ http://176.9.123.140:1935/1c/stream/master.m3u8
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 #EXTINF:-1 ,GRC★ERT News
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
+#EXTINF:-1 ,GRC★Fox (480p) [Not 24/7]
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 ,GRC★Galaxy (432p)
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 #EXTINF:-1 ,GRC★Ionian Channel
