@@ -223,8 +223,8 @@
       "parse": false
     },
     {
-      "name": "CNBC Europe (UK)",
-      "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
+      "name": "CNBC Europe",
+      "url": "http://59.125.122.90:18551/http/192.168.1.9:8081/hls/68/810/ch01.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbq72Lp2epTgno002BMVVXJK3JmvG0TvF5dQ&usqp=CAU",
       "parse": false
     },
