@@ -1165,21 +1165,21 @@
       "parse": false
     },
     {
-      "name": "足球",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226347/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "PP体育",
       "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
+      "name": "广东体育",
+      "url": "http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "江苏体育",
       "url": "http://183.207.249.11:80/PLTV/4/224/3221225935/index.m3u8",
-      "pic": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
