@@ -1994,7 +1994,7 @@
     },
     {
       "name": "NewTV 动作电影",
-      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?$广西cdn",
+      "url": "http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -2006,13 +2006,13 @@
     },
     {
       "name": "NewTV 爱情喜剧",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8",
+      "url": "http://39.134.65.166/PLTV/88888888/224/3221225533/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "NewTV 惊悚悬疑",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8",
+      "url": "http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -2156,7 +2156,7 @@
     },
     {
       "name": "哈尔滨影视",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8",
+      "url": "http://stream.hrbtv.net/yspd/sd/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -2174,7 +2174,7 @@
     },
     {
       "name": "黑龙江影视",
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8",
+      "url": "http://39.134.65.149/PLTV/88888888/224/3221225971/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -2245,8 +2245,8 @@
       "parse": false
     },
     {
-      "name": "浙江影视娱乐",
-      "url": "http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8",
+      "name": "浙江影视",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
