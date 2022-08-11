@@ -17,6 +17,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
 https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8
 #EXTINF:-1 ,n TV (East)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
+#EXTINF:-1 ,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 ,Wu Tang
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="70sCinema.us",Pluto TV 70s Cinema (684p)
