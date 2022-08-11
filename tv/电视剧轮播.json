@@ -61,15 +61,15 @@
       "parse": true
     },
     {
-      "name": "护国良相狄仁杰2002",
-      "url": "http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWU9yZhPvecMi_mTiBcuqSgUGta5zGk7546w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "神探狄仁杰2004",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351755386",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmNbfckKx_YJkdR7L6oxsM_Sj528yekbzlA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "仙剑奇侠传2005-2016",
+      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1462567824",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9werolkAPG0T1IRIbUIrnZPAvE8ZRyh6Eyw&usqp=CAU",
       "parse": true
     },
     {
@@ -505,18 +505,6 @@
       "parse": false
     },
     {
-      "name": "MIGU SNH48剧场",
-      "url": "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 盗墓系列",
-      "url": "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NewTV 超级电视剧",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
@@ -565,12 +553,6 @@
       "parse": false
     },
     {
-      "name": "SiTV 军旅剧场",
-      "url": "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "SiTV 欢笑剧场4K",
       "url": "http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
@@ -579,24 +561,6 @@
     {
       "name": "SiTV 都市剧场",
       "url": "http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 武侠剧场",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231763/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 少林剧场",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231628/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 法治天地",
-      "url": "http://shbu.live.bestvcdn.com.cn:8080/live/program/live/fztd/1300000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
     },
@@ -646,12 +610,6 @@
       "name": "薛平贵与王宝钏2012",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1461199021",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSR-Nb2oFdZ370oGQleM6SBeK4ffRbGS_eSQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "仙剑奇侠传2005-2016",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1462567824",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9werolkAPG0T1IRIbUIrnZPAvE8ZRyh6Eyw&usqp=CAU",
       "parse": true
     },
     {
@@ -1313,18 +1271,6 @@
       "url": "http://zzy789.xyz/bili.php?id=1402698",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
-    },
-    {
-      "name": "古龙频道",
-      "url": "http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYw2qx_1IT8atHLL9_fh6ihN2T4ySPfAqmw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 金庸频道",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231477/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6eIMvG4MP7IAnckZrVMJfMx3XtM6pcFFFSQ&usqp=CAU",
-      "parse": false
     },
     {
       "name": "金庸经典武侠剧",
