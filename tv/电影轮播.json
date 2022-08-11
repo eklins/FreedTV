@@ -463,18 +463,6 @@
       "parse": false
     },
     {
-      "name": "KID ⑤",
-      "url": "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "KID ⑦",
-      "url": "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "KIX (Indonesia)",
       "url": "http://210.210.155.37/dr9445/h/h07/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -567,24 +555,6 @@
     {
       "name": "Military Home Life",
       "url": "https://simultv.s.llnwi.net/n4s4/MilitaryHomeLife/interlink.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Movie ①",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231672/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Movie ②",
-      "url": "http://117.148.179.163/PLTV/88888888/224/3221231504/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Movie ③",
-      "url": "http://117.148.179.163/PLTV/88888888/224/3221231787/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1676,91 +1646,7 @@
     },
     {
       "name": "电影01",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231556/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "电影02",
-      "url": "http://117.148.179.163/PLTV/88888888/224/3221231627/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "电影03",
-      "url": "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "电影04",
-      "url": "http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "电影05",
-      "url": "http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "电影06",
-      "url": "http://117.148.179.163/PLTV/88888888/224/3221231763/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "电影07",
-      "url": "http://117.148.179.163/PLTV/88888888/224/3221231699/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "电影08",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231688/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "电影09",
       "url": "http://hpull.kktv8.com/livekktv/154056602/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "虎牙70",
-      "url": "http://117.148.179.163/PLTV/88888888/224/3221231583/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "虎牙71",
-      "url": "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "虎牙73",
-      "url": "http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "虎牙74",
-      "url": "http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "虎牙75",
-      "url": "http://117.148.179.139/PLTV/88888888/224/11352881/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "印度电影",
-      "url": "http://117.148.179.163/PLTV/88888888/224/3221231637/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -1809,12 +1695,6 @@
     {
       "name": "CHC 动作电影",
       "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CHC 家庭影院",
-      "url": "http://117.148.179.151:80/PLTV/88888888/224/3221231799/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -1897,90 +1777,6 @@
       "parse": false
     },
     {
-      "name": "MIGU Y＋",
-      "url": "http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 频道",
-      "url": "http://117.148.179.173/PLTV/88888888/224/3221232023/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 金庸频道",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231477/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 新片放映厅",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231640/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 每日荐影",
-      "url": "http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 云上电影院",
-      "url": "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 喜剧联盟",
-      "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 经典贺岁片",
-      "url": "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 怀旧老片",
-      "url": "http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 追剧少女",
-      "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 僵尸剧场",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU SNH48剧场",
-      "url": "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 盗墓系列",
-      "url": "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 恐怖电影",
-      "url": "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NewTV 超级电影",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
@@ -2059,12 +1855,6 @@
       "parse": false
     },
     {
-      "name": "SiTV 军旅剧场",
-      "url": "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "SiTV 欢笑剧场4K",
       "url": "http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
@@ -2073,30 +1863,6 @@
     {
       "name": "SiTV 都市剧场",
       "url": "http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 凌晨剧场",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231742/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 武侠剧场",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231763/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 少林剧场",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231628/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 法治天地",
-      "url": "http://shbu.live.bestvcdn.com.cn:8080/live/program/live/fztd/1300000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
     },
@@ -2282,33 +2048,21 @@
     },
     {
       "name": "刘德华",
-      "url": "http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8",
+      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888726",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xmPpq9apJ8h6UzY9SifmEd7l1ixJrAS91A&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "成龙",
-      "url": "http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8",
+      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888751",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyonUE9t64WOsuo4wTjNzScnPBurY2S8_tdA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "张国荣",
-      "url": "http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLlUoc6MlX-3WpixX-56C8R0hywYUMumFpA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "周润发",
-      "url": "http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8",
+      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888733",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkzkCCDTFAbDnZSsiov_KCW4wy8eNg6RL3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "古天乐",
-      "url": "http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_T345MuvNmmRVEcPCABEbmI0lo4ad1oustQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "林正英",
@@ -2327,12 +2081,6 @@
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=22089862",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxoUfZdleuOqsM1Bglmc4y3pLhM4SqEX1JQ&usqp=CAU",
       "parse": true
-    },
-    {
-      "name": "刘亦菲",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOCIBYP14DjqBeCxw3BE0-qbJ3xF_390cMw&usqp=CAU",
-      "parse": false
     },
     {
       "name": "粤语喜剧",
