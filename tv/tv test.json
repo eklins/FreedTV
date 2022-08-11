@@ -367,24 +367,6 @@
       "parse": false
     },
     {
-      "name": "张国荣",
-      "url": "http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLlUoc6MlX-3WpixX-56C8R0hywYUMumFpA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "古天乐",
-      "url": "http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_T345MuvNmmRVEcPCABEbmI0lo4ad1oustQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "刘亦菲",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOCIBYP14DjqBeCxw3BE0-qbJ3xF_390cMw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "BesTV 体育",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
