@@ -952,9 +952,9 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 #EXTINF:-1 ,KOR★SBS Sports
 http://51.81.66.195:1935/krtv/sbs_sports_540/playlist.m3u8
 #EXTINF:-1 ,KOR★SPOTV ①
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+http://live1.streamk.co:8080/sportsbox_preview/live53/playlist.m3u8?site=gaktv&ch=live53
 #EXTINF:-1 ,KOR★SPOTV ②
-http://51.81.66.195:1935/krtv/spotv_2_540/playlist.m3u8
+http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&ch=live54
 #EXTINF:-1 ,KOR★Sky Sports
 http://51.81.66.195:1935/krtv/sky_sports_540/playlist.m3u8
 #EXTINF:-1 ,KOR★TBS Seoul
