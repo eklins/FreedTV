@@ -1,6 +1,25 @@
 {
   "data": [
     {
+      "name": "张国荣",
+      "url": "http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLlUoc6MlX-3WpixX-56C8R0hywYUMumFpA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "古天乐",
+      "url": "http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_T345MuvNmmRVEcPCABEbmI0lo4ad1oustQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "刘亦菲",
+      "url": "http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOCIBYP14DjqBeCxw3BE0-qbJ3xF_390cMw&usqp=CAU",
+      "parse": false
+    },
+
+    {
       "name": "长城精品",
       "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -109,6 +128,18 @@
       "parse": true
     },
     {
+      "name": "古龙频道",
+      "url": "http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYw2qx_1IT8atHLL9_fh6ihN2T4ySPfAqmw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 金庸频道",
+      "url": "http://117.148.179.134/PLTV/88888888/224/3221231477/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6eIMvG4MP7IAnckZrVMJfMx3XtM6pcFFFSQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "少年包青天2000",
       "url": "https://m.huya.com/11342393",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjARTAshfTUZPlvblKvaLXpDpNZjU0dBRoIQ&usqp=CAU",
@@ -127,8 +158,20 @@
       "parse": true
     },
     {
+      "name": "护国良相狄仁杰2002",
+      "url": "http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWU9yZhPvecMi_mTiBcuqSgUGta5zGk7546w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "神探狄仁杰2004",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1453022721",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmNbfckKx_YJkdR7L6oxsM_Sj528yekbzlA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "神探狄仁杰2004",
+      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355344777",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmNbfckKx_YJkdR7L6oxsM_Sj528yekbzlA&usqp=CAU",
       "parse": true
     },
