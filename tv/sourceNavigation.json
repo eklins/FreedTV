@@ -13,7 +13,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -29,7 +28,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -45,7 +43,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -61,7 +58,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -77,7 +73,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -93,7 +88,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -109,7 +103,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -125,7 +118,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -141,7 +133,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -157,7 +148,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -190,7 +180,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -206,7 +195,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -222,7 +210,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -238,11 +225,10 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     },
     {
-      "name": "直播•轮播后备json",
+      "name": "直播•轮播后备❤json",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%9B%B4%E6%92%AD%E3%80%81%E8%BD%AE%E6%92%AD%E5%90%8E%E5%A4%87.json",
       "type": "json",
@@ -254,7 +240,6 @@
       "keyUpPlay": true,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4535.3 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "decoder": 0,
       "webPlus": {}
     }
   ]
