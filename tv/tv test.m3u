@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,KOR★IB Sports (php)
+http://mytv.dothome.co.kr/ch/catv/253.php
 #EXTINF:-1 ,无线财经台
 http://50.7.218.42:8278/j5_twn/playlist.m3u8?tid=m3b7232941813&ct=18336&tsum=2652e4efd153feaf5e425047082469ea
 #EXTINF:-1 ,无线财经台(备份)
