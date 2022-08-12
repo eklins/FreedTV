@@ -1657,8 +1657,14 @@
       "parse": false
     },
     {
-      "name": "卫视电影台",
+      "name": "台湾卫视电影台",
       "url": "http://61.219.170.95:18529/.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾龙华电影",
+      "url": "http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
