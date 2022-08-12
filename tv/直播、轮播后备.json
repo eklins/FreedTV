@@ -31,6 +31,48 @@
       "parse": false
     },
     {
+      "name": "National Geographic (Taiwan)",
+      "url": "http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾中天新闻",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾民视新闻台",
+      "url": "http://61.219.170.95:18563/.m3u8",
+      "pic": "https://img.youtube.com/vi/yguQ1SzPM5U/0.jpg",
+      "parse": false
+    },
+    {
+      "name": "台湾东森新闻",
+      "url": "http://61.219.170.95:18512/.m3u8",
+      "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
+      "parse": false
+    },
+    {
+      "name": "台湾TVBS综合台",
+      "url": "https://www.chaojidianshi.net/zhibo/37.html",
+      "pic": "https://img.isuper.tv/live-tv/tvbs-live.jpg",
+      "parse": true
+    },
+    {
+      "name": "凤凰HD65（待确定）",
+      "url": "http://61.219.170.95:18565/.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "凤凰HD66（待确定）",
+      "url": "http://61.219.170.95:18566/.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "长城精品",
       "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
