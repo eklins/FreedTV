@@ -153,6 +153,8 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1 ,Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 ,Redlight
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 ,VISIT-X TV 1935
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 ,VISIT-X TV Chunklist
