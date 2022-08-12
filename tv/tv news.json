@@ -422,7 +422,7 @@
     },
     {
       "name": "WFMZ 69 News",
-      "url": "https://cdn.jaybirdtv.com/wfmz/channel/10/master.m3u8",
+      "url": "https://v-pi.mybtv.net/live/423.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmL_GWKy7TEjnnSI_kXoiPLZp64NKq-MSlA&usqp=CAU",
       "parse": false
     },
