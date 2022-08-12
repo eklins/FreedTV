@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "🇺🇳Epic Drama",
+      "url": "http://78.83.191.18:8000/play/a055",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Running Man 2010",
       "url": "http: //dyscdnali1.douyucdn.cn/live/131977rb5GOrl6uS.flv?uuid=",
       "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
