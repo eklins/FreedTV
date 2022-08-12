@@ -158,19 +158,13 @@
     },
     {
       "name": "Bloomberg TV",
-      "url": "https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8",
+      "url": "https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71P4mnHdjmdwkH7R6ydUECWuLKxGKVX1-Hw&usqp=CAU",
       "parse": false
     },
     {
       "name": "Bloomberg TV (Asia)",
       "url": "http://210.210.155.37/dr9445/h/h03/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bloomberg TV (Mexico)",
-      "url": "https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",
       "parse": false
     },
