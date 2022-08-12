@@ -541,12 +541,6 @@
       "parse": false
     },
     {
-      "name": "RTM Sukan",
-      "url": "https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "RTV Sport (San Marino, Italy)",
       "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
