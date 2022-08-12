@@ -1580,27 +1580,27 @@
     },
     {
       "name": "台湾TVBS新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129",
+      "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾民视新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31",
+      "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
       "pic": "https://img.youtube.com/vi/yguQ1SzPM5U/0.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾东森新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234",
+      "url": "http://61.219.170.95:18512/.m3u8",
       "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
-      "parse": true
+      "parse": false
     },
     {
-      "name": "台湾东森财经新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211",
-      "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
-      "parse": true
+      "name": "台湾壹新闻",
+      "url": "http://stream.nexttv.com.tw/n001/hd/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlCiY9BqZWCTHTzVJ1KPbQF3M2fVdn0G-rdA&usqp=CAU",
+      "parse": false
     },
     {
       "name": "台湾中视新闻",
@@ -1621,12 +1621,6 @@
       "parse": true
     },
     {
-      "name": "台湾壹新闻",
-      "url": "http://stream.nexttv.com.tw/n001/hd/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlCiY9BqZWCTHTzVJ1KPbQF3M2fVdn0G-rdA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "台湾三立新闻",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/CKjSm5ZeehE?list=TLGG3k0l2ItimdExMzA1MjAyMg",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
@@ -1642,6 +1636,12 @@
       "name": "台湾三立财经新闻",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyXBEnFoM_2tBFAq79GbvBd97AmvRtjCm9A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾东森财经新闻",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211",
+      "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
       "parse": true
     },
     {
