@@ -787,6 +787,12 @@
       "parse": false
     },
     {
+      "name": "NASA TV UHD",
+      "url": "https://endpnt.com/hls/nasa4k60/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8YtOWRGP5NpBd3TLoE3pPQRQgDSAzke_wmA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "National Geographic (Taiwan)",
       "url": "http://61.219.170.95:18501/.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
