@@ -1039,6 +1039,12 @@
       "parse": false
     },
     {
+      "name": "Viceland (SBS)",
+      "url": "https://sbs-live.akamaized.net/hls/live/2002828/channel2/open/master_1800K.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "WATC-DT1",
       "url": "https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
