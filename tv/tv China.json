@@ -445,6 +445,12 @@
       "parse": false
     },
     {
+      "name": "博白电视台（BBTV）",
+      "url": "https://live-cdn.gxxw.com/hls/a22/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "东方影视",
       "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
