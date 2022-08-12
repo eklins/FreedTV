@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "WFMZ 69 News",
+      "url": "https://cdn.jaybirdtv.com/wfmz/channel/10/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmL_GWKy7TEjnnSI_kXoiPLZp64NKq-MSlA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Running Man 2010斗鱼",
       "url": "http://dyscdnali1.douyucdn.cn/live/131977rb5GOrl6uS.flv?uuid=",
       "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
