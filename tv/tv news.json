@@ -169,6 +169,12 @@
       "parse": false
     },
     {
+      "name": "Bloomberg TV (Mexico)",
+      "url": "https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Bloomberg Quicktake",
       "url": "https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://shortyawards.imgix.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png?auto=format&fit=crop&h=300&q=65&w=500&s=cb21d6a342f58f8b5d569fb92fe02d19",
