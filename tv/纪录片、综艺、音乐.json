@@ -571,6 +571,12 @@
       "parse": false
     },
     {
+      "name": "Get TV (480p) KFPH-DT3",
+      "url": "https://v-px.mybtv.net/live/928.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Global Fashion Channel",
       "url": "https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1065,6 +1071,12 @@
     {
       "name": "X Zone",
       "url": "https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Y2 (432p) WHYY-DT2",
+      "url": "https://v-pi.mybtv.net/live/348.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
