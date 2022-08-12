@@ -224,7 +224,7 @@
     },
     {
       "name": "CNBC Asia",
-      "url": "https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8",
+      "url": "https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTubcUlOOOprbuVvkQw3D1fr_UxHsa2_qJ0A&usqp=CAU",
       "parse": false
     },
