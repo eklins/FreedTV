@@ -369,6 +369,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed9ba24f6a00074
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8b580a233dc90007f0cb9d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=406&terminate=false&userId=
 #EXTINF:-1 ,DEU★PlutoTV Movies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=50&terminate=false&userId=
+#EXTINF:-1 ,DEU★PlutoTV Sitcom
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767ab2b456c8cf265ce921&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=405&terminate=false&userId=
 #EXTINF:-1 ,DEU★Radio 21 TV
 http://playback.akamaized.net/streams/22300508_6675945_lsi8b513v22ovejhvrn_1/master.m3u8?dw=32&hdnts=exp=1651159035~acl=/streams/22300508_6675945_lsi8b513v22ovejhvrn_1/master.m3u8*~hmac=31c81ff6576c2cf830d7427a0e3b3a080bef89a98b16d19de2bc6348fc8f068d
 #EXTINF:-1 ,DEU★Radio Weser TV Bremen
