@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "name": "NFL Network F",
+      "url": "http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15471.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NFL Network T",
+      "url": "http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15471.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "三国演义1994",
       "url": "http://124.223.212.38:83/douyu/7459925",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
