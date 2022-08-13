@@ -349,6 +349,12 @@
       "parse": false
     },
     {
+      "name": "Press TV English (Iran)",
+      "url": "https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZI0aTQLKtKm9MxxQIuZwPkWRHUSedWkHzag&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Real America's Voice",
       "url": "https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdferHGNXzr8ZVt36-3hfBK1jlpcEI3o8uGg&usqp=CAU",
@@ -388,6 +394,12 @@
       "name": "Sky Sports News",
       "url": "http://93.152.174.144:4000/play/skysportsnews/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSguQ_a8yvqAcoLyLLZJUbFfmUNpHv_n95lIg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TeleSur English (Venezuela)",
+      "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_e1X0wmsDx9-gbUz0CnG2YGBlLcX1aBiwUw&usqp=CAU",
       "parse": false
     },
     {
@@ -481,27 +493,15 @@
       "parse": true
     },
     {
-      "name": "台湾三立新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/CKjSm5ZeehE?list=TLGG3k0l2ItimdExMzA1MjAyMg",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾三立新闻（海外直播）",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/FoBfXvlOR6I",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9Z-aC6taPLKZTdxmtz0VSWRwXuQlBWIxZQ&usqp=CAU",
+      "name": "台湾东森财经新闻",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211",
+      "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
       "parse": true
     },
     {
       "name": "台湾三立财经新闻",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyXBEnFoM_2tBFAq79GbvBd97AmvRtjCm9A&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾东森财经新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211",
-      "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
       "parse": true
     },
     {
