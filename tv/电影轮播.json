@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "Marvel",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930233",
+      "url": "http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
       "parse": true
     },
@@ -67,8 +67,14 @@
       "parse": true
     },
     {
-      "name": "🇱🇷Sci-Fi",
+      "name": "🇱🇷Sci-Fi ①",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930209",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇱🇷Sci-Fi ②",
+      "url": "http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
@@ -122,13 +128,19 @@
     },
     {
       "name": "🇱🇷Movies ④",
-      "url": "https://m.huya.com/11336591",
+      "url": "http://dyscdnali1.douyucdn.cn/live/6655271roUlUqdDF.flv?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇱🇷Movies ⑤",
       "url": "https://m.huya.com/11352963",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇱🇷Movies ⑥",
+      "url": "https://m.huya.com/11336591",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
@@ -2113,8 +2125,14 @@
       "parse": true
     },
     {
-      "name": "特辑电视台",
+      "name": "特辑电影",
       "url": "http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "周末电影",
+      "url": "http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
