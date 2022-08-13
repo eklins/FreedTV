@@ -55,6 +55,16 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 https://streannlivecariflix.cachefly.net/cariflix5/cariflix5/playlist.m3u8
 #EXTINF:-1 ,ARG★Cine Hispano
 https://streannlivecariflix.cachefly.net/cariflix6/cariflix6/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Armenia.png",Armenia❤Հայ Կինո
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 ,ARM★Սինեմաքս
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 ,ARM★ATV Կինոման
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 ,ARM★ATV Ֆիլմզոն
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:-1 ,ARM★Premium
+http://ott-cdn.ucom.am/s83/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Australia.png",Australia❤ABC
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8221df52788a423c91b717158aadaf25/index.m3u8?hdnea=st=1659860737~exp=1659861637~acl=/*~hmac=d8a5c191162d8c01cdd01a3bb577e7a5f390d10db2a077ea75a89ce5d39f8e2f
 #EXTINF:-1 ,AUS★ABC News
@@ -357,6 +367,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc7aa
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed9ba24f6a00074a9b91/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a4570-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0432d921-f53e-4dfe-8afd-2d0b3fb750f3
 #EXTINF:-1 ,DEU★PlutoTV iCarly Nick
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8b580a233dc90007f0cb9d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=406&terminate=false&userId=
+#EXTINF:-1 ,DEU★PlutoTV Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=50&terminate=false&userId=
 #EXTINF:-1 ,DEU★Radio 21 TV
 http://playback.akamaized.net/streams/22300508_6675945_lsi8b513v22ovejhvrn_1/master.m3u8?dw=32&hdnts=exp=1651159035~acl=/streams/22300508_6675945_lsi8b513v22ovejhvrn_1/master.m3u8*~hmac=31c81ff6576c2cf830d7427a0e3b3a080bef89a98b16d19de2bc6348fc8f068d
 #EXTINF:-1 ,DEU★Radio Weser TV Bremen
@@ -635,8 +647,16 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 http://51.210.199.52/hls/stream.m3u8
 #EXTINF:-1 ,IRN★iFilm [Not 24/7]
 https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1 ,IRN★iFilm Arabic [Not 24/7]
+https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:-1 ,IRN★iFilm English [Not 24/7]
+https://live1.presstv.ir/live/ifilmen.m3u8
+#EXTINF:-1 ,IRN★iFilm Persian ② [Not 24/7]
+https://live1.presstv.ir/live/ifilm2.m3u8
 #EXTINF:-1 ,IRN★OMG Channel
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
+#EXTINF:-1 ,IRN★Persian Film
+http://51.210.227.135/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Persiana Cinema
 http://51.210.199.15/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Persiana Comedy
@@ -1057,7 +1077,7 @@ https://5ca9af4645e15.streamlock.net/canal11/videocanal11/playlist.m3u8
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 ,MEX★México Travel Channel (480p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v76vf
-#EXTINF:-1 ,MEX★MyTime movie network Mexico
+#EXTINF:-1 ,MEX★MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MEX★POP TV (542p)
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
@@ -1613,6 +1633,10 @@ https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 http://210.210.155.35/uq2663/h/h18/index.m3u8
 #EXTINF:-1 ,CHE★One TV
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 ,CHE★PlutoTV Movies
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,CHE★PlutoTV Movies+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c8a6bc64dc7286c6afaf4ab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5c8a6bc64dc7286c6afaf4ab&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f747754f-ee3e-4968-9e8e-779da031bce9&terminate=false&userId=
 #EXTINF:-1 ,CHE★Rakuten Action Movies
 https://rakuten-actionmovies-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rakuten Comedy Movies
