@@ -446,33 +446,33 @@
     },
     {
       "name": "台湾中天新闻",
-      "url": "http://61.219.170.95:18513/.m3u8",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "台湾TVBS新闻",
-      "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129",
       "pic": "https://i.ytimg.com/vi/2mCSYvcfhtc/maxresdefault.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "台湾东森新闻",
-      "url": "http://61.219.170.95:18512/.m3u8",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234",
       "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "台湾民视新闻",
-      "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31",
       "pic": "https://img.youtube.com/vi/yguQ1SzPM5U/0.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "台湾壹新闻",
       "url": "http://stream.nexttv.com.tw/n001/hd/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlCiY9BqZWCTHTzVJ1KPbQF3M2fVdn0G-rdA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "台湾中视新闻",
