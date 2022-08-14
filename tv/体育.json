@@ -49,24 +49,6 @@
       "parse": false
     },
     {
-      "name": "广东体育",
-      "url": "http://py.fatcat.icu:8880/hls/5/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "江苏体育",
-      "url": "http://183.207.249.11:80/PLTV/4/224/3221225935/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PP体育",
-      "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "风云足球",
       "url": "http://120.253.104.16:808/hls/148/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
@@ -94,6 +76,18 @@
       "name": "劲爆体育",
       "url": "http://112.25.48.70/live/program/live/jbtyhd/4000000/mnf.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHot 体育",
+      "url": "http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHot 赛车",
+      "url": "http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251IS50-L.jpg",
       "parse": false
     },
     {
@@ -127,15 +121,21 @@
       "parse": false
     },
     {
-      "name": "iHot 体育",
-      "url": "http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg",
+      "name": "PP体育",
+      "url": "http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHot 赛车",
-      "url": "http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251IS50-L.jpg",
+      "name": "广东体育",
+      "url": "http://py.fatcat.icu:8880/hls/5/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "江苏体育",
+      "url": "http://183.207.249.11:80/PLTV/4/224/3221225935/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
