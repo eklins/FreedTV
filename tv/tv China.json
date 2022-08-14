@@ -1591,15 +1591,15 @@
       "parse": true
     },
     {
-      "name": "台湾民视新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31",
-      "pic": "https://img.youtube.com/vi/yguQ1SzPM5U/0.jpg",
-      "parse": true
-    },
-    {
       "name": "台湾东森新闻",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234",
       "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
+      "parse": true
+    },
+    {
+      "name": "台湾民视新闻",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31",
+      "pic": "https://img.youtube.com/vi/yguQ1SzPM5U/0.jpg",
       "parse": true
     },
     {
