@@ -115,6 +115,12 @@
       "parse": true
     },
     {
+      "name": "🇱🇷Superheroes",
+      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736863",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🇱🇷Suspense & Thriller",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745090",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
@@ -2275,8 +2281,14 @@
       "parse": true
     },
     {
-      "name": "YY 喜剧",
+      "name": "YY 喜剧①",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749892",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 喜剧②",
+      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745097",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
