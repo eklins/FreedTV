@@ -49,15 +49,15 @@
       "parse": false
     },
     {
-      "name": "台湾民视新闻",
-      "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
-      "pic": "https://img.youtube.com/vi/yguQ1SzPM5U/0.jpg",
-      "parse": false
-    },
-    {
       "name": "台湾东森新闻",
       "url": "http://61.219.170.95:18512/.m3u8",
       "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
+      "parse": false
+    },
+    {
+      "name": "台湾民视新闻",
+      "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
+      "pic": "https://img.youtube.com/vi/yguQ1SzPM5U/0.jpg",
       "parse": false
     },
     {
