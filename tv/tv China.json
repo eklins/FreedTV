@@ -883,108 +883,6 @@
       "parse": false
     },
     {
-      "name": "MIGU Y＋",
-      "url": "http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 综合",
-      "url": "http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 4K剧场",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 频道",
-      "url": "http://117.148.179.173/PLTV/88888888/224/3221232023/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 金庸频道",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231477/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 新片放映厅",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231640/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 每日荐影",
-      "url": "http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU SNH48剧场",
-      "url": "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 云上电影院",
-      "url": "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 喜剧联盟",
-      "url": "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 经典贺岁片",
-      "url": "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 怀旧老片",
-      "url": "http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 僵尸剧场",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 盗墓系列",
-      "url": "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 恐怖电影",
-      "url": "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 追剧少女",
-      "url": "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MIGU 高能烧脑时刻",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231504/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NewTV 爱情喜剧",
       "url": "http://39.134.65.166/PLTV/88888888/224/3221225533/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
@@ -1135,12 +1033,6 @@
       "parse": false
     },
     {
-      "name": "SiTV 军旅剧场",
-      "url": "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "SiTV 欢笑剧场4K",
       "url": "http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
@@ -1153,24 +1045,6 @@
       "parse": false
     },
     {
-      "name": "SiTV 凌晨剧场",
-      "url": "http://117.148.179.134/PLTV/88888888/224/3221231742/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 武侠剧场",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231763/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SiTV 少林剧场",
-      "url": "http://117.148.179.165/PLTV/88888888/224/3221231628/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "SiTV 法治天地",
       "url": "http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
@@ -1179,6 +1053,12 @@
     {
       "name": "SiTV 七彩戏剧",
       "url": "http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SiTV 全纪实",
+      "url": "http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
     },
@@ -1226,7 +1106,7 @@
     },
     {
       "name": "劲爆体育",
-      "url": "http://live.tvfix.org/hls/jbtyhd.m3u8",
+      "url": "http://111.40.196.9/PLTV/88888888/224/3221225505/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
       "parse": false
     },
