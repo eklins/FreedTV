@@ -7,6 +7,12 @@
       "parse": true
     },
     {
+      "name": "Cinemax (Vietnam)",
+      "url": "https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "张国荣",
       "url": "http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLlUoc6MlX-3WpixX-56C8R0hywYUMumFpA&usqp=CAU",
