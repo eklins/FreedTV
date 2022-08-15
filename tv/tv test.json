@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "name": "🇺🇳Cinemax ①",
+      "url": "http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69532",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳Cinemax ②",
+      "url": "http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69623",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Cinemax (Vietnam) VHLS 5m",
+      "url": "https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "东森超视",
+      "url": "http://59.125.122.90:18555/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "东森",
       "url": "http://61.219.170.95:18555/.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
