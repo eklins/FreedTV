@@ -23,10 +23,14 @@ https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 ,ABC 5 Des Moines IA (WOI★1080p)
 https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+#EXTINF:-1 ,ABC 6 (WPVI-DT1★720p)
+https://v-pi.mybtv.net/live/333.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,ABC 7 Denver CO (KMGH★720p)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 ,ABC 7 Los Angeles CA (KABC-TV★720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 ,ABC 7 NY (WABC-DT1★720p)
+https://v-ny.mybtv.net/live/554.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,ABC 7 Washington DC (WJLA★720p)
 https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 #EXTINF:-1 ,ABC 8 Dallas TX (WFAA★1080p)
@@ -121,6 +125,8 @@ http://51.161.118.146:8080/ISG03_ABC_SEATTLE_WA_KOMO/video.m3u8
 http://51.161.118.146:8080/ISG03_ABC_WASHINGTON_DC_WJLA/video.m3u8
 #EXTINF:-1 ,ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1 ,AccuWeather Now (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 ,Ace TV (KCKS-LD3★480p)
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:-1 ,Action (KCKS-LD4★480p)
@@ -131,6 +137,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25a1932c8368bdbfd87d/
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 #EXTINF:-1 ,AFV (720p)
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 ,AFV en Español (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 ,Akaku 53 (Hawaii★1080p)
 https://akaku.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 ,Akaku 54 (Hawaii★1080p)
@@ -205,6 +213,8 @@ http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 #EXTINF:-1 ,AXS TV Now (1080p)
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 ,Azteca America 42 (WKOB-LD1★720p) [Not 24/7]
+https://v-ny.mybtv.net/live/645.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,BabyTV (1080p)
 http://194.163.179.246/slovenci/djeciji/babytv.m3u8
 #EXTINF:-1 ,BBC America (720p)
@@ -265,14 +275,20 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdd
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 ,Camp Spoopy (576p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:-1 ,Canal de la Fe (WRNN-DT3★432p)
+https://v-ny.mybtv.net/live/663.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Canela TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---&checkedby:iptvcat.com
 #EXTINF:-1 ,CBS 2 Greensboro NC (WFMY★1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
+#EXTINF:-1 ,CBS 2 New York (WCBS-DT1★1080p)
+https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,CBS 2 Spokane WA (KREM★1080p)
 https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8
 #EXTINF:-1 ,CBS 3 Omaha NE (KMTV-TV★720p)
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 ,CBS 3 Philadelphia (KYW-DT1★1080p)
+https://v-pi.mybtv.net/live/318.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,CBS 4 New Orleans LA (WWL-TV★1080p)
 https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
 #EXTINF:-1 ,CBS 5 Ft Smith AR (KFSM-TV★1080p)
@@ -387,6 +403,8 @@ https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
 #EXTINF:-1 ,Chive TV (720p)
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
+#EXTINF:-1 ,Choppertown (720p) [Not 24/7]
+https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 #EXTINF:-1 ,Christian Youth Channel (CYC★1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 ,CinePride (720p)
@@ -437,8 +455,14 @@ http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
 http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
 #EXTINF:-1 ,CTN 61 Riviera Beach FL (WFGC-DT1★720p) [Not 24/7]
 http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ,CUNY TV (WNYE-DT3★1080p)
+https://v-ny.mybtv.net/live/593.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,Dabl (WCBS-DT3)
+https://v-ny.mybtv.net/live/547.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,DC Council Channel (1080p)
 https://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 ,Defy (WPXN-DT4)
+https://v-ny.mybtv.net/live/611.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Demand Africa (720p)
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,District of Columbia Network (DCN★1080p)
@@ -471,6 +495,12 @@ https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 ,EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 ,Estrella TV (WKOB-LD6★480p)
+https://v-ny.mybtv.net/live/650.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,Estrella TV East (1080p)
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Estrella News (1080p)
+https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,External Ottera (720p)
 https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
 #EXTINF:-1 ,Extrema TV (720p)
@@ -525,6 +555,8 @@ https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KRIV-Monetizer.m3u8
 #EXTINF:-1 ,Fox 28 Savannah GA (WTGS★720p)
 https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 ,FOX 29 (WTXF-DT1★720p)
+https://v-pi.mybtv.net/live/369.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,FOX 29 Philadelphia PA (WTXF-TV★720p) [Not 24/7]
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTXF-Monetizer.m3u8
 #EXTINF:-1 ,FOX 32 Chicago IL (WFLD★720p)
@@ -595,6 +627,8 @@ https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTINF:-1 ,Ganj e Hozour TV (720p)
 http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
+#EXTINF:-1 ,GFN TV (720p) [Not 24/7]
+https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
 #EXTINF:-1 ,Global Fashion Channel (1080p)
 https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 ,Golden TV (240p) [Not 24/7]
@@ -621,10 +655,14 @@ http://media1.adventist.no:1935/live/hope1/playlist.m3u8
 http://5.254.76.34:17070/C441/mono.m3u8?token=kdsdkwy453wrRq29IIIo
 #EXTINF:-1 ,HorrOrfy
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1 ,HSN (WABC-DT4★432p)
+https://v-ny.mybtv.net/live/613.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,HTV 1 Houston Television (720p)
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 #EXTINF:-1 ,HTV 2 Houston Television (720p)
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 ,Humor Mill (1080p) [Not 24/7]
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 #EXTINF:-1 ,Hunt Channel (1080p)
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 ,IDG (720p)
@@ -635,6 +673,8 @@ https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/62407
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ,InfoWars (720p)
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 ,Ion Mystery (WJLP-DT4)
+https://v-ny.mybtv.net/live/627.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Island Escape (720p)
 https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
 #EXTINF:-1 ,JBS (404p) [Not 24/7]
@@ -677,6 +717,8 @@ http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 ,LNKTV Health (1080p)
 http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 ,Localish (WABC-DT2)
+https://v-ny.mybtv.net/live/555.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,LocalNow grvty
 https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
 #EXTINF:-1 ,Logos TV Mubasher (1080p) [Not 24/7]
@@ -727,6 +769,8 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 ,NBC 2 Buffalo NY (WGRZ★1080p)
 https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
+#EXTINF:-1 ,NBC 4 (WNBC-DT1★1080p) [Not 24/7]
+https://v-ny.mybtv.net/live/548.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,NBC 5 Seattle WA (KING★1080p)
 https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
 #EXTINF:-1 ,NBC 5 St. Louis MO (KSDK★1080p)
@@ -743,6 +787,8 @@ https://livevideo01.kgw.com/hls/live/2015506/newscasts/live.m3u8
 https://livevideo01.9news.com/hls/live/2014548/newscasts/live.m3u8
 #EXTINF:-1 ,NBC 10 Knoxville TN (WBIR-TV★1080p)
 https://livevideo01.wbir.com/hls/live/2016515/newscasts/live-2000.m3u8
+#EXTINF:-1 ,NBC 10 Philadelphia (WCAU-DT1★1080p)
+https://v-pi.mybtv.net/live/345.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,NBC 11 Minneapolis MN (KARE★1080p)
 https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 #EXTINF:-1 ,NBC 12 Phoenix AZ (KPNX★1080p)
@@ -863,6 +909,10 @@ https://ntd02.akamaized.net/NTDA/index.m3u8
 https://ntd02.akamaized.net/NTD-West/index.m3u8
 #EXTINF:-1 ,NTD TV UK (New Tang Dynasty Television)
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1 ,NYC TV gov (WNYE-DT2★432p)
+https://v-ny.mybtv.net/live/592.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,NYC TV Life (WNYE-DT1★1080p)
+https://v-ny.mybtv.net/live/591.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,NYXT (1080p) [Not 24/7]
 https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
 #EXTINF:-1 ,OAN
@@ -891,8 +941,14 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://v-ny.mybtv.net/live/575.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,PBS World Channel (480p)
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1 ,PBS WHYY•Y2 (WHYY-DT2★432p)
+https://v-pi.mybtv.net/live/348.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,People TV (1080p)
 https://peopletv-oo.akamaized.net/playlist.m3u8
+#EXTINF:-1 ,PHL17 (WPHL-DT1★720p)
+https://v-pi.mybtv.net/live/355.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,PIX11 (WPIX-DT1)
+https://v-ny.mybtv.net/live/562.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,PIX11 New York NY (720p)
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:-1 ,Plant Based Network (1080p) [Not 24/7]
@@ -959,12 +1015,22 @@ https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 ,Retro TV (KCKS-LD9★480p)
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:-1 ,Retro TV (WDPN-DT5★432p)
+https://v-pi.mybtv.net/live/315.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,Reuters (1080p)
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Rev'n (720p)
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 ,Rev'n (KCKS-LD7★480p)
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 #EXTINF:-1 ,Revelation TV (576p)
 https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 ,Revry 05
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+#EXTINF:-1 ,Revry 43
+https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
+#EXTINF:-1 ,Revry News (720p) [Not 24/7]
+https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 #EXTINF:-1 ,Revry Queer (720p)
 https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 ,Rooster Teeth TV (1080p)
@@ -1001,6 +1067,8 @@ https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
 https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8
 #EXTINF:-1 ,StockCharts TV (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/19628359/events/7940975/player
+#EXTINF:-1 ,Story Television (WJLP-DT7)
+https://v-ny.mybtv.net/live/634.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Sundance East (720p)
 https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 ,Sword and Shield (720p)
@@ -1021,10 +1089,16 @@ https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
 #EXTINF:-1 ,TBN Inspire (1080p) [Not 24/7]
 https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+#EXTINF:-1 ,TCT (WACP-DT1★1080p) [Not 24/7]
+https://v-pi.mybtv.net/live/321.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,TD Ameritrade Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 #EXTINF:-1 ,Techno Warehouse (US★1080p) [Not 24/7]
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 ,Telemundo 47 (WNJU-DT1)
+https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,Tele❌itos (WNJU-DT2★432p)
+https://v-ny.mybtv.net/live/660.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,TG Junior (1080p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 #EXTINF:-1 ,The Archive (486p)
@@ -1053,6 +1127,8 @@ https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/c.m3u8
 https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 #EXTINF:-1 ,This TV Network (480p)
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 ,Timeless TV (WTVE-DT2★432p)
+https://v-pi.mybtv.net/live/401.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,TNT Sports 2 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1 ,TNT Sports 3 Brasil (720p)
@@ -1085,6 +1161,10 @@ https://srv.panelcast.net/musictv/musictv/playlist.m3u8
 https://srv.panelcast.net/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 ,Tropical Moon Urban TV
 https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
+#EXTINF:-1 ,True Crime Network (WUVP-DT3★432p)
+https://v-pi.mybtv.net/live/422.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,True Real (WPPX-DT4★480p)
+https://v-pi.mybtv.net/live/415.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,TSTV (720p)
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 ,TVB J1 (West★720p)
@@ -1155,10 +1235,16 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 ,TVS Women Sports (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 ,Twist (WXTV-DT3)
+https://v-ny.mybtv.net/live/999.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,UCTV University of California (720p) [Not 24/7]
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 ,UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 ,UNIMÃS (Nueva York★WFUT-DT1)
+https://v-ny.mybtv.net/live/713.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,Univision 41 (WXTV-DT1)
+https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Untamed Sports TV (KCKS-LD8★480p) [Not 24/7]
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 #EXTINF:-1 ,Vallenato Internacional (720p) [Not 24/7]
@@ -1167,6 +1253,8 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1 ,VENN (1080p)
 https://d80z5qf1qyhbf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,VENN (DistroTV★1080p)
+https://venntv-distrotv.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Vevo Hip Hop (1080p)
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 #EXTINF:-1 ,Vevo Latino (1080p) [Not 24/7]
@@ -1215,8 +1303,14 @@ https://edu-wcat.azureedge.net/live/live.m3u8
 https://frontdoor.wcat-tv.org:8686/live/live.m3u8
 #EXTINF:-1 ,WLNG Radio (410p) [Not 24/7]
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+#EXTINF:-1 ,World (WLIW-DT3★432p)
+https://v-ny.mybtv.net/live/577.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,World Poker Tour (1080p) [Not 24/7]
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 ,WTVE-DT1 (720p)
+https://v-pi.mybtv.net/live/400.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Wu Tang (East)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---&checkedby:iptvcat.com
 #EXTINF:-1 ,Xplore Reisen (720p) [Not 24/7]
