@@ -127,6 +127,12 @@
       "parse": true
     },
     {
+      "name": "台湾中天新闻 mitv",
+      "url": "mitv://ns2.hellotvvod.com:9906/b9bbdaea83924edd9ed5ffbfcfefddac",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "台湾中天新闻 flv",
       "url": "http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
