@@ -1466,7 +1466,7 @@
     },
     {
       "name": "台湾东森超视",
-      "url": "http://61.219.170.95:18555/.m3u8",
+      "url": "http://59.125.122.90:18555/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
