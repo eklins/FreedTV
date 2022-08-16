@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "name": "Marvel",
+      "url": "http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv?uuid=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Sci-Fi",
+      "url": "http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "特辑电影",
+      "url": "http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "周末电影",
+      "url": "http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🇺🇳Cinemax ①",
       "url": "http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69532",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
