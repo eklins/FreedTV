@@ -163,6 +163,12 @@
       "parse": false
     },
     {
+      "name": "台湾东森超视",
+      "url": "http://61.219.170.95:18555/.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
       "name": "欧美摔跤",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355465683",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
