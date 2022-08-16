@@ -13,6 +13,78 @@
       "parse": false
     },
     {
+      "name": "🇺🇳AXN Black",
+      "url": "http://78.83.191.18:8000/play/a066",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳AXN White",
+      "url": "http://78.83.191.18:8000/play/a065",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳bTV Action",
+      "url": "http://78.83.191.18:8000/play/a04n",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳bTV Cinema",
+      "url": "http://78.83.191.18:8000/play/a04i",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳bTV Comedy",
+      "url": "http://78.83.191.18:8000/play/a04k",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳bTV Lady",
+      "url": "http://78.83.191.18:8000/play/a05i",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳Eurosport ①",
+      "url": "http://78.83.191.18:8000/play/a05y",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳Eurosport ②",
+      "url": "http://78.83.191.18:8000/play/a04b",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳FilmBox",
+      "url": "http://78.83.191.18:8000/play/a06i",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳FilmBox Plus",
+      "url": "http://78.83.191.18:8000/play/a04r",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳FOX Crime",
+      "url": "http://78.83.191.18:8000/play/a04h",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇺🇳Movie Star",
+      "url": "http://78.83.191.18:8000/play/a04y",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Marvel",
       "url": "http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
@@ -45,12 +117,6 @@
     {
       "name": "🇺🇳Cinemax ②",
       "url": "http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69623",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇺🇳FilmBox Plus",
-      "url": "http://78.83.191.18:8000/play/a04r",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
