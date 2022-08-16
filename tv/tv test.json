@@ -49,6 +49,12 @@
       "parse": true
     },
     {
+      "name": "🇺🇳FilmBox Plus",
+      "url": "http://78.83.191.18:8000/play/a04r",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Cinemax (Vietnam) VHLS 5m",
       "url": "https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
