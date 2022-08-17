@@ -1031,9 +1031,9 @@ https://v-pi.mybtv.net/live/348.m3u8?env=prd&uid=-1&x=1
 https://peopletv-oo.akamaized.net/playlist.m3u8
 #EXTINF:-1 ,PHL17 (WPHL-DT1★720p)
 https://v-pi.mybtv.net/live/355.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 ,PIX11 (WPIX-DT1)
+#EXTINF:-1 ,PIX11 New York NY (WPIX-DT1)
 https://v-ny.mybtv.net/live/562.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 ,PIX11 New York NY (720p)
+#EXTINF:-1 ,PIX11 New York NY Plus (720p)
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:-1 ,Plant Based Network (1080p) [Not 24/7]
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/playlist.m3u8
