@@ -67,12 +67,6 @@
       "parse": false
     },
     {
-      "name": "美亚电影",
-      "url": "http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "龙珠（日）",
       "url": "http://dyscdnali1.douyucdn.cn/live/7190773r0Xv0DDkx.flv?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJ5dREDA5RSGqAMIUKqMdyANSj3qLKNqRUw&usqp=CAU",
