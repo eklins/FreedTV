@@ -1005,6 +1005,8 @@ https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
 https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8
 #EXTINF:-1 ,Radio U TV (720p) [Not 24/7]
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+#EXTINF:-1 ,Radiou TV
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:-1 ,Real Vision (720p)
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 #EXTINF:-1 ,Red Apple 21 (Fairfax County Public Schools★480p) [Not 24/7]
