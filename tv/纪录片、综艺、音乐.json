@@ -2485,6 +2485,12 @@
       "parse": false
     },
     {
+      "name": "NR1 (Number One)",
+      "url": "https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NRG91",
       "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
