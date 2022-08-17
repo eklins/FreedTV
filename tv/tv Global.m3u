@@ -821,12 +821,12 @@ https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8
 #EXTINF:-1 ,ITA★Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
-#EXTINF:-1 ,ITA★Super (SBS)
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 ,ITA★Super JTV Teramo
 http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1 ,ITA★Super Six Lombardia
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 ,ITA★Super TV HD
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 #EXTINF:-1 ,ITA★Tele Abruzzo
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 ,ITA★Tele Arena
