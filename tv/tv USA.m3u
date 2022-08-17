@@ -1,20 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,3 Studios Cleveland OH (WKYC★1080p)
-https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
-#EXTINF:-1 ,12 News Beaumont TX (KBMT★1080p)
-https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
-#EXTINF:-1 ,30A Darcizzle Offshore (720p)
-https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 ,30A Investment Pitch (720p)
-https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-#EXTINF:-1 ,30A Music (720p)
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 ,30A The Beach Show (720p)
-https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 ,33 Victor Valley (KVVB-TV★1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
-#EXTINF:-1 ,AB TV (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/playlist.m3u8
 #EXTINF:-1 ,ABC 2 Baton Rouge LA (WBRZ★720p) [Not 24/7]
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 ,ABC 3 Corpus Christi TX (KIII★1080p)
