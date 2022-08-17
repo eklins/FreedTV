@@ -422,7 +422,7 @@ https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 ,CMC (California Music Channel)
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,CNBC
-http://ott-cdn.ucom.am/s65/index.m3u8
+http://59.125.122.90:18551/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
 #EXTINF:-1 ,CNBC Asia
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTINF:-1 ,CNN (720p)
@@ -863,6 +863,8 @@ https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x
 https://content.uplynk.com/channel/aa92b664ac5941de81cd410803329da2.m3u8
 #EXTINF:-1 ,News 4JAX+
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
+#EXTINF:-1 ,News 12 New York
+https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 ,News Biloxi MS (WXXV-TV★720p)
 https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
 #EXTINF:-1 ,News Chattanooga TN (WDEF-TV★720p)
@@ -1007,6 +1009,8 @@ https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:-1 ,Radiou TV
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+#EXTINF:-1 ,Real America's Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Real Vision (720p)
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 #EXTINF:-1 ,Red Apple 21 (Fairfax County Public Schools★480p) [Not 24/7]
@@ -1021,7 +1025,7 @@ https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/61839
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:-1 ,Retro TV (WDPN-DT5★432p)
 https://v-pi.mybtv.net/live/315.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 ,Reuters (1080p)
+#EXTINF:-1 ,Reuters Now (1080p)
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Rev'n (720p)
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
