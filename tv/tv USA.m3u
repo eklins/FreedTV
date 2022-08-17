@@ -1265,6 +1265,8 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 https://d80z5qf1qyhbf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,VENN (DistroTV★1080p)
 https://venntv-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Very Oklahoma (KOCO)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
 #EXTINF:-1 ,Vevo Hip Hop (1080p)
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 #EXTINF:-1 ,Vevo Latino (1080p) [Not 24/7]
@@ -1283,6 +1285,8 @@ http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.
 https://81988.global.ssl.fastly.net/6054f2db9a679c037cbbb2b2/live_7749cbc088e711eb99623595db260c33/index.m3u8
 #EXTINF:-1 ,VSiN (720p)
 https://stream.rcncdn.com/live/vsinproxy.m3u8
+#EXTINF:-1 , Washington: Seattle
+https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
 #EXTINF:-1 ,WATC-DT1
 https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 #EXTINF:-1 ,WATC-DT2
@@ -1315,6 +1319,8 @@ https://edu-wcat.azureedge.net/live/live.m3u8
 https://frontdoor.wcat-tv.org:8686/live/live.m3u8
 #EXTINF:-1 ,WLNG Radio (410p) [Not 24/7]
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+#EXTINF:-1 ,WMUR 9 New Hampshire
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
 #EXTINF:-1 ,World (WLIW-DT3★432p)
 https://v-ny.mybtv.net/live/577.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,World Poker Tour (1080p) [Not 24/7]
