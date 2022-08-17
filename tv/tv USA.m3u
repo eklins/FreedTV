@@ -1,28 +1,40 @@
 #EXTM3U
 #EXTINF:-1 ,33 Victor Valley (KVVB-TV★1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 ,a3BIKINI (720p)
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 ,ABC 2 Baton Rouge LA (WBRZ★720p) [Not 24/7]
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 ,ABC 3 Corpus Christi TX (KIII★1080p)
 https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+#EXTINF:-1 ,ABC 4 Pittsburg PA (WTAE★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
 #EXTINF:-1 ,ABC 4 Seattle WA (KOMO-TV★720p)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 ,ABC 5 Des Moines IA (WOI★1080p)
 https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+#EXTINF:-1 ,ABC 5 Oklahoma City OK (KOCO★576p) [Not 24/7]
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
 #EXTINF:-1 ,ABC 6 (WPVI-DT1★720p)
 https://v-pi.mybtv.net/live/333.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,ABC 7 Denver CO (KMGH★720p)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 ,ABC 7 Los Angeles CA (KABC-TV★720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1 ,ABC 7 NY (WABC-DT1★720p)
+#EXTINF:-1 ,ABC 7 New York (WABC-DT1★720p)
 https://v-ny.mybtv.net/live/554.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,ABC 7 Omaha NE (KETV★720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
 #EXTINF:-1 ,ABC 7 Washington DC (WJLA★720p)
 https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 #EXTINF:-1 ,ABC 8 Dallas TX (WFAA★1080p)
 https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
 #EXTINF:-1 ,ABC 8 Davenport IA (WQAD★1080p)
 https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
+#EXTINF:-1 ,ABC 9 Kansas City MO (KMBC-TV★720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1 ,ABC 9 Manchester NH (WMUR-TV★720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
 #EXTINF:-1 ,ABC 9 Orlando FL (WFTV★720p)
 https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
 #EXTINF:-1 ,ABC 10 Sacramento CA (KXTV★1080p)
@@ -177,10 +189,6 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,AMC+ (720p)
 https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
-#EXTINF:-1 ,America's Voice (720p)
-https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1 ,America's Voice (KCKS-LD5★480p) [Not 24/7]
-https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
 #EXTINF:-1 ,American Horrors (480p)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 ,AMG TV (1080p)
@@ -243,6 +251,10 @@ https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 https://www.bloomberg.com/media-manifest/streams/politics.m3u8
 #EXTINF:-1 ,Bloomberg TV+ UHD (2160p)
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,bon appétit (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Boomerang (EMEA Slovenia)
+http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
 #EXTINF:-1 ,Bounce (WXTV-DT2)
 https://v-ny.mybtv.net/live/644.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Bounce XL
@@ -267,6 +279,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 https://v-ny.mybtv.net/live/663.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Canela TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---&checkedby:iptvcat.com
+#EXTINF:-1 ,CBC News
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
+#EXTINF:-1 ,CBC News Highlights (720p)
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 ,CBN News (1080p)
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 ,CBS 2 Greensboro NC (WFMY★1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
 #EXTINF:-1 ,CBS 2 New York (WCBS-DT1★1080p)
@@ -339,6 +357,8 @@ http://51.161.118.146:8080/ISG03_CBS_NASHVILLE_TN_WTVF/tracks-v5a1/mono.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 ,CBS News Baltimore (720p)
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 ,CBS News Boston MA (720p)
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 #EXTINF:-1 ,CBS News Chicago (720p)
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
 #EXTINF:-1 ,CBS News Colorado (720p)
@@ -349,8 +369,12 @@ https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1 ,CBS News Miami (720p)
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:-1 ,CBS News Minnesota MN (720p)
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 #EXTINF:-1 ,CBS News New York (720p)
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 ,CBS News Philly PA (720p)
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 #EXTINF:-1 ,CBS News Pittsburgh (720p)
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 #EXTINF:-1 ,CBS News Sacramento (720p)
@@ -395,8 +419,10 @@ https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
 https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 #EXTINF:-1 ,Christian Youth Channel (CYC★1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 ,CinePride (720p)
+#EXTINF:-1 ,Cine Pride (720p)
 https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
+#EXTINF:-1 ,Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 ,Civilized. (1080p) [Not 24/7]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
 #EXTINF:-1 ,Classic Cinema (240p) [Not 24/7]
@@ -457,10 +483,16 @@ https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 ,Divine Vision (480p) [Not 24/7]
 https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:-1 ,Docurama (1080p)
+https://docurama-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,DryBar Comedy (720p)
 https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
 #EXTINF:-1 ,Ecuavisa (720p)
 https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
+#EXTINF:-1 ,EDGEsport UK (1080p)
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,EDGEsport US (1080p)
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,El Conflecto (480p)
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
 #EXTINF:-1 ,Electric Now (1080p) [Not 24/7]
@@ -471,6 +503,10 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
 #EXTINF:-1 ,ESR 24x7 eSports Network (1080p)
 https://eyeonesports.com/ES2RA-628g.m3u8
+#EXTINF:-1 ,Estrella News (1080p)
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Estrella TV East (1080p)
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Estrella TV (Espanol)
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Everyday Heroes (480p)
@@ -599,6 +635,8 @@ http://51.161.118.146:8080/ISG03_FOX_SAN_DIEGO_CA_KSWB/video.m3u8
 http://51.161.118.146:8080/ISG03_FOX_SAN_FRANCISCO_CA_KTVU/video.m3u8
 #EXTINF:-1 ,FOX Sacramento CA (KTXL-DT1★720p)
 http://51.161.118.146:8080/ISG03_FOX_SACRAMENTO_CA_KTXL/video.m3u8
+#EXTINF:-1 ,Fox Soul (720p)
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
 #EXTINF:-1 ,FOX Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 ,FOX Washington DC (WTTG-DT1★720p)
@@ -657,12 +695,18 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
 #EXTINF:-1 ,IFC East (720p)
 https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 ,iFood.TV (1080p)
+https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ,InfoWars (720p)
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-#EXTINF:-1 ,Ion Mystery (WJLP-DT4)
+#EXTINF:-1 ,ion
+https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ion Mystery (WJLP-DT4)
 https://v-ny.mybtv.net/live/627.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,ion Plus
+https://ion-plus.samsung.wurl.com/playlist.m3u8
 #EXTINF:-1 ,Island Escape (720p)
 https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
 #EXTINF:-1 ,JBS (404p) [Not 24/7]
@@ -675,6 +719,8 @@ https://johnnycarson-zype.amagi.tv/playlistR432p.m3u8
 https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
 #EXTINF:-1 ,Judge Karen's Court (540p)
 https://cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
+#EXTINF:-1 ,Juntos (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 ,Kartoon Circus (720p)
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 #EXTINF:-1 ,KBP Sports (720p) [Not 24/7]
@@ -699,6 +745,8 @@ https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 ,LifevisionTV (406p) [Not 24/7]
 https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 ,Lively Place (720p)
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,LNKTV City (1080p)
 http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 ,LNKTV Education (1080p)
@@ -759,12 +807,16 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
 #EXTINF:-1 ,NBC 4 (WNBC-DT1★1080p) [Not 24/7]
 https://v-ny.mybtv.net/live/548.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,NBC 5 Cincinnati OH (WLWT★720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
 #EXTINF:-1 ,NBC 5 Seattle WA (KING★1080p)
 https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
 #EXTINF:-1 ,NBC 5 St. Louis MO (KSDK★1080p)
 https://livevideo01.ksdk.com/hls/live/2014965/newscasts/live.m3u8
 #EXTINF:-1 ,NBC 6 College Station TX (KAGS★1080p)
 https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8
+#EXTINF:-1 ,NBC 6 New Orleans LA (WDSU★720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
 #EXTINF:-1 ,NBC 6 Waco TX (KCEN★1080p)
 https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8
 #EXTINF:-1 ,NBC 7 Boise ID (KTVB★1080p)
@@ -853,26 +905,62 @@ https://content.uplynk.com/channel/aa92b664ac5941de81cd410803329da2.m3u8
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 #EXTINF:-1 ,News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 ,News Albuquerque NM (KOAT-TV★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
+#EXTINF:-1 ,News Baltimore MD (WBAL-TV★576p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
 #EXTINF:-1 ,News Biloxi MS (WXXV-TV★720p)
 https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
+#EXTINF:-1 ,News Boston MA (WCVB-TV★720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
 #EXTINF:-1 ,News Chattanooga TN (WDEF-TV★720p)
 http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8
 #EXTINF:-1 ,News Colorado Springs CO (KRDO★720p)
 https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
+#EXTINF:-1 ,News Des Moines IA (KCCI-TV★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8
 #EXTINF:-1 ,News Fort Myers FL (WFTX★720p)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:-1 ,News Fort Smith AR (KHBS-TV★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8
+#EXTINF:-1 ,News Jackson MS (WAPT-TV★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
+#EXTINF:-1 ,News Lakeland FL (WMOR-TV[★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8
+#EXTINF:-1 ,News Lancaster PA (WGAL-TV★720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
 #EXTINF:-1 ,News Lexington KY (WTVQ-DT★720p)
 https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
+#EXTINF:-1 ,News Louisville KY (WLKY-TV★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
 #EXTINF:-1 ,News Macon GA (WMGT-TV★720p)
 https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
+#EXTINF:-1 ,News Milwaukee WI (WISN-TV★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
+#EXTINF:-1 ,News Orlando FL (WESH-TV★720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
 #EXTINF:-1 ,News Orleans Television (NOTV★720p)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 ,News Plattsburgh NY (WPTZ-TV★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
+#EXTINF:-1 ,News Portland ME (WMTW-TV★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8
+#EXTINF:-1 ,News Sacramento CA (KCRA-TV★720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
+#EXTINF:-1 ,News Salinas CA (KSBW-TV★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
 #EXTINF:-1 ,News San Louis Obispo CA (KSBY★720p)
 https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
+#EXTINF:-1 ,News Savannah GA (WJCL-TV★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
+#EXTINF:-1 ,News West Palm Beach FL (WPBF-TV★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8
 #EXTINF:-1 ,News West Palm Beach FL (WPTV★720p)
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 #EXTINF:-1 ,News Willmington NC (WWAY★720p)
 https://dai.google.com/linear/hls/event/A7CgcBYNTuKfvFvW8rmiJA/master.m3u8
+#EXTINF:-1 ,News Winston-Salem NC (WXII-TV★720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXII.m3u8
 #EXTINF:-1 ,Newsmax (720p)
 https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 ,NewsNet (720p) [Not 24/7]
@@ -917,8 +1005,12 @@ https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 #EXTINF:-1 ,Outdoor America
 https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
+#EXTINF:-1 ,Pac 12 Insider (1080p)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Party Tyme Karaoke (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
+#EXTINF:-1 ,Pattrn (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
 #EXTINF:-1 ,PBS 39 Allentown PA (WLVT★720p)
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 #EXTINF:-1 ,PBS 39 Extra Philadelphia PA (WPPT★480p)
@@ -997,12 +1089,18 @@ https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:-1 ,Radiou TV
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-#EXTINF:-1 ,Real America's Voice
-https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Real America's Voice (720p)
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 ,Real Madrid TV US Version (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 #EXTINF:-1 ,Real Vision (720p)
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 #EXTINF:-1 ,Red Apple 21 (Fairfax County Public Schools★480p) [Not 24/7]
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 ,Reelz
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
 #EXTINF:-1 ,Reelz (720p) [Not 24/7]
 https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
 #EXTINF:-1 ,Relaxing Rain (720p)
@@ -1033,6 +1131,8 @@ https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
 #EXTINF:-1 ,Runway TV (720p) [Not 24/7]
 https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
+#EXTINF:-1 ,Santa and the Three Bears (480p)
+https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
 #EXTINF:-1 ,Scream Factory TV (720p)
 https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Screen Dreams (720p)
@@ -1051,6 +1151,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 #EXTINF:-1 ,Smile (540p) [Not 24/7]
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
+#EXTINF:-1 ,So...Real (1080p)
+https://soreal-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Spirit TV (720p) [Not 24/7]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 ,SportsGrid (720p)
@@ -1059,8 +1161,226 @@ https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
 #EXTINF:-1 ,Spydar TV (720p)
 https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
-#EXTINF:-1 ,STIRR Macon
+#EXTINF:-1 ,STIRR America vs Addiction (720p)
+https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8
+#EXTINF:-1 ,STIRR Big Life TV (720p)
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,STIRR Buzzr (1080p)
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+#EXTINF:-1 ,STIRR City (480p)
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+#EXTINF:-1 ,STIRR City Abilene (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
+#EXTINF:-1 ,STIRR City Albany (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8
+#EXTINF:-1 ,STIRR City Amarillo (720p)
+https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8
+#EXTINF:-1 ,STIRR City Austin (480p)
+https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8
+#EXTINF:-1 ,STIRR City Bakersfield (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8
+#EXTINF:-1 ,STIRR City Baltimore (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
+#EXTINF:-1 ,STIRR City Bay City (720p)
+https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
+#EXTINF:-1 ,STIRR City Beaumont (720p)
+https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8
+#EXTINF:-1 ,STIRR City Beaumont Port Arthur (720p)
+https://dai.google.com/linear/hls/event/tlvrrqidRaG0KbLN4Hd5mg/master.m3u8
+#EXTINF:-1 ,STIRR City Birmingham (720p)
+https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8
+#EXTINF:-1 ,STIRR City Boise (480p)
+https://dai.google.com/linear/hls/event/EXltT2IOQvCIn8v23_15ow/master.m3u8
+#EXTINF:-1 ,STIRR City Cadillac (720p)
+https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
+#EXTINF:-1 ,STIRR City Cedar Rapids (720p)
+https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8
+#EXTINF:-1 ,STIRR City Champaign (720p)
+https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
+#EXTINF:-1 ,STIRR City Charleston (720p)
+https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8
+#EXTINF:-1 ,STIRR City Charleston Huntington (234p) [Not 24/7]
+https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
+#EXTINF:-1 ,STIRR City Chattanooga (720p)
+https://dai.google.com/linear/hls/event/7_v7qMjnQWGZShy2eOvR5g/master.m3u8
+#EXTINF:-1 ,STIRR City Chico-Redding (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/sHnor7AERX60rGA1kR_wPA/master.m3u8
+#EXTINF:-1 ,STIRR City Cincinnati (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8
+#EXTINF:-1 ,STIRR City Columbia ① (720p)
+https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8
+#EXTINF:-1 ,STIRR City Columbia ② (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8
+#EXTINF:-1 ,STIRR City Columbus ① (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8
+#EXTINF:-1 ,STIRR City Columbus ② (720p)
+https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8
+#EXTINF:-1 ,STIRR City Dayton (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8
+#EXTINF:-1 ,STIRR City El Paso ① (480p)
+https://dai.google.com/linear/hls/event/MYhAOCTqQA6QFBdc1xwULQ/master.m3u8
+#EXTINF:-1 ,STIRR City El Paso ② (720p)
+https://dai.google.com/linear/hls/event/Exp7zxEPSLWuEhMoD2voOg/master.m3u8
+#EXTINF:-1 ,STIRR City Eugene Springfield ① (720p)
+https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8
+#EXTINF:-1 ,STIRR City Eugene Springfield ② (540p)
+https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8
+#EXTINF:-1 ,STIRR City Florence (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8
+#EXTINF:-1 ,STIRR City Fresno-Visalia (720p)
+https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8
+#EXTINF:-1 ,STIRR City Gainesville (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8
+#EXTINF:-1 ,STIRR City Grand Rapids (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/leOKmL9fQ6eZyhdoROSh5Q/master.m3u8
+#EXTINF:-1 ,STIRR City Green Bay (720p)
+https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8
+#EXTINF:-1 ,STIRR City Greenville Asheville (720p)
+https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
+#EXTINF:-1 ,STIRR City Greenville New Bern (720p)
+https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
+#EXTINF:-1 ,STIRR City Harrisburg (720p)
+https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
+#EXTINF:-1 ,STIRR City Hastings (720p)
+https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8
+#EXTINF:-1 ,STIRR City Johnstown Altoona (720p)
+https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8
+#EXTINF:-1 ,STIRR City Las Vegas (720p)
+https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8
+#EXTINF:-1 ,STIRR City Lewiston (720p)
+https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8
+#EXTINF:-1 ,STIRR City Little Rock (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
+#EXTINF:-1 ,STIRR City Los Angeles (480p)
+https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
+#EXTINF:-1 ,STIRR City Lynchburg Roanoke (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8
+#EXTINF:-1 ,STIRR City Macon (234p) [Not 24/7]
 https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8
+#EXTINF:-1 ,STIRR City Medford (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8
+#EXTINF:-1 ,STIRR City Milwaukee (720p)
+https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8
+#EXTINF:-1 ,STIRR City Minneapolis (720p)
+https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8
+#EXTINF:-1 ,STIRR City Missoula (720p)
+https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8
+#EXTINF:-1 ,STIRR City Nashville (720p)
+https://dai.google.com/linear/hls/event/IG9ThaPaTwCojeoEWVNZRQ/master.m3u8
+#EXTINF:-1 ,STIRR City Norfolk Portsmouth (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8
+#EXTINF:-1 ,STIRR City Oklahoma City (234p)
+https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8
+#EXTINF:-1 ,STIRR City Ottumwa (720p)
+https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8
+#EXTINF:-1 ,STIRR City Pensacola (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8
+#EXTINF:-1 ,STIRR City Pittsburgh (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8
+#EXTINF:-1 ,STIRR City Portland (720p)
+https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8
+#EXTINF:-1 ,STIRR City Providence (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8
+#EXTINF:-1 ,STIRR City Quincy (720p)
+https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
+#EXTINF:-1 ,STIRR City Raleigh Durham (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8
+#EXTINF:-1 ,STIRR City Reno (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/0Zb5SSQcTme6P7FYwwAwcQ/master.m3u8
+#EXTINF:-1 ,STIRR City Rochester (720p)
+https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8
+#EXTINF:-1 ,STIRR City Salt Lake City (720p)
+https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8
+#EXTINF:-1 ,STIRR City San Antonio (720p)
+https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8
+#EXTINF:-1 ,STIRR City Seattle (720p)
+https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
+#EXTINF:-1 ,STIRR City Sioux City (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8
+#EXTINF:-1 ,STIRR City South Bend (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8
+#EXTINF:-1 ,STIRR City Springfield #2 (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8
+#EXTINF:-1 ,STIRR City St. Louis (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8
+#EXTINF:-1 ,STIRR City Syracuse (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8
+#EXTINF:-1 ,STIRR City Toledo (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8
+#EXTINF:-1 ,STIRR City Tri-Cities (720p)
+https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8
+#EXTINF:-1 ,STIRR City Tulsa (720p)
+https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8
+#EXTINF:-1 ,STIRR City Washington D.C. (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8
+#EXTINF:-1 ,STIRR City West Palm Beach (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8
+#EXTINF:-1 ,STIRR City Wheeling Steubenville (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8
+#EXTINF:-1 ,STIRR City Wilkes Barre Scranton (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8
+#EXTINF:-1 ,STIRR City Yakima Pasco ① (720p)
+https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8
+#EXTINF:-1 ,STIRR City Yakima Pasco ② (480p) [Not 24/7]
+https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
+#EXTINF:-1 ,STIRR Classic TV (768p)
+https://dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8
+#EXTINF:-1 ,STIRR Dabl (1080p)
+http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
+#EXTINF:-1 ,STIRR Deal or No Deal (720p) [Not 24/7]
+https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,STIRR Deal or No Deal (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
+#EXTINF:-1 ,STIRR Dick Cavett (768p)
+https://dai.google.com/linear/hls/event/-NacIpMDTZ2y1bhkJN96Vg/master.m3u8
+#EXTINF:-1 ,STIRR Electric Now (1080p) [Not 24/7]
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+#EXTINF:-1 ,STIRR ET Live (1080p)
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1 ,STIRR evrgrn (1080p)
+https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
+#EXTINF:-1 ,STIRR Fail Army (720p)
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 ,STIRR Glewed TV (720p)
+https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
+#EXTINF:-1 ,STIRR It's Showtime at the Apollo (720p)
+https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
+#EXTINF:-1 ,STIRR Law & Crime (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 ,STIRR LIVExLIVE (1080p)
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 ,STIRR Magellan TV (720p)
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 ,STIRR MavTV (720p)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 ,STIRR Midnight Pulp (720p)
+https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
+#EXTINF:-1 ,STIRR Movies (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 ,STIRR National (720p)
+https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8
+#EXTINF:-1 ,STIRR Outdoor America (720p)
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 ,STIRR Outside TV (1080p)
+https://outsidetvplus-stirr.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,STIRR Pursuit Up (720p)
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
+#EXTINF:-1 ,STIRR Revry (720p)
+https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8
+#EXTINF:-1 ,STIRR So...Real (1080p)
+https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
+#EXTINF:-1 ,STIRR SOAR (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
+#EXTINF:-1 ,STIRR Sports TV Plus (1080p)
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 ,STIRR Sportswire (1080p)
+https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
+#EXTINF:-1 ,STIRR USA Today (1080p)
+https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
+#EXTINF:-1 ,STIRR Waypoint TV (1080p)
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+#EXTINF:-1 ,STIRR Weather Spy (720p)
+https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 #EXTINF:-1 ,StockCharts TV (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/19628359/events/7940975/player
 #EXTINF:-1 ,Story Television (WJLP-DT7)
@@ -1079,6 +1399,8 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Tastemade en Español (1080p)
 https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8
+#EXTINF:-1 ,Tastemade France (1080p)
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8
 #EXTINF:-1 ,TBD. (720p)
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 ,TBN East (1080p) [Not 24/7]
@@ -1103,6 +1425,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74
 https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
 #EXTINF:-1 ,The Boat Show (720p)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 ,The Craftistry (1080p)
+https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,The First
 https://thefirst-distroscale.amagi.tv/index.m3u8
 #EXTINF:-1 ,The Heartland Network (720p)
@@ -1133,6 +1457,8 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 ,TNT Sports 5 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 ,Today All Day (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Today.m3u8
 #EXTINF:-1 ,Toon Goggles (1080p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 #EXTINF:-1 ,Toonami Aftermath (East★480p)
@@ -1143,6 +1469,8 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 ,Toonami Aftermath Radio (480p)
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+#EXTINF:-1 ,Top Cine (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 ,TPT Now (KTCA-DT5★720p) [Not 24/7]
 https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
 #EXTINF:-1 ,Tranquil Thunderstorms (720p)
@@ -1237,12 +1565,16 @@ https://v-ny.mybtv.net/live/999.m3u8?env=prd&uid=-1&x=1
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 ,UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 ,Unbeaten (1080p)
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,UNIMÃS (Nueva York★WFUT-DT1)
 https://v-ny.mybtv.net/live/713.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Univision 41 (WXTV-DT1)
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Untamed Sports TV (KCKS-LD8★480p) [Not 24/7]
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 ,USA Today (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
 #EXTINF:-1 ,Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 ,VBS TV (480p) [Not 24/7]
@@ -1251,6 +1583,8 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 https://d80z5qf1qyhbf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,VENN (DistroTV★1080p)
 https://venntv-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Very Alabama (576p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
 #EXTINF:-1 ,Very Oklahoma (KOCO)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
 #EXTINF:-1 ,Vevo Hip Hop (1080p)
@@ -1291,6 +1625,8 @@ https://player-api.new.livestream.com/accounts/27442514/events/8305246/live.m3u8
 https://player-api.new.livestream.com/accounts/27442514/events/8331542/live.m3u8
 #EXTINF:-1 ,Weather Channel Baton Rouge LA (WBRZ)
 https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
+#EXTINF:-1 ,Weather Nation (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
 #EXTINF:-1 ,Weather Nation (KCKS-LD6★480p) [Not 24/7]
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 #EXTINF:-1 ,WFMZ 69 (WFMZ-DT1)
@@ -1317,6 +1653,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://v-pi.mybtv.net/live/400.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Wu Tang (East)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---&checkedby:iptvcat.com
+#EXTINF:-1 ,Xplore (1080p)
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Xplore Reisen (720p) [Not 24/7]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1ecb875d-8be7-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 ,XUMO MovieMex
@@ -1326,7 +1664,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,Yahoo! News (720p)
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1 ,Young Hollywood (720p)
-https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Youtoo America (1080p)
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:-1 ,Youtoo America (1080p)
