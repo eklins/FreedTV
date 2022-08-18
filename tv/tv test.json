@@ -7,6 +7,12 @@
       "parse": true
     },
     {
+      "name": "ABC Me",
+      "url": "https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/index.m3u8?hdnea=st=1660833296~exp=1660834196~acl=/*~hmac=e8f76806ab8213fe4f6c42b7a21305a97c9e73f65bf231077d14612a1a88ce98",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sci-Fi",
       "url": "http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
