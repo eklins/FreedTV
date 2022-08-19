@@ -551,6 +551,10 @@ https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-India.png",India❤CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 ,IND★KCV Movie
+http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
+#EXTINF:-1 ,IND★Nile TV Cinema
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 ,IND★Star Gold (Utsav)
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 ,IND★Zee Cinema
