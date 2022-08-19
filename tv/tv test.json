@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "TVB 星河",
+      "url": "http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Marvel",
       "url": "http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
@@ -345,12 +351,6 @@
     {
       "name": "粤语片台 mitv",
       "url": "mitv://ns2.hellotvvod.com:9906/d2d85aebf4be4b4b8311ae0c598b20bf",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "TVB 星河",
-      "url": "mitv://ns2.hellotvvod.com:9906/ba66025e74bc46c798e13fc9a7187aca",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
