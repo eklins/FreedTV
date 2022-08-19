@@ -7,6 +7,12 @@
       "parse": false
     },
     {
+      "name": "Hollywood HD (Unknown Country)",
+      "url": "http://streamer.crimea-tv.net/Hollywood_HD/video.m3u8?token=9d3cc59e",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Thrill",
       "url": "http://45.126.83.51/qwr9ew/s/s34/02.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
