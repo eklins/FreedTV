@@ -769,8 +769,24 @@ http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 ,Localish (WABC-DT2)
 https://v-ny.mybtv.net/live/555.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 ,LocalNow grvty
+#EXTINF:-1 ,LocalNow Christmas in July (720p) [Not 24/7]
+https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
+#EXTINF:-1 ,LocalNow Decentric Media
+https://linear-68.frequency.stream/dist/localnow/68/hls/master/playlist.m3u8
+#EXTINF:-1 ,LocalNow Funny You Should Ask (720p)
+https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
+#EXTINF:-1 ,LocalNow grvty [Not 24/7]
 https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
+#EXTINF:-1 ,LocalNow Highway Thru Hell
+https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
+#EXTINF:-1 ,LocalNow Justice (720p)
+https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
+#EXTINF:-1 ,LocalNow MST3K (Mystery Science Theater 3000)
+https://mst3k-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,LocalNow Weather Gone Viral
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
+#EXTINF:-1 ,LocalNow Zen
+https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8
 #EXTINF:-1 ,Logos TV Mubasher (1080p) [Not 24/7]
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
 #EXTINF:-1 ,Lone Star (960p)
@@ -1529,7 +1545,7 @@ https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
 https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
 #EXTINF:-1 ,Revry 43
 https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
-#EXTINF:-1 ,Revry her
+#EXTINF:-1 ,Revry her (OML)
 https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
 #EXTINF:-1 ,Revry News (720p) [Not 24/7]
 https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
