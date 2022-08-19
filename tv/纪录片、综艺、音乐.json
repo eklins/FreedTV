@@ -2443,6 +2443,12 @@
       "parse": false
     },
     {
+      "name": "iConcerts",
+      "url": "http://myott.top/stream/DT6QU63K5VX/267.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Juice TV",
       "url": "https://juicex.nz/hls/mystream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
