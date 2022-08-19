@@ -1517,6 +1517,8 @@ https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 ,RUS★TV BRICS (Russian)
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 ,RUS★VHS 90s (Кинозал)
+https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Rwanda.png",Rwanda❤KC2
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 ,RWA★RTV Rwanda
@@ -1847,6 +1849,8 @@ https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxtbviCaL2IHaeTGsvzF9STDJcqLIWRj1kw&usqp=CAU",♦Discovery Science
 http://myott.top/stream/DT6QU63K5VX/146.m3u8
+#EXTINF:-1 ,♦Fentazy
+http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 ,♦FILMUADRAMA HD
 http://myott.top/stream/DT6QU63K5VX/273.m3u8
 #EXTINF:-1 ,♦Gulli Girl
