@@ -689,6 +689,8 @@ http://51.210.199.40/hls/stream.m3u8
 http://51.210.199.3/hls/stream.m3u8
 #EXTINF:-1 ,IRN★SL②
 http://51.210.199.2/hls/stream.m3u8
+#EXTINF:-1 ,IRN★TehranTV 24
+http://51.210.227.132/hls/stream.m3u8
 #EXTINF:-1 ,IRN★VOX①
 http://51.210.199.8/hls/stream.m3u8
 #EXTINF:-1 ,IRN★VOX②
