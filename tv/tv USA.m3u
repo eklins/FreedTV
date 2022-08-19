@@ -1529,6 +1529,8 @@ https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
 https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
 #EXTINF:-1 ,Revry 43
 https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
+#EXTINF:-1 ,Revry her
+https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
 #EXTINF:-1 ,Revry News (720p) [Not 24/7]
 https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 #EXTINF:-1 ,Revry Queer (720p)
