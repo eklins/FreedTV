@@ -161,6 +161,8 @@ http://93.152.174.144:4000/play/privatetv1/index.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 ,VISIT-X TV Chunklist
 http://stream.visit-x.tv/vxtv/live/chunklist_w1769846509.m3u8
+#EXTINF:-1 ,VISIT-X TV NGRP
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 ,VISIT-X TV Playlist
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 ,XY Max UK
