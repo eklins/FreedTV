@@ -637,7 +637,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRIDKI)/ind
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRI4)/Stream (03)/index.m3u8
 #EXTINF:-1 ,IDN★The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤FX
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤AVA Family (720p) [Not 24/7]
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 ,IRN★AVA Series (720p)
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 ,IRN★FX
 http://51.210.199.52/hls/stream.m3u8
 #EXTINF:-1 ,IRN★iFilm [Not 24/7]
 https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
@@ -647,8 +651,6 @@ https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
 https://live1.presstv.ir/live/ifilmen.m3u8
 #EXTINF:-1 ,IRN★iFilm Persian ② [Not 24/7]
 https://live1.presstv.ir/live/ifilm2.m3u8
-#EXTINF:-1 ,IRN★OMG Channel
-http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
 #EXTINF:-1 ,IRN★Persian Film
 http://51.210.227.135/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Persiana Cinema
@@ -687,6 +689,10 @@ http://51.210.199.2/hls/stream.m3u8
 http://51.210.199.8/hls/stream.m3u8
 #EXTINF:-1 ,IRN★VOX②
 http://51.210.199.9/hls/stream.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iraq.png",Iraq❤AVA Entertainment (720p) [Not 24/7]
+https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
+#EXTINF:-1 ,IRQ★Dijlah (1080p)
+http://91.134.145.75:10001/Dijlah/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ireland.png",Ireland❤Oireachtas TV
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Italy.png",Italy❤12 TV Parma
@@ -1653,12 +1659,7 @@ https://rakuten-topfree-4-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rouge TV
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤AVA Entertainment [Not 24/7]
-https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
-#EXTINF:-1 ,TUR★AVA Family
-http://51.210.199.5/hls/stream.m3u8
-#EXTINF:-1 ,TUR★AVA Series
-http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤
 #EXTINF:-1 ,TUR★Cekmeköy Web TV
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 #EXTINF:-1 ,TUR★FOX Türkiye
