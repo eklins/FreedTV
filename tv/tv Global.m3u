@@ -1870,7 +1870,9 @@ https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★VTC2
 https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxtbviCaL2IHaeTGsvzF9STDJcqLIWRj1kw&usqp=CAU",♦Cinema Classic TV
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxtbviCaL2IHaeTGsvzF9STDJcqLIWRj1kw&usqp=CAU",♦Asomavisión
+https://asomatv.duckdns.org/livestream/stream.m3u8
+#EXTINF:-1 ,♦Cinema Classic TV
 http://213.172.73.132:8081/nimble_live/Cinema_classik_TV/playlist.m3u8
 #EXTINF:-1 ,♦CineMan Thriller HD
 http://myott.top/stream/DT6QU63K5VX/352.m3u8
