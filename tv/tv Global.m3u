@@ -533,7 +533,7 @@ https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
 #EXTINF:-1 ,HKG★电台第六台：香港之声
 http://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Hungary.png",Hungary❤ATV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Hungary.png",Hungary❤ATV (360p) [Not 24/7]
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 ,HUN★Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
