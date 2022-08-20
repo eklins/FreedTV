@@ -25,6 +25,32 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 ,♦Asomavisión
+https://asomatv.duckdns.org/livestream/stream.m3u8
+#EXTINF:-1 ,♦Cinema Classic TV
+http://213.172.73.132:8081/nimble_live/Cinema_classik_TV/playlist.m3u8
+#EXTINF:-1 ,♦CineMan Thriller HD
+http://myott.top/stream/DT6QU63K5VX/352.m3u8
+#EXTINF:-1 ,♦Discovery Science
+http://myott.top/stream/DT6QU63K5VX/146.m3u8
+#EXTINF:-1 ,♦Fentazy
+http://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1 ,♦FILMUADRAMA HD
+http://myott.top/stream/DT6QU63K5VX/273.m3u8
+#EXTINF:-1 ,♦Gulli Girl
+http://myott.top/stream/DT6QU63K5VX/305.m3u8
+#EXTINF:-1 ,♦Hollywood HD
+http://myott.top/stream/DT6QU63K5VX/268.m3u8
+#EXTINF:-1 ,♦Investigation Discovery
+http://myott.top/stream/DT6QU63K5VX/205.m3u8
+#EXTINF:-1 ,♦MTV 80s
+http://myott.top/stream/DT6QU63K5VX/87.m3u8
+#EXTINF:-1 ,♦sci-fi
+http://myott.top/stream/DT6QU63K5VX/180.m3u8
+#EXTINF:-1 ,♦TVIQ HD
+http://myott.top/stream/DT6QU63K5VX/414.m3u8
+#EXTINF:-1 ,♦Viasat Explore
+http://myott.top/stream/DT6QU63K5VX/239.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤WATAN-E-MAA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Albania.png",Albania❤ALPO (720p) [Not 24/7]
@@ -1872,29 +1898,3 @@ https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★VTC2
 https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxtbviCaL2IHaeTGsvzF9STDJcqLIWRj1kw&usqp=CAU",♦Asomavisión
-https://asomatv.duckdns.org/livestream/stream.m3u8
-#EXTINF:-1 ,♦Cinema Classic TV
-http://213.172.73.132:8081/nimble_live/Cinema_classik_TV/playlist.m3u8
-#EXTINF:-1 ,♦CineMan Thriller HD
-http://myott.top/stream/DT6QU63K5VX/352.m3u8
-#EXTINF:-1 ,♦Discovery Science
-http://myott.top/stream/DT6QU63K5VX/146.m3u8
-#EXTINF:-1 ,♦Fentazy
-http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 ,♦FILMUADRAMA HD
-http://myott.top/stream/DT6QU63K5VX/273.m3u8
-#EXTINF:-1 ,♦Gulli Girl
-http://myott.top/stream/DT6QU63K5VX/305.m3u8
-#EXTINF:-1 ,♦Hollywood HD
-http://myott.top/stream/DT6QU63K5VX/268.m3u8
-#EXTINF:-1 ,♦Investigation Discovery
-http://myott.top/stream/DT6QU63K5VX/205.m3u8
-#EXTINF:-1 ,♦MTV 80s
-http://myott.top/stream/DT6QU63K5VX/87.m3u8
-#EXTINF:-1 ,♦sci-fi
-http://myott.top/stream/DT6QU63K5VX/180.m3u8
-#EXTINF:-1 ,♦TVIQ HD
-http://myott.top/stream/DT6QU63K5VX/414.m3u8
-#EXTINF:-1 ,♦Viasat Explore
-http://myott.top/stream/DT6QU63K5VX/239.m3u8
