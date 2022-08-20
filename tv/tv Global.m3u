@@ -115,6 +115,8 @@ https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
 http://iptv.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 ,AUT★W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bahrain.png",Bahrain❤Bahrain International (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belarus.png",Belarus❤1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 ,BLR★Belros Ⓢ
