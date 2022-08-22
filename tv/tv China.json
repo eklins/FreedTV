@@ -673,20 +673,8 @@
       "parse": false
     },
     {
-      "name": "北京IPTV 4K超清",
-      "url": "http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR+0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52/rO/0g1FiOsgmHLskIhGej57NNTIcVyR/C8/qFakBO3+2/Lci77HWE/MDUdCEgEA==:20211105223205,10000100000000050000000003887500,F6D75A298389DD1E7C3B7D397327CA23,-1,0,1,,,2,,,END",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "北京IPTV+ 电影",
-      "url": "http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR+0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52/rO/0g1FiOsgmHLskIhGej57NNTIcVyR/C8/qFakBO7Z60nQmH/QdgWVzAI0y58w==:20211105223205,10000100000000050000000003887498,F6D75A298389DD1E7C3B7D397327CA23,-1,0,1,,,2,,,END",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "北京IPTV+ 剧场",
-      "url": "http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND",
+      "name": "芒果TV直播",
+      "url": "http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
