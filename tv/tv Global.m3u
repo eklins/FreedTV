@@ -695,6 +695,8 @@ http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 ,IRN★AVA Series (720p)
 http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 ,IRN★Family 24 (Prima Movies)
+http://51.210.199.40/hls/stream.m3u8
 #EXTINF:-1 ,IRN★FX
 http://51.210.199.52/hls/stream.m3u8
 #EXTINF:-1 ,IRN★iFilm [Not 24/7]
@@ -705,9 +707,13 @@ https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
 https://live1.presstv.ir/live/ifilmen.m3u8
 #EXTINF:-1 ,IRN★iFilm Persian ② [Not 24/7]
 https://live1.presstv.ir/live/ifilm2.m3u8
+#EXTINF:-1 ,IRN★Iran Beauty (Webradio)
+http://51.210.199.57/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:-1 ,IRN★Persian Film
+#EXTINF:-1 ,IRN★MTC
+http://51.210.227.128/hls/stream.m3u8
+#EXTINF:-1 ,IRN★Persian Film (720p) [Not 24/7]
 http://51.210.227.135/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Persiana Cinema
 http://51.210.199.15/hls/stream.m3u8
@@ -731,21 +737,23 @@ http://51.210.199.24/hls/stream.m3u8
 http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Persiana One
 http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 ,IRN★Persiana Sonnati (HewadTV)
+http://51.210.199.58/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Persiana Varzesh
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Press TV (English)
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
-#EXTINF:-1 ,IRN★Prima Movies
-http://51.210.199.40/hls/stream.m3u8
 #EXTINF:-1 ,IRN★SL①
 http://51.210.199.3/hls/stream.m3u8
 #EXTINF:-1 ,IRN★SL②
 http://51.210.199.2/hls/stream.m3u8
+#EXTINF:-1 ,IRN★SolhTV
+http://51.210.199.42/hls/stream.m3u8
 #EXTINF:-1 ,IRN★TehranTV 24
 http://51.210.227.132/hls/stream.m3u8
-#EXTINF:-1 ,IRN★VOX①
+#EXTINF:-1 ,IRN★VOX① TVG
 http://51.210.199.8/hls/stream.m3u8
-#EXTINF:-1 ,IRN★VOX②
+#EXTINF:-1 ,IRN★VOX② TVG
 http://51.210.199.9/hls/stream.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iraq.png",Iraq❤AVA Entertainment (720p) [Not 24/7]
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
