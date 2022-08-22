@@ -647,7 +647,7 @@ http://51.161.118.146:8080/ISG03_FOX_SAN_DIEGO_CA_KSWB/video.m3u8
 http://51.161.118.146:8080/ISG03_FOX_SAN_FRANCISCO_CA_KTVU/video.m3u8
 #EXTINF:-1 ,FOX Sacramento CA (KTXL-DT1★720p)
 http://51.161.118.146:8080/ISG03_FOX_SACRAMENTO_CA_KTXL/video.m3u8
-#EXTINF:-1 ,Fox Soul (720p)
+#EXTINF:-1 ,FOX Soul (720p)
 https://lnc-fox-soul-scte.tubi.video/index.m3u8
 #EXTINF:-1 ,FOX Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
