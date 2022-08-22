@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "name": "AXN",
-      "url": "http://59.125.122.90:18548/http/192.168.1.9:8081/hls/68/810/ch01.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AXN",
-      "url": "http://59.125.122.90:18548/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Star World",
-      "url": "http://59.125.122.90:18504/http/192.168.1.9:8081/hls/68/810/ch01.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾美亚电影台 F",
       "url": "http://v3948069e.live.126.net:80/live/2377c02556.flv",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
