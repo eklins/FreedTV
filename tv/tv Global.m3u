@@ -964,7 +964,9 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 ,KOR★한국선거방송（韩国选举广播）
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 ,KOR★Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+http://livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
+#EXTINF:-1 ,KOR★Arirang Korea
+https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,KOR★AsiaN [Not 24/7]
 https://allanf181.github.io/adaptive-streams/streams/kr/AsiaN.m3u8
 #EXTINF:-1 ,KOR★CBS
