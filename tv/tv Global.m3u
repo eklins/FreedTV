@@ -629,6 +629,8 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 ,IDN★HITS (576p)
 http://210.210.155.35/dr9445/h/h37/index.m3u8
+#EXTINF:-1 ,IDN★Indosiar (480p)
+http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 ,IDN★K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 ,IDN★KIX
@@ -675,6 +677,8 @@ http://210.210.155.37/dr9445/h/h20/index.m3u8
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 #EXTINF:-1 ,IDN★tvN Show
 https://apichvod19.seezntv.com/OTM/10130_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+#EXTINF:-1 ,IDN★tvOne (480p)
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 ,IDN★TVRI Aceh
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRIACEH)/index.m3u8
 #EXTINF:-1 ,IDN★TVRI Bali
