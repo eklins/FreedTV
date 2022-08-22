@@ -37,6 +37,18 @@
       "parse": false
     },
     {
+      "name": "海峡卫视（福建）",
+      "url": "http://61.219.170.95:18533/http/192.168.1.9:8077/hls/42/80/fjttv.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1-uVko3zu7-bcMeuYihWKrCOd6-nZ_ImSw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "东风 37",
+      "url": "http://61.219.170.95:18560/.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TVB 星河",
       "url": "http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
