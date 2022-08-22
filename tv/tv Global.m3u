@@ -669,6 +669,8 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 #EXTINF:-1 ,IDN★SCTV (480p)
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#EXTINF:-1 ,IDN★The Indonesia Channel
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 #EXTINF:-1 ,IDN★TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 ,IDN★tvN Asia (576p)
@@ -687,8 +689,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRIBALI)/in
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRIDKI)/index.m3u8
 #EXTINF:-1 ,IDN★TVRI Sports
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRI4)/Stream (03)/index.m3u8
-#EXTINF:-1 ,IDN★The Indonesia Channel
-https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+#EXTINF:-1 ,IDN★Zee Bioskop (360p)
+http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤AVA Family (720p) [Not 24/7]
 http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 ,IRN★AVA Series (720p)
