@@ -673,12 +673,6 @@
       "parse": false
     },
     {
-      "name": "LSTime Movie 龙祥时代",
-      "url": "http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "北京IPTV 4K超清",
       "url": "http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR+0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52/rO/0g1FiOsgmHLskIhGej57NNTIcVyR/C8/qFakBO3+2/Lci77HWE/MDUdCEgEA==:20211105223205,10000100000000050000000003887500,F6D75A298389DD1E7C3B7D397327CA23,-1,0,1,,,2,,,END",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -1399,7 +1393,7 @@
       "parse": false
     },
     {
-      "name": "台湾 Star World",
+      "name": "台湾Star World",
       "url": "http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
@@ -1425,6 +1419,12 @@
     {
       "name": "台湾龙华电影",
       "url": "http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
+      "name": "台湾龙祥时代 (LSTime Movie)",
+      "url": "http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
