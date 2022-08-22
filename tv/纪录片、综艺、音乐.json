@@ -931,6 +931,12 @@
       "parse": false
     },
     {
+      "name": "Star World (Taiwan)",
+      "url": "http://59.125.122.90:18504/http/192.168.1.9:8081/hls/68/810/ch01.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Start",
       "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
