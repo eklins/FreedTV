@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "name": "CZ影视 T",
+      "url": "http://ai5619227.v2.aihost6.top/daili.php?/GZTV/yingshi",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "CZ影视 F",
+      "url": "http://ai5619227.v2.aihost6.top/daili.php?/GZTV/yingshi",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾美亚电影台 F",
       "url": "http://v3948069e.live.126.net:80/live/2377c02556.flv",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
