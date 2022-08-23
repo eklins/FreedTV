@@ -547,8 +547,20 @@
       "parse": false
     },
     {
+      "name": "句容影视频道",
+      "url": "http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "南宁影视娱乐",
       "url": "http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "青海经视",
+      "url": "http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=a7ec5e491648026933",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -589,6 +601,12 @@
       "parse": false
     },
     {
+      "name": "双滦影视",
+      "url": "https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "西安影视频道",
       "url": "http://stream2.xiancity.cn/xatv4/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -607,8 +625,8 @@
       "parse": false
     },
     {
-      "name": "星空国际 (360p)",
-      "url": "http://210.210.155.37/x6bnqe/s/s94/index2.m3u8",
+      "name": "兴隆影视",
+      "url": "https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -621,6 +639,12 @@
     {
       "name": "万州影视 (576p)",
       "url": "http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "烟台影视",
+      "url": "http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -646,6 +670,12 @@
       "name": "星光影院",
       "url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "星空国际 (360p)",
+      "url": "http://210.210.155.37/x6bnqe/s/s94/index2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
