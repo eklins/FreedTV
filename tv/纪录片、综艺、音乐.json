@@ -2329,6 +2329,12 @@
       "parse": true
     },
     {
+      "name": "26 (Japan)",
+      "url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AFR (Afrobeats)",
       "url": "https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -2343,6 +2349,12 @@
     {
       "name": "AXS TV Now",
       "url": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Beat V2 (360p)",
+      "url": "https://stream.v2beat.live/360p.playlist.m3u8.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -2473,6 +2485,18 @@
       "parse": false
     },
     {
+      "name": "J-Pop",
+      "url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "JAWHARA TV (720p) [Not 24/7]",
+      "url": "https://streaming.toutech.net/live/jtv/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Juice TV",
       "url": "https://juicex.nz/hls/mystream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -2517,18 +2541,6 @@
     {
       "name": "MMC",
       "url": "https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV (Japan)",
-      "url": "http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV (USA)",
-      "url": "http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
