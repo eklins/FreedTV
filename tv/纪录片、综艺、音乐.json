@@ -2593,6 +2593,12 @@
       "parse": false
     },
     {
+      "name": "Radio Stereo 5 TV",
+      "url": "https://stream1.aswifi.it/stereo5/live/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Retro (Czech)",
       "url": "http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w389667105_b750000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
