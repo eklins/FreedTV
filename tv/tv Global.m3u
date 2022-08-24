@@ -49,6 +49,8 @@ http://myott.top/stream/DT6QU63K5VX/205.m3u8
 http://myott.top/stream/DT6QU63K5VX/87.m3u8
 #EXTINF:-1 ,🇺🇳sci-fi
 http://myott.top/stream/DT6QU63K5VX/180.m3u8
+#EXTINF:-1 ,🇺🇳Telepacífico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 ,🇺🇳TVIQ HD
 http://myott.top/stream/DT6QU63K5VX/414.m3u8
 #EXTINF:-1 ,🇺🇳Viasat Explore
@@ -121,7 +123,9 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8
 #EXTINF:-1 ,AUS★Wonder
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Austria.png",Austria❤OE24
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Austria.png",Austria❤FS1 (Salzburg)
+https://stream.fs1.tv/hls/webstream.m3u8
+#EXTINF:-1 ,AUT★OE24
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
 #EXTINF:-1 ,AUT★ORF3
 https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
@@ -229,6 +233,8 @@ https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 ,CAN★Degrassi: The Next Generation
 http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★Eawaz (720p)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 ,CAN★Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ,CAN★Heartland
@@ -923,6 +929,8 @@ https://vse2-sa-all4.secdn.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3
 https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
 #EXTINF:-1 ,JPN★AT-X
 https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 ,JPN★BS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 ,JPN★Fuji TV
 https://fujitv2.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 ,JPN★Gunma TV
@@ -1471,6 +1479,8 @@ http://46.4.14.12:9999/intermedia1/playlist.m3u8
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 ,ROU★Naşul TV
 https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+#EXTINF:-1 ,ROU★Prima TV (404p)
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=&checkedby:iptvcat.com
 #EXTINF:-1 ,ROU★Pro TV
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 ,ROU★Profit.ro
