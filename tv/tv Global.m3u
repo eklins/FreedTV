@@ -29,6 +29,8 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 ,🇺🇳Asomavisión
 https://asomatv.duckdns.org/livestream/stream.m3u8
+#EXTINF:-1 ,🇺🇳Boogle Bollywood (1080p) [Not 24/7]
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 ,🇺🇳Cinema Classic TV
 http://213.172.73.132:8081/nimble_live/Cinema_classik_TV/playlist.m3u8
 #EXTINF:-1 ,🇺🇳CineMan Thriller HD
@@ -1507,9 +1509,9 @@ http://ott-cdn.ucom.am/s33/index.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 ,RUS★Доктор
 http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
-#EXTINF:-1 ,RUS★Дом Кино Премиум
+#EXTINF:-1 ,RUS★Дом Кино Премиум (domkino) [Not 24/7]
 https://sc.id-tv.kz/domkino_hd.m3u8
-#EXTINF:-1 ,RUS★Дорама (Dorama UK)
+#EXTINF:-1 ,RUS★Дорама (Dorama UK) [Not 24/7]
 https://sc.id-tv.kz/dorama_hd.m3u8
 #EXTINF:-1 ,RUS★Amedia Hit
 https://sc.id-tv.kz/amedia_hit_hd.m3u8
@@ -1567,13 +1569,13 @@ https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 ,RUS★Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,RUS★Киномикс
+#EXTINF:-1 ,RUS★Киномикс (Kinomix) [Not 24/7]
 https://sc.id-tv.kz/Kinomix_hd.m3u8
-#EXTINF:-1 ,RUS★Кинопремьера
+#EXTINF:-1 ,RUS★Кинопремьера (Kinopremiera) [Not 24/7]
 https://sc.id-tv.kz/Kinopremiera_hd.m3u8
-#EXTINF:-1 ,RUS★Киносемья
+#EXTINF:-1 ,RUS★Киносемья (Kinosemiya) [Not 24/7]
 https://sc.id-tv.kz/Kinosemiya_hd.m3u8
-#EXTINF:-1 ,RUS★Киносвидание
+#EXTINF:-1 ,RUS★Киносвидание (Kinosvidanie) [Not 24/7]
 https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:-1 ,RUS★Курай
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
@@ -1601,7 +1603,7 @@ http://92.50.128.180/utv/1358/index.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,RUS★RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 ,RUS★Sci-Fi Фантастика (400p)
+#EXTINF:-1 ,RUS★Sci-Fi Фантастика (480p) [Not 24/7]
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 ,RUS★Sochi Сочи 24
 https://serv30.vintera.tv/sochi/sochi24/playlist.m3u8
