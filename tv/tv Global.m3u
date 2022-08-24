@@ -269,6 +269,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 ,HRV★TV Nova
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x694rtu
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cyprus.png",Cyprus❤Cinema Time (34100)
+https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 ,CYP★Faros TV2
+https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 ,CYP★Smile
+https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Czech-Republic.png",Czech❤CNN Prima News Ⓢ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 ,CZE★JOJ Family Ⓢ
