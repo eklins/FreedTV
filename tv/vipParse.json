@@ -20,12 +20,6 @@
     },
     {
       "id": 1,
-      "name": "辉影视",
-      "ad": "no",
-      "url": "https://jx.wangyh.cf/m3u8/?url="
-    },
-    {
-      "id": 1,
       "name": "卧龙",
       "ad": "no",
       "url": "https://jx.wolongzywcdn.com:65/m3u8.php?url="
@@ -41,18 +35,6 @@
       "name": "光速",
       "ad": "no",
       "url": "https://www.guangsujx.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "FOX",
-      "ad": "no",
-      "url": "https://www.foxbfq.com/dplayer/?url="
-    },
-    {
-      "id": 1,
-      "name": "猫眼",
-      "ad": "no",
-      "url": "https://jiexi.maoyanbf5.com/m3u8/?url="
     },
     {
       "id": 1,
@@ -80,21 +62,9 @@
     },
     {
       "id": 1,
-      "name": "想看H5",
-      "ad": "no",
-      "url": "https://lyw28.com/m3u8/?url="
-    },
-    {
-      "id": 1,
       "name": "U酷",
       "ad": "no",
       "url": "https://api.ukubf.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "天空",
-      "ad": "no",
-      "url": "https://jx.huishij.com/yun/?url="
     },
     {
       "id": 1,
@@ -134,27 +104,9 @@
     },
     {
       "id": 1,
-      "name": "MWO",
-      "ad": "no",
-      "url": "https://parse.mw0.cc/Bei/?url="
-    },
-    {
-      "id": 1,
-      "name": "猪蹄影院",
-      "ad": "no",
-      "url": "https://api.iztyy.com/jiexi/?url="
-    },
-    {
-      "id": 1,
       "name": "自定义19",
       "ad": "no",
       "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
-    },
-    {
-      "id": 1,
-      "name": "自定义20",
-      "ad": "no",
-      "url": "https://sb.5gseo.net/?url="
     }
   ]
 }
