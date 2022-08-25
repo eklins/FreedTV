@@ -2545,6 +2545,12 @@
       "parse": false
     },
     {
+      "name": "Kerrang (576p)",
+      "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Kiss Kiss TV",
       "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
