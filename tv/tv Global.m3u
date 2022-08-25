@@ -29,6 +29,8 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 ,🇺🇳Asomavisión
 https://asomatv.duckdns.org/livestream/stream.m3u8
+#EXTINF:-1 ,🇺🇳AXN
+http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1 ,🇺🇳Boogle Bollywood (1080p) [Not 24/7]
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 ,🇺🇳Cinema Classic TV
