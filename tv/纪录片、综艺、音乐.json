@@ -2779,6 +2779,12 @@
       "parse": false
     },
     {
+      "name": "Tea TV2",
+      "url": "https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Tempo TV",
       "url": "https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
