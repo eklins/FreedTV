@@ -1573,6 +1573,8 @@ https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 ,RUS★Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 ,RUS★KHL Prime (прямой эфир★曲棍球)
+http://myott.top/stream/DT6QU63K5VX/178.m3u8
 #EXTINF:-1 ,RUS★Киномикс (Kinomix) [Not 24/7]
 https://sc.id-tv.kz/Kinomix_hd.m3u8
 #EXTINF:-1 ,RUS★Кинопремьера (Kinopremiera) [Not 24/7]
