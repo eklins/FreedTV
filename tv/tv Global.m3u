@@ -55,6 +55,10 @@ http://myott.top/stream/DT6QU63K5VX/352.m3u8
 http://myott.top/stream/DT6QU63K5VX/350.m3u8
 #EXTINF:-1 ,🇺🇳Discovery Science
 http://myott.top/stream/DT6QU63K5VX/146.m3u8
+#EXTINF:-1 ,🇺🇳EbS Live (Europe by Satellite★1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
+#EXTINF:-1 ,🇺🇳EbS+ Live (Europe by Satellite★1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 ,🇺🇳Fentazy
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 ,🇺🇳FilmBox Baltic
@@ -67,10 +71,14 @@ http://myott.top/stream/DT6QU63K5VX/305.m3u8
 http://myott.top/stream/DT6QU63K5VX/268.m3u8
 #EXTINF:-1 ,🇺🇳Investigation Discovery
 http://myott.top/stream/DT6QU63K5VX/205.m3u8
+#EXTINF:-1 ,🇺🇳MNB World
+https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Nickelodeon
 http://myott.top/stream/DT6QU63K5VX/127.m3u8
 #EXTINF:-1 ,🇺🇳Paramount Channel
 http://myott.top/stream/DT6QU63K5VX/219.m3u8
+#EXTINF:-1 ,🇺🇳Pardesi TV (720p) [Not 24/7]
+http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 ,🇺🇳Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 ,🇺🇳TVIQ HD
@@ -105,12 +113,16 @@ http://ott-cdn.ucom.am/s48/index.m3u8
 http://myott.top/stream/DT6QU63K5VX/39.m3u8
 #EXTINF:-1 ,ARM★Premium
 http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm1QNHA9M26N9YVVNzELKV8i7A-_af0Fkp_A&usqp=CAU",Aruba❤Aruba TV (1080p) [Not 24/7]
+https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Australia.png",Australia❤ABC
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8221df52788a423c91b717158aadaf25/index.m3u8?hdnea=st=1659860737~exp=1659861637~acl=/*~hmac=d8a5c191162d8c01cdd01a3bb577e7a5f390d10db2a077ea75a89ce5d39f8e2f
 #EXTINF:-1 ,AUS★ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 ,AUS★ausbiz
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 ,AUS★Aus Tamil (720p) [Not 24/7]
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 #EXTINF:-1 ,AUS★C31 Melbourne (480p)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 ,AUS★Channel 44 (480p)
@@ -189,6 +201,8 @@ https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 ,BEL★RTL-Be
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belize.png",Belize❤Channel 7
+https://kalends.anl.bz/localchannels/channel7.stream/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bolivia.png",Bolivia❤Canal CNC Cartagena
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Brazil.png",Brazil❤AgroBrasil TV
@@ -249,6 +263,8 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 #EXTINF:-1 ,CAN★CBC News Highlights
 https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 ,CAN★CBC TV8 (1080p) [Not 24/7]
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 #EXTINF:-1 ,CAN★CTV News
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 ,CAN★CPAC
@@ -647,7 +663,7 @@ http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 ,IDN★Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 ,IDN★Berita Satu World
+#EXTINF:-1 ,IDN★Berita Satu World (720p) [Not 24/7]
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 ,IDN★Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
@@ -1023,10 +1039,12 @@ https://allanf181.github.io/adaptive-streams/streams/kr/CinemaHeaven.m3u8
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 #EXTINF:-1 ,KOR★EBS 2
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 ,KOR★EBS E
+#EXTINF:-1 ,KOR★EBS e
 http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
 #EXTINF:-1 ,KOR★EBS Kids
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 ,KOR★EBS+ 2 (400p)
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,KOR★GCN24 English
 http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_high/playlist.m3u8
 #EXTINF:-1 ,KOR★GCN24 Korean (480p)
