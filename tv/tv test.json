@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "name": "无线财经 T",
+      "url": "http://9.zhxinda.xyz/newss.php?id=2",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "无线财经 F",
+      "url": "http://9.zhxinda.xyz/newss.php?id=2",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AXN",
       "url": "http://190.83.119.67:8000/play/a0pp/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
