@@ -60,7 +60,7 @@ https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:-1 ,🇺🇳EbS+ Live (Europe by Satellite★1080p)
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 ,🇺🇳Euro Star
-https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
+https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 ,🇺🇳Fentazy
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 ,🇺🇳FilmBox Baltic
@@ -1789,9 +1789,7 @@ http://myott.top/stream/DT6QU63K5VX/110.m3u8
 http://myott.top/stream/DT6QU63K5VX/123.m3u8
 #EXTINF:-1 ,SWE★Västmanlands TV
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Switzerland.png",Switzerland❤My Cinema Europe (576p)
-http://210.210.155.35/uq2663/h/h18/index.m3u8
-#EXTINF:-1 ,CHE★One TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Switzerland.png",Switzerland❤One TV
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 ,CHE★PlutoTV Movies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1811,13 +1809,28 @@ https://rakuten-topfree-4-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rouge TV
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤
-#EXTINF:-1 ,TUR★Cekmeköy Web TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤Cekmeköy Web TV
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
-#EXTINF:-1 ,TUR★FOX Türkiye
-https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+#EXTINF:-1 ,TUR★Dream TÜRK
+https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 ,TUR★EURO D YEDEK
+https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
+#EXTINF:-1 ,TUR★Kral Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 ,TUR★Kral TV YEDEK
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:-1 ,TUR★NR1 TURK
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:-1 ,TUR★Power TURK
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,TUR★Show TURK
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+#EXTINF:-1 ,TUR★Star TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 ,TUR★TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TUR★TRT MÜZÍK
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Arab-Emirates.png",United Arab Emirates❤Dubai one
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,UAE★Dubai Sports①
