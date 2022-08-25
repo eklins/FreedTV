@@ -59,6 +59,8 @@ http://myott.top/stream/DT6QU63K5VX/146.m3u8
 https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:-1 ,🇺🇳EbS+ Live (Europe by Satellite★1080p)
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
+#EXTINF:-1 ,🇺🇳Euro Star
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:-1 ,🇺🇳Fentazy
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 ,🇺🇳FilmBox Baltic
@@ -79,8 +81,6 @@ http://myott.top/stream/DT6QU63K5VX/127.m3u8
 http://myott.top/stream/DT6QU63K5VX/219.m3u8
 #EXTINF:-1 ,🇺🇳Pardesi TV (720p) [Not 24/7]
 http://stream.pardesitv.online/pardesi/index.m3u8
-#EXTINF:-1 ,🇺🇳Star TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 ,🇺🇳Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 ,🇺🇳TVIQ HD
