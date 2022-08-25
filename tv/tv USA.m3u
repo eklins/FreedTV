@@ -1839,6 +1839,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts
 https://v-ny.mybtv.net/live/634.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Sundance East (720p)
 https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 ,Supreme Master TV (720p)
+https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 ,Sword and Shield (720p)
 https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8
 #EXTINF:-1 ,TAG TV (1080p) [Not 24/7]
