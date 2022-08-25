@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "Sony Sci-Fi",
+      "url": "http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Star TV",
       "url": "https://cdn2.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
