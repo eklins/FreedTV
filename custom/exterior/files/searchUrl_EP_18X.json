@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "id":1,
+      "name":"18X 神速",
+      "url":"https://api.yinwoapi.com/api.php/provide/vod/from/ywm3u8/at/xml",
+      "cate":"❌,20&&视频一区,21&&视频二区,22&&国产视频,23&&主播直播,24&&日本无码,25&&日本有码,26&&中文字幕,27&&巨乳美乳,28&&强奸乱伦,29&&欧美极品,30&&熟女人妻,31&&少女萝莉,32&&成人动漫,33&&制服诱惑,34&&变态调教,35&&自拍偷拍,36&&三级伦理,37&&明星偶像,38",
+      "click":true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
       "id": 1,
       "name": "18X 色窝",
       "url": "https://sewozyapi.com/api.php/provide/vod/at/xml/",
