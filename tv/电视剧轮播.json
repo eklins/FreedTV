@@ -481,12 +481,6 @@
       "parse": false
     },
     {
-      "name": "CCTV 第一剧场",
-      "url": "http://120.253.104.16:808/hls/155/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
-      "parse": false
-    },
-    {
       "name": "CCTV 怀旧剧场",
       "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
@@ -1222,6 +1216,12 @@
       "name": "🇰🇷搞笑励志",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736877",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "CZ影视",
+      "url": "http://ai5619227.v2.aihost6.top/daili.php?/GZTV/yingshi",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
