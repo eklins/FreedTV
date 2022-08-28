@@ -290,7 +290,7 @@
     },
     {
       "name": "GB News",
-      "url": "https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/GBNewsOnline/live",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMxu-fQMZRR5ZYR_IgUywODfnCLIPSwyiDFQ&usqp=CAU",
       "parse": false
     },
@@ -332,7 +332,7 @@
     },
     {
       "name": "Newsy",
-      "url": "https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8",
+      "url": "https://v-ny.mybtv.net/live/609.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/1200px-Newsy_2021.svg.png",
       "parse": false
     },
@@ -380,7 +380,7 @@
     },
     {
       "name": "Reuters Now",
-      "url": "https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8",
+      "url": "https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-KKm-W76Q0v9POCdNuwVp6dkkh0ltKun2A&usqp=CAU",
       "parse": false
     },
@@ -424,6 +424,12 @@
       "name": "TRT World",
       "url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgY3ZlPnLYgHi_XRf2o77e2XUqqRareaj_w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TYT Network [Not 24/7]",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlx2n0Zg8-E1J22Xr3Bu09dwU72Xj817fpQ&usqp=CAU",
       "parse": false
     },
     {
