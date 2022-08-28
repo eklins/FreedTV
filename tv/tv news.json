@@ -292,7 +292,7 @@
       "name": "GB News",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/GBNewsOnline/live",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMxu-fQMZRR5ZYR_IgUywODfnCLIPSwyiDFQ&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Global News (Canada)",
