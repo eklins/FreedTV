@@ -272,7 +272,7 @@
     },
     {
       "name": "Billiards TV (Korea)",
-      "url": "http://mytv.dothome.co.kr/ch/catv/252.php",
+      "url": "https://apichvod19.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -458,7 +458,7 @@
     },
     {
       "name": "IB Sports (Korea)",
-      "url": "http://mytv.dothome.co.kr/ch/catv/253.php",
+      "url": "https://apichvod19.seezntv.com/OTM/10220_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -487,20 +487,8 @@
       "parse": false
     },
     {
-      "name": "JTBC Golf (Korea)",
-      "url": "http://mytv.dothome.co.kr/ch/catv/248.php",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "KBP Sports US",
       "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "KBSN Sports (Korea)",
-      "url": "http://mytv.dothome.co.kr/ch/catv/243.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -549,12 +537,6 @@
     {
       "name": "MBC Sports Box",
       "url": "http://live1.streamk.co:8080/sportsbox_preview/live55/playlist.m3u8?site=gaktv&ch=live53",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MBC Sports+ (Korea)",
-      "url": "http://mytv.dothome.co.kr/ch/catv/242.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -643,12 +625,6 @@
       "parse": false
     },
     {
-      "name": "SBS Sports (Korea)",
-      "url": "http://mytv.dothome.co.kr/ch/catv/241.php",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Sharjah Sports TV (UAE)",
       "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -662,7 +638,7 @@
     },
     {
       "name": "Sky Sports (Korea)",
-      "url": "http://mytv.dothome.co.kr/ch/catv/246.php",
+      "url": "https://apichvod19.seezntv.com/OTM/10440_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
