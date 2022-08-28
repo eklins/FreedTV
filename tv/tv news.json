@@ -271,13 +271,13 @@
       "parse": false
     },
     {
-      "name": "Fox Sports News",
+      "name": "FOX Sports News",
       "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDWpiol50Q-rQUJ9gyxpmlh6sbIWUl_cUwQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Fox Weather",
+      "name": "FOX Weather",
       "url": "https://247wlive.foxweather.com/stream/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ae0JwGwgx9dRttQi1sg4k4Ufvcb5puBHUA&usqp=CAU",
       "parse": false
