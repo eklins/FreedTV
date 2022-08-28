@@ -7,6 +7,18 @@
       "parse": false
     },
     {
+      "name": "Billiards TV (Korea) php",
+      "url": "http://mytv.dothome.co.kr/ch/catv/252.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Billiards TV (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "三立LIVE新闻 Github",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
