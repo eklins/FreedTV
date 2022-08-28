@@ -7,10 +7,10 @@
       "parse": false
     },
     {
-      "name": "Billiards TV (Korea) php",
+      "name": "Billiards TV (Korea) php-T",
       "url": "http://mytv.dothome.co.kr/ch/catv/252.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Billiards TV (Korea)",
