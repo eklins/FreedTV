@@ -487,8 +487,26 @@
       "parse": false
     },
     {
+      "name": "JTBC Golf (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10280_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "JTBC Golf & Sports (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10700_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "KBP Sports US",
       "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "KBSN Sports (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10410_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -577,6 +595,12 @@
       "parse": false
     },
     {
+      "name": "PBA & Golf (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10290_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Players TV",
       "url": "https://playerstv-samsungca.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -621,6 +645,12 @@
     {
       "name": "Rugby World TV",
       "url": "https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SBS Golf (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10160_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
