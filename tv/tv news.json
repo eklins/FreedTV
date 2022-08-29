@@ -337,7 +337,7 @@
       "parse": false
     },
     {
-      "name": "NHK World (Japan)",
+      "name": "NHK World",
       "url": "http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlefI3-TyjxFiKubKCo_rSuTNrwE5CqypAw&usqp=CAU",
       "parse": false
