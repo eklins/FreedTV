@@ -1825,24 +1825,6 @@
       "parse": false
     },
     {
-      "name": "iHot 怀旧",
-      "url": "http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J2230-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "iHot 家庭",
-      "url": "http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251JK20-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "iHot 江湖",
-      "url": "http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H0150-L.jpg",
-      "parse": false
-    },
-    {
       "name": "iHot 经典",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H2130-L.jpg",
