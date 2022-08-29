@@ -79,15 +79,15 @@
       "parse": false
     },
     {
-      "name": "iHot 体育",
-      "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg",
-      "parse": false
-    },
-    {
       "name": "iHot 赛车",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251IS50-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHot 体育",
+      "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg",
       "parse": false
     },
     {
