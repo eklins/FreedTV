@@ -800,7 +800,7 @@
     },
     {
       "name": "iHot 动漫",
-      "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt",
+      "url": "http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251GS70-L.jpg",
       "parse": false
     },
@@ -854,7 +854,7 @@
     },
     {
       "name": "iHot 科学",
-      "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt",
+      "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -872,7 +872,7 @@
     },
     {
       "name": "iHot 猎奇",
-      "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt",
+      "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J5500-L.jpg",
       "parse": false
     },
@@ -890,7 +890,7 @@
     },
     {
       "name": "iHot 奇谈",
-      "url": "http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt",
+      "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HU90-L.jpg",
       "parse": false
     },
@@ -938,7 +938,7 @@
     },
     {
       "name": "iHot 喜剧",
-      "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt",
+      "url": "http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251G5050-L.jpg",
       "parse": false
     },
@@ -950,13 +950,13 @@
     },
     {
       "name": "iHot 娱乐",
-      "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt",
+      "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J3250-L.jpg",
       "parse": false
     },
     {
       "name": "iHot 院线",
-      "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt",
+      "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I4420-L.jpg",
       "parse": false
     },
