@@ -271,6 +271,24 @@ https://v-ny.mybtv.net/live/644.m3u8?env=prd&uid=-1&x=1
 https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
 #EXTINF:-1 ,bspoketv (1080p) [Not 24/7]
 https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+#EXTINF:-1 ,BumblebeeTV An American Christmas Carol
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+#EXTINF:-1 ,BumblebeeTV AutoMoto
+https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+#EXTINF:-1 ,BumblebeeTV Bee TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25a1932c8368bdbfd87d/playlist.m3u8
+#EXTINF:-1 ,BumblebeeTV FGTV & Funnelvision
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+#EXTINF:-1 ,BumblebeeTV Life Bae
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
+#EXTINF:-1 ,BumblebeeTV Master Builders
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+#EXTINF:-1 ,BumblebeeTV Now You Know
+https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
+#EXTINF:-1 ,BumblebeeTV Smosh
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
+#EXTINF:-1 ,BumblebeeTV Trinity & Beyond
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
 #EXTINF:-1 ,Business Rockstars (720p)
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
 #EXTINF:-1 ,BUTV10 (Boston University★1080p) [Not 24/7]
