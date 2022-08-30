@@ -1280,7 +1280,7 @@
     },
     {
       "name": "香港Now直播台",
-      "url": "http://livetv.dnsfor.me/channel.3.m3u8",
+      "url": "http://livetv.dnsfor.me:80/channel.3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIg00bYuU-iKxdD8mBlCPfe1VSq3IxjH5urw&usqp=CAU",
       "parse": false
     },
