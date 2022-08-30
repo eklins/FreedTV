@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "name": "高清电影",
-      "url": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+      "name": "龙",
+      "url": "http://113.64.147.183:808/hls/50/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
