@@ -1029,10 +1029,10 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 ,KOR★AniOne
 https://apichvod19.seezntv.com/OTM/10640_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
-#EXTINF:-1 ,KOR★Arirang
-http://livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
 #EXTINF:-1 ,KOR★Arirang Korea
-https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:-1 ,KOR★Arirang Radio
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
 #EXTINF:-1 ,KOR★AsiaN [Not 24/7]
 https://allanf181.github.io/adaptive-streams/streams/kr/AsiaN.m3u8
 #EXTINF:-1 ,KOR★波耀
