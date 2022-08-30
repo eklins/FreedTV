@@ -1119,8 +1119,8 @@ http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&c
 http://51.81.66.195:1935/krtv/sky_sports_540/playlist.m3u8
 #EXTINF:-1 ,KOR★TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 ,KOR★The Movie
-https://allanf181.github.io/adaptive-streams/streams/kr/TheMovie.m3u8
+#EXTINF:-1 ,KOR★The Movie [Not 24/7]
+https://apichvod19.seezntv.com/OTM/11090_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1 ,KOR★TV Chosun（朝鲜）
 https://apichvod19.seezntv.com/OTM/10040_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1 ,KOR★TV Work Net (480p)
