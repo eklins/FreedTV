@@ -1627,15 +1627,15 @@
       "parse": true
     },
     {
-      "name": "台湾三立新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/CKjSm5ZeehE?list=TLGG3k0l2ItimdExMzA1MjAyMg",
+      "name": "台湾三立LIVE新闻",
+      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
       "parse": true
     },
     {
-      "name": "台湾三立新闻（海外直播）",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/FoBfXvlOR6I",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9Z-aC6taPLKZTdxmtz0VSWRwXuQlBWIxZQ&usqp=CAU",
+      "name": "台湾三立iNEWS",
+      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
       "parse": true
     },
     {
