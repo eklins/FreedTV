@@ -307,6 +307,12 @@
       "parse": false
     },
     {
+      "name": "Comedy Classics",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cowboy Theater",
       "url": "https://simultv.s.llnwi.net/o054/CowboyTheater/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -465,6 +471,12 @@
     {
       "name": "Heroes & Icons (WWOR-DT3)",
       "url": "https://v-ny.mybtv.net/live/561.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Hi Tops",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -727,6 +739,12 @@
       "parse": false
     },
     {
+      "name": "Pet Parade Network (480p)",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-petparadenetwork/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Popstar! TV",
       "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -789,6 +807,12 @@
     {
       "name": "Scream Factory TV",
       "url": "https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sent TV Global Network",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1549,12 +1573,6 @@
       "parse": false
     },
     {
-      "name": "TVS Comedy Classics",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "TVS Drive In Movie (360p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
@@ -1575,12 +1593,6 @@
     {
       "name": "TVS Front Page Detective",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVS Hi Tops",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
