@@ -943,12 +943,6 @@
       "parse": false
     },
     {
-      "name": "STGN (Sent TV Global Network)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Story TV (WJLP-DT7)",
       "url": "https://v-ny.mybtv.net/live/634.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1941,6 +1935,12 @@
     {
       "name": "TVS Select Network",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVS STGN (Sent TV Global Network)",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
