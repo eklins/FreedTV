@@ -5,6 +5,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 ,ABC 2 Baton Rouge LA (WBRZ★720p) [Not 24/7]
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 ,ABC 2 WMAR
+https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8
 #EXTINF:-1 ,ABC 3 Corpus Christi TX (KIII★1080p)
 https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
 #EXTINF:-1 ,ABC 4 Pittsburg PA (WTAE★720p)
@@ -47,7 +49,7 @@ https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 ,ABC 13 Norfolk VA (WVEC★1080p)
 https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
-#EXTINF:-1 ,ABC 15 Phoenix AZ (KNXV-TV★720p)
+#EXTINF:-1 ,ABC 15 Arizona
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 #EXTINF:-1 ,ABC 16 Wilkes Barre PA (WNEP★1080p)
 https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
@@ -945,6 +947,8 @@ http://51.161.118.146:8080/ISG03_NBC_SACRAMENTO_CA_KCRA/video.m3u8
 http://51.161.118.146:8080/ISG03_NBC_SAN_FRANCISCO_CA_KNTV/video.m3u8
 #EXTINF:-1 ,NBC Seattle WA (KING-DT1★720p)
 http://51.161.118.146:8080/ISG03_NBC_SEATTLE_WA_KING/video.m3u8
+#EXTINF:-1 ,NBC TMJ4
+https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
 #EXTINF:-1 ,Negah TV (720p) [Not 24/7]
 https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
 #EXTINF:-1 ,Nevada: Las Vegas
@@ -1103,7 +1107,7 @@ https://peopletv-oo.akamaized.net/playlist.m3u8
 https://v-pi.mybtv.net/live/355.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,PIX11 New York NY (WPIX-DT1)
 https://v-ny.mybtv.net/live/562.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 ,PIX11 New York NY Plus (720p)
+#EXTINF:-1 ,PIX11 Plus New York NY (720p)
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:-1 ,Plant Based Network (1080p) [Not 24/7]
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/playlist.m3u8
