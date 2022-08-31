@@ -733,6 +733,12 @@
       "parse": false
     },
     {
+      "name": "BCTV",
+      "url": "http://live.sctvcloud.com/live/bcgqlive.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BesTV 电影①",
       "url": "http://bp-caster.bestv.com.cn/494/1/video.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
@@ -958,6 +964,12 @@
       "name": "iHot 院线",
       "url": "http://111.40.196.32/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I4420-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "LCTV 民生",
+      "url": "http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101246/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
