@@ -140,7 +140,7 @@
     },
     {
       "name": "CCTV 风云足球",
-      "url": "http://120.253.104.16:808/hls/148/index.m3u8",
+      "url": "http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
       "parse": false
     },
@@ -200,7 +200,7 @@
     },
     {
       "name": "CCTV 第一剧场",
-      "url": "http://120.253.104.16:808/hls/155/index.m3u8",
+      "url": "http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
       "parse": false
     },
@@ -212,7 +212,7 @@
     },
     {
       "name": "CCTV 风云剧场",
-      "url": "http://42.176.185.28:9901/tsfile/live/1030_1.m3u8",
+      "url": "http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
       "parse": false
     },
