@@ -289,12 +289,6 @@
       "parse": false
     },
     {
-      "name": "Comedy Classics",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cowboy Theater",
       "url": "https://simultv.s.llnwi.net/o054/CowboyTheater/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -393,12 +387,6 @@
     {
       "name": "get TV (480p) KFPH-DT3",
       "url": "https://v-px.mybtv.net/live/928.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Golden TV (240p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1513,6 +1501,12 @@
       "parse": false
     },
     {
+      "name": "TVS Comedy Classics",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TVS Drive In Movie (360p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
@@ -1533,6 +1527,12 @@
     {
       "name": "TVS Front Page Detective",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVS Golden TV (240p)",
+      "url": "https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
