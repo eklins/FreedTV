@@ -350,7 +350,7 @@
     },
     {
       "name": "Asian Food (Vietnam)",
-      "url": "https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8",
+      "url": "https://livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -362,13 +362,13 @@
     },
     {
       "name": "Blue Ant Entertainment (Vietnam)",
-      "url": "https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b2500000.m3u8",
+      "url": "https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Blue Ant Extreme (Vietnam)",
-      "url": "https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8",
+      "url": "https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -500,7 +500,7 @@
     },
     {
       "name": "Discovery (Vietnam)",
-      "url": "https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8",
+      "url": "https://livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
