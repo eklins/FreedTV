@@ -337,6 +337,12 @@
       "parse": false
     },
     {
+      "name": "Newsy Top Stories",
+      "url": "https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8",
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/1200px-Newsy_2021.svg.png",
+      "parse": false
+    },
+    {
       "name": "NHK World",
       "url": "http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlefI3-TyjxFiKubKCo_rSuTNrwE5CqypAw&usqp=CAU",
