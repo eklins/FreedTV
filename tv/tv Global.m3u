@@ -369,7 +369,9 @@ https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Finland.png",Finland❤Rakuten Spotlight
 https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤Euronews (English)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤BBC Drama
+https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FRA★Euronews (English)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 ,FRA★Africa News Français
 https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
@@ -491,6 +493,8 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
 #EXTINF:-1 ,DEU★World of Freesports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 ,DEU★XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,DEU★ZWEI2 Music
 https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Greece.png",Greece❤Acheloos TV (576p)
@@ -1281,8 +1285,10 @@ https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 #EXTINF:-1 ,NLD★Feel Good TV
 https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
-#EXTINF:-1 ,NLD★GO-RTV
+#EXTINF:-1 ,NLD★GO RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 ,NLD★GO USA
+https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Groningen 1
 http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
 #EXTINF:-1 ,NLD★HK13 TV
@@ -1313,6 +1319,8 @@ https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u
 https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 #EXTINF:-1 ,NLD★Omrop Fryslân
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
+#EXTINF:-1 ,NLD★One World TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01847-dutchessmediabv-oneworldtv-samsungnl/playlist.m3u8
 #EXTINF:-1 ,NLD★Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 ,NLD★Radio 350
@@ -1335,9 +1343,13 @@ https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1 ,NLD★Visit-X TV
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 ,NLD★Waterbear
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
 #EXTINF:-1 ,NLD★WOS TV
 https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-New-Zealand.png",New Zealand❤Breeze TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-New-Zealand.png",New Zealand❤AusBiz
+https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★Breeze TV
 https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
 #EXTINF:-1 ,NZL★Firstlight (576p)
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
@@ -1345,6 +1357,8 @@ https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 https://juicex.nz/hls/mystream.m3u8
 #EXTINF:-1 ,NZL★Kordia TV
 https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 ,NZL★Magellan TV
+https://magellantv-3-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★The Edge
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 ,NZL★Wairarapa TV
