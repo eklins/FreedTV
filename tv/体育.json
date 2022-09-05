@@ -571,6 +571,12 @@
       "parse": false
     },
     {
+      "name": "Mtrspt 1",
+      "url": "https://kravemedia-mtrspt1-1-nz.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Now Sports Prime (HK)",
       "url": "http://livetv.dnsfor.me:80/channel.12.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
