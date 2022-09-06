@@ -367,7 +367,9 @@ https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,EGY★Rotana Music (1080p)
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Finland.png",Finland❤Rakuten Spotlight
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Finland.png",Finland❤Rakuten Family
+https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Rakuten Spotlight
 https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤BBC Drama
 https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
@@ -397,6 +399,8 @@ https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 ,FRA★MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 ,FRA★MyTime Movie Network
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Persiana Varzesh
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 ,FRA★Rakuten Action Movies
@@ -419,6 +423,8 @@ https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Sofy TV
 https://sofytv-samsungfr.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,FRA★Stormcast Novelas TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Wild Side
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png",French Polynesia❤TNTV
@@ -1335,6 +1341,8 @@ http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
 http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Samen1 TV
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Family
+https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Spotlight
 https://rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★TV Valkenburg
@@ -1829,6 +1837,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c8a6bc64dc7286c6a
 https://rakuten-actionmovies-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rakuten Comedy Movies
 https://rakuten-comedymovies-4-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CHE★Rakuten Documentaries
+https://rakuten-documentaries-4-ch.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rakuten Family
 https://rakuten-family-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rakuten Spotlight
