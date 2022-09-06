@@ -793,8 +793,26 @@
       "parse": false
     },
     {
+      "name": "LOL! Network",
+      "url": "https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Love Nature",
       "url": "http://bamus-eng-roku.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Love Stories TV",
+      "url": "https://lovestoriestv-lovestoriestv-1-nz.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Made In Hollywood",
+      "url": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -872,7 +890,7 @@
     },
     {
       "name": "Outside TV",
-      "url": "https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8",
+      "url": "https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -885,6 +903,12 @@
     {
       "name": "People TV",
       "url": "https://peopletv-samsungus-ingest.akamaized.net/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Radical Docs",
+      "url": "https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1051,6 +1075,12 @@
       "parse": false
     },
     {
+      "name": "The Design Network",
+      "url": "https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "The Eric Andre Show",
       "url": "https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1100,6 +1130,12 @@
     },
     {
       "name": "True Crime Network (WFUT-DT2)",
+      "url": "https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "True Crime Now (New Zealand)",
       "url": "https://v-ny.mybtv.net/live/714.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -1777,6 +1813,12 @@
       "parse": false
     },
     {
+      "name": "Rakuten Documentaries",
+      "url": "https://rakuten-documentaries-8-nl.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Rakuten Fail Army",
       "url": "https://failarmy-international-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
@@ -1791,6 +1833,12 @@
     {
       "name": "Rakuten Fuel TV",
       "url": "https://fueltv-fueltv-10-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rakuten Guardian",
+      "url": "https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
