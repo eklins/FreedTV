@@ -721,12 +721,6 @@
       "parse": false
     },
     {
-      "name": "星光影院",
-      "url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "星空国际 (360p)",
       "url": "http://210.210.155.37/x6bnqe/s/s94/index2.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
