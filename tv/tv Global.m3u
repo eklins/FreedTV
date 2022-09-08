@@ -1919,8 +1919,10 @@ https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 http://93.152.174.144:4000/play/bbc1/index.m3u8
 #EXTINF:-1 ,GBR★BBC ②
 http://93.152.174.144:4000/play/bbc2/index.m3u8
+#EXTINF:-1 ,GBR★BBC News
+http://myott.top/stream/DT6QU63K5VX/85.m3u8
 #EXTINF:-1 ,GBR★BBC World News
-https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 ,GBR★Bloomberg TV UK
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,GBR★Box Hits (576p)
