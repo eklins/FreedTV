@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "北海新闻",
+      "url": "http://njgdmm-wshls.homecdn.com/live/4e8a2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾TVBS56台直播",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/YvdcZ_jpLXE",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
