@@ -481,12 +481,6 @@
       "parse": true
     },
     {
-      "name": "台湾TVBS56台直播",
-      "url": "http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "台湾东森新闻",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234",
       "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
