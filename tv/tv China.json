@@ -295,12 +295,6 @@
       "parse": false
     },
     {
-      "name": "河南金鹰纪实",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls",
-      "pic": "http://epg.51zmt.top:8000/tb1/ws/henan.png",
-      "parse": false
-    },
-    {
       "name": "黑龙江卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225542/index.m3u8?fmt=ts2hls",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",
@@ -523,6 +517,24 @@
       "parse": false
     },
     {
+      "name": "河南金鹰纪实",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "河南梨园频道",
+      "url": "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "河南武术世界",
+      "url": "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "黑龙江影视",
       "url": "http://39.134.65.149/PLTV/88888888/224/3221225971/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -717,12 +729,6 @@
     {
       "name": "芒果TV直播",
       "url": "http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "梨园频道",
-      "url": "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -1191,12 +1197,6 @@
     {
       "name": "劲爆体育",
       "url": "http://111.40.196.9/PLTV/88888888/224/3221225505/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
-      "parse": false
-    },
-    {
-      "name": "武术世界",
-      "url": "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
       "parse": false
     },
