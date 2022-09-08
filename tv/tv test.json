@@ -7,6 +7,12 @@
       "parse": false
     },
     {
+      "name": "广州影视",
+      "url": "https://aplays.gztv.com/sec/yingshi.m3u8?auth_key=1662646364-0-0-dca2b67e1ee00c40940b878a7e3097a5",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾TVBS56台直播",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/YvdcZ_jpLXE",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
@@ -235,13 +241,13 @@
       "parse": true
     },
     {
-      "name": "CZ影视 T",
+      "name": "广州影视 T",
       "url": "http://ai5619227.v2.aihost6.top/daili.php?/GZTV/yingshi",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
-      "name": "CZ影视 F",
+      "name": "广州影视 F",
       "url": "http://ai5619227.v2.aihost6.top/daili.php?/GZTV/yingshi",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
