@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "台湾TVBS56台直播",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/YvdcZ_jpLXE",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "BBC World News",
       "url": "https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWydvEITUDSPECwODd3bwcbdNa4PegZgFRQ&usqp=CAU",
