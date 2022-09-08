@@ -1489,6 +1489,12 @@
       "parse": false
     },
     {
+      "name": "台湾TVBS亚洲台",
+      "url": "http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
       "name": "台湾八大第一",
       "url": "http://59.125.122.90:18539/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
@@ -1612,12 +1618,6 @@
       "name": "台湾TVBS新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾TVBS56台直播",
-      "url": "http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
       "parse": true
     },
     {
