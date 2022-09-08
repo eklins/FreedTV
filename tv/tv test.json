@@ -7,7 +7,7 @@
       "parse": false
     },
     {
-      "name": "4K",
+      "name": "4K Test",
       "url": "http://[2409:8087:1070:301:2026::12]:80/wh7f454c46tw4179594525_1038075197/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/10000100000000060000000000262129_0.smil/01.m3u8?fmt=ts2hls",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -22,12 +22,6 @@
       "name": "FOX Sports News",
       "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDWpiol50Q-rQUJ9gyxpmlh6sbIWUl_cUwQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "爱上4K",
-      "url": "http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
