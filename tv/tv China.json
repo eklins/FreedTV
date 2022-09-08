@@ -427,8 +427,20 @@
       "parse": false
     },
     {
+      "name": "北京BRTV新闻",
+      "url": "http://live.funhillrm.com/5/sd/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "北仑电视台",
       "url": "http://play-sh.quklive.com/live/1626327731714170.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "滨海1",
+      "url": "http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -439,14 +451,86 @@
       "parse": false
     },
     {
-      "name": "东方影视",
-      "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
+      "name": "苍南新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "东至影视 (576p)",
-      "url": "http://223.247.33.124:1935/live/yingshi/playlist.m3u8",
+      "name": "曹县新闻综合",
+      "url": "https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "昌乐新闻综合",
+      "url": "https://jsylivealone302.iqilu.com/changle/changle_tv01.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "常熟综合",
+      "url": "http://play-live.21cs.cn/tv_channel/cstv1.m3u8?auth_key=1592026485-f871ffb1e3b646d59dba799b1e6f3d61-0-53bbc432233cf87b39a6ec67a23981c3",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "滁州新闻综合",
+      "url": "http://live.cztv.cc:85/live/xwpd.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "大连新闻综合",
+      "url": "http://live.dltv.cn/tcb3IB5/500/n27twb0.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "大同－1 新闻综合",
+      "url": "https://live.dtradio.com.cn/xwzh/playlist.m3u8?_upt=f1cbda1e1662645142",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "大象新闻",
+      "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "达川电视台",
+      "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dcxwzh_2000.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "达州新闻综合",
+      "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/dzxwzh_2000.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "恩施新闻综合",
+      "url": "http://enshi-live21.cjyun.org/10070/s10070-eszh.m3u8?auth_key=1672502399-0-0-60521180e489ac8658a238bdf2e8119a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "恩阳新闻",
+      "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/eyxw_2000.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "繁昌新闻综合",
+      "url": "https://hwapi.yunshicloud.com/3giqaj/i6v1o5.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "封丘1 新闻综合",
+      "url": "http://[2409:8087:4402:20:1:1216:401:45]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226595/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -459,6 +543,18 @@
     {
       "name": "福州综合",
       "url": "http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "赣州新闻综合",
+      "url": "http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l_2048.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "高淳新闻",
+      "url": "http://ott.mobaibox.com/PLTV/3/224/3221227870/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -529,14 +625,8 @@
       "parse": false
     },
     {
-      "name": "黑龙江影视",
-      "url": "http://39.134.65.149/PLTV/88888888/224/3221225971/1.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "衡水影视娱乐 (480p)",
-      "url": "http://hls.hsrtv.cn/hls/hstv2.m3u8",
+      "name": "湖安新闻综合",
+      "url": "http://120.210.216.73:8080/ysten-business/live/SD12-576P-fnxwzh/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -559,20 +649,20 @@
       "parse": false
     },
     {
-      "name": "黄骅影视 (576p)",
-      "url": "http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "京视剧场",
-      "url": "http://111.20.33.93/PLTV/88888893/224/3221226242/index.m3u8",
+      "name": "江西新闻",
+      "url": "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225615/2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "句容影视频道",
       "url": "http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "宁河新闻",
+      "url": "http://wshls.live.migucloud.com:80/live/RQXD0636_C0/playlist.m3u8?ztianjd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -585,6 +675,12 @@
     {
       "name": "南宁影视娱乐",
       "url": "http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "南允综合",
+      "url": "https://nczbpull.ncntv.com.cn/nctv/2004.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -619,14 +715,20 @@
       "parse": false
     },
     {
-      "name": "上海影视",
-      "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
+      "name": "ICS（上海外语频道）",
+      "url": "http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "ICS（上海外语频道）",
-      "url": "http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8",
+      "name": "上海新闻综合",
+      "url": "http://223.111.195.52/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "上海影视",
+      "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -639,6 +741,12 @@
     {
       "name": "绍兴影视（浙江）",
       "url": "http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "十堰新闻",
+      "url": "http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8?zhubd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -709,6 +817,18 @@
       "parse": false
     },
     {
+      "name": "玉树新闻",
+      "url": "http://stream.ysbtv.net/1/sd/live.m3u8?zqinghd",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "浙江新闻",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "浙江影视",
       "url": "http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -717,6 +837,18 @@
     {
       "name": "纯享4K",
       "url": "http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "东方影视",
+      "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "东至影视 (576p)",
+      "url": "http://223.247.33.124:1935/live/yingshi/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
