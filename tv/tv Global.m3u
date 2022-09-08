@@ -81,6 +81,8 @@ http://myott.top/stream/DT6QU63K5VX/276.m3u8
 https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Nickelodeon
 http://myott.top/stream/DT6QU63K5VX/127.m3u8
+#EXTINF:-1 ,🇺🇳NRB Network
+http://uni6rtmp.tulix.tv:1935/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Paramount Channel
 http://myott.top/stream/DT6QU63K5VX/219.m3u8
 #EXTINF:-1 ,🇺🇳Pardesi TV (720p) [Not 24/7]
