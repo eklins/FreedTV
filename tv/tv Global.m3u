@@ -513,6 +513,8 @@ https://xite-samsung-de.amagi.tv/playlist.m3u8
 https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Greece.png",Greece❤Acheloos TV (576p)
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1 ,GRC★alert
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 ,GRC★ART TV
 http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
 #EXTINF:-1 ,GRC★Attica TV
@@ -1885,6 +1887,10 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 ,TUR★TRT MÜZÍK
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
+#EXTINF:-1 ,TUR★TV 38
+https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
+#EXTINF:-1 ,TUR★TV 41
+http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Arab-Emirates.png",United Arab Emirates❤Dubai one
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,UAE★Dubai Sports①
