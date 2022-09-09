@@ -661,8 +661,8 @@
       "parse": false
     },
     {
-      "name": "宁河新闻",
-      "url": "http://wshls.live.migucloud.com:80/live/RQXD0636_C0/playlist.m3u8?ztianjd",
+      "name": "LBRTV",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -681,6 +681,12 @@
     {
       "name": "南允综合",
       "url": "https://nczbpull.ncntv.com.cn/nctv/2004.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "宁河新闻",
+      "url": "http://wshls.live.migucloud.com:80/live/RQXD0636_C0/playlist.m3u8?ztianjd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
