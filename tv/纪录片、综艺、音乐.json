@@ -61,12 +61,6 @@
       "parse": false
     },
     {
-      "name": "国学频道",
-      "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Beauty and The Geek 2005-2008",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18c138c32460007cc6b46/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaQLSgJokpghDSUhkIub_D3P8nG7NQHGp3g&usqp=CAU",
@@ -127,15 +121,21 @@
       "parse": false
     },
     {
-      "name": "湖南金鹰纪实",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls",
-      "pic": "http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",
-      "parse": false
-    },
-    {
       "name": "CCTV-10 科教",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLQO2PYa4b8bTIBKeOWkl2yJ1o7NTnJtqze0mO8BDw=s900-c-k-c0x00ffffff-no-rj",
+      "parse": false
+    },
+    {
+      "name": "河南国学频道",
+      "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPCH1Zj7kAddKB6u4WysBGnZFIH5nx7LjuQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "湖南金鹰纪实",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",
       "parse": false
     },
     {
