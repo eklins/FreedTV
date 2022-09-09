@@ -1861,7 +1861,9 @@ https://rakuten-topfree-4-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rouge TV
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤Cekmeköy Web TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤360
+http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 ,TUR★Cekmeköy Web TV
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 #EXTINF:-1 ,TUR★Dream TÜRK
 https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
