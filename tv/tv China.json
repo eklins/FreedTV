@@ -433,6 +433,12 @@
       "parse": false
     },
     {
+      "name": "BDTV（宝坻）",
+      "url": "https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "北京BRTV新闻",
       "url": "http://live.funhillrm.com/5/sd/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
