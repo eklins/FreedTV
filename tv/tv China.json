@@ -427,6 +427,12 @@
       "parse": false
     },
     {
+      "name": "BCTV",
+      "url": "http://live.sctvcloud.com/live/bcgqlive.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "北京BRTV新闻",
       "url": "http://live.funhillrm.com/5/sd/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -885,12 +891,6 @@
     {
       "name": "星空国际 (360p)",
       "url": "http://210.210.155.37/x6bnqe/s/s94/index2.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BCTV",
-      "url": "http://live.sctvcloud.com/live/bcgqlive.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
