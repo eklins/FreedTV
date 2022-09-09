@@ -59,28 +59,6 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
 #EXTINF:-1 ,ABC 24 Memphis TN (WATN-TV★1080p)
 https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
-#EXTINF:-1 ,ABC Boston MA (WCVB-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_BOSTON_MA_WCVB/video.m3u8
-#EXTINF:-1 ,ABC Charlotte NC (WSOC-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_CHARLOTTE_NC_WSOC/video.m3u8
-#EXTINF:-1 ,ABC Chicago IL (WLS-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_CHICAGO_IL_WLS/video.m3u8
-#EXTINF:-1 ,ABC Cleveland OH (WEWS-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_CLEVELAND_OH_WEWS/video.m3u8
-#EXTINF:-1 ,ABC Columbus OH (WSYX-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_COLUMBUS_OH_WSYX/video.m3u8
-#EXTINF:-1 ,ABC Dallas TX (WFAA-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_DALLAS_TX_WFAA/video.m3u8
-#EXTINF:-1 ,ABC Denver CO (KMGH-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_DENVER_CO_KMGH/video.m3u8
-#EXTINF:-1 ,ABC Indianapolis IN (WRTV-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_INDIANAPOLIS_IN_WRTV/video.m3u8
-#EXTINF:-1 ,ABC Miami FL (WPLG-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_MIAMI_FL_WPLG/video.m3u8
-#EXTINF:-1 ,ABC Milwaukee WI (WISN-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_MILWAUKEE_WI_WISN/video.m3u8
-#EXTINF:-1 ,ABC Nashville TN (WKRN-DT1★720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_ABC_NASHVILLE_TN_WKRN/video.m3u8
 #EXTINF:-1 ,ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 ,ABC News Live 1 (720p)
@@ -105,24 +83,6 @@ https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 #EXTINF:-1 ,ABC News New York NY (WABC-TV★720p)
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 ,ABC Orlando FL (WFTVD-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_ORLANDO_FL_WFTV/video.m3u8
-#EXTINF:-1 ,ABC Phoenix AZ (KNXV-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_PHOENIX_AZ_KNXV/video.m3u8
-#EXTINF:-1 ,ABC Portland OR (KATU-DT1)
-http://51.161.118.146:8080/ISG03_ABC_PORTLAND_OR_KATU/video.m3u8
-#EXTINF:-1 ,ABC Raleigh NC (WTVD-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_RALEIGH_NC_WTVD/video.m3u8
-#EXTINF:-1 ,ABC Sacramento CA (KXTV-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_SACRAMENTO_CA_KXTV/video.m3u8
-#EXTINF:-1 ,ABC San Diego CA (KGTV-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_SAN_DIEGO_CA_KGTV/video.m3u8
-#EXTINF:-1 ,ABC San Francisco CA (KGO-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_SAN_FRANCISCO_CA_KGO/video.m3u8
-#EXTINF:-1 ,ABC Seattle WA (KOMO-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_SEATTLE_WA_KOMO/video.m3u8
-#EXTINF:-1 ,ABC Washington DC (WJLA-DT1★720p)
-http://51.161.118.146:8080/ISG03_ABC_WASHINGTON_DC_WJLA/video.m3u8
 #EXTINF:-1 ,ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
 #EXTINF:-1 ,AccuWeather Now (1080p)
@@ -357,36 +317,8 @@ https://livevideo01.13wmaz.com/hls/live/2017376/newscasts/live.m3u8
 https://livevideo01.wltx.com/hls/live/2017152/newscasts/live.m3u8
 #EXTINF:-1 ,CBS 19 Tyler TX (KYTX★1080p)
 https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8
-#EXTINF:-1 ,CBS Atlanta GA (WGCL-DT1★720p)
-http://51.161.118.146:8080/ISG03_CBS_ATLANTA_GA_WGCL/tracks-v4a1/mono.m3u8
-#EXTINF:-1 ,CBS Baltimore MD (WJZ-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_BALTIMORE_MD_WJZ/video.m3u8
-#EXTINF:-1 ,CBS Boston MA (WBZ-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_BOSTON_MA_WBZ/video.m3u8
-#EXTINF:-1 ,CBS Charlotte NC (WBTV-DT1★720p)
-http://51.161.118.146:8080/ISG03_CBS_CHARLOTTE_NC_WBTV/tracks-v4a1/mono.m3u8
-#EXTINF:-1 ,CBS Chicago IL (WBBM-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_CHICAGO_IL_WBBM/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,CBS Cleveland OH (WOIO-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_CLEVELAND_OH_WOIO/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,CBS Dallas TX (KTVT-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_DALLAS_TX_KTVT/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,CBS Denver CO (KCNC-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_DENVER_CO_KCNC/video.m3u8
-#EXTINF:-1 ,CBS Detroit MI (WWJ-DT1★720p)
-http://51.161.118.146:8080/ISG03_CBS_DETROIT_MI_WWJ/video.m3u8
-#EXTINF:-1 ,CBS Hatford CT (WFSB-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_HARTFORD_CT_WFSB/video.m3u8
-#EXTINF:-1 ,CBS Houston TX (KHOU-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_HOUSTON_TX_KHOU/video.m3u8
-#EXTINF:-1 ,CBS Los Angeles CA (KCBS-DT1)
-http://51.161.118.146:8080/ISG03_CBS_LOS_ANGELES_CA_KCBS/video.m3u8
-#EXTINF:-1 ,CBS Miami FL (WFOR-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_MIAMI_FL_WFOR/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,CBS Milwaukee WI (WDJT-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_MILWAUKEE_WI_WDJT/video.m3u8
-#EXTINF:-1 ,CBS Nashville TN (WTVF-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_NASHVILLE_TN_WTVF/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,CBS Boston MA
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 #EXTINF:-1 ,CBS News (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 ,CBS News Baltimore (720p)
@@ -413,26 +345,8 @@ https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 #EXTINF:-1 ,CBS News Sacramento (720p)
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
-#EXTINF:-1 ,CBS Orlando FL (WKMG-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_ORLANDO_FL_WKMG/video.m3u8
-#EXTINF:-1 ,CBS Phoenix AZ (KPHO-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_PHOENIX_AZ_KPHO/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,CBS Pittsburgh PA (KDKA-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_PITTSBURGH_PA_KDKA/video.m3u8
-#EXTINF:-1 ,CBS Sacramento CA (KOVR-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_SACRAMENTO_CA_KOVR/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,CBS San Diego CA (KFMB-DT1★720p)
-http://51.161.118.146:8080/ISG03_CBS_SAN_DIEGO_CA_KFMB/video.m3u8
-#EXTINF:-1 ,CBS San Francisco CA (KPIX-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_SAN_FRANCISCO_CA_KPIX/video.m3u8
-#EXTINF:-1 ,CBS Seattle WA (KIRO-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_SEATTLE_WA_KIRO/video.m3u8
-#EXTINF:-1 ,CBS Tampa FL (WTSP-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_TAMPA_FL_WTSP/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,CBS THV11 Little Rock AR (KTHV★1080p)
 https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
-#EXTINF:-1 ,CBS Washington DC (WUSA-DT1★1080p)
-http://51.161.118.146:8080/ISG03_CBS_WASHINGTON_DC_WUSA/video.m3u8
 #EXTINF:-1 ,CCX Media North Brooklyn Park MN (1080p)
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 ,CF97 Soccer Live (1080p) [Not 24/7]
@@ -637,56 +551,14 @@ https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8
 https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8
 #EXTINF:-1 ,Fox 61 Hartford CT (WTIC-TV★1080p)
 https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8
-#EXTINF:-1 ,FOX Atlanta GA (WAGA-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_ATLANTA_GA_WAGA/video.m3u8
-#EXTINF:-1 ,FOX Boston MA (WAGA-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_BOSTON_MA_WFXT/video.m3u8
-#EXTINF:-1 ,FOX Cleveland OH (WJW-DT1★540p)
-http://51.161.118.146:8080/ISG03_FOX_CLEVELAND_OH_WJW/video.m3u8
-#EXTINF:-1 ,FOX Dallas TX (KDFW-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_DALLAS_TX_KDFW/video.m3u8
-#EXTINF:-1 ,FOX Denver CO (KDVR-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_DENVER_CO_KDVR/video.m3u8
-#EXTINF:-1 ,FOX Detroit MI (WJBK-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_DETROIT_MI_WJBK/video.m3u8
 #EXTINF:-1 ,FOX Greece (480p) [Not 24/7]
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 ,FOX Hartford CT (WTIC-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_HARTFORD_CT_WTIC/video.m3u8
-#EXTINF:-1 ,FOX Houston TX (KRIV-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_HOUSTON_TX_KRIV/video.m3u8
-#EXTINF:-1 ,FOX Indianapolis IN (WXIN-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_INDIANAPOLIS_IN_WXIN/video.m3u8
-#EXTINF:-1 ,FOX Jacksonville FL (WFOX-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_JACKSONVILLE_FL_WFOX/video.m3u8
-#EXTINF:-1 ,FOX Los Angeles CA (KTTV-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_LOS_ANGELES_CA_KTTV/video.m3u8
-#EXTINF:-1 ,FOX Miami FL (WSVN-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_MIAMI_FL_WSVN/video.m3u8
-#EXTINF:-1 ,FOX Milwaukee WI (WITI-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_MILWAUKEE_WI_WITI/video.m3u8
-#EXTINF:-1 ,FOX New Orleans LA (WVUE-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_NEW_ORLEANS_LA_WVUE/video.m3u8
 #EXTINF:-1 ,FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,FOX News Radio (720p)
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 ,FOX Orlando FL (WOFL-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_ORLANDO_FL_WOFL/video.m3u8
-#EXTINF:-1 ,FOX Phoenix AZ (KSAZ-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_PHOENIX_AZ_KSAZ/video.m3u8
-#EXTINF:-1 ,FOX San Diego CA (KSWB-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_SAN_DIEGO_CA_KSWB/video.m3u8
-#EXTINF:-1 ,FOX San Francisco CA (KTVU-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_SAN_FRANCISCO_CA_KTVU/video.m3u8
-#EXTINF:-1 ,FOX Sacramento CA (KTXL-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_SACRAMENTO_CA_KTXL/video.m3u8
 #EXTINF:-1 ,FOX Soul (720p)
 https://lnc-fox-soul-scte.tubi.video/index.m3u8
-#EXTINF:-1 ,FOX Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 ,FOX Washington DC (WTTG-DT1★720p)
-http://51.161.118.146:8080/ISG03_FOX_WASHINGTON_DC_WTTG/video.m3u8
 #EXTINF:-1 ,FOX Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 ,Fright Flix (720p)
@@ -909,44 +781,10 @@ https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
 #EXTINF:-1 ,NBC 207 Bangor Portland ME (WLBZ★1080p)
 https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8
-#EXTINF:-1 ,NBC Atlanta GA (WXIA-DT1★720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_ATLANTA_GA_WXIA/video.m3u8
-#EXTINF:-1 ,NBC Baltimore MD (WBAL-DT1★720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_BALTIMORE_MD_WBAL/video.m3u8
-#EXTINF:-1 ,NBC Charlotte NC (WCNC-DT1★720p)
-http://51.161.118.146:8080/ISG03_NBC_CHARLOTTE_NC_WCNC/video.m3u8
-#EXTINF:-1 ,NBC Chicago IL (WMAQ-DT1★720p)
-http://51.161.118.146:8080/ISG03_NBC_CHICAGO_IL_WMAQ/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,NBC Cleveland OH (WKYC-DT1★540p)
-http://51.161.118.146:8080/ISG03_NBC_CLEVELAND_OH_WKYC/video.m3u8
-#EXTINF:-1 ,NBC Detroit MI (WDIV-DT1★720p)
-http://51.161.118.146:8080/ISG03_NBC_DETROIT_MI_WDIV/video.m3u8
-#EXTINF:-1 ,NBC Houston TX (KPRC-DT1★720p)
-http://51.161.118.146:8080/ISG03_NBC_HOUSTON_TX_KPRC/video.m3u8
-#EXTINF:-1 ,NBC Indianapolis IN (WTHR-DT1★720p)
-http://51.161.118.146:8080/ISG03_NBC_INDIANAPOLIS_IN_WTHR/video.m3u8
-#EXTINF:-1 ,NBC Los Angeles CA (KNBC-DT1★720p)
-http://51.161.118.146:8080/ISG03_NBC_LOS_ANGELES_CA_KNBC/video.m3u8
-#EXTINF:-1 ,NBC Miami FL (WTVJ-DT1★720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_MIAMI_FL_WTVJ/video.m3u8
-#EXTINF:-1 ,NBC Nashville TN (WSMV-DT1★576p)
-http://51.161.118.146:8080/ISG03_NBC_NASHVILLE_TN_WSMV/video.m3u8
-#EXTINF:-1 ,NBC New Orleans LA (WDSU-DT1★720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_NEW_ORLEANS_LA_WDSU/video.m3u8
 #EXTINF:-1 ,NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 ,NBC News West 9 Midland-Odessa TX (KWES★1080p)
 https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8
-#EXTINF:-1 ,NBC Phoenix AZ (KPNX-DT1★720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_PHOENIX_AZ_KPNX/video.m3u8
-#EXTINF:-1 ,NBC Pittsburgh PA (WPXI-DT1★720p)
-http://51.161.118.146:8080/ISG03_NBC_PITTSBURGH_PA_WPXI/video.m3u8
-#EXTINF:-1 ,NBC Sacramento CA (KCRA-DT1★720p)
-http://51.161.118.146:8080/ISG03_NBC_SACRAMENTO_CA_KCRA/video.m3u8
-#EXTINF:-1 ,NBC San Francisco CA (KNTV-DT1★720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_SAN_FRANCISCO_CA_KNTV/video.m3u8
-#EXTINF:-1 ,NBC Seattle WA (KING-DT1★720p)
-http://51.161.118.146:8080/ISG03_NBC_SEATTLE_WA_KING/video.m3u8
 #EXTINF:-1 ,NBC TMJ4
 https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
 #EXTINF:-1 ,Negah TV (720p) [Not 24/7]
@@ -1255,6 +1093,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,PlutoTV Ciné Rétro (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,PlutoTV Ciné Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 ,PlutoTV Ciné Suspenso (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 ,PlutoTV Ciné Terror ① (720p)
@@ -1349,6 +1189,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d0007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,PlutoTV Extrême (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,PlutoTV Fashion TV (720p)
+https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
 #EXTINF:-1 ,PlutoTV Full Custom Garage (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,PlutoTV Fútbol Para Fans (720p)
@@ -1459,6 +1301,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed80fa
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549d97cd7b090007c73314/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ba500-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e7a9749-ec3d-4fea-9861-01e153b22e40
 #EXTINF:-1 ,PlutoTV Les Nouveaux Detectives (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,PlutoTV Little Stars Universe
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 ,PlutoTV Logo (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce5a8954311f992edbe1da2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=187&terminate=false&userId=
 #EXTINF:-1 ,PlutoTV Los archivos del FBI (720p)
@@ -1527,6 +1371,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ed106ce4bf2e80007700bb3&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=262&terminate=false&userId=
 #EXTINF:-1 ,PlutoTV Nick Rewind+ (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2bcd0fadc30007b4863b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2bcd0fadc30007b4863b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=26a921c8-2009-4fa8-9d4f-3edbe18a97f7&terminate=false&userId=
+#EXTINF:-1 ,PlutoTV Nick Ukraine
+http://siloh-sp.plutotv.net/lilo/production/NickUkraine/master.m3u8
 #EXTINF:-1 ,PlutoTV Nuestra Vision (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e6690befbdf780007f78158&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=920&terminate=false&userId=
 #EXTINF:-1 ,PlutoTV One Piece (720p) [Not 24/7]
