@@ -67,6 +67,12 @@
       "parse": false
     },
     {
+      "name": "香港国际财经台 HKIBC",
+      "url": "http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8I0ZPWACRx9egWfTzOeaSpkP03A7Armnzg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "耀才财经",
       "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/0922/2e357e13827907f8b90e628ebdd1d1e3.jpg",
@@ -165,12 +171,6 @@
     {
       "name": "Bloomberg TV (Asia)",
       "url": "http://210.210.155.37/dr9445/h/h03/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bloomberg TV (Mexico)",
-      "url": "https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",
       "parse": false
     },
