@@ -463,6 +463,12 @@
       "parse": false
     },
     {
+      "name": "CMTV",
+      "url": "https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "苍南新闻综合",
       "url": "http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -571,6 +577,12 @@
       "parse": false
     },
     {
+      "name": "JSTV",
+      "url": "http://live.ynurl.com/video/s10045-JSTV/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "江苏城市",
       "url": "http://183.207.248.13:80/PLTV/4/224/3221225929/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -675,6 +687,12 @@
     {
       "name": "LBRTV",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "LCTV 民生",
+      "url": "http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101246/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
