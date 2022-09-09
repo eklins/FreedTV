@@ -61,6 +61,8 @@ http://myott.top/stream/DT6QU63K5VX/146.m3u8
 https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:-1 ,🇺🇳EbS+ Live (Europe by Satellite★1080p)
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
+#EXTINF:-1 ,🇺🇳ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
 #EXTINF:-1 ,🇺🇳Euro Star
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 ,🇺🇳Fentazy
@@ -1307,6 +1309,8 @@ https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 #EXTINF:-1 ,NLD★Feel Good TV
 https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
+#EXTINF:-1 ,NLD★FITE
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 ,NLD★GO RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 ,NLD★GO USA
@@ -2073,6 +2077,8 @@ http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★MTV Vietnam (576p)
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★PTP HD
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,VNM★Rock Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★Rock Extreme
