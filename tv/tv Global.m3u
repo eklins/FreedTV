@@ -25,18 +25,10 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-#EXTINF:-1 ,🇺🇳●black
-http://myott.top/stream/DT6QU63K5VX/263.m3u8
-#EXTINF:-1 ,🇺🇳●sci-fi
-http://myott.top/stream/DT6QU63K5VX/180.m3u8
 #EXTINF:-1 ,🇺🇳1 HD (Das Erste)
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 ,🇺🇳A3 Series Internacional
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
-#EXTINF:-1 ,🇺🇳Amedia Hit
-http://myott.top/stream/DT6QU63K5VX/162.m3u8
-#EXTINF:-1 ,🇺🇳Amedia Premium HBO
-http://myott.top/stream/DT6QU63K5VX/151.m3u8
 #EXTINF:-1 ,🇺🇳Asomavisión
 https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-1 ,🇺🇳AXN HD
@@ -45,18 +37,6 @@ http://supersonictv.live:25461/live/vegas2000/vegas2000/85883.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 ,🇺🇳Cinema Classic TV
 http://213.172.73.132:8081/nimble_live/Cinema_classik_TV/playlist.m3u8
-#EXTINF:-1 ,🇺🇳CineMan Cartoons Big
-http://myott.top/stream/DT6QU63K5VX/348.m3u8
-#EXTINF:-1 ,🇺🇳CineMan Cartoons Short
-http://myott.top/stream/DT6QU63K5VX/347.m3u8
-#EXTINF:-1 ,🇺🇳CineMan Marvel
-http://myott.top/stream/DT6QU63K5VX/354.m3u8
-#EXTINF:-1 ,🇺🇳CineMan Thriller
-http://myott.top/stream/DT6QU63K5VX/352.m3u8
-#EXTINF:-1 ,🇺🇳CineMan Top
-http://myott.top/stream/DT6QU63K5VX/350.m3u8
-#EXTINF:-1 ,🇺🇳Discovery Science
-http://myott.top/stream/DT6QU63K5VX/146.m3u8
 #EXTINF:-1 ,🇺🇳EbS Live (Europe by Satellite★1080p)
 https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:-1 ,🇺🇳EbS+ Live (Europe by Satellite★1080p)
@@ -67,38 +47,16 @@ http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 ,🇺🇳Fentazy
 http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 ,🇺🇳FilmBox Art House
-http://myott.top/stream/DT6QU63K5VX/308.m3u8
-#EXTINF:-1 ,🇺🇳FilmBox Baltic
-http://myott.top/stream/DT6QU63K5VX/307.m3u8
-#EXTINF:-1 ,🇺🇳FILMUADRAMA HD
-http://myott.top/stream/DT6QU63K5VX/273.m3u8
-#EXTINF:-1 ,🇺🇳Gulli Girl
-http://myott.top/stream/DT6QU63K5VX/305.m3u8
-#EXTINF:-1 ,🇺🇳Hollywood HD
-http://myott.top/stream/DT6QU63K5VX/268.m3u8
-#EXTINF:-1 ,🇺🇳Investigation Discovery
-http://myott.top/stream/DT6QU63K5VX/205.m3u8
-#EXTINF:-1 ,🇺🇳Mezzo Live HD
-http://myott.top/stream/DT6QU63K5VX/276.m3u8
 #EXTINF:-1 ,🇺🇳MNB World
 https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
-#EXTINF:-1 ,🇺🇳Nickelodeon
-http://myott.top/stream/DT6QU63K5VX/127.m3u8
 #EXTINF:-1 ,🇺🇳NRB Network
 http://uni6rtmp.tulix.tv:1935/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 ,🇺🇳Paramount Channel
-http://myott.top/stream/DT6QU63K5VX/219.m3u8
 #EXTINF:-1 ,🇺🇳Pardesi TV (720p) [Not 24/7]
 http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 ,🇺🇳Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 ,🇺🇳TVIQ HD
-http://myott.top/stream/DT6QU63K5VX/414.m3u8
-#EXTINF:-1 ,🇺🇳Viasat Explore
-http://myott.top/stream/DT6QU63K5VX/239.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤WATAN-E-MAA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Albania.png",Albania❤ALB Dreams
@@ -125,8 +83,6 @@ http://ott-cdn.ucom.am/s66/index.m3u8
 http://ott-cdn.ucom.am/s94/index.m3u8
 #EXTINF:-1 ,ARM★ATV Ֆիլմզոն
 http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 ,ARM★Kentron HD (Армения)
-http://myott.top/stream/DT6QU63K5VX/39.m3u8
 #EXTINF:-1 ,ARM★Premium
 http://ott-cdn.ucom.am/s83/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm1QNHA9M26N9YVVNzELKV8i7A-_af0Fkp_A&usqp=CAU",Aruba❤Aruba TV (1080p) [Not 24/7]
@@ -1621,8 +1577,6 @@ http://ott-cdn.ucom.am/s33/index.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 ,RUS★Доктор
 http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
-#EXTINF:-1 ,RUS★Дом Кино
-http://myott.top/stream/DT6QU63K5VX/236.m3u8
 #EXTINF:-1 ,RUS★Дорама (Dorama UK) [Not 24/7]
 https://sc.id-tv.kz/dorama_hd.m3u8
 #EXTINF:-1 ,RUS★Amedia Hit
@@ -1669,8 +1623,6 @@ https://sc.id-tv.kz/FOX_HD.m3u8
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 ,RUS★HD 365
 https://netstreaming.eu:8080/hls/hd365.m3u8
-#EXTINF:-1 ,RUS★History Россия
-http://myott.top/stream/DT6QU63K5VX/113.m3u8
 #EXTINF:-1 ,RUS★HTB
 https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
 #EXTINF:-1 ,RUS★НТС (Севастополь)
@@ -1683,8 +1635,6 @@ https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 ,RUS★Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,RUS★KHL Prime (прямой эфир★冰上曲棍球)
-http://myott.top/stream/DT6QU63K5VX/178.m3u8
 #EXTINF:-1 ,RUS★Киномикс (Kinomix) [Not 24/7]
 https://sc.id-tv.kz/Kinomix_hd.m3u8
 #EXTINF:-1 ,RUS★Кинопремьера (Kinopremiera) [Not 24/7]
@@ -1715,16 +1665,10 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 ,RUS★РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 ,RUS★Премиальное (Premial'noye)
-http://myott.top/stream/DT6QU63K5VX/421.m3u8
-#EXTINF:-1 ,RUS★Русская комедия (Russia Comedy)
-http://myott.top/stream/DT6QU63K5VX/68.m3u8
 #EXTINF:-1 ,RUS★RT Documentary Russian
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,RUS★RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 ,RUS★RTG (Russia Travel Guide)
-http://myott.top/stream/DT6QU63K5VX/164.m3u8
 #EXTINF:-1 ,RUS★Sci-Fi Фантастика (480p) [Not 24/7]
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 ,RUS★Sochi Сочи 24
@@ -1845,12 +1789,6 @@ https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/chunklist_w5227390
 https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
 #EXTINF:-1 ,SWE★TV4
 https://csm-e-cet4eurxaws102j8-78k15gpy268.tls1.yospace.com/csm/live/142791716.m3u8?yo.oh=Y3NtLWUtdHY0c2UtZWIudGxzMS55b3NwYWNlLmNvbQ==
-#EXTINF:-1 ,SWE★TV1000 Action
-http://myott.top/stream/DT6QU63K5VX/100.m3u8
-#EXTINF:-1 ,SWE★TV1000 East HD
-http://myott.top/stream/DT6QU63K5VX/110.m3u8
-#EXTINF:-1 ,SWE★TV1000 Русское кино
-http://myott.top/stream/DT6QU63K5VX/123.m3u8
 #EXTINF:-1 ,SWE★Västmanlands TV
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Switzerland.png",Switzerland❤One TV
