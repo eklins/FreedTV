@@ -19,12 +19,6 @@
       "parse": false
     },
     {
-      "name": "netmax TV",
-      "url": "http://live.netmaxtv.com:8080/live/live/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "北海新闻",
       "url": "http://njgdmm-wshls.homecdn.com/live/4e8a2.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
