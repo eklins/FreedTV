@@ -1835,8 +1835,6 @@ https://v-pi.mybtv.net/live/422.m3u8?env=prd&uid=-1&x=1
 https://v-pi.mybtv.net/live/415.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,TSTV (720p)
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1 ,TVB J1 (West★720p)
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 ,TVS Boxing (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 ,TVS Cipher Network (360p)
