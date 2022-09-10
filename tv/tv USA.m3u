@@ -239,6 +239,8 @@ https://v-ny.mybtv.net/live/644.m3u8?env=prd&uid=-1&x=1
 https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
 #EXTINF:-1 ,bspoketv (1080p) [Not 24/7]
 https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+#EXTINF:-1 ,Buena Park Television (360p)
+https://edge-f.swagit.com/live/buenaparkca/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 ,BumblebeeTV An American Christmas Carol
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
 #EXTINF:-1 ,BumblebeeTV AutoMoto
