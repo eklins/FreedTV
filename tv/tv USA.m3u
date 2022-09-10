@@ -357,6 +357,8 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
 https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
 #EXTINF:-1 ,CCX Media North Brooklyn Park MN (1080p)
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 ,Cerritos TV3 (360p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
 #EXTINF:-1 ,CF97 Soccer Live (1080p) [Not 24/7]
 https://d1sp4cpu5on4l7.cloudfront.net/out/v1/ec82e0a9c5564fb497366186c09052e5/index.m3u8
 #EXTINF:-1 ,Channel Fight (720p)
