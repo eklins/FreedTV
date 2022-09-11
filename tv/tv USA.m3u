@@ -167,6 +167,8 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 ,Amga TV (720p) [Not 24/7]
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 ,Arroyo
+https://pasadenamed.secure.footprint.net/egress/bhandler/pasadenamed/streamb/chunklist_b1192000.m3u8
 #EXTINF:-1 ,ARTN TV (1080p) [Not 24/7]
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 ,ATD HD
@@ -953,6 +955,10 @@ https://v-pi.mybtv.net/live/348.m3u8?env=prd&uid=-1&x=1
 https://peopletv-oo.akamaized.net/playlist.m3u8
 #EXTINF:-1 ,PHL17 (WPHL-DT1★720p)
 https://v-pi.mybtv.net/live/355.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,Pinole 26
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/chunklist.m3u8
+#EXTINF:-1 ,Pinole 28
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/chunklist.m3u8
 #EXTINF:-1 ,PIX11 New York NY (WPIX-DT1)
 https://v-ny.mybtv.net/live/562.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,PIX11 Plus New York NY (720p)
