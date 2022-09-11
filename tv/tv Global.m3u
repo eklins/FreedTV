@@ -519,17 +519,17 @@ https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 ,GRC★Hellenic TV (720p) [Not 24/7]
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
-#EXTINF:-1 ,GRC★Ionian Channel (1080p) [Not 24/7]
+#EXTINF:-1 ,GRC★Ionian HD (1080p) [Not 24/7]
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 ,GRC★Magic TV (480p)
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 ,GRC★MGR TV
 https://vod.streams.ovh:3876/stream/play.m3u8
-#EXTINF:-1 ,GRC★Nea TV
+#EXTINF:-1 ,GRC★NEA
 https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:-1 ,GRC★Netmax TV
+#EXTINF:-1 ,GRC★netmax TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 ,GRC★NG
+#EXTINF:-1 ,GRC★NG Radio
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 ,GRC★NRG 91
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
