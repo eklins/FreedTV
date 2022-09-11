@@ -1789,6 +1789,12 @@
       "parse": false
     },
     {
+      "name": "峨嵋电影",
+      "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "高清影院",
       "url": "http://112.19.214.90:8883/tsfile/live/1011_1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -1797,6 +1803,12 @@
     {
       "name": "黑莓电影",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "湖南电影",
+      "url": "http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000038/main.m3u8?湖南IPv6",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -2133,12 +2145,6 @@
     {
       "name": "衡水影视娱乐 (480p)",
       "url": "http://hls.hsrtv.cn/hls/hstv2.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "湖南电影",
-      "url": "http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000038/main.m3u8?湖南IPv6",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
