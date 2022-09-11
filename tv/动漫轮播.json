@@ -199,12 +199,6 @@
       "parse": false
     },
     {
-      "name": "Animax (Taiwan)",
-      "url": "http://59.125.122.90:18550/http/192.168.1.9:8078/hls/24/80/ch04.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Aniplus (576p)",
       "url": "http://210.210.155.37/dr9445/h/h02/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -675,12 +669,6 @@
     {
       "name": "台湾CN卡通频道",
       "url": "http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾龙华卡通",
-      "url": "http://59.125.122.90:18600/http/192.168.1.9:8081/hls/76/818/ch08.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
