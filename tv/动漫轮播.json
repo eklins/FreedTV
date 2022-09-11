@@ -613,6 +613,12 @@
       "parse": false
     },
     {
+      "name": "动漫秀场",
+      "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "哈哈炫动 (576p)",
       "url": "http://210.210.155.37/qwr9ew/s/s50/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
