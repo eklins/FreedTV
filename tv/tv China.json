@@ -577,14 +577,14 @@
       "parse": false
     },
     {
-      "name": "福州影视",
-      "url": "http://live.zohi.tv/video/s10001-yspd-2/index.m3u8",
+      "name": "FZTV-1（福州综合）",
+      "url": "http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "福州综合",
-      "url": "http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8",
+      "name": "FZTV-2（福州影视）",
+      "url": "http://live.zohi.tv/video/s10001-yspd-2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
