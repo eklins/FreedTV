@@ -739,6 +739,12 @@
       "parse": false
     },
     {
+      "name": "PLAYY Action (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/11720_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Popstar! TV",
       "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -854,7 +860,7 @@
     },
     {
       "name": "The Movie (Korea) [Not 24/07]",
-      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/TheMovie.m3u8",
+      "url": "https://apichvod19.seezntv.com/OTM/11090_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
