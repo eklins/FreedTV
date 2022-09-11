@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "name": "🇦🇺ABC 90",
+      "url": "https://jx.wujinkk.com/dplayer/?url=https://c.mjh.nz/101002210221/",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "🇦🇺ABC ME",
+      "url": "https://jx.wujinkk.com/dplayer/?url=https://c.mjh.nz/101002210224/",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Animax",
       "url": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
