@@ -1705,12 +1705,6 @@
       "parse": false
     },
     {
-      "name": "台湾MOMO综合台",
-      "url": "http://59.125.122.90:18576/http/192.168.1.9:8081/hls/68/810/ch01.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
       "name": "台湾TVBS欢乐台",
       "url": "http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
@@ -1723,26 +1717,8 @@
       "parse": false
     },
     {
-      "name": "台湾八大第一",
-      "url": "http://59.125.122.90:18539/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾八大综合",
-      "url": "http://59.125.122.90:18517/http/192.168.1.9:8078/hls/24/80/ch04.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
       "name": "台湾东森财经（美洲）",
       "url": "http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾东森超视",
-      "url": "http://59.125.122.90:18555/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
@@ -1771,38 +1747,8 @@
       "parse": false
     },
     {
-      "name": "台湾龙华电影",
-      "url": "http://59.125.122.90:18574/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾龙华卡通",
-      "url": "http://59.125.122.90:18600/http/192.168.1.9:8081/hls/76/818/ch08.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾龙华偶像",
-      "url": "http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
       "name": "台湾三立台湾台",
       "url": "http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾纬来育乐",
-      "url": "http://59.125.122.90:18541/http/192.168.1.9:8078/hls/24/80/ch04.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾亚洲旅游",
-      "url": "http://59.125.122.90:18568/http/192.168.1.9:8078/hls/24/80/ch04.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
