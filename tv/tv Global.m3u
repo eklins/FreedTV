@@ -1573,7 +1573,9 @@ https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 https://live.realitatea.net/livertmp/plus/playlist.m3u8
 #EXTINF:-1 ,ROU★Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Russia.png",Russia❤1HD Music Television
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Russia.png",Russia❤1 HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,RUS★1 HD Music Television
 https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1 ,RUS★2x2
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
