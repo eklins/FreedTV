@@ -427,6 +427,12 @@
       "parse": false
     },
     {
+      "name": "安徽影视",
+      "url": "http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BCTV",
       "url": "http://live.sctvcloud.com/live/bcgqlive.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -703,6 +709,12 @@
       "parse": false
     },
     {
+      "name": "吉林影院",
+      "url": "http://stream1.jlntv.cn/yspd/sd/live.m3u8?zjild",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "江西新闻",
       "url": "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225615/2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -787,6 +799,18 @@
       "parse": false
     },
     {
+      "name": "山西影视",
+      "url": "http://liveflash.sxrtv.com/live/sxfilm.m3u8?zshanxd",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "上海东方影视",
+      "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ICS（上海外语频道）",
       "url": "http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -801,6 +825,12 @@
     {
       "name": "上海影视",
       "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "上虞文化影视",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -901,20 +931,20 @@
       "parse": false
     },
     {
-      "name": "浙江影视",
+      "name": "浙江影视娱乐",
       "url": "http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "浙江中国蓝新闻",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "纯享4K",
       "url": "http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "东方影视",
-      "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
