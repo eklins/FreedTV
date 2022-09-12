@@ -177,6 +177,8 @@ http://lova.me/hls/hithd.m3u8
 https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belgium.png",Belgium❤BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 ,BEL★Rakuten Family
+https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,BEL★RTL-Be
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belize.png",Belize❤Channel 7
@@ -389,16 +391,20 @@ https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Comedy Movies
 https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FRA★Rakuten Documentaries
+https://rakuten-documentaries-7-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Family
 https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FRA★Rakuten Romance ①
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FRA★Rakuten Romance ②
+https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Spotlight
 https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Thriller
 https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Top Free
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,FRA★Rakuten TV Films Français
-https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten TV Shows
 https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Sofy TV
@@ -803,6 +809,18 @@ https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
 http://91.134.145.75:10001/Dijlah/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ireland.png",Ireland❤Oireachtas TV
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:-1 ,IRL★Rakuten Action Movies
+https://rakuten-action-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IRL★Rakuten Comedy
+https://rakuten-comedy-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IRL★Rakuten Documentaries
+https://rakuten-documentaries-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IRL★Rakuten Drama
+https://rakuten-drama-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IRL★Rakuten Family
+https://rakuten-family-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IRL★Rakuten Spotlight
+https://rakuten-spotlight-13-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Israel.png",Israel❤HOT HBO (Израиль)
 http://myott.top/stream/DT6QU63K5VX/381.m3u8
 #EXTINF:-1 ,ISR★HOT Zone (Израиль)
@@ -897,6 +915,8 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Rakuten Comedy Movies
 https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ITA★Rakuten Documentaries
+https://rakuten-documentaries-6-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Rakuten Family
 https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Rakuten Spotlight
@@ -1385,6 +1405,8 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★Now 90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★PULSE。
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★The Edge
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 ,NZL★Wairarapa TV
@@ -1549,6 +1571,10 @@ http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 #EXTINF:-1 ,PRT★Porto Canal
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 ,PRT★Rakuten Documentaries
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,PRT★Rakuten Family
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,PRT★RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★TVI Reality
@@ -1810,7 +1836,7 @@ https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Rakuten Top Free
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Rakuten TV Shows
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sri-Lanka.png",Sri Lanka❤ITN
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 #EXTINF:-1 ,LKA★Santhora TV
@@ -1979,6 +2005,8 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Family
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Rakuten Films Français
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Spotlight
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Thriller
