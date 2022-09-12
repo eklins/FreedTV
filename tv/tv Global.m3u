@@ -57,6 +57,16 @@ https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 ,🇺🇳Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
+#EXTINF:-1 ,🇺🇳Safari (480p) [Not 24/7]
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 ,🇺🇳Shelanu TV (720p)
+https://1247634592.rsc.cdn77.org/1247634592/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,🇺🇳Slimo (540p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
+#EXTINF:-1 ,🇺🇳SMNI (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1 ,🇺🇳Takhayl
+https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/shahid-media-prod-channel-assembly-1/index.m3u8
 #EXTINF:-1 ,🇺🇳Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤WATAN-E-MAA
@@ -203,6 +213,8 @@ https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 ,BRA★ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:-1 ,BRA★Megapix (TELE CINE ACTION)
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 ,BRA★MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,BRA★RBC
@@ -649,8 +661,6 @@ https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF:-1 ,IND★Nile TV Cinema (576p) [Not 24/7]
 http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 ,IND★Safari (480p) [Not 24/7]
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 ,IND★Star Gold (Utsav)
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 ,IND★WION (576p)
@@ -823,6 +833,8 @@ https://rakuten-documentaries-13-ie.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-13-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IRL★Rakuten Family
 https://rakuten-family-13-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IRL★Rakuten Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IRL★Rakuten Spotlight
 https://rakuten-spotlight-13-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Israel.png",Israel❤HOT HBO (Израиль)
@@ -1367,6 +1379,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01847-dutchessmediabv-oneworldtv-sa
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 ,NLD★Radio 350
 https://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1 ,NLD★Rakuten Family
+https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Spotlight
+https://rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 ,NLD★RTV GO!
@@ -1375,10 +1391,8 @@ http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
 http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Samen1 TV
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
-#EXTINF:-1 ,NLD★Rakuten Family
-https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,NLD★Rakuten Spotlight
-https://rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Sofy TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
 #EXTINF:-1 ,NLD★TV Valkenburg
 https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
 #EXTINF:-1 ,NLD★UStad
@@ -1411,6 +1425,8 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★PULSE。
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★Smithsonian Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★The Edge
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 ,NZL★Wairarapa TV
