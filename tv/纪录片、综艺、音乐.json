@@ -2833,6 +2833,12 @@
       "parse": false
     },
     {
+      "name": "Power HD (Turkey)",
+      "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "PTV Linares",
       "url": "https://streamer.zapitv.com/ptv-linarez/tracks-v1a1/mono.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
