@@ -1885,7 +1885,13 @@
       "parse": false
     },
     {
-      "name": "Rakuten Guardian",
+      "name": "Rakuten Guardian (Ireland)",
+      "url": "https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rakuten Guardian (Netherlands)",
       "url": "https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
