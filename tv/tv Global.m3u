@@ -31,8 +31,6 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 ,🇺🇳Asomavisión
 https://asomatv.duckdns.org/livestream/stream.m3u8
-#EXTINF:-1 ,🇺🇳AXN HD
-http://supersonictv.live:25461/live/vegas2000/vegas2000/85883.m3u8
 #EXTINF:-1 ,🇺🇳Boogle Bollywood (1080p) [Not 24/7]
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 ,🇺🇳Cinema Classic TV
@@ -43,12 +41,8 @@ https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 ,🇺🇳ELTV
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
-#EXTINF:-1 ,🇺🇳Euro Star
-https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 ,🇺🇳Fentazy
 http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 ,🇺🇳MNB World
-https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:-1 ,🇺🇳NRB Network
 http://uni6rtmp.tulix.tv:1935/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Pardesi TV (720p) [Not 24/7]
@@ -1241,7 +1235,9 @@ http://hls.protv.md/acasatv/acasatv.m3u8
 http://myott.top/stream/DT6QU63K5VX/335.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Monaco.png",Monaco❤Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mongolia.png",Mongolia❤Movie Box
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mongolia.png",Mongolia❤MNB World
+https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+#EXTINF:-1 ,MNG★Movie Box
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Montenegro.png",Montenegro❤TVCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
@@ -1251,6 +1247,8 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 ,MAR★Al Aoula International (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 ,MAR★Euro Star
+https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 ,MAR★Medi 1 TV Afrique
 http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 ,MAR★Télé Maroc
