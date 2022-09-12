@@ -483,7 +483,7 @@ https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 ,GRC★BCI 24 News
 https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
-#EXTINF:-1 ,GRC★Best TV
+#EXTINF:-1 ,GRC★Best [Not 24/7]
 https://stream.net7.gr/hls/best/index.m3u8
 #EXTINF:-1 ,GRC★Canali TV
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
@@ -503,16 +503,22 @@ http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 http://176.9.123.140:1935/1c/stream/master.m3u8
 #EXTINF:-1 ,GRC★Epirus TV1
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 ,GRC★EPT 1 (480p)
+http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 ,GRC★ERT News
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 ,GRC★Fox (480p) [Not 24/7]
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 ,GRC★Galaxy (432p)
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
+#EXTINF:-1 ,GRC★Greek TV London [Not 24/7]
+https://vdo3.alphaserver.gr:3466/stream/play.m3u8
 #EXTINF:-1 ,GRC★Groovy (360p)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 ,GRC★Hellenic TV (720p) [Not 24/7]
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 ,GRC★IDJ Video (480p) [Not 24/7]
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 ,GRC★Ionian HD (1080p) [Not 24/7]
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 ,GRC★Magic TV (480p)
@@ -537,6 +543,8 @@ https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 http://78.83.87.222:9999/play/a017/index.m3u8
 #EXTINF:-1 ,GRC★Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 ,GRC★Zerouno TV (720p)
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Guatemala.png",Guatemala❤Canal 3
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
 #EXTINF:-1 ,GTM★Canal 7 Televisiete (Sport)
