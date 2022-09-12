@@ -2011,6 +2011,8 @@ https://v-ny.mybtv.net/live/577.m3u8?env=prd&uid=-1&x=1
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 ,WSTO
+https://5d80890572342.streamlock.net:1936/live/wstoLive/playlist.m3u8
 #EXTINF:-1 ,WTVE-DT1 (720p)
 https://v-pi.mybtv.net/live/400.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Wu Tang (East)
