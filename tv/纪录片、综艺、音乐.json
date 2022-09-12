@@ -303,12 +303,18 @@
     {
       "name": "AFV",
       "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4iz3xL7C1b9h_juK8PmVTHKWh5mrJ-pahg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0KxiNiBfWpBL9zHtpb54XQDiGEG_WRVxWw&usqp=CAU",
       "parse": false
     },
     {
       "name": "AFV en Español",
       "url": "https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0KxiNiBfWpBL9zHtpb54XQDiGEG_WRVxWw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AFV Family",
+      "url": "https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0KxiNiBfWpBL9zHtpb54XQDiGEG_WRVxWw&usqp=CAU",
       "parse": false
     },
