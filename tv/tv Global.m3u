@@ -49,6 +49,10 @@ http://v2.catcast.tv/content/38144/index.m3u8
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 ,🇺🇳NRB Network
 http://uni6rtmp.tulix.tv:1935/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ,🇺🇳one
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 ,🇺🇳ONTV
+https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 ,🇺🇳Pardesi TV (720p) [Not 24/7]
 http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 ,🇺🇳Pax TV
