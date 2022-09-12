@@ -341,11 +341,7 @@ https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
 https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FIN★Rakuten Spotlight
 https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤BBC Drama
-https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,FRA★Euronews (English)
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 ,FRA★Africa News Français
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤Africa News Français
 https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,FRA★BBC Doctor Who 2009-?
 https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
@@ -357,6 +353,8 @@ https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
 #EXTINF:-1 ,FRA★BFM TV
 https://stream-12.dc3.dailymotion.com/sec (4cextmXq8crpVEOecERE_nfQtElgJGfsNlPA-v73dgqudFvhUZJDmEJ4PbXtpWP_)/dm/3/xgz4t1/d/live-4.m3u8#cell=lcore
+#EXTINF:-1 ,FRA★Euronews (English)
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 ,FRA★FashionTV Czech & Slovakia
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 ,FRA★FashionTV L'Original
@@ -365,6 +363,8 @@ https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
 #EXTINF:-1 ,FRA★FashionTV PG16
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 ,FRA★Filmstream
+https://spi-filmstream-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★France 24
 https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,FRA★M6
