@@ -1939,6 +1939,8 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTINF:-1 ,GBR★Fashion TV UK
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,GBR★Filmstream
+https://spi-filmstream-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★FTF For The Fans
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,GBR★GB News
