@@ -1562,13 +1562,13 @@
     },
     {
       "name": "香港无线新闻台",
-      "url": "https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1662098109~exp=1662184509~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=3882b4e827f69167f9ca7effadfaf923ed4730403b220766b549369465955671&p=3139",
+      "url": "http://9.zhxinda.xyz/newss.php?id=1",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
-      "parse": false
+      "parse": true
     },
     {
       "name": "香港无线财经•资讯台",
-      "url": "http://198.204.239.194:27347/livehlsplay?channel_id=20099",
+      "url": "http://9.zhxinda.xyz/newss.php?id=2",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
     },
