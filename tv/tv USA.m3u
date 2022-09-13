@@ -385,6 +385,10 @@ http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
 #EXTINF:-1 ,Cine Sureño (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 ,CityTV Placentia, California
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/chunklist.m3u8
+#EXTINF:-1 ,CityTV San Diego
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/chunklist.m3u8
 #EXTINF:-1 ,Civilized. (1080p) [Not 24/7]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
 #EXTINF:-1 ,Classic Art Showcase
@@ -1497,6 +1501,10 @@ https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8
 https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 ,Sent TV Global Network (720p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8
+#EXTINF:-1 ,SF Commons TV76
+https://reflect-bayarea.cablecast.tv/live-5/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:-1 ,SFGovTV2
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_008/chunklist.m3u8
 #EXTINF:-1 ,Shabakeh 7 (720p)
 http://rtmp.abnsat.com/hls/txministry.m3u8
 #EXTINF:-1 ,Shalom TV (720p) [Not 24/7]
@@ -1969,10 +1977,10 @@ https://81988.global.ssl.fastly.net/6054f2db9a679c037cbbb2b2/live_7749cbc088e711
 https://stream.rcncdn.com/live/vsinproxy.m3u8
 #EXTINF:-1 , Washington: Seattle
 https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
-#EXTINF:-1 ,WATC-DT1
-https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
-#EXTINF:-1 ,WATC-DT2
+#EXTINF:-1 ,WATC (WATC-DT2)
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
+#EXTINF:-1 ,WATC 57 Atlanta's (WATC-DT1)
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 #EXTINF:-1 ,Watch It Kid (486p)
 https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 #EXTINF:-1 ,Watch It Scream! (720p)
