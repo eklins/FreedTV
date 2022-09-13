@@ -805,6 +805,12 @@
       "parse": false
     },
     {
+      "name": "TNT Sports ① (Brazil)",
+      "url": "https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TNT Sports ② (Brazil)",
       "url": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
