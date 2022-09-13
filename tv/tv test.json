@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "Heroes & Icons (WWOR-DT3)",
+      "url": "http://v-ny.theus6tv.duckdns.org/hls/9.3/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "SYFY (480p)",
       "url": "http://190.61.41.182:8000/play/a2rn/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
