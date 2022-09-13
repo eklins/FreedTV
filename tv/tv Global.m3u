@@ -659,6 +659,8 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IND★KCV Movies (576p) [Not 24/7]
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
+#EXTINF:-1 ,IND★Nee Cinema (480p)
+https://live.neestream.net/neestream_01/neecinema/index.m3u8?token=693400
 #EXTINF:-1 ,IND★Nile TV Cinema (576p) [Not 24/7]
 http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 ,IND★Star Gold (Utsav)
