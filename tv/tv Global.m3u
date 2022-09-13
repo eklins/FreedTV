@@ -1047,12 +1047,32 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 ,JOR★Jordan Satellite Channel
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kazakhstan.png",Kazakhstan❤Atameken Business
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kazakhstan.png",Kazakhstan❤1 HD Music Television
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:-1 ,KAZ★Amedia Hit
+https://sc.id-tv.kz/amedia_hit_hd.m3u8
+#EXTINF:-1 ,KAZ★Atameken Business
 http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 ,KAZ★Bober (Бобер)
+https://sc.id-tv.kz/bober.m3u8
+#EXTINF:-1 ,KAZ★Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 ,KAZ★Dorama (Дорама) [Not 24/7]
+https://sc.id-tv.kz/dorama_hd.m3u8
 #EXTINF:-1 ,KAZ★Ел Арна (576p)
 https://sc.id-tv.kz/ElArna.m3u8
-#EXTINF:-1 ,KAZ★Хабар 24
+#EXTINF:-1 ,KAZ★FOX HD
+https://sc.id-tv.kz/FOX_HD.m3u8
+#EXTINF:-1 ,KAZ★Habar 24 (Хабар)
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1 ,KAZ★Kinomix (Киномикс) [Not 24/7]
+https://sc.id-tv.kz/Kinomix_hd.m3u8
+#EXTINF:-1 ,KAZ★Kinopremiera (Кинопремьера) [Not 24/7]
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+#EXTINF:-1 ,KAZ★Kinosemiya (Киносемья) [Not 24/7]
+https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+#EXTINF:-1 ,KAZ★Kinosvidanie (Киносвидание) [Not 24/7]
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Korea-North.png",Korea (N)❤KCTV (Korean Central Television)
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Korea-South.png",Korea (S)❤국악방송
@@ -1655,8 +1675,6 @@ https://live.realitatea.net/livertmp/plus/playlist.m3u8
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Russia.png",Russia❤1 HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 ,RUS★1 HD Music Television
-https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1 ,RUS★2x2
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 ,RUS★A1
@@ -1665,8 +1683,6 @@ http://ott-cdn.ucom.am/s45/index.m3u8
 http://ott-cdn.ucom.am/s33/index.m3u8
 #EXTINF:-1 ,RUS★Доктор
 http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
-#EXTINF:-1 ,RUS★Amedia Hit
-https://sc.id-tv.kz/amedia_hit_hd.m3u8
 #EXTINF:-1 ,RUS★Amedia Premium
 http://ott-cdn.ucom.am/s64/index.m3u8
 #EXTINF:-1 ,RUS★Arhls 24 (Архыз)
@@ -1685,16 +1701,10 @@ http://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 ,RUS★BСТ (Башкирское спутниковое телевидение)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1 ,RUS★Bober (Бобер)
-https://sc.id-tv.kz/bober.m3u8
 #EXTINF:-1 ,RUS★СССР ТВ
 https://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 ,RUS★Cinema
-https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1 ,RUS★Dagestan (Дагестан)
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 ,RUS★Dorama (Дорама) [Not 24/7]
-https://sc.id-tv.kz/dorama_hd.m3u8
 #EXTINF:-1 ,RUS★Белгород 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 #EXTINF:-1 ,RUS★БелРос
@@ -1705,8 +1715,6 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 ,RUS★FilmTV Kinder (400p)
 https://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 ,RUS★FOX HD
-https://sc.id-tv.kz/FOX_HD.m3u8
 #EXTINF:-1 ,RUS★Gubernia (Губерния★Самара)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 ,RUS★HD 365
@@ -1723,14 +1731,6 @@ https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 #EXTINF:-1 ,RUS★Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,RUS★Kinomix (Киномикс) [Not 24/7]
-https://sc.id-tv.kz/Kinomix_hd.m3u8
-#EXTINF:-1 ,RUS★Kinopremiera (Кинопремьера) [Not 24/7]
-https://sc.id-tv.kz/Kinopremiera_hd.m3u8
-#EXTINF:-1 ,RUS★Kinosemiya (Киносемья) [Not 24/7]
-https://sc.id-tv.kz/Kinosemiya_hd.m3u8
-#EXTINF:-1 ,RUS★Kinosvidanie (Киносвидание) [Not 24/7]
-https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:-1 ,RUS★Kurai (Курай)
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 ,RUS★ЛДПР ТВ
@@ -1845,6 +1845,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e10
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId=
 #EXTINF:-1 ,ESP★PlutoTV Mutante X
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,ESP★PTV Linares
+https://streamer.zapitv.com/ptv-linarez/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ESP★Rakuten Action Movies
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Rakuten Comedy Movies
