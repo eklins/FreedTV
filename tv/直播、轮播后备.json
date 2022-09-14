@@ -283,9 +283,27 @@
       "parse": true
     },
     {
-      "name": "琅琊榜2015",
+      "name": "新水浒传 2011",
+      "url": "https://m.douyu.com/6785471",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCOuB0fxbSjA4vCuu071vPGFwHlpkDsRVfA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "琅琊榜 2015",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=22089862",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw83WWLwPaCtmka1tMyEktC_JV04VDNyhEBA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "龙门镖局 2013",
+      "url": "https://m.douyu.com/9650860",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXyJ8tqbSOFyZtZj6IVNzbswJfOGNW-WdQw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "仙剑奇侠传 2005-2016",
+      "url": "http://mmitv.top/pltv/yy.php?id=1462567824",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9werolkAPG0T1IRIbUIrnZPAvE8ZRyh6Eyw&usqp=CAU",
       "parse": true
     },
     {
@@ -457,6 +475,36 @@
       "parse": true
     },
     {
+      "name": "朱元璋 2006",
+      "url": "https://m.douyu.com/308752",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcU9ndGhf8h1WTPxKgQkw5KmD9kXD6d7LDg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "宰相刘罗锅 1996",
+      "url": "https://m.douyu.com/8543072",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPT1DuFORJ95r05kypIYDsAhVkzErK69TlDA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "轩辕剑之天之痕 2012",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355507366",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzxhDsyu1-ZEzSXNPuoNAT2h9_z0cZDjKKw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "青云志 2015",
+      "url": "http://mmitv.top/pltv/yy.php?id=1459331991",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1uY1uArjc8j7HKdPdL8WYG-h6EKRwoWN6w&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "布衣天子 2003",
+      "url": "http://bp-caster.bestv.com.cn/468/1/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_C_BXecIPgQk7IUQphjHXP7pS7ksER5tiw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "雍正王朝1999",
       "url": "http://zzy789.xyz/bili.php?id=21205932",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
@@ -499,8 +547,8 @@
       "parse": true
     },
     {
-      "name": "铁齿铜牙纪晓岚2002",
-      "url": "http://zzy789.xyz/bili.php?id=6694373",
+      "name": "铁齿铜牙纪晓岚 2002",
+      "url": "https://cn-nmghhht-cu-live-03.bilivideo.com/live-bvc/805868/live_391663120_60721084.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
       "parse": true
     },
