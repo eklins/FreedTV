@@ -505,6 +505,12 @@
       "parse": false
     },
     {
+      "name": "滁州科教频道",
+      "url": "http://live.cztv.cc:85/live/sjpd.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "滁州新闻综合",
       "url": "http://live.cztv.cc:85/live/xwpd.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
