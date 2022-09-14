@@ -1143,6 +1143,8 @@ https://apichvod19.seezntv.com/OTM/10150_L.m3u8?AdaptiveType=HLS&SessionID=3438d
 http://183.110.27.87/mtnlive/720/playlist.m3u8
 #EXTINF:-1 ,KOR★NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 ,KOR★NewKID (Roku)
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 #EXTINF:-1 ,KOR★NewKID ①
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=612
 #EXTINF:-1 ,KOR★NewKID ②
