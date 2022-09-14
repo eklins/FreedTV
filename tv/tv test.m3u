@@ -1,5 +1,12 @@
 #EXTM3U
-#EXTINF:-1 ,中天新闻
+#EXTINF:-1 ,香港无线新闻
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_mp4a.40.29_128000",LANGUAGE="au1",NAME="a128000",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="2/a128000/index.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1704570,AVERAGE-BANDWIDTH=1704570,RESOLUTION=1280x720,CODECS="avc1.4D001F,mp4a.40.29",AUDIO="audio_mp4a.40.29_128000",FRAME-RATE=252/v1500000/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=887179,AVERAGE-BANDWIDTH=887179,RESOLUTION=640x360,CODECS="avc1.42001E,mp4a.40.29",AUDIO="audio_mp4a.40.29_128000",FRAME-RATE=252/v700000/index.m3u8
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1662098109~exp=1662184509~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=3882b4e827f69167f9ca7effadfaf923ed4730403b220766b549369465955671&p=3139
+#EXTINF:-1 ,台湾中天新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
 #EXTINF:-1 ,K-Pop
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/kpop.m3u8
