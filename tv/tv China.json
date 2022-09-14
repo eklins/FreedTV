@@ -1274,7 +1274,7 @@
     },
     {
       "name": "NewTV 爱情喜剧",
-      "url": "http://39.134.65.166/PLTV/88888888/224/3221225533/1.m3u8",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -1316,7 +1316,7 @@
     },
     {
       "name": "NewTV 动作电影",
-      "url": "http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -1370,7 +1370,7 @@
     },
     {
       "name": "NewTV 惊悚悬疑",
-      "url": "http://111.40.196.32/PLTV/88888888/224/3221225638/index.m3u8",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225746/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
