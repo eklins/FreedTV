@@ -14,7 +14,7 @@
     },
     {
       "name": "三国演义 1994",
-      "url": "http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=",
+      "url": "https://m.huya.com/11602081",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
       "parse": true
     },
@@ -43,8 +43,8 @@
       "parse": true
     },
     {
-      "name": "铁齿铜牙纪晓岚 2002",
-      "url": "https://cn-nmghhht-cu-live-03.bilivideo.com/live-bvc/805868/live_391663120_60721084.m3u8",
+      "name": "铁齿铜牙纪晓岚2002",
+      "url": "http://zzy789.xyz/bili.php?id=6694373",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
       "parse": true
     },
@@ -63,13 +63,13 @@
     {
       "name": "仙剑奇侠传 2005-2016",
       "url": "http://mmitv.top/pltv/yy.php?id=1462567824",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9werolkAPG0T1IRIbUIrnZPAvE8ZRyh6Eyw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9EVep2S6FRnTYOaDFJvHdu835sRiJaEfcuw&usqp=CAU",
       "parse": true
     },
     {
-      "name": "轩辕剑之天之痕 2012",
-      "url": "http://mmitv.top/pltv/yy.php?id=1355507366",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzxhDsyu1-ZEzSXNPuoNAT2h9_z0cZDjKKw&usqp=CAU",
+      "name": "古剑奇谭 2014",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355171357",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhO01ppA5IM_PcMAv_qY3Ej8jmUPAYbtnpw&usqp=CAU",
       "parse": true
     },
     {
@@ -253,12 +253,6 @@
       "parse": false
     },
     {
-      "name": "BBC America",
-      "url": "https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Channel China (Korea)",
       "url": "https://apichvod19.seezntv.com/OTM/10790_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -279,12 +273,6 @@
     {
       "name": "Hits (Indonesia)",
       "url": "http://210.210.155.37/dr9445/h/h37/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "IFC (East)",
-      "url": "https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -319,27 +307,9 @@
       "parse": false
     },
     {
-      "name": "Sundance (East)",
-      "url": "https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "The Grio (KCKS-LD8)",
       "url": "https://cdn.igocast.com/channel8_hls/channel8_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AMC Presents",
-      "url": "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AMC Slightly Off",
-      "url": "https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
     },
     {
@@ -553,33 +523,15 @@
       "parse": false
     },
     {
-      "name": "布衣天子 2003",
-      "url": "http://bp-caster.bestv.com.cn/468/1/video.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_C_BXecIPgQk7IUQphjHXP7pS7ksER5tiw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "汉武大帝 2005",
       "url": "http://mmitv.top/pltv/yy.php?id=1355260855",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDrMhO3P6gYdgZzgPn6YF0WnDUi_go2XERIw&usqp=CAU",
       "parse": true
     },
     {
-      "name": "朱元璋 2006",
-      "url": "https://m.douyu.com/308752",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcU9ndGhf8h1WTPxKgQkw5KmD9kXD6d7LDg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "芈月传 2015",
       "url": "https://m.huya.com/11352975",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCvXm6EBSw9L68tp2BOqOzUsMNNDXmMlA3Q&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "宰相刘罗锅 1996",
-      "url": "https://m.douyu.com/8543072",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPT1DuFORJ95r05kypIYDsAhVkzErK69TlDA&usqp=CAU",
       "parse": true
     },
     {
@@ -607,12 +559,6 @@
       "parse": true
     },
     {
-      "name": "新水浒传 2011",
-      "url": "https://m.douyu.com/6785471",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCOuB0fxbSjA4vCuu071vPGFwHlpkDsRVfA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "隋唐英雄传 2003",
       "url": "http://mmitv.top/pltv/yy.php?id=1352475619",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_iAc6GjG-4Gk2QmLDgy8QJJoMHXGCx1F7Pw&usqp=CAU",
@@ -628,18 +574,6 @@
       "name": "薛平贵与王宝钏 2012",
       "url": "http://mmitv.top/pltv/yy.php?id=1461199021",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSR-Nb2oFdZ370oGQleM6SBeK4ffRbGS_eSQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "古剑奇谭 2014",
-      "url": "http://mmitv.top/pltv/yy.php?id=1355171357",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhO01ppA5IM_PcMAv_qY3Ej8jmUPAYbtnpw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "青云志 2015",
-      "url": "http://mmitv.top/pltv/yy.php?id=1459331991",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1uY1uArjc8j7HKdPdL8WYG-h6EKRwoWN6w&usqp=CAU",
       "parse": true
     },
     {
@@ -670,6 +604,12 @@
       "name": "西游记（粤）1998",
       "url": "https://m.huya.com/23734246",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3GL2TS8glFCjXtvSJIYahoLO1IR4QivYcmA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "石敢当 2015",
+      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=22089862",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYaY6RxfPXlKf2XV-9-p2iVwVkYX3nLZ3Xqg&usqp=CAU",
       "parse": true
     },
     {
@@ -706,12 +646,6 @@
       "name": "哪咤降妖记 2020",
       "url": "http://mmitv.top/pltv/yy.php?id=1355286112",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvm_Tmt9IXHl3iwSqDsi8W_HTBYvIDNRYYqg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "龙门镖局 2013",
-      "url": "https://m.douyu.com/9650860",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXyJ8tqbSOFyZtZj6IVNzbswJfOGNW-WdQw&usqp=CAU",
       "parse": true
     },
     {
@@ -796,6 +730,12 @@
       "name": "白眉大侠 1995",
       "url": "https://m.huya.com/10871113",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zyrz1nK0D8RyT_H8Cq2BVdRMOcuHfZeqHQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "天下第一 2005",
+      "url": "http://mmitv.top/pltv/yy.php?id=1459331991",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64iEUfAw-7iCBP5zCZG7Mc3KSSIbKnAHXuA&usqp=CAU",
       "parse": true
     },
     {
