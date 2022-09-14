@@ -61,12 +61,6 @@
       "parse": false
     },
     {
-      "name": "香港无线新闻台",
-      "url": "https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
-      "parse": false
-    },
-    {
       "name": "香港国际财经台 HKIBC",
       "url": "http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8I0ZPWACRx9egWfTzOeaSpkP03A7Armnzg&usqp=CAU",
