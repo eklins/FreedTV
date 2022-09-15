@@ -523,24 +523,6 @@
       "parse": false
     },
     {
-      "name": "大同－1 新闻综合",
-      "url": "https://live.dtradio.com.cn/xwzh/playlist.m3u8?_upt=6607338a1663259708",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "大同－2 公共频道",
-      "url": "https://live.dtradio.com.cn/ggpd/playlist.m3u8?_upt=893fab861663259779",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "大同－3 煤都生活",
-      "url": "https://live.dtradio.com.cn/mdsh/playlist.m3u8?_upt=9e33a1781663252967",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "大象新闻",
       "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
