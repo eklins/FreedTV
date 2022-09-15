@@ -385,19 +385,19 @@
       "parse": true
     },
     {
-      "name": "三国演义1994",
+      "name": "三国演义 1994",
       "url": "https://m.huya.com/11602081",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
       "parse": true
     },
     {
-      "name": "新三国2010",
+      "name": "新三国 2010",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29216766",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfoCWDswarGIVU7EBrJ_gN0AtNbNcIL8a8g&usqp=CAU",
       "parse": true
     },
     {
-      "name": "新三国2010",
+      "name": "新三国 2010",
       "url": "https://m.douyu.com/276200",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfoCWDswarGIVU7EBrJ_gN0AtNbNcIL8a8g&usqp=CAU",
       "parse": true
@@ -445,14 +445,26 @@
       "parse": true
     },
     {
+      "name": "芈月传 2015",
+      "url": "https://m.huya.com/11352975",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCvXm6EBSw9L68tp2BOqOzUsMNNDXmMlA3Q&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "大秦帝国（裂变、纵横、崛起、大秦赋）2009－2020",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382713104",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382713104",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
       "parse": true
     },
     {
       "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355469735",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355469735",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "大秦帝国（裂变、纵横、崛起）2009-2017",
+      "url": "http://zzy789.xyz/bili.php?id=11259274",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
       "parse": true
     },
@@ -469,8 +481,14 @@
       "parse": true
     },
     {
-      "name": "封神榜1990",
+      "name": "封神榜 1990",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355268573",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5Wjf30StI44S5hdJmrvfyf94GZkIxanNZw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "封神榜 1990",
+      "url": "http://mmitv.top/pltv/yy.php?id=1355525234",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5Wjf30StI44S5hdJmrvfyf94GZkIxanNZw&usqp=CAU",
       "parse": true
     },
@@ -517,49 +535,55 @@
       "parse": false
     },
     {
-      "name": "雍正王朝1999",
+      "name": "雍正王朝 1999",
       "url": "http://zzy789.xyz/bili.php?id=21205932",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
       "parse": true
     },
     {
-      "name": "康熙微服私访记1997",
+      "name": "康熙微服私访记 1997-2003",
       "url": "https://m.huya.com/11342418",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "康熙微服私访记1997",
+      "name": "康熙微服私访记 1997-2003",
       "url": "https://m.douyu.com/7550220",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "铁齿铜牙纪晓岚 2002",
+      "name": "铁齿铜牙纪晓岚 1999-2008",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1457622044",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "铁齿铜牙纪晓岚2002",
+      "name": "铁齿铜牙纪晓岚 1999-2008",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1460576282",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "铁齿铜牙纪晓岚2002",
+      "name": "铁齿铜牙纪晓岚 1999-2008",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1457579747",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "铁齿铜牙纪晓岚2002",
+      "name": "铁齿铜牙纪晓岚 1999-2008",
+      "url": "http://zzy789.xyz/bili.php?id=6694373",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "铁齿铜牙纪晓岚 1999-2008",
       "url": "https://m.douyu.com/9071554",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "铁齿铜牙纪晓岚 2002",
+      "name": "铁齿铜牙纪晓岚 1999-2008",
       "url": "https://cn-nmghhht-cu-live-03.bilivideo.com/live-bvc/805868/live_391663120_60721084.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
       "parse": true
