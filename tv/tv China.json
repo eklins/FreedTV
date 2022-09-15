@@ -656,25 +656,25 @@
     },
     {
       "name": "CZ 法治（广州）",
-      "url": "http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz",
+      "url": "https://wsaplayline.gztv.com/sec/fazhi.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CZ 广州",
-      "url": "http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh",
+      "url": "https://wsaplayline.gztv.com/sec/zhonghes.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CZ 新闻（广州）",
-      "url": "http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw",
+      "url": "https://wsaplayline.gztv.com/sec/xinwen.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CZ 影视（广州）",
-      "url": "http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys",
+      "url": "https://wsaplayline.gztv.com/sec/yingshi.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
