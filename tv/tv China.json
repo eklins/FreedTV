@@ -1441,6 +1441,12 @@
       "parse": false
     },
     {
+      "name": "香港有线综合娱乐台",
+      "url": "http://livetv.dnsfor.me:80/channel.7.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGPkIqaq1FmLAl_nM_miTFahvGLStPtf3Gw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港无线新闻台",
       "url": "http://9.zhxinda.xyz/newss.php?id=1",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
