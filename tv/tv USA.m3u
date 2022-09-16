@@ -705,6 +705,8 @@ https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
 https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
 #EXTINF:-1 ,LocalNow MST3K (Mystery Science Theater 3000)
 https://mst3k-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,LocalNow Sightline
+https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
 #EXTINF:-1 ,LocalNow Weather Gone Viral
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 #EXTINF:-1 ,LocalNow Zen
