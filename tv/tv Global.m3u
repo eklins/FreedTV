@@ -435,6 +435,8 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 ,GEO★Formula (1080p)
 https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1 ,GEO★Mtavari Arkhi
+https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Germany.png",Germany❤123 TV
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 ,DEU★A•TV
