@@ -78,17 +78,6 @@
       "click": true
     },
     {
-      "name": "电视匣 TVFix",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "http://live.tvfix.org/list/channel/%E9%A6%99%E6%B8%AF",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "考古纪录片",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JbDAisQCMVx6Q-zJ9SxT7aEfVGHZA7Jh9A&usqp=CAU",
       "keyDownPlay": false,
