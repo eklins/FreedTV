@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,3ABN Latino
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
 #EXTINF:-1 ,33 Victor Valley (KVVB-TV★1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 ,a3BIKINI (720p)
@@ -385,6 +387,8 @@ http://67.53.122.248/live-4/live/live.m3u8
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/chunklist.m3u8
 #EXTINF:-1 ,CityTV San Diego
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/chunklist.m3u8
+#EXTINF:-1 ,CityTV Stockton
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/chunklist.m3u8
 #EXTINF:-1 ,Civilized. (1080p) [Not 24/7]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
 #EXTINF:-1 ,Classic Art Showcase
@@ -1489,6 +1493,12 @@ https://2-fss-2.streamhoster.com/pl_118/amlst:202742-1432010/chunklist_b4500000.
 https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 #EXTINF:-1 ,Santa and the Three Bears (480p)
 https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
+#EXTINF:-1 ,SMCTV 23 (Santa Maria Community Television)
+https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streama/chunklist_b2192000.m3u8
+#EXTINF:-1 ,SMCTV 24 (Santa Maria Community Television)
+https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streamc/chunklist_b2192000.m3u8
+#EXTINF:-1 ,SMCTV 25 (Santa Maria Community Television)
+https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streamb/chunklist_b2192000.m3u8
 #EXTINF:-1 ,Scream Factory TV (720p)
 https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Screen Dreams (720p)
