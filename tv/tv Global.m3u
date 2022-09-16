@@ -1371,6 +1371,8 @@ http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
 https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
 #EXTINF:-1 ,NLD★Den Haag TV
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1 ,NLD★Discover Film
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Failarmy
 https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Feel Good TV
@@ -2011,6 +2013,8 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Dark Matter TV
 https://dmtv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Discover Film
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★EDGE Sport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★English Club TV
