@@ -463,8 +463,20 @@
       "parse": false
     },
     {
-      "name": "Dry Bar Comedy",
-      "url": "https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8",
+      "name": "DryBar Comedy (Australia)",
+      "url": "https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DryBar Comedy (New Zealand)",
+      "url": "https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DryBar Comedy (US)",
+      "url": "https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
