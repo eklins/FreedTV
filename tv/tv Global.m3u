@@ -429,10 +429,14 @@ https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png",French Polynesia❤TNTV
 https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Georgia.png",Georgia❤1TV (240p)
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 ,GEO★2TV (720p) [Not 24/7]
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 ,GEO★Formula (1080p)
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Germany.png",Germany❤123 TV
 http://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 ,DEU★2TV
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 ,DEU★A•TV
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 ,DEU★Anixe HD Serie
