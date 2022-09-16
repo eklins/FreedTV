@@ -849,8 +849,14 @@ https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 ,ITA★aB Channel [Not 24/7]
 https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
+#EXTINF:-1 ,ITA★AlmaTV Food
+https://promosrl-almatvfood-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ITA★AlmaTV Travel
+https://promosrl-almatvtravel-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Alto Adige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 ,ITA★Amuse Animation
+https://amuse-amuseanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1 ,ITA★Bergamo TV
@@ -1009,6 +1015,10 @@ http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 ,ITA★Vuemme
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+#EXTINF:-1 ,ITA★WP Minerva Pictures
+https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ITA★Yamato Animation
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Jamaica.png",Jamaica❤Jamaica Online TV
 https://vse2-sa-all4.secdn.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Japan.png",Japan❤26 歌
