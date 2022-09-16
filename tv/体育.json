@@ -547,6 +547,12 @@
       "parse": false
     },
     {
+      "name": "Lo Mejor De La Liga Mexico",
+      "url": "https://linear-193.frequency.stream/193/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Mav TV Motorsports Network (Netherlands)",
       "url": "https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
