@@ -1727,6 +1727,8 @@ https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 #EXTINF:-1 ,STIRR Outside TV (1080p)
 https://outsidetvplus-stirr.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,STIRR Popstar! TV (1080p)
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
 #EXTINF:-1 ,STIRR Pursuit Up (720p)
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
 #EXTINF:-1 ,STIRR Revry (720p)
