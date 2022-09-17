@@ -637,6 +637,12 @@
       "parse": false
     },
     {
+      "name": "江苏财富天下",
+      "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/cftx.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "江苏城市",
       "url": "http://183.207.248.13:80/PLTV/4/224/3221225929/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
