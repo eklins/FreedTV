@@ -945,7 +945,7 @@ https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 #EXTINF:-1 ,PBS KET Louisville KY (WKMJ-TV★720p)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 ,PBS Kids Eastern/Central (1080p)
+#EXTINF:-1 ,PBS Kids (Eastern/Central★1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 ,PBS MPT Baltimore MD (WMPB★1088p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
@@ -1401,6 +1401,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aec96ec5126c21571
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e6690befbdf780007f78158&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=920&terminate=false&userId=
 #EXTINF:-1 ,PlutoTV One Piece (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,PlutoTV Pocket Watch
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 ,PlutoTV The Asylum ①
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c45f0427b2c0c065e91aab5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,PlutoTV The Asylum ②
@@ -1545,9 +1547,9 @@ https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 ,STIRR City (480p)
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 ,STIRR City Abilene (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Abilene, Texas (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
-#EXTINF:-1 ,STIRR City Albany (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Albany, New York (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8
 #EXTINF:-1 ,STIRR City Amarillo (720p)
 https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8
@@ -1555,11 +1557,11 @@ https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8
 https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8
 #EXTINF:-1 ,STIRR City Bakersfield (480p) [Not 24/7]
 https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8
-#EXTINF:-1 ,STIRR City Baltimore (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Baltimore, Maryland (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
-#EXTINF:-1 ,STIRR City Bay City (720p)
+#EXTINF:-1 ,STIRR City Bay City, Michigan (720p)
 https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
-#EXTINF:-1 ,STIRR City Beaumont (720p)
+#EXTINF:-1 ,STIRR City Beaumont, Texas (720p)
 https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8
 #EXTINF:-1 ,STIRR City Beaumont Port Arthur (720p)
 https://dai.google.com/linear/hls/event/tlvrrqidRaG0KbLN4Hd5mg/master.m3u8
@@ -1567,13 +1569,13 @@ https://dai.google.com/linear/hls/event/tlvrrqidRaG0KbLN4Hd5mg/master.m3u8
 https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8
 #EXTINF:-1 ,STIRR City Boise (480p)
 https://dai.google.com/linear/hls/event/EXltT2IOQvCIn8v23_15ow/master.m3u8
-#EXTINF:-1 ,STIRR City Cadillac (720p)
+#EXTINF:-1 ,STIRR City Cadillac, Michigan (720p)
 https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
 #EXTINF:-1 ,STIRR City Cedar Rapids (720p)
 https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8
 #EXTINF:-1 ,STIRR City Champaign (720p)
 https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
-#EXTINF:-1 ,STIRR City Charleston (720p)
+#EXTINF:-1 ,STIRR City Charleston, South Carolina (720p)
 https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8
 #EXTINF:-1 ,STIRR City Charleston Huntington (234p) [Not 24/7]
 https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
@@ -1581,17 +1583,17 @@ https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
 https://dai.google.com/linear/hls/event/7_v7qMjnQWGZShy2eOvR5g/master.m3u8
 #EXTINF:-1 ,STIRR City Chico-Redding (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/sHnor7AERX60rGA1kR_wPA/master.m3u8
-#EXTINF:-1 ,STIRR City Cincinnati (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Cincinnati, Ohio (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8
-#EXTINF:-1 ,STIRR City Columbia ① (720p)
-https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8
-#EXTINF:-1 ,STIRR City Columbia ② (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Columbia, Missouri (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8
+#EXTINF:-1 ,STIRR City Columbia, South Carolina (720p)
+https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8
 #EXTINF:-1 ,STIRR City Columbus ① (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8
 #EXTINF:-1 ,STIRR City Columbus ② (720p)
 https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8
-#EXTINF:-1 ,STIRR City Dayton (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Dayton, Ohio (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8
 #EXTINF:-1 ,STIRR City El Paso ① (480p)
 https://dai.google.com/linear/hls/event/MYhAOCTqQA6QFBdc1xwULQ/master.m3u8
@@ -1611,17 +1613,17 @@ https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8
 https://dai.google.com/linear/hls/event/leOKmL9fQ6eZyhdoROSh5Q/master.m3u8
 #EXTINF:-1 ,STIRR City Green Bay (720p)
 https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8
-#EXTINF:-1 ,STIRR City Greenville Asheville (720p)
+#EXTINF:-1 ,STIRR City Greenville Asheville, North Carolina (720p)
 https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
-#EXTINF:-1 ,STIRR City Greenville New Bern (720p)
+#EXTINF:-1 ,STIRR City Greenville New Bern, North Carolina (720p)
 https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
 #EXTINF:-1 ,STIRR City Harrisburg (720p)
 https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
-#EXTINF:-1 ,STIRR City Hastings (720p)
+#EXTINF:-1 ,STIRR City Hastings, Nebraska (720p)
 https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8
 #EXTINF:-1 ,STIRR City Johnstown Altoona (720p)
 https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8
-#EXTINF:-1 ,STIRR City Las Vegas (720p)
+#EXTINF:-1 ,STIRR City Las Vegas, Nevada (720p)
 https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8
 #EXTINF:-1 ,STIRR City Lewiston (720p)
 https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8
@@ -1629,11 +1631,11 @@ https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8
 https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
 #EXTINF:-1 ,STIRR City Los Angeles (480p)
 https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
-#EXTINF:-1 ,STIRR City Lynchburg Roanoke (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Lynchburg Roanoke, Virginia (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8
 #EXTINF:-1 ,STIRR City Macon (234p) [Not 24/7]
 https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8
-#EXTINF:-1 ,STIRR City Medford (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Medford, Oregon (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8
 #EXTINF:-1 ,STIRR City Milwaukee, Wisconsin (720p)
 https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8
@@ -1643,7 +1645,7 @@ https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8
 https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8
 #EXTINF:-1 ,STIRR City Nashville (720p)
 https://dai.google.com/linear/hls/event/IG9ThaPaTwCojeoEWVNZRQ/master.m3u8
-#EXTINF:-1 ,STIRR City Norfolk Portsmouth (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Norfolk Portsmouth, Virginia (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8
 #EXTINF:-1 ,STIRR City Oklahoma City (234p)
 https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8
@@ -1653,7 +1655,7 @@ https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8
 https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8
 #EXTINF:-1 ,STIRR City Pittsburgh (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8
-#EXTINF:-1 ,STIRR City Portland (720p)
+#EXTINF:-1 ,STIRR City Portland, Maine (720p)
 https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8
 #EXTINF:-1 ,STIRR City Providence (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8
@@ -1661,15 +1663,15 @@ https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8
 https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
 #EXTINF:-1 ,STIRR City Raleigh Durham (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8
-#EXTINF:-1 ,STIRR City Reno (480p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Reno, Nevada (480p) [Not 24/7]
 https://dai.google.com/linear/hls/event/0Zb5SSQcTme6P7FYwwAwcQ/master.m3u8
-#EXTINF:-1 ,STIRR City Rochester (720p)
+#EXTINF:-1 ,STIRR City Rochester, New York (720p)
 https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8
-#EXTINF:-1 ,STIRR City Salt Lake City (720p)
+#EXTINF:-1 ,STIRR City Salt Lake City, Utah (720p)
 https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8
 #EXTINF:-1 ,STIRR City San Antonio (720p)
 https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8
-#EXTINF:-1 ,STIRR City Seattle (720p)
+#EXTINF:-1 ,STIRR City Seattle, Washington (720p)
 https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
 #EXTINF:-1 ,STIRR City Sioux City (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8
@@ -1679,13 +1681,13 @@ https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8
 https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8
 #EXTINF:-1 ,STIRR City St. Louis (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8
-#EXTINF:-1 ,STIRR City Syracuse (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Syracuse, New York (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8
-#EXTINF:-1 ,STIRR City Toledo (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR City Toledo, Ohio (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8
-#EXTINF:-1 ,STIRR City Tri-Cities (720p)
+#EXTINF:-1 ,STIRR City Tri-Cities, Virginia (720p)
 https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8
-#EXTINF:-1 ,STIRR City Tulsa (720p)
+#EXTINF:-1 ,STIRR City Tulsa, Oklahoma (720p)
 https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8
 #EXTINF:-1 ,STIRR City Washington D.C. (480p) [Not 24/7]
 https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8
@@ -2015,6 +2017,8 @@ https://v-pi.mybtv.net/live/423.m3u8?env=prd&uid=-1&x=1
 http://iptu.org/live.m3u8?channel=301
 #EXTINF:-1 ,White Plains Community Media (360p)
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:-1 ,WHT (LeSEA Broadcasting Network)
+http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
 #EXTINF:-1 ,Winthrop Community Access TV (WCAT-15★360p) [Not 24/7]
 https://edu-wcat.azureedge.net/live/live.m3u8
 #EXTINF:-1 ,Winthrop Community Access TV (WCAT-22★480p)
