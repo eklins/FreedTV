@@ -1935,20 +1935,36 @@ https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤360
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 ,TUR★Boztepe TV (Ordu)
+https://broadcasttr.com:446/btv/bant1/HasBahCa.m3u8
 #EXTINF:-1 ,TUR★Cekmeköy Web TV
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 #EXTINF:-1 ,TUR★Deniz Postası (720p) [Not 24/7]
 http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8
 #EXTINF:-1 ,TUR★Dream TÜRK
 https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 ,TUR★Etv (Manisa)
+http://broadcasttr.com:1935/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1 ,TUR★EURO D YEDEK
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
+#EXTINF:-1 ,TUR★içel
+http://broadcasttr.com:1935/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 ,TUR★Kanal Urfa
+https://broadcasttr.com:446/kanalurfa/bant1/HasBahCa_w1125528664.m3u8
+#EXTINF:-1 ,TUR★Köroğlu TV
+https://broadcasttr.com:446/koroglutv/bant1/chunklist_w970510302.m3u8
 #EXTINF:-1 ,TUR★Kral Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:-1 ,TUR★Kral TV YEDEK
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:-1 ,TUR★line
+https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+#EXTINF:-1 ,TUR★Muğla Turk TV
+http://broadcasttr.com:1935/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 ,TUR★NR1 TURK
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:-1 ,TUR★ORT (Ordu)
+https://broadcasttr.com:446/orttv/bant1/chunklist_w51470567.m3u8
 #EXTINF:-1 ,TUR★Power TURK
 https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 ,TUR★Show TURK
