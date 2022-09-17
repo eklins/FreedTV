@@ -1,4 +1,5 @@
 {
+  "state":true,
   "data": [
     {
       "name": "MIGU 4K",
@@ -25,6 +26,12 @@
       "parse": false
     },
     {
+      "name": "大连新闻综合",
+      "url": "http://live.cooltv.top/tv/cutv.php?id=dlxwzh",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TVB 星河",
       "url": "http://104.238.221.63:9138/stream/live/c20114.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -33,12 +40,6 @@
     {
       "name": "TVB 明珠台",
       "url": "http://120.84.96.63:808/hls/26/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "大连新闻综合",
-      "url": "http://live.cooltv.top/tv/cutv.php?id=dlxwzh",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
