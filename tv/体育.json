@@ -1075,6 +1075,54 @@
       "parse": false
     },
     {
+      "name": "MG（备）769",
+      "url": "http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225769/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）783",
+      "url": "http://39.135.42.205/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225783/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）786",
+      "url": "http://39.135.42.205/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225786/index.m3u8?icpid=3&from=1&ocs=2_39.135.42.239_80&hms_devid=235,236&online=1663430210&vqe=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）811",
+      "url": "http://39.135.42.201/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225811/index.m3u8?icpid=3&from=1&ocs=2_39.135.42.239_80&hms_devid=235,236&online=1663430210&vqe=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）820",
+      "url": "http://39.135.42.205/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225820/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）837",
+      "url": "http://39.135.42.201/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225837/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）850",
+      "url": "http://39.135.42.205/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225850/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）853",
+      "url": "http://39.135.42.201/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225853/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MG（广西）08",
       "url": "http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225789/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
