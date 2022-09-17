@@ -985,6 +985,12 @@
       "parse": false
     },
     {
+      "name": "彝良",
+      "url": "http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "玉林公共",
       "url": "http://39.135.42.205/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225835/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
