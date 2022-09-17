@@ -29,8 +29,6 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 ,🇺🇳A3Series Internacional
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
-#EXTINF:-1 ,🇺🇳Anzoátegui TV
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Asomavisión
 https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-1 ,🇺🇳Boogle Bollywood (1080p) [Not 24/7]
@@ -53,8 +51,6 @@ http://uni6rtmp.tulix.tv:1935/nrbnetwork/myStream.sdp/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 ,🇺🇳ONTV
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
-#EXTINF:-1 ,🇺🇳Pardesi TV (720p) [Not 24/7]
-http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 ,🇺🇳Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Safari (480p) [Not 24/7]
@@ -279,6 +275,8 @@ https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★NTV (Newfoundland TV★480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 ,CAN★Pardesi TV (720p) [Not 24/7]
+http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 ,CAN★Plymouth Rock TV
 https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8
 #EXTINF:-1 ,CAN★QVTV
