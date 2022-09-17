@@ -967,6 +967,18 @@
       "parse": false
     },
     {
+      "name": "玉林公共",
+      "url": "http://39.135.42.205/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225835/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "玉林新闻综合",
+      "url": "http://39.135.42.205/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225838/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "玉树新闻",
       "url": "http://stream.ysbtv.net/1/sd/live.m3u8?zqinghd",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
