@@ -1999,15 +1999,15 @@ https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Kingdom.png",United Kingdom❤Baby TV
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ,GBR★BBC ①
+#EXTINF:-1 ,GBR★BBC One
 http://93.152.174.144:4000/play/bbc1/index.m3u8
-#EXTINF:-1 ,GBR★BBC ②
+#EXTINF:-1 ,GBR★BBC Two
 http://93.152.174.144:4000/play/bbc2/index.m3u8
 #EXTINF:-1 ,GBR★BBC News
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 ,GBR★BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 ,GBR★Bloomberg TV UK
+#EXTINF:-1 ,GBR★Bloomberg TV
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,GBR★Box Hits (576p)
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
