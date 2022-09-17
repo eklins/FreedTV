@@ -18,7 +18,7 @@
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.yoozhibo.com/zuqiu/",
+      "webUrl": "https://m.yoozhibo.com/zuqiu/",
       "webOpen": true,
       "click": true
     },
@@ -34,13 +34,13 @@
       "click": true
     },
     {
-      "name": "黑白直播⚽",
+      "name": "天下足球⚽",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAlev9HNyw0K_cKpD-TAx5395jYwcaiTceGA&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.hbzb666.com/live/soccer",
+      "webUrl": "https://m.txzqzhibo.com/live/zuqiu/",
       "webOpen": true,
       "click": true
     },
@@ -73,7 +73,18 @@
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://my.letv8.cc/list.html?id=1",
+      "webUrl": "https://my.letv8.cc/list_soccer_1.html",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "360看球⚽",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSztZBEgOQE5JA9LZHVd2SxNUXoEI2i2B_Wtw&usqp=CAU",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "webUrl": "https://www.360kanqiu.com/",
       "webOpen": true,
       "click": true
     },
