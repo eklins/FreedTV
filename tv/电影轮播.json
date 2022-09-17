@@ -985,6 +985,12 @@
       "parse": false
     },
     {
+      "name": "WHT (LeSEA Broadcasting Network)",
+      "url": "http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Wild Side (France)",
       "url": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
