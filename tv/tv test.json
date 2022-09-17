@@ -151,12 +151,6 @@
       "parse": false
     },
     {
-      "name": "BBC News",
-      "url": "http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "CTV News",
       "url": "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63z4qh5lzy_EVbD_tVoXNsrmnwVbdrK4H8A&usqp=CAU",
