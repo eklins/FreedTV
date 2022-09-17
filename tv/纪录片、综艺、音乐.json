@@ -325,6 +325,12 @@
       "parse": false
     },
     {
+      "name": "bspoke TV",
+      "url": "https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastbespoketv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Business Rockstars",
       "url": "https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8",
       "pic": "https://biztv.com/wp-content/uploads/2020/06/Shows-BusinessRockstars.jpg",
