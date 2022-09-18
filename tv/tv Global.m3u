@@ -1935,6 +1935,8 @@ https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤360
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 ,TUR★Africa NTR
+https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 ,TUR★Boztepe TV (Ordu)
 https://broadcasttr.com:446/btv/bant1/HasBahCa.m3u8
 #EXTINF:-1 ,TUR★Cekmeköy Web TV
