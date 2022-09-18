@@ -35,10 +35,6 @@ https://asomatv.duckdns.org/livestream/stream.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 ,🇺🇳Cinema Classic TV
 http://213.172.73.132:8081/nimble_live/Cinema_classik_TV/playlist.m3u8
-#EXTINF:-1 ,🇺🇳EbS Live (Europe by Satellite★1080p)
-https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
-#EXTINF:-1 ,🇺🇳EbS+ Live (Europe by Satellite★1080p)
-https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 ,🇺🇳ELTV
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
 #EXTINF:-1 ,🇺🇳Fentazy
@@ -185,6 +181,10 @@ http://lova.me/hls/hithd.m3u8
 https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belgium.png",Belgium❤BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 ,BEL★EbS Live (Europe by Satellite★1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
+#EXTINF:-1 ,BEL★EbS+ Live (Europe by Satellite★1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 ,BEL★Rakuten Family
 https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,BEL★RTL-Be
