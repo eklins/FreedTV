@@ -38,12 +38,6 @@
       "parse": true
     },
     {
-      "name": "中华小当家 2019",
-      "url": "https://m.douyu.com/8231658",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQth-oj2MMWq8RuU-u-ZNLBW7DueHHA3Xtgxw&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "蜡笔小新 1992",
       "url": "http://zzy789.xyz/bili.php?id=10375360",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmBwhUkFMnCziTZLDntAiYttkAe1N58T9Zg&usqp=CAU",
@@ -736,6 +730,18 @@
     {
       "name": "台湾精选动漫台",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 中国动漫 ①",
+      "url": "http://mmitv.top/pltv/yy.php?id=26664495",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "YY 中国动漫 ②",
+      "url": "http://mmitv.top/pltv/yy.php?id=22777075",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
