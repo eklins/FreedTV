@@ -43,8 +43,6 @@ https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
 #EXTINF:-1 ,🇺🇳Fentazy
 http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 ,🇺🇳My TV Channel (720p) [Not 24/7]
-http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 ,🇺🇳NRB Network
 http://uni6rtmp.tulix.tv:1935/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,🇺🇳one
@@ -245,6 +243,10 @@ http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 http://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 ,KHM★TVK Camboya
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cameroon.png",Cameroon❤My TV Channel (720p) [Not 24/7]
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1 ,CMR★Play TV (720p) [Not 24/7]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png",Canada❤Amazing Discoveries
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 ,CAN★AZ Star TV
