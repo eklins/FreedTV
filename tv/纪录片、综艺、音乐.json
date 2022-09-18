@@ -410,6 +410,12 @@
       "parse": false
     },
     {
+      "name": "Crime Time",
+      "url": "https://crimetimebamca-roku.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cut Up N Cook",
       "url": "https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -478,6 +484,12 @@
     {
       "name": "DMAX (Taiwan)",
       "url": "http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Docurama",
+      "url": "https://docurama-tcl.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -680,13 +692,13 @@
       "parse": false
     },
     {
-      "name": "InWild UK",
+      "name": "InWild (UK)",
       "url": "https://inwild-samsung-uk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "InWonder UK",
+      "name": "InWonder (UK)",
       "url": "https://inwonder-samsung-uk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -962,13 +974,13 @@
       "parse": false
     },
     {
-      "name": "Real Families (USA)",
+      "name": "Real Families (US)",
       "url": "https://lds-realfamilies-plex.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Real Stories US",
+      "name": "Real Stories (US)",
       "url": "https://lds-realstories-plex.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -1406,7 +1418,7 @@
       "parse": false
     },
     {
-      "name": "PlutoTV Conspiracy UK",
+      "name": "PlutoTV Conspiracy (UK)",
       "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4ae94ef1a1bbb350ca41bb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
@@ -1450,12 +1462,6 @@
     {
       "name": "PlutoTV Documentaries",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b85a7582921777994caea63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=91&terminate=false&userId=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PlutoTV Drama Life",
-      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
@@ -1562,7 +1568,7 @@
       "parse": false
     },
     {
-      "name": "PlutoTV Inside UK",
+      "name": "PlutoTV Inside (UK)",
       "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767857f65029ce2385b217/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767857f65029ce2385b217&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=302&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
@@ -1640,7 +1646,7 @@
       "parse": false
     },
     {
-      "name": "PlutoTV My5 GP's UK",
+      "name": "PlutoTV My5 GP's (UK)",
       "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d2c57ee4f9ddf73da8a0ba5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=480&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
@@ -1652,13 +1658,13 @@
       "parse": false
     },
     {
-      "name": "PlutoTV Paranormal UK",
+      "name": "PlutoTV Paranormal (UK)",
       "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4af2ffa9506ab29cf38c38&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=216&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "PlutoTV Paranormal US",
+      "name": "PlutoTV Paranormal (US)",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5adf96e3e738977e2c31cb04&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=669&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
@@ -1724,7 +1730,7 @@
       "parse": false
     },
     {
-      "name": "PlutoTV Stand Up UK",
+      "name": "PlutoTV Stand Up (UK)",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
@@ -1856,7 +1862,7 @@
       "parse": false
     },
     {
-      "name": "Rakuten Comedy Dynamics US",
+      "name": "Rakuten Comedy Dynamics (US)",
       "url": "https://comedydynamics-rakuten.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
@@ -2068,6 +2074,12 @@
     {
       "name": "STIRR City (Eugene Springfield)",
       "url": "https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STIRR Docurama",
+      "url": "https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
@@ -3122,7 +3134,7 @@
       "parse": false
     },
     {
-      "name": "Spotlight TV UK",
+      "name": "Spotlight TV (UK)",
       "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
@@ -3152,7 +3164,7 @@
       "parse": false
     },
     {
-      "name": "The Box UK",
+      "name": "The Box (UK)",
       "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
