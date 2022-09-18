@@ -83,6 +83,8 @@ https://streannlivecariflix.cachefly.net/cariflix5/cariflix5/playlist.m3u8
 https://streannlivecariflix.cachefly.net/cariflix6/cariflix6/playlist.m3u8
 #EXTINF:-1 ,ARG★Millennium TV
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
+#EXTINF:-1 ,ARG★Tierra Mía TV (Spanish)
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Armenia.png",Armenia❤Հայ Կինո
 http://ott-cdn.ucom.am/s22/index.m3u8
 #EXTINF:-1 ,ARM★Սինեմաքս
@@ -239,6 +241,8 @@ https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 ,BRA★Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,BRA★Tele Cine Action (Portuguese)
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 ,BRA★TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1 ,BRA★TNT Sports 3
@@ -313,6 +317,8 @@ https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 #EXTINF:-1 ,COL★N4
 https://live.tv.c.is/n4/index.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Costa-Rica.png",Costa Rica❤STV El Camal Familiar (Spanish)
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Croatia.png",Croatia❤HRT 1
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1 ,HRV★HRT 2
@@ -547,6 +553,10 @@ http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,DEU★Sophia TV
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
+#EXTINF:-1 ,DEU★teltOwkanal
+https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 ,DEU★Tide
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 ,DEU★World of Freesports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 ,DEU★XITE
@@ -1067,6 +1077,10 @@ https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/index.m3u8
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 ,ITA★TRM H24 Basilicata
 http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
+#EXTINF:-1 ,ITA★TV 2000
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 ,ITA★TVA Vicenza
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 ,ITA★Vera TV (Marche)
 http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 #EXTINF:-1 ,ITA★Videolina (Sardegna)
@@ -1573,6 +1587,8 @@ http://htvpalsat.mada.ps:8888/musawa/index.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 ,PSE★Rajeen TV
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:-1 ,PSE★Wattan TV
+http://htvmada.mada.ps:8888/wattan/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Panama.png",Panama❤Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 #EXTINF:-1 ,PAN★RPC
@@ -1985,6 +2001,8 @@ https://rakuten-topfree-4-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rouge TV
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 ,CHE★Tele 1 (German)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤360
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 ,TUR★Africa NTR
@@ -2067,6 +2085,14 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:-1 ,UAE★Weyyak Drama
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1 ,UAE★Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1 ,UAE★Weyyak Nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:-1 ,UAE★Weyyak Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 ,UAE★Weyyak Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Kingdom.png",United Kingdom❤Baby TV
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,GBR★BBC One
