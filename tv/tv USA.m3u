@@ -1875,7 +1875,7 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 ,Toonami Aftermath Radio (480p)
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
-#EXTINF:-1 ,Top Cine (1080p)
+#EXTINF:-1 ,Top Cine (Spanish★1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 ,TPT Now (KTCA-DT5★720p) [Not 24/7]
 https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
