@@ -437,8 +437,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c89a930-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7d7d33d-5784-4dee-a799-d09bd30b065a
 #EXTINF:-1 ,FRA★PlutoTV Cinéma
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?appVersion=5.4.0&deviceDNT=0&deviceId=071492b1-cafd-427b-81d4-f532808c8397_d6a39913ac3adbd2&deviceMake=samsung&deviceModel=SM-N976N&deviceType=android,samsung,mobile&deviceVersion=7.1.2_25&marketingRegion=FR&sid=b90a2c1a-a2ce-4601-a02d-abe73477534
-#EXTINF:-1 ,FRA★PlutoTV Drama+
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffebb618f6cb4000728082c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a9390-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7eed86a2-2fee-402b-9978-ecaffe0235c0
 #EXTINF:-1 ,FRA★PlutoTV Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d
 #EXTINF:-1 ,FRA★Rakuten Action Movies
