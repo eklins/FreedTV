@@ -203,14 +203,28 @@ http://46.99.146.236/0.m3u8
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,BRA★COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:-1 ,BRA★Ghost TV
+#EXTINF:-1 ,BRA★Ghost TV (Portuguese)
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 ,BRA★ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 #EXTINF:-1 ,BRA★Megapix (TELE CINE ACTION)
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:-1 ,BRA★MyTime Movie Network
+#EXTINF:-1 ,BRA★MyTime Movie Network (English)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,BRA★PlutoTV Cine Clássicos (Portuguese)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 ,BRA★PlutoTV Cine Comédia (Portuguese)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 ,BRA★PlutoTV Cine Drama (Portuguese)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 ,BRA★PlutoTV Cine Família (Portuguese)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 ,BRA★PlutoTV Cine Romance (Portuguese)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 ,BRA★PlutoTV Cine Sucessos (Portuguese)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 ,BRA★PlutoTV Cine Terror (Portuguese)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 ,BRA★PlutoTV Filmes Ação (Portuguese)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 ,BRA★PlutoTV Filmes Nacionais (Portuguese)
@@ -295,6 +309,8 @@ https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Colombia.png",Colombia❤Canal CNC Tulua (Valle del Cauca)
 https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
+#EXTINF:-1 ,COL★MovieFe (Spanish)
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 #EXTINF:-1 ,COL★N4
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Croatia.png",Croatia❤HRT 1
@@ -405,6 +421,20 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Persiana Varzesh
 http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1 ,FRA★PlutoTV Action
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 ,FRA★PlutoTV Ciné
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 ,FRA★PlutoTV Ciné Rétro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 ,FRA★PlutoTV Ciné+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c89a930-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7d7d33d-5784-4dee-a799-d09bd30b065a
+#EXTINF:-1 ,FRA★PlutoTV Cinéma
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?appVersion=5.4.0&deviceDNT=0&deviceId=071492b1-cafd-427b-81d4-f532808c8397_d6a39913ac3adbd2&deviceMake=samsung&deviceModel=SM-N976N&deviceType=android,samsung,mobile&deviceVersion=7.1.2_25&marketingRegion=FR&sid=b90a2c1a-a2ce-4601-a02d-abe73477534
+#EXTINF:-1 ,FRA★PlutoTV Drama+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffebb618f6cb4000728082c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a9390-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7eed86a2-2fee-402b-9978-ecaffe0235c0
+#EXTINF:-1 ,FRA★PlutoTV Romance
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d
 #EXTINF:-1 ,FRA★Rakuten Action Movies
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten BBC Drama
@@ -450,7 +480,7 @@ https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist
 #EXTINF:-1 ,DEU★Anixe HD Serie
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 ,DEU★Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 ,DEU★BLK TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
 #EXTINF:-1 ,DEU★Das Erste Ⓖ
@@ -473,6 +503,8 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
 #EXTINF:-1 ,DEU★PlutoTV Doctor Who 2005-?
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,DEU★PlutoTV Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc190f7bfed110009d934c3&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=200&terminate=false&userId=
 #EXTINF:-1 ,DEU★PlutoTV Filmes Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,DEU★PlutoTV iCarly
@@ -559,6 +591,8 @@ http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 ,GRC★ERT News
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
+#EXTINF:-1 ,GRC★Faros TV
+https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 ,GRC★Fox (480p) [Not 24/7]
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 ,GRC★Galaxy (432p)
@@ -679,8 +713,6 @@ https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF:-1 ,IND★Nee Cinema (480p)
 https://live.neestream.net/neestream_01/neecinema/index.m3u8?token=693400
-#EXTINF:-1 ,IND★Nile TV Cinema (576p) [Not 24/7]
-http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 ,IND★Northeast Live
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/HasBahCa.m3u8
 #EXTINF:-1 ,IND★Star Gold (Utsav)
@@ -1617,6 +1649,8 @@ https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
 #EXTINF:-1 ,PER★Panamericana TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
+#EXTINF:-1 ,PER★Retro Plus HD (Spanish)
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 ,PER★TecSatel Cine TV (Arequipa)
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 ,PER★X TV (Chachapoyas)
@@ -1919,6 +1953,12 @@ https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_t
 https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/chunklist_w522739009_b2128000.m3u8
 #EXTINF:-1 ,SWE★Öppna Kanalen
 https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Drama
+https://rakuten-drama-9-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Family
+https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Spotlight
+https://rakuten-spotlight-9-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★TV4
 https://csm-e-cet4eurxaws102j8-78k15gpy268.tls1.yospace.com/csm/live/142791716.m3u8?yo.oh=Y3NtLWUtdHY0c2UtZWIudGxzMS55b3NwYWNlLmNvbQ==
 #EXTINF:-1 ,SWE★Västmanlands TV
@@ -2183,8 +2223,8 @@ https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★Rock Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ,VNM★TVB
-https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+#EXTINF:-1 ,VNM★THGL (Gia Lai TV)
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 ,VNM★VTC4
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8
 #EXTINF:-1 ,VNM★VTC5 (576p)
