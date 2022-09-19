@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
+#EXTINF:-1 ,30A The Beach Show
+https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 ,30A.TV
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmy30atvLifestyle30a/playlist.m3u8
 #EXTINF:-1 ,33 Victor Valley (KVVB-TV★1080p) [Not 24/7]
@@ -111,6 +113,8 @@ https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8
 #EXTINF:-1 ,AdultSwim Rick and Morty (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+#EXTINF:-1 ,AdultSwim The Eric Andre Show
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:-1 ,Adventure Sports TV (360p) [Not 24/7]
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 #EXTINF:-1 ,AFV (720p)
