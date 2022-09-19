@@ -637,6 +637,8 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
 #EXTINF:-1 ,iFood.TV (1080p)
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,IGN
+https://ign-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ,InfoWars (720p)
