@@ -471,7 +471,7 @@ https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,EDGEsport US (1080p)
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,El Conflecto (480p)
+#EXTINF:-1 ,El Conflecto (Spanish★480p)
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
 #EXTINF:-1 ,Electric Now (1080p) [Not 24/7]
 https://ov.ottera.tv/live/master.m3u8?channel=elec_en
@@ -603,6 +603,8 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastFishingOffshore30a/playlist
 https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
 #EXTINF:-1 ,Gusto TV (1080p)
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,Haunt TV
+https://haunttv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,High Times (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
 #EXTINF:-1 ,High Vision (1080p) [Not 24/7]
@@ -657,7 +659,7 @@ https://johnnycarson-zype.amagi.tv/playlistR432p.m3u8
 https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
 #EXTINF:-1 ,Judge Karen's Court (540p)
 https://cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
-#EXTINF:-1 ,Juntos (1080p)
+#EXTINF:-1 ,Juntos (Spanish★1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 ,Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
 http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
@@ -1425,6 +1427,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,PlutoTV Pocket Watch
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 ,PlutoTV Retro Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf91f19c2c3300098ce961/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,PlutoTV Retro Drama (Spanish)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dde47b63585b500099f74ec&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5204e9ec-0585-11eb-a18c-0242ac110002&terminate=false&userId=
 #EXTINF:-1 ,PlutoTV Sci-Fi (Spanish)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 ,PlutoTV The Asylum ①
