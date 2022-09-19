@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1 ,3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
+#EXTINF:-1 ,30A Darcizzle Offshore
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 ,30A Investment Pitch
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1 ,30A Music
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 ,30A Sidewalks
+https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 ,30A The Beach Show
 https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 ,30A.TV
