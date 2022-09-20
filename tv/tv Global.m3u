@@ -181,6 +181,8 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bahrain.png",Bahrain❤Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
+#EXTINF:-1 ,BHR★Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+TV_all/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belarus.png",Belarus❤1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 ,BLR★Belros Ⓢ
@@ -2091,6 +2093,8 @@ http://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
 #EXTINF:-1 ,TUR★TV 41
 http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ukraine.png",Ukraine❤BamBarBia TV
+https://cdn1.live-tv.od.ua:8083/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Arab-Emirates.png",United Arab Emirates❤Abu Dhabi Aloula
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 ,UAE★Abu Dhabi Emirates
@@ -2241,6 +2245,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 ,GBR★Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Uruguay.png",Uruguay❤Latino Kids (360p) [Not 24/7]
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Uzbekistan.png",Uzbekistan❤FilmTV Kinder (Russian★400p)
 https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Venezuela.png",Venezuela❤TeleSUR
