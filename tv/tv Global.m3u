@@ -143,8 +143,6 @@ https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Timiline
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,AUS★Sky News
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 ,AUS★Sky Racing 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 ,AUS★Sky Thoroughbred Central
@@ -2227,6 +2225,8 @@ https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #EXTINF:-1 ,GBR★Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+#EXTINF:-1 ,GBR★Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 ,GBR★Sofy TV
 https://sofytv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Spark TV
