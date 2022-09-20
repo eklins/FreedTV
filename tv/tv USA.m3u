@@ -207,13 +207,15 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 https://v-ny.mybtv.net/live/645.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,BabyTV (1080p)
 http://194.163.179.246/slovenci/djeciji/babytv.m3u8
-#EXTINF:-1 ,Beach TV Florida & Alabama (720p)
+#EXTINF:-1 ,BeachTV CSULB
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1 ,BeachTV Florida & Alabama (720p)
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 ,Beach TV Key West & Florida Keys (720p)
+#EXTINF:-1 ,BeachTV Key West & Florida Keys (720p)
 https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 ,Beach TV Myrtle Beach & The Grand Strand (720p)
+#EXTINF:-1 ,BeachTV Myrtle Beach & The Grand Strand (720p)
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 ,Beach TV Panama City (720p)
+#EXTINF:-1 ,BeachTV Panama City (720p)
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 ,BEK Prime East
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
