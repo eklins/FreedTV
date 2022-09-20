@@ -2,6 +2,24 @@
   "state":true,
   "data": [
     {
+      "name": "🇦🇺ABC 90 ①",
+      "url": "https://c.mjh.nz/101002210221/",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇦🇺ABC 90 ②",
+      "url": "https://c.mjh.nz/101002510251",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇦🇺ABC Plus",
+      "url": "https://c.mjh.nz/abc2",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "台湾中天新闻",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
@@ -42,12 +60,6 @@
       "url": "https://live-sonybebanjo.simplestreamcdn.com/live/popmax/bitrate1.isml/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "🇦🇺ABC 90",
-      "url": "https://c.mjh.nz/101002210221/",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
     },
     {
       "name": "🇱🇷War ②",
