@@ -459,6 +459,8 @@ https://cmc-ono.amagi.tv/playlist.m3u8
 http://59.125.122.90:18551/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
 #EXTINF:-1 ,CNBC Asia
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:-1 ,CNC TV
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/chunklist.m3u8
 #EXTINF:-1 ,CNN (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 ,CNN International
