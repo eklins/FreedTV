@@ -2654,6 +2654,12 @@
       "parse": false
     },
     {
+      "name": "AZ Star (Canada★Persian)",
+      "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Beat V2 (360p)",
       "url": "https://stream.v2beat.live/360p.playlist.m3u8.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
