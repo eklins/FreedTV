@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,ARG★América TV
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 ,ABC Plus
 https://c.mjh.nz/abc2
 #EXTINF:-1 ,香港无线新闻
