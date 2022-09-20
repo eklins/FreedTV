@@ -135,6 +135,8 @@ https://inwonder-samsungau.amagi.tv/playlist.m3u8
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 ,AUS★Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 ,AUS★Real Families
 https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Real Stories
