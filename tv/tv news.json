@@ -98,15 +98,15 @@
       "parse": false
     },
     {
-      "name": "ABC News",
-      "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-      "pic": "https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg",
-      "parse": false
-    },
-    {
       "name": "ABC News (Australia)",
       "url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
       "pic": "https://mumbrella.com.au/wp-content/uploads/2016/07/ABC-news.jpg",
+      "parse": false
+    },
+    {
+      "name": "ABC News (US)",
+      "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+      "pic": "https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg",
       "parse": false
     },
     {
