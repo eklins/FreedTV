@@ -505,6 +505,8 @@ https://video.oct.dc.gov/out/u/15_12.m3u8
 https://v-ny.mybtv.net/live/611.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Demand Africa (720p)
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Denver 8 TV
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/chunklist.m3u8
 #EXTINF:-1 ,District of Columbia Network (DCN★1080p)
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 ,Divine Vision (480p) [Not 24/7]
@@ -1633,6 +1635,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
 #EXTINF:-1 ,So...Real (1080p)
 https://soreal-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Springs TV
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/coloradosprings/G1424_002/chunklist.m3u8
 #EXTINF:-1 ,Spirit TV (720p) [Not 24/7]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 ,SportsGrid (720p)
