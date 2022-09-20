@@ -2095,6 +2095,10 @@ https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
 http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ukraine.png",Ukraine❤BamBarBia TV
 https://cdn1.live-tv.od.ua:8083/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 ,UKR★Ланет.TV
+http://kiev1-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 ,UKR★Skrypin.ua
+https://open-cdn.lanet.tv/live/1008.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Arab-Emirates.png",United Arab Emirates❤Abu Dhabi Aloula
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 ,UAE★Abu Dhabi Emirates
@@ -2247,6 +2251,8 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Uruguay.png",Uruguay❤Latino Kids (360p) [Not 24/7]
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:-1 ,URY★Ovación
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Uzbekistan.png",Uzbekistan❤FilmTV Kinder (Russian★400p)
 https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Venezuela.png",Venezuela❤TeleSUR
