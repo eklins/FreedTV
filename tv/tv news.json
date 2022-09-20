@@ -128,6 +128,12 @@
       "parse": false
     },
     {
+      "name": "Arise News (UK)",
+      "url": "https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv5Q7QI4qSTQrUnkAawWTEHB-9hOnPsrL4Bg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AusBiz",
       "url": "https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEY08B8jYRrKOkN2NnqydK47hdkEn5rZGvlw&usqp=CAU",
