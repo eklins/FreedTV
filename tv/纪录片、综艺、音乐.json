@@ -2618,6 +2618,12 @@
       "parse": false
     },
     {
+      "name": "ALB Music (Yemen)",
+      "url": "http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AlbKanale Music TV",
       "url": "https://albportal.net/albkanalemusic.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
