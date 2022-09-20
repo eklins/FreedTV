@@ -295,7 +295,7 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png",Canada❤Amazing Discoveries
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 ,CAN★AZ Star TV
+#EXTINF:-1 ,CAN★AZ Star (Persian)
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 ,CAN★Canada Star TV
 https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
@@ -514,7 +514,7 @@ https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist
 #EXTINF:-1 ,DEU★Anixe HD Serie
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 ,DEU★Baden TV
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 ,DEU★BLK TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
 #EXTINF:-1 ,DEU★Das Erste Ⓖ
