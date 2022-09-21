@@ -165,8 +165,6 @@ https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-family-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★Rakuten Spotlight
 https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,AUT★Rakuten Top Free
-https://rakuten-topfree-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★Rakuten TV Shows
 https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★RTV
@@ -2221,24 +2219,40 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db044d7846b170009215ef0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,GBR★Pluto Romance
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677c0edace7cff8180b16/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 ,GBR★Rakuten Action Movies
+#EXTINF:-1 ,GBR★Rakuten Action Movies (EU)
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,GBR★Rakuten Comedy Movies
+#EXTINF:-1 ,GBR★Rakuten Action Movies (GB)
+https://rakuten-actionmovies-1-gb.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Rakuten Comedy Movies (EU)
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,GBR★Rakuten Family
+#EXTINF:-1 ,GBR★Rakuten Comedy Movies (GB)
+https://rakuten-comedymovies-1-gb.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Rakuten Family (EU)
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Rakuten Family (GB)
+https://rakuten-family-1-gb.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Films Français
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,GBR★Rakuten Romance
+#EXTINF:-1 ,GBR★Rakuten Romance (EU)
 https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,GBR★Rakuten Spotlight
+#EXTINF:-1 ,GBR★Rakuten Romance (GB)
+https://rakuten-romance-1-gb.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Rakuten Spotlight (EU)
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,GBR★Rakuten Thriller
+#EXTINF:-1 ,GBR★Rakuten Spotlight (GB)
+https://rakuten-spotlight-1-gb.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Rakuten Thriller (EU)
 https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,GBR★Rakuten Top Free
+#EXTINF:-1 ,GBR★Rakuten Thriller (GB)
+https://rakuten-thriller-1-gb.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Rakuten Top Free (EU)
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,GBR★Rakuten TV Shows
+#EXTINF:-1 ,GBR★Rakuten Top Free (GB)
+https://rakuten-topfree-1-gb.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Rakuten TV Shows (EU)
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Rakuten TV Shows (GB)
+https://rakuten-tvshows-1-gb.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Real Stories
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Revry News
