@@ -353,12 +353,8 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
 #EXTINF:-1 ,HRV★MAXtv Promo Kanal
 http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8
-#EXTINF:-1 ,HRV★OTV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x654gen
 #EXTINF:-1 ,HRV★RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 ,HRV★TV Nova
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x694rtu
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cyprus.png",Cyprus❤Cinema Time (34100 TV)
 https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 ,CYP★Faros TV2
@@ -685,14 +681,8 @@ https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Honduras.png",Honduras❤Alfa & Omega Visión
 https://srv.panelcast.net/aovision/aovision/playlist.m3u8
-#EXTINF:-1 ,HND★CCI Channel (480p) 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x836wjl
 #EXTINF:-1 ,HND★Ebenezer TV (360p)
 https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/chunklist_w156791259_b850000_slen.m3u8
-#EXTINF:-1 ,HND★HCH (Hable Como Habla)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x81za5c
-#EXTINF:-1 ,HND★Hondured 13 (480p) 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x83axzj
 #EXTINF:-1 ,HND★Lenca Television (Canal 40) 
 http://lencatelevision.com:8080/hls/ltv1.m3u8
 #EXTINF:-1 ,HND★LTV
@@ -1407,14 +1397,10 @@ https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/canal11/videocanal11/playlist.m3u8
 #EXTINF:-1 ,MEX★Jalisco TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1 ,MEX★México Travel Channel (480p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v76vf
 #EXTINF:-1 ,MEX★MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MEX★POP TV (542p)
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
-#EXTINF:-1 ,MEX★Quiero TV (480p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw
 #EXTINF:-1 ,MEX★RCG TV1
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 ,MEX★RCG TV 2 (360p)
@@ -1579,12 +1565,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsonian
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 ,NZL★Wairarapa TV
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Nicaragua.png",Nicaragua❤Canal 6 (480p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
-#EXTINF:-1 ,NIC★Telenica Canal 8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Nicaragua.png",Nicaragua❤Telenica Canal 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
-#EXTINF:-1 ,NIC★Viva Nicaragua Canal 13
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vivanicaragua13
 #EXTINF:-1 ,NIC★Vos TV
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Nigeria.png",Nigeria❤Galaxy TV
@@ -1701,8 +1683,6 @@ https://cloudvideo.servers10.com:8081/8098/index.m3u8
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 #EXTINF:-1 ,PER★Memorias TV
 https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
-#EXTINF:-1 ,PER★Panamericana TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 #EXTINF:-1 ,PER★Retro Plus HD (Spanish)
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 ,PER★TecSatel Cine TV (Arequipa)
@@ -2194,7 +2174,7 @@ https://spi-filmstream-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★FTF For The Fans
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,GBR★GB News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=7fIU2aMImMQ
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 ,GBR★Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,GBR★Horse Country TV
