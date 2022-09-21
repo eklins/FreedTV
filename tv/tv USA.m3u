@@ -503,6 +503,8 @@ https://invintus-otfp.global.ssl.fastly.net/2917038973/487b842c8d9f8e9fc0b4043b9
 https://v-ny.mybtv.net/live/547.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,DC Council Channel (1080p)
 https://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 ,DeFiance Media (1080p)
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Defy (WPXN-DT4)
 https://v-ny.mybtv.net/live/611.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Demand Africa (720p)
@@ -1537,6 +1539,8 @@ http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 #EXTINF:-1 ,PrimeTime Drama
 https://simultv.s.llnwi.net/o064/PrimeTimeDrama/interlink.m3u8
+#EXTINF:-1 ,Pursuit UP (720p)
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 #EXTINF:-1 ,Pymes TeVe
 https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
 #EXTINF:-1 ,QVC (German★540p)
@@ -1893,6 +1897,8 @@ https://v-ny.mybtv.net/live/634.m3u8?env=prd&uid=-1&x=1
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 ,Swaag TV Chicago (WPVN-CD3)
 http://swaag-tv-preview.trafficjam.ca:5080/LiveApp/streams/27404167591812025330.m3u8?=
+#EXTINF:-1 ,Swerve Sports (1080p)
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:-1 ,Sword and Shield (720p)
 https://a.jsrdn.com/broadcast/9e63a1b236/+0000/high/c.m3u8
 #EXTINF:-1 ,TAG TV (1080p) [Not 24/7]
