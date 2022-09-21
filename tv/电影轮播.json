@@ -1400,6 +1400,12 @@
       "parse": false
     },
     {
+      "name": "Rakuten Action Movies (UK-PLEX)",
+      "url": "https://rakuten-actionmovies-1-gb.plex.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Rakuten Comedy (Ireland)",
       "url": "https://rakuten-comedy-13-ie.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
@@ -1412,8 +1418,14 @@
       "parse": false
     },
     {
-      "name": "Rakuten Comedy (UK)",
+      "name": "Rakuten Comedy Movies (UK)",
       "url": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rakuten Comedy Movies (UK-PLEX)",
+      "url": "https://rakuten-comedymovies-1-gb.plex.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
@@ -1448,8 +1460,20 @@
       "parse": false
     },
     {
+      "name": "Rakuten Romance (UK-PLEX)",
+      "url": "https://rakuten-romance-1-gb.plex.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Rakuten Thriller (UK)",
       "url": "https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rakuten Thriller (UK-PLEX)",
+      "url": "https://rakuten-thriller-1-gb.plex.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
@@ -1466,8 +1490,20 @@
       "parse": false
     },
     {
+      "name": "Rakuten Top Free (UK-PLEX)",
+      "url": "https://rakuten-topfree-1-gb.plex.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Rakuten TV Shows (UK)",
       "url": "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rakuten TV Shows (UK-PLEX)",
+      "url": "https://rakuten-tvshows-1-gb.plex.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
