@@ -1484,14 +1484,14 @@
       "parse": false
     },
     {
-      "name": "RedBox Spotlight",
-      "url": "https://spotlight-redbox.amagi.tv/playlist.m3u8",
+      "name": "RedBox Shout! Factory TV",
+      "url": "https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5q_0nanghjUaZy9GvUB3rOvfgDq6RRZTvQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "RedBox Shout! Factory TV",
-      "url": "https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8",
+      "name": "RedBox Spotlight",
+      "url": "https://spotlight-redbox.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5q_0nanghjUaZy9GvUB3rOvfgDq6RRZTvQ&usqp=CAU",
       "parse": false
     },
