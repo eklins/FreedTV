@@ -2001,6 +2001,8 @@ https://srv.panelcast.net/somosculturatv/somosculturatv/playlist.m3u8
 https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
 #EXTINF:-1 ,True Crime Network (WUVP-DT3★432p)
 https://v-pi.mybtv.net/live/422.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #EXTINF:-1 ,True Real (WPPX-DT4★480p)
 https://v-pi.mybtv.net/live/415.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,TSTV (720p)
