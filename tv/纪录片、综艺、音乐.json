@@ -2774,6 +2774,12 @@
       "parse": false
     },
     {
+      "name": "DSTV (Dance Star TV)",
+      "url": "https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Ellas TV",
       "url": "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
