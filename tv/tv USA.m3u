@@ -497,6 +497,8 @@ http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
 http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,CUNY TV (WNYE-DT3★1080p)
 https://v-ny.mybtv.net/live/593.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,CVTV
+https://invintus-otfp.global.ssl.fastly.net/2917038973/487b842c8d9f8e9fc0b4043b9a49e65328650ac0_720p_30fps.m3u8
 #EXTINF:-1 ,Dabl (WCBS-DT3)
 https://v-ny.mybtv.net/live/547.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,DC Council Channel (1080p)
@@ -517,6 +519,8 @@ https://docurama-tcl.amagi.tv/playlist.m3u8
 https://srv.panelcast.net/dreamforcebtl/dreamforcebtl/playlist.m3u8
 #EXTINF:-1 ,DryBar Comedy (720p)
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DSTV (Dance Star TV)
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 #EXTINF:-1 ,Ecuavisa (720p)
 https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
 #EXTINF:-1 ,EDGEsport UK (1080p)
