@@ -481,9 +481,9 @@ https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-documentaries-7-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Family
 https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,FRA★Rakuten Romance ①
+#EXTINF:-1 ,FRA★Rakuten Romance (EU)
 https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,FRA★Rakuten Romance ②
+#EXTINF:-1 ,FRA★Rakuten Romance (FR)
 https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Spotlight
 https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1521,10 +1521,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01847-dutchessmediabv-oneworldtv-sa
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 ,NLD★Radio 350
 https://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1 ,NLD★Rakuten Action Movies
+https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Comedy
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Drama
+https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Family
 https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Spotlight
 https://rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Top Free
+https://rakuten-topfree-8-nl.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 ,NLD★RTV GO!
@@ -2221,6 +2229,8 @@ https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Films Français
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Rakuten Romance
+https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Spotlight
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Thriller
