@@ -335,6 +335,8 @@ https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Chile.png",Chile❤Arab TV (Spanish)
 https://livefocamundo.com:8081/arabtv/playlist.m3u8
+#EXTINF:-1 ,CHL★Pop TV
+https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 ,CHL★Retro Plus 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Colombia.png",Colombia❤Canal CNC Tulua (Valle del Cauca)
