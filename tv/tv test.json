@@ -2,6 +2,18 @@
   "state":true,
   "data": [
     {
+      "name": "Pop TV (720p)",
+      "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pop TV (360p)",
+      "url": "http://n1.klowdtv.net/live2/pop_360p/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sky News (Australia)",
       "url": "https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Qv0hwgns7uMA4Ynd-G-BP_eyBI3TzeAVIg&usqp=CAU",
@@ -1342,12 +1354,6 @@
     {
       "name": "Movie ③",
       "url": "http://117.148.179.163/PLTV/88888888/224/3221231787/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Pop TV",
-      "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
