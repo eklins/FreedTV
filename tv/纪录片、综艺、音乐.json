@@ -3032,7 +3032,13 @@
       "parse": false
     },
     {
-      "name": "Pop TV",
+      "name": "Pop TV (Chile)",
+      "url": "https://v4.tustreaming.cl/poptv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pop TV (Mexico)",
       "url": "https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1489788315_b978000_sleng.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
