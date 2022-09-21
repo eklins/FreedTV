@@ -179,6 +179,8 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
 #EXTINF:-1 ,BHR★Bahrain TV
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+TV_all/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Barbados.png",Barbados❤CBC TV8 (1080p) [Not 24/7]
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belarus.png",Belarus❤1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 ,BLR★Belros
@@ -299,12 +301,8 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 ,CAN★Canada Star TV
 https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
-#EXTINF:-1 ,CAN★CBC News
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 #EXTINF:-1 ,CAN★CBC News Highlights
 https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
-#EXTINF:-1 ,CAN★CBC TV8 (1080p) [Not 24/7]
-https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 #EXTINF:-1 ,CAN★CHCO TV
 https://temp3.isilive.ca/live/CHCOTV/live/chunklist.m3u8
 #EXTINF:-1 ,CAN★CTV News
@@ -2167,6 +2165,10 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
 #EXTINF:-1 ,GBR★Brit Asia Live (US Pacific)
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+#EXTINF:-1 ,GBR★Channel S (US Eastern)
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+#EXTINF:-1 ,GBR★Channel S (US Pacific)
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
 #EXTINF:-1 ,GBR★Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Comedy Channel
@@ -2207,6 +2209,8 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Pluto Cats
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db044d7846b170009215ef0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,GBR★Pluto Romance
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677c0edace7cff8180b16/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,GBR★Rakuten Action Movies
