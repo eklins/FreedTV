@@ -2,6 +2,18 @@
   "state":true,
   "data": [
     {
+      "name": "2A Network",
+      "url": "https://simultv.s.llnwi.net/o054/2ANetwork/interlink.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "2A Network",
+      "url": "https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "🇦🇺ABC 90 ①",
       "url": "https://c.mjh.nz/101002210221/",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
