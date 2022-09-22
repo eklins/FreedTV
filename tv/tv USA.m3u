@@ -481,12 +481,16 @@ https://edge-f.swagit.com/live/flagstaffaz/live-1-a/chunklist.m3u8
 https://s3-us-west-2.amazonaws.com/lakewood.castus-vod/live/ch1/video.m3u8
 #EXTINF:-1 ,CityTV Lawndale (720p)
 http://67.53.122.248/live-4/live/live.m3u8
+#EXTINF:-1 ,CityTV Loveland
+https://reflect-cityofloveland-co.cablecast.tv/live-3/live/WIFI-1596k-540p/WIFI-1596k-540p.m3u8
 #EXTINF:-1 ,CityTV Placentia, California
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/chunklist.m3u8
 #EXTINF:-1 ,CityTV San Diego
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/chunklist.m3u8
 #EXTINF:-1 ,CityTV Stockton
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/chunklist.m3u8
+#EXTINF:-1 ,CityTV Thornton 8
+https://reflect-thornton.cablecast.tv/live-4/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 ,CityTV Torrance
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/chunklist.m3u8
 #EXTINF:-1 ,CityTV Tracy CA
@@ -569,6 +573,8 @@ https://video.oct.dc.gov/out/u/DCN.m3u8
 https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
 #EXTINF:-1 ,Docurama (1080p)
 https://docurama-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Dr. Gene Scott
+https://wescottcc.piksel.tech/hls/live/2041995/adp/480p/chunklist.m3u8
 #EXTINF:-1 ,Dreamforce Btl
 https://srv.panelcast.net/dreamforcebtl/dreamforcebtl/playlist.m3u8
 #EXTINF:-1 ,DryBar Comedy (720p)
@@ -1629,6 +1635,8 @@ https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:-1 ,RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,RCTV (Rifle CMT TV)
+https://riflecmttv.secure.footprint.net/egress/bhandler/riflecmttv/streamb/chunklist_b2628000.m3u8
 #EXTINF:-1 ,Real America's Voice (720p)
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1 ,Real Madrid TV US Version (720p) [Not 24/7]
