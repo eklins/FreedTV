@@ -207,7 +207,7 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 https://v-ny.mybtv.net/live/645.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,BabyTV (1080p)
 http://194.163.179.246/slovenci/djeciji/babytv.m3u8
-#EXTINF:-1 ,BBC America
+#EXTINF:-1 ,BBC America (720p)
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 ,BeachTV CSULB
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
@@ -2031,6 +2031,8 @@ https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/19628359/events/7940975/player
 #EXTINF:-1 ,Story Television (WJLP-DT7)
 https://v-ny.mybtv.net/live/634.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,Sundance TV (720p)
+https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 ,Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 ,Swaag TV Chicago (WPVN-CD3)
