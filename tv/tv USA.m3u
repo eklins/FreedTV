@@ -557,6 +557,8 @@ https://v-ny.mybtv.net/live/593.m3u8?env=prd&uid=-1&x=1
 https://invintus-otfp.global.ssl.fastly.net/2917038973/487b842c8d9f8e9fc0b4043b9a49e65328650ac0_720p_30fps.m3u8
 #EXTINF:-1 ,Dabl (WCBS-DT3)
 https://v-ny.mybtv.net/live/547.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,Dark Matter TV (West)
+https://distroscale-public.s3-us-west-2.amazonaws.com/strm/channels/darkmatter/v3.m3u8
 #EXTINF:-1 ,DC Council Channel (1080p)
 https://video.oct.dc.gov/out/u/15_12.m3u8
 #EXTINF:-1 ,DeFiance Media (1080p)
