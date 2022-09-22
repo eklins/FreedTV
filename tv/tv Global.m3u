@@ -333,6 +333,10 @@ https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Chile.png",Chile❤Arab TV (Spanish)
 https://livefocamundo.com:8081/arabtv/playlist.m3u8
+#EXTINF:-1 ,CHL★PlanetaTV Movies (720p)
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 ,CHL★PlanetaTV Music
+https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 #EXTINF:-1 ,CHL★Pop TV
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 ,CHL★Retro Plus 3
