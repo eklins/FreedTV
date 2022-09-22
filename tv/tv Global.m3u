@@ -313,6 +313,8 @@ http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 ,CAN★Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 ,CAN★Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 ,CAN★Heartland
 https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,CAN★Insight TV
