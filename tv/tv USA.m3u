@@ -142,11 +142,11 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 ,AFV en Español (720p) [Not 24/7]
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 ,Akaku 53 (Hawaii★1080p)
-https://akaku.vod.castus.tv/live/ch1.m3u8
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 #EXTINF:-1 ,Akaku 54 (Hawaii★1080p)
-https://akaku.vod.castus.tv/live/ch2.m3u8
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 #EXTINF:-1 ,Akaku 55 (Hawaii★1080p)
-https://akaku.vod.castus.tv/live/ch3.m3u8
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 #EXTINF:-1 ,AKC Live
 https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
 #EXTINF:-1 ,AKC TV (1080p)
