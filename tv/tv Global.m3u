@@ -1935,6 +1935,8 @@ https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1 ,SRB★RTV AS
 https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-South-Africa.png",South Africa❤CNBC Africa
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Spain.png",Spain❤324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 #EXTINF:-1 ,ESP★À Punt
