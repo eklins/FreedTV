@@ -477,6 +477,8 @@ https://vblive-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8
 https://vblive-c.viebit.com/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/chunklist.m3u8
 #EXTINF:-1 ,CityTV Chino Hills (Channel 3/41★360p)
 https://edge-f.swagit.com/live/chinohillsca/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 ,CityTV Escambia County
+https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/chunklist_w1895810122.m3u8
 #EXTINF:-1 ,CityTV Flagstaff AZ
 https://edge-f.swagit.com/live/flagstaffaz/live-1-a/chunklist.m3u8
 #EXTINF:-1 ,CityTV Lakewood (720p)
