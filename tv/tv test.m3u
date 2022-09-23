@@ -5,6 +5,12 @@ http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwnSGubDN1ge8MBQARTGACXd5fhPEPtEAljA&usqp=CAU",Cinema World (576p)
 http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbVQIUm7jmVo1vmPh-XfWIVSH_3i7wV5vqQ&usqp=CAU",GEM
+http://210.210.155.37/uq2663/h/h19/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIzgPMYDjGIH2DVqOkbYsLxWbxgpF1ANs0g&usqp=CAU",ROCK Entertainment (576p)
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-0l7Wwk6Ti1-ogUxr5ftDXsO4gN2RmQ_qA&usqp=CAU",ROCK Extreme (576p)
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1 ,ARG★América TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 ,ABC Plus
