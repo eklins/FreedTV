@@ -615,6 +615,8 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Estrella TV (Espanol)
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Eternal Life TV Network
+https://livecdn.live247stream.com/eternallife/tv/eternallife/stream1/playlist.m3u8
 #EXTINF:-1 ,Everyday Heroes
 https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8
 #EXTINF:-1 ,EWTN Asia-Pacific (720p) [Not 24/7]
