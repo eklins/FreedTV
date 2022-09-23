@@ -449,6 +449,8 @@ http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
 #EXTINF:-1 ,CF97 Soccer Live (1080p) [Not 24/7]
 https://d1sp4cpu5on4l7.cloudfront.net/out/v1/ec82e0a9c5564fb497366186c09052e5/index.m3u8
+#EXTINF:-1 ,CGNTV
+https://api.new.livestream.com/accounts/13207573/events/9749763/live.m3u8
 #EXTINF:-1 ,Channel Fight (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
 #EXTINF:-1 ,Channel S Live TV
