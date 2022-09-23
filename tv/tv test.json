@@ -14,12 +14,6 @@
       "parse": false
     },
     {
-      "name": "netmax TV (Greece)",
-      "url": "http://live.netmaxtv.com:8080/live/live/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "American Horrors (1080p)",
       "url": "http://170.178.189.66:1935/live/Stream1/playlist1080p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
