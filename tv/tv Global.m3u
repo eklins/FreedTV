@@ -753,6 +753,14 @@ http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Indonesia.png",Indonesia❤Ainos (576p)
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
+#EXTINF:-1 ,IDN★Banjar TV (720p) [Not 24/7]
+https://v2.siar.us/banjartv/livestream/playlist.m3u8
+#EXTINF:-1 ,IDN★Banten TV (720p) [Not 24/7]
+https://v2.siar.us/barayatv/live/chunks.m3u8
+#EXTINF:-1 ,IDN★Batam TV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+#EXTINF:-1 ,IDN★Batu TV (576p) [Not 24/7]
+http://117.103.69.219:8080/live/streaming/index.m3u8
 #EXTINF:-1 ,IDN★BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 ,IDN★Berita Satu
@@ -779,9 +787,9 @@ https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 #EXTINF:-1 ,IDN★Kugo Star (576p)
 https://bravo.kugo.id/kugostar/udp.stream/chunklist.m3u8
-#EXTINF:-1 ,IDN★Magna Channel
+#EXTINF:-1 ,IDN★Magna Channel (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 ,IDN★Metro Globe Network
+#EXTINF:-1 ,IDN★Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 ,IDN★Metro TV (480p)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
