@@ -1915,6 +1915,30 @@ https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1 ,SRB★RTV AS
 https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Slovakia.png",Slovakia❤JOJ (720p) [Not 24/7]
+https://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 ,SVK★JOJ Family (540p) [Not 24/7]
+https://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 ,SVK★JOJ Plus (540p) [Not 24/7]
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1 ,SVK★LocAll (406p)
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Slovenia.png",Slovenia❤Boomerang
+https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BOOMERANG_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 ,SVN★Cartoon Network
+https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 ,SVN★HBO ①
+https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&red
+#EXTINF:-1 ,SVN★HBO ②
+https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redire
+#EXTINF:-1 ,SVN★HBO ③
+https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&re
+#EXTINF:-1 ,SVN★History
+https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 ,SVN★Kanal A
+https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&
+#EXTINF:-1 ,SVN★Veseljak
+https://stream.veseljak.tv/hls/stream.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-South-Africa.png",South Africa❤CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Spain.png",Spain❤324
