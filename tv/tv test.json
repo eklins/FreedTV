@@ -2,6 +2,12 @@
   "state":true,
   "data": [
     {
+      "name": "爱奇艺热播",
+      "url": "http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c57_lb_274_1080P_t10/8NmXs--hp_UIIi51Zx7J7qNeVdlH755PHQ8pV31zZJPTQyC38TpOhq0dHWgzGxyqhwzJhe3HAl6VKnvBm46sRosVQueXw2PN-Yhtbdj3Ovjr1wI2FKZwkHPAwuZgTn5YAjdow_NNjz-nnqGqg6sY5SfyIk13MzGuAIkZH-NqAOG6dO80RUe9OrC3xOFnkqwrU6RF2_26MqbBN654d0Wz0ZJ4wrVWfRkzU_Mxf0JR4UCk1XJe7We2B8o3IM0DEAXm93KAUzc6bjtuchGPRYfpTA/1db4bf2e9b5ba7c168108cdb91e857d8e/c57_lb_274_1080P_t10.m3u8?key=0fc476bb912ec9800423121613dedfa20&dis_t=1663960947&z=akm_oversea&pv=0.2",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港无线新闻台",
       "url": "https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
