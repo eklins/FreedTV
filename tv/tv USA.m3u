@@ -1953,8 +1953,6 @@ https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
 #EXTINF:-1 ,STIRR Fail Army (720p)
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 ,STIRR Film Detective
-https://filmdetective-stirr.amagi.tv/index.m3u8
 #EXTINF:-1 ,STIRR Free Movies (FilmRise)
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1 ,STIRR Glewed TV (720p)
@@ -2018,7 +2016,7 @@ https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
 #EXTINF:-1 ,STIRR The Bob Ross Channel (240p)
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 ,STIRR The Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+https://filmdetective-stirr.amagi.tv/index.m3u8
 #EXTINF:-1 ,STIRR The Tim Conway Show
 https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8
 #EXTINF:-1 ,STIRR USA Today (1080p)
@@ -2087,6 +2085,8 @@ https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 ,The Craftistry (1080p)
 https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,The Film Detective
+https://filmdetective-plex.amagi.tv/index.m3u8
 #EXTINF:-1 ,The First
 https://thefirst-distroscale.amagi.tv/index.m3u8
 #EXTINF:-1 ,The Heartland Network (720p)
