@@ -283,6 +283,8 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
 #EXTINF:-1 ,BRA★TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cabo-Verde.png",Cabo Verde❤TCSM TV
+https://stream.internet.one:443/RadioCaboVerde/video.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cambodia.png",Cambodia❤Bayon TV (360p)
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:-1 ,KHM★Fresh News
