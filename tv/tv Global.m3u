@@ -879,7 +879,9 @@ http://51.210.199.9/hls/stream.m3u8
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
 #EXTINF:-1 ,IRQ★Dijlah (1080p)
 http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ireland.png",Ireland❤Oireachtas TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ireland.png",Ireland❤Bloomberg TV
+https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,IRL★Oireachtas TV
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 ,IRL★Rakuten Action Movies
 https://rakuten-action-13-ie.samsung.wurl.tv/playlist.m3u8
