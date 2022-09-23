@@ -1544,12 +1544,6 @@
       "parse": false
     },
     {
-      "name": "STIRR Film Detective",
-      "url": "https://filmdetective-stirr.amagi.tv/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "STIRR Free Movies (FilmRise)",
       "url": "https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
@@ -1617,7 +1611,7 @@
     },
     {
       "name": "STIRR The Film Detective",
-      "url": "https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8",
+      "url": "https://filmdetective-stirr.amagi.tv/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
