@@ -79,6 +79,10 @@ https://streannlivecariflix.cachefly.net/cariflix5/cariflix5/playlist.m3u8
 https://streannlivecariflix.cachefly.net/cariflix6/cariflix6/playlist.m3u8
 #EXTINF:-1 ,ARG★Millennium TV
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
+#EXTINF:-1 ,ARG★RBD TV
+https://59537faa0729a.streamlock.net/rbdvideo/rbdvideo/chunklist_w1014102205.m3u8
+#EXTINF:-1 ,ARG★SoLive TV
+https://stmv1.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 ,ARG★Tierra Mía TV (Spanish)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Armenia.png",Armenia❤5-րդ ալիք
@@ -173,6 +177,8 @@ http://iptv.rtv-ooe.at/stream.m3u8
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Azerbaijan.png",Azerbaijan❤Alvin Channel TV
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bahamas.png",Bahamas❤Island Luck TV
+https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/chunklist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bahrain.png",Bahrain❤Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
 #EXTINF:-1 ,BHR★Bahrain TV
