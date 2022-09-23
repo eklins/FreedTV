@@ -113,26 +113,50 @@ https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e25a1932c8368bdbfd87d/playlist.m3u8
 #EXTINF:-1 ,ACTV Phoenix AZ
 https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/6361162879_AZ-247.stream_247/chunklist.m3u8
+#EXTINF:-1 ,AdultSwim Aqua Teen Hunger Force (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 #EXTINF:-1 ,AdultSwim Black Jesus 2014-2019
 https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 #EXTINF:-1 ,AdultSwim Channel 5 (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_de.m3u8
+#EXTINF:-1 ,AdultSwim Daily Animated (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:-1 ,AdultSwim Daily Live Action (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
 #EXTINF:-1 ,AdultSwim Dream Corp LLC (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-#EXTINF:-1 ,AdultSwim Infomercials
+#EXTINF:-1 ,AdultSwim Home Movies (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+#EXTINF:-1 ,AdultSwim Infomercials (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
 #EXTINF:-1 ,AdultSwim Last Stream On The Left
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
 #EXTINF:-1 ,AdultSwim Metalocalypse (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8
+#EXTINF:-1 ,AdultSwim Mr. Pickles (1080p)
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1 ,AdultSwim Off The Air (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 ,AdultSwim Primal (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
 #EXTINF:-1 ,AdultSwim Rick and Morty (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+#EXTINF:-1 ,AdultSwim Robot Chicken (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 #EXTINF:-1 ,AdultSwim Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 ,AdultSwim Squidbillies (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+#EXTINF:-1 ,AdultSwim Superjail! (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
 #EXTINF:-1 ,AdultSwim The Eric Andre Show
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:-1 ,AdultSwim The Venture Bros
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 ,AdultSwim Toonami (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
+#EXTINF:-1 ,AdultSwim Williams Stream (1080p)
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1 ,AdultSwim Your Pretty Face Is Going to Hell 2013-2019
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 #EXTINF:-1 ,Adventure Sports TV (360p) [Not 24/7]
