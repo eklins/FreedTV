@@ -459,8 +459,6 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 ,FRA★MyTime Movie Network
 https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,FRA★Persiana Varzesh
-http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 ,FRA★Pluto Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF:-1 ,FRA★Pluto Ciné
@@ -823,11 +821,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRIBALI)/in
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRIDKI)/index.m3u8
 #EXTINF:-1 ,IDN★TVRI Sports
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRI4)/Stream (03)/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤AVA Family (720p) [Not 24/7]
-http://51.210.199.5/hls/stream.m3u8
-#EXTINF:-1 ,IRN★AVA Series (720p)
-http://51.210.199.4/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Channel 6
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤Channel 6
 http://51.210.199.6/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Family 24 (Prima Movies)
 http://51.210.199.40/hls/stream.m3u8
@@ -851,34 +845,6 @@ http://51.210.199.57/hls/stream.m3u8
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 ,IRN★MTC
 http://51.210.227.128/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persian Film (720p) [Not 24/7]
-http://51.210.227.135/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana Cinema
-http://51.210.199.15/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana Comedy
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana Documentary
-http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana Family
-http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana Game & Tech
-http://51.210.199.25/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana Iranian
-http://51.210.199.22/hls/stream.m3u8
-#EXTINF:-1 ,ITN★Persiana Junior
-http://51.210.199.18/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana Korea
-http://51.210.199.14/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana Music
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana Nostalgia
-http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana One
-http://51.210.199.21/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana Sonnati (HewadTV)
-http://51.210.199.58/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Persiana Varzesh
-http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Press TV (English)
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 ,IRN★SL ①
@@ -2049,6 +2015,10 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 ,TUR★Africa NTR
 https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 ,TUR★AVA Family (720p) [Not 24/7]
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 ,TUR★AVA Series (720p)
+http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 ,TUR★Boztepe TV (Ordu)
 https://broadcasttr.com:446/btv/bant1/HasBahCa.m3u8
 #EXTINF:-1 ,TUR★Cekmeköy Web TV
@@ -2081,6 +2051,34 @@ http://broadcasttr.com:1935/muglaturk/bant1/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 #EXTINF:-1 ,TUR★ORT (Ordu)
 https://broadcasttr.com:446/orttv/bant1/chunklist_w51470567.m3u8
+#EXTINF:-1 ,TUR★Persian Film (720p) [Not 24/7]
+http://51.210.227.135/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Cinema
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Documentary
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Game & Tech
+http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Korea
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana One
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Sonnati (HewadTV)
+http://51.210.199.58/hls/stream.m3u8
+#EXTINF:-1 ,TUR★Persiana Varzesh
+http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 ,TUR★Power TURK
 https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 ,TUR★Show TURK
