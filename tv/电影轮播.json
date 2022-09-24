@@ -164,6 +164,24 @@
       "parse": false
     },
     {
+      "name": "4U Classic TV",
+      "url": "https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "4U Movee",
+      "url": "https://broadcast.mytvtogo.net/movee4u/movee4u/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "4U Western",
+      "url": "https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Ace (KCKS-LD3★480p)",
       "url": "https://cdn.igocast.com/channel3_hls/channel3_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -304,12 +322,6 @@
     {
       "name": "Classic Reruns TV [Not 24/7]",
       "url": "https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Classic TV 4U",
-      "url": "https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -656,12 +668,6 @@
       "parse": false
     },
     {
-      "name": "Movee 4U",
-      "url": "https://broadcast.mytvtogo.net/movee4u/movee4u/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Movie Kingdom",
       "url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -898,12 +904,6 @@
     {
       "name": "Watch It Scream!",
       "url": "https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Western 4U",
-      "url": "https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
