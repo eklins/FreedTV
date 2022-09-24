@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,3ABN English
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/HQs/chunklist.m3u8
 #EXTINF:-1 ,3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
 #EXTINF:-1 ,30A Darcizzle Offshore
