@@ -51,9 +51,21 @@
     },
     {
       "id": 1,
+      "name": "香蕉",
+      "ad": "no",
+      "url": "https://player.ea119.cc/player/?url="
+    },
+    {
+      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "速更源",
+      "ad": "no",
+      "url": "https://wuxiezx.com/player/?url="
     },
     {
       "id": 1,
@@ -87,12 +99,6 @@
     },
     {
       "id": 1,
-      "name": "速更源（失效）",
-      "ad": "no",
-      "url": "https://wuxiezx.com/player/?url="
-    },
-    {
-      "id": 1,
       "name": "新浪XL",
       "ad": "no",
       "url": "https://www.xinlangjiexi.com/m3u8/?url="
@@ -114,12 +120,6 @@
       "name": "探探",
       "ad": "no",
       "url": "https://jiexi.ttbfp1.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "自定义19",
-      "ad": "no",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
     }
   ]
 }
