@@ -205,6 +205,8 @@ https://kalends.anl.bz/localchannels/channel7.stream/playlist.m3u8
 https://kalends.anl.bz/localchannels/lovetel.stream/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bolivia.png",Bolivia❤Canal CNC Cartagena
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
+#EXTINF:-1 ,BOL★Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Brazil.png",Brazil❤AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 ,BRA★All Sports Brasil
