@@ -45,18 +45,6 @@
     },
     {
       "id": 1,
-      "name": "芒果",
-      "ad": "no",
-      "url": "https://mgm3u8-player.com/player/DPm3u8.php?url="
-    },
-    {
-      "id": 1,
-      "name": "香蕉",
-      "ad": "no",
-      "url": "https://player.ea119.cc/player/?url="
-    },
-    {
-      "id": 1,
       "name": "1080ZYK",
       "ad": "no",
       "url": "https://vip.zykbf.com/?url="
@@ -66,6 +54,24 @@
       "name": "速更源",
       "ad": "no",
       "url": "https://wuxiezx.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "森林",
+      "ad": "no",
+      "url": "https://sljxsl.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "芒果",
+      "ad": "no",
+      "url": "https://mgm3u8-player.com/player/DPm3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "香蕉",
+      "ad": "no",
+      "url": "https://player.ea119.cc/player/?url="
     },
     {
       "id": 1,
