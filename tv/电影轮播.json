@@ -728,19 +728,19 @@
       "parse": false
     },
     {
-      "name": "Persiana Cinema (Iran)",
+      "name": "Persiana Cinema (France)",
       "url": "http://51.210.199.15/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Persiana Comedy (Iran)",
+      "name": "Persiana Comedy (France)",
       "url": "http://51.210.199.27/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Persiana One (Iran)",
+      "name": "Persiana One (France)",
       "url": "http://51.210.199.21/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
