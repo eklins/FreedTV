@@ -2894,13 +2894,13 @@
       "parse": false
     },
     {
-      "name": "Persiana Music",
+      "name": "Persiana Music (Turkey)",
       "url": "http://51.210.199.24/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Persiana Nostalgia",
+      "name": "Persiana Nostalgia (Turkey)",
       "url": "http://51.210.199.20/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
