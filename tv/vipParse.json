@@ -57,6 +57,18 @@
     },
     {
       "id": 1,
+      "name": "量子",
+      "ad": "no",
+      "url": "https://lziplayer.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "快车",
+      "ad": "no",
+      "url": "https://jiexi.kczyapi.com/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "森林",
       "ad": "no",
       "url": "https://sljxsl.com/?url="
@@ -99,7 +111,7 @@
     },
     {
       "id": 1,
-      "name": "新浪XL",
+      "name": "新浪",
       "ad": "no",
       "url": "https://www.xinlangjiexi.com/m3u8/?url="
     },
