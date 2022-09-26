@@ -451,8 +451,8 @@
       "parse": false
     },
     {
-      "name": "北京BRTV新闻",
-      "url": "http://live.funhillrm.com/5/sd/live.m3u8",
+      "name": "北海经济科教",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225882/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -469,7 +469,7 @@
       "parse": false
     },
     {
-      "name": "博白电视台（BBTV）",
+      "name": "博白电视台 (BBTV)",
       "url": "https://live-cdn.gxxw.com/hls/a22/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
@@ -579,6 +579,30 @@
     {
       "name": "繁昌新闻综合",
       "url": "https://hwapi.yunshicloud.com/3giqaj/i6v1o5.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FTV 2（房山无线频道）",
+      "url": "http://live.funhillrm.com/5/sd/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FTV 3（房山）",
+      "url": "http://live.funhillrm.com/3/sd/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FTV 4（房山）",
+      "url": "http://live.funhillrm.com/4/sd/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FTV 5（房山有线频道）",
+      "url": "http://live.funhillrm.com/5/sd/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -729,6 +753,12 @@
     {
       "name": "河北影视剧",
       "url": "https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "河池教育",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225844/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1075,7 +1105,13 @@
       "parse": false
     },
     {
-      "name": "纯享4K",
+      "name": "BRTV KaKu 少儿（北京）",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?$广西cdn",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "纯享4K UHD",
       "url": "http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
@@ -1083,6 +1119,12 @@
     {
       "name": "东至影视 (576p)",
       "url": "http://223.247.33.124:1935/live/yingshi/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "哈哈炫动",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225711/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -1099,6 +1141,18 @@
       "parse": false
     },
     {
+      "name": "嘉佳卡通（广东）",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "金鹰卡通（湖南）",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "精彩综艺",
       "url": "http://111.20.33.70/TVOD/88888893/224/3221226009/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -1111,8 +1165,32 @@
       "parse": false
     },
     {
+      "name": "南京少儿",
+      "url": "http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "童年经典",
+      "url": "http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "星空国际 (360p)",
       "url": "http://210.210.155.37/x6bnqe/s/s94/index2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "优漫卡通（江苏）",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225665/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "浙江少儿",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
