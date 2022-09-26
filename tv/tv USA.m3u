@@ -705,6 +705,8 @@ https://a.jsrdn.com/broadcast/aee08372e5/+0000/high/c.m3u8
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/high/c.m3u8
 #EXTINF:-1 ,Fite (720p) [Not 24/7]
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1 ,FMTV (Latinos)
+https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w660067167.m3u8
 #EXTINF:-1 ,Folk TV East (480p) [Not 24/7]
 https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,FOX 2 Detroit MI (WJBK★720p) [Not 24/7]
