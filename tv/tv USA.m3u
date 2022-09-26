@@ -445,6 +445,8 @@ https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8
 https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8
 #EXTINF:-1 ,CBS 11 Toledo OH (WTOL★1080p)
 https://livevideo01.wtol.com/hls/live/2017153/newscasts/live.m3u8
+#EXTINF:-1 ,CBS 12 Weather Channel / Always On Storm Team (KWCH-DT1)
+https://d2jni005khp8n7.cloudfront.net/out/gray-kwchwx-rtmp-v3/live.m3u8
 #EXTINF:-1 ,CBS 12 West Palm Beach FL (WPEC★720p)
 https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
 #EXTINF:-1 ,CBS 13 Macon GA (WMAZ-TV★1080p)
@@ -1003,6 +1005,10 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8
 #EXTINF:-1 ,NBC TMJ4
 https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
+#EXTINF:-1 ,NCTV Channel 14 (Community Cox)
+https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 ,NCTV Channel 16 (Government Cox)
+https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch2/video.m3u8
 #EXTINF:-1 ,Negah TV (720p) [Not 24/7]
 https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
 #EXTINF:-1 ,Nevada: Las Vegas
