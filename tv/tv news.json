@@ -470,21 +470,45 @@
     },
     {
       "name": "台湾中天新闻",
-      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "台湾TVBS新闻",
-      "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
-      "parse": false
+      "parse": true
+    },
+    {
+      "name": "台湾东森新闻",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234",
+      "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
+      "parse": true
     },
     {
       "name": "台湾民视新闻",
-      "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
-      "parse": false
+      "parse": true
+    },
+    {
+      "name": "台湾中视新闻",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾华视新闻",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾mnews•镜新闻",
+      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
+      "parse": true
     },
     {
       "name": "台湾壹新闻",
@@ -523,37 +547,19 @@
       "parse": false
     },
     {
-      "name": "🇺🇳台湾东森新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234",
-      "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
-      "parse": true
-    },
-    {
-      "name": "🇺🇳台湾华视新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇺🇳台湾mnews•镜新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇺🇳台湾三立财经新闻",
+      "name": "台湾三立财经新闻",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyXBEnFoM_2tBFAq79GbvBd97AmvRtjCm9A&usqp=CAU",
       "parse": true
     },
     {
-      "name": "🇺🇳台湾东森财经新闻",
+      "name": "台湾东森财经新闻",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211",
       "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
       "parse": true
     },
     {
-      "name": "🇺🇳台湾SBN全球财经",
+      "name": "台湾SBN全球财经",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1LjHXLSG-6l6i1AEbxD48IZsuWJxWyHVOw&usqp=CAU",
       "parse": true
