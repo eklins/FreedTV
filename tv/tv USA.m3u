@@ -771,6 +771,10 @@ https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTINF:-1 ,Ganj e Hozour TV (720p)
 http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
+#EXTINF:-1 ,GBN (Global Buddhist Network)
+https://us.gbnus.com/live/dhamma_high/playlist.m3u8
+#EXTINF:-1 ,GEB.tv (KBPX-LD5)
+https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:-1 ,GFN TV (720p) [Not 24/7]
 https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
 #EXTINF:-1 ,Global Fashion Channel (1080p)
