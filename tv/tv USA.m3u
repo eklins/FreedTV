@@ -18,6 +18,8 @@ https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 ,30A Gone Fishing Offshore
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastFishingOffshore30a/playlist.m3u8
 #EXTINF:-1 ,30A Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8?iptvm3uplaylists.m3u8&checkedby:iptvcat.com
+#EXTINF:-1 ,30A Investment Pitch Global
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 ,30A Music
 https://30a-tv.com/music.m3u8
