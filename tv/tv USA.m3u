@@ -27,6 +27,8 @@ https://30a-tv.com/music.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmybeachtv30a/playlist.m3u8
 #EXTINF:-1 ,30A My Music Channel
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmymusicchannel30a/playlist.m3u8
+#EXTINF:-1 ,30A Nothing Scripted (720p)
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnothingscripted30a/playlist.m3u8
 #EXTINF:-1 ,30A Pitch News
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastpitchnews30a/playlist.m3u8
 #EXTINF:-1 ,30A Sidewalks
@@ -1119,8 +1121,6 @@ https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e76d1474f9020c06f9ee_all/playlist.m3u8
 #EXTINF:-1 ,Nosey Judge Karen's Court (480p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
-#EXTINF:-1 ,Nothing Scripted (720p)
-https://30a-tv.com/NothingScripted.m3u8
 #EXTINF:-1 ,Novelísima [Not 24/7]
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 #EXTINF:-1 ,NRB TV (480p)
