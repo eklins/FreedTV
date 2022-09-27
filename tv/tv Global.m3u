@@ -2168,9 +2168,9 @@ https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstrea
 #EXTINF:-1 ,GBR★Baby TV
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,GBR★BBC One
-http://93.152.174.144:4000/play/bbc1/index.m3u8
+http://w4.12all.tv:4000/play/bbc1/index.m3u8
 #EXTINF:-1 ,GBR★BBC Two
-http://93.152.174.144:4000/play/bbc2/index.m3u8
+http://w4.12all.tv:4000/play/bbc2/index.m3u8
 #EXTINF:-1 ,GBR★BBC News
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 ,GBR★BBC World News
