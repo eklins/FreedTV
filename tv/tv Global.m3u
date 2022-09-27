@@ -101,6 +101,8 @@ https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8221df52788a423c91b717158aadaf25/index.m3u8?hdnea=st=1659860737~exp=1659861637~acl=/*~hmac=d8a5c191162d8c01cdd01a3bb577e7a5f390d10db2a077ea75a89ce5d39f8e2f
 #EXTINF:-1 ,AUS★ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 ,AUS★Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1 ,AUS★ausbiz
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 ,AUS★Aus Tamil (720p) [Not 24/7]
