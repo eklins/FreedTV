@@ -71,8 +71,6 @@ https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 https://streamlov.alsolnet.com/misionescuatro/live/chunklist_w1666960613.m3u8
 #EXTINF:-1 ,ARG★RBD TV
 https://59537faa0729a.streamlock.net/rbdvideo/rbdvideo/chunklist_w1014102205.m3u8
-#EXTINF:-1 ,ARG★SoLive TV
-https://stmv1.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 ,ARG★Tierra Mía TV (Spanish)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Armenia.png",Armenia❤5-րդ ալիք
@@ -229,6 +227,8 @@ http://46.99.146.236/0.m3u8
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,BRA★COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
+#EXTINF:-1 ,BRA★Eva Retro (Corporación Eva★480p) [Not 24/7]
+https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
 #EXTINF:-1 ,BRA★Ghost TV (Portuguese)
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 ,BRA★ISTV
@@ -271,6 +271,8 @@ http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 ,BRA★SBT Ⓢ
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 ,BRA★SoLive TV
+https://stmv1.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 ,BRA★Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,BRA★Tele Cine Action (Portuguese)
