@@ -101,6 +101,8 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
 #EXTINF:-1 ,ABC 24 Memphis TN (WATN-TV★1080p)
 https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
+#EXTINF:-1 ,ABC 30 KFSN News (Fresno, California)
+https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
 #EXTINF:-1 ,ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 ,ABC News Live 1 (720p)
@@ -809,6 +811,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 ,Hmong TV Network (720p)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+#EXTINF:-1 ,HollyWire (720p)
+https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 ,Honor TV (720p)
 https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8
 #EXTINF:-1 ,Hope Channel Norge (720p)
@@ -837,7 +841,7 @@ https://ign-samsungus.amagi.tv/playlist.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ,IND TV USA
 https://indtv.secure.footprint.net/egress/bhandler/indtv/streama/chunklist_b489472.m3u8
-#EXTINF:-1 ,InfoWars (720p)
+#EXTINF:-1 ,Info Wars (720p)
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:-1 ,ion
 https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
