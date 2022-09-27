@@ -787,6 +787,8 @@ https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchan
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 #EXTINF:-1 ,grvty (1080p)
 https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
+#EXTINF:-1 ,GTN (Greensboro, North Carolina)
+https://lin11.isilive.ca/live/greensboro/GTN/chunklist.m3u8
 #EXTINF:-1 ,Gusto TV (1080p)
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,Haunt TV
@@ -827,6 +829,8 @@ https://ft-ifood-roku.amagi.tv/playlist.m3u8
 https://ign-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 ,IND TV USA
+https://indtv.secure.footprint.net/egress/bhandler/indtv/streama/chunklist_b489472.m3u8
 #EXTINF:-1 ,InfoWars (720p)
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:-1 ,ion
@@ -837,6 +841,8 @@ https://v-ny.mybtv.net/live/627.m3u8?env=prd&uid=-1&x=1
 https://ion-plus.samsung.wurl.com/playlist.m3u8
 #EXTINF:-1 ,Island Escape (720p)
 https://a.jsrdn.com/broadcast/41e3e6703e/+0000/high/c.m3u8
+#EXTINF:-1 ,It's Supernatural! Network
+https://isntv.mmdlive.lldns.net/isntv/f79b65204e7141c6a5cc74e63cf0dae5/chunklist_b3192000.m3u8
 #EXTINF:-1 ,JBS (404p) [Not 24/7]
 https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 ,Jewelry Television (720p)
