@@ -127,6 +127,14 @@ https://inwonder-samsungau.amagi.tv/playlist.m3u8
 https://lovestoriestv-lovestoriestv-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★M4TV Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1 ,AUS★Made In Hollywood
+https://connection3-ent-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★Magellan TV
+https://magellantv-3-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★MavTV Global
+https://mavtv-mavtvglobal-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★Mtrspt 1
+https://kravemedia-mtrspt1-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Racing.com
@@ -139,6 +147,8 @@ https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Timiline
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★True Crime Now
+https://alliantcontent-truecrimenow-3-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Sky Racing 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 ,AUS★Sky Thoroughbred Central
@@ -167,6 +177,10 @@ https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★RTV
 http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 ,AUT★Travel XP
+https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,AUT★True Crime Now
+https://alliantcontent-truecrimenow-3-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Azerbaijan.png",Azerbaijan❤Alvin Channel TV
@@ -1575,20 +1589,56 @@ https://juicex.nz/hls/mystream.m3u8
 https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 #EXTINF:-1 ,NZL★Love Stories TV
 https://lovestoriestv-lovestoriestv-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★Made In Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★Magellan TV
 https://magellantv-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★MavTV Global
+https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★Motorvision.TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★Mtrspt 1
+https://kravemedia-mtrspt1-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★Nosey
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★Now 90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★PULSE。
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★Real Crime
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★Real Life
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★Real Stories
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★Revry LGBTQ TV
+https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★Ryan and Friends
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★Smithsonian Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★Tastemade
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★The Design Network
+https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★The Edge
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+#EXTINF:-1 ,NZL★Timeline
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★Trace Sport Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★Travel XP
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★True Crime Now
+https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★Wairarapa TV
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 #EXTINF:-1 ,NZL★Zoo Moo
@@ -2285,12 +2335,16 @@ https://rakuten-thriller-1-gb.plex.wurl.tv/playlist.m3u8
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Top Free (PLEX)
 https://rakuten-topfree-1-gb.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Rakuten Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten TV Shows
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten TV Shows (PLEX)
 https://rakuten-tvshows-1-gb.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Real Stories
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Revry LGBTQ TV
+https://revry-revry-3-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Revry News
 https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rugby World TV
@@ -2318,7 +2372,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?
 #EXTINF:-1 ,GBR★Timeline
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★V2Beat
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 ,GBR★Wonder
