@@ -215,6 +215,8 @@ https://593b04c4c5670.streamlock.net/8192/8192/chunklist_w349536411.m3u8
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
 #EXTINF:-1 ,BOL★Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 ,BOL★TV OFF travel
+https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Brazil.png",Brazil❤AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 ,BRA★All Sports Brasil
@@ -225,6 +227,10 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 http://46.99.146.236/0.m3u8
 #EXTINF:-1 ,BRA★Bloomberg TV
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,BRA★Canal TV Rio
+https://video01.logicahost.com.br/canaltvrio/canaltvrio/chunklist_w660183980.m3u8
+#EXTINF:-1 ,BRA★Central TV
+https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/chunklist_w968700281.m3u8
 #EXTINF:-1 ,BRA★COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 #EXTINF:-1 ,BRA★Eva Retro (Corporación Eva★480p) [Not 24/7]
