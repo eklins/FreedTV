@@ -19,6 +19,12 @@
       "parse": false
     },
     {
+      "name": "Channel Fight",
+      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NEWSnet",
       "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVGT5GQN923PSeM8KyygkbskzRANR7J4s9Lg&usqp=CAU",
