@@ -5,6 +5,8 @@ https://3abn-live.akamaized.net/hls/live/2010543/3ABN/HQs/chunklist.m3u8
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
 #EXTINF:-1 ,4U Action Sports
 https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/playlist.m3u8
+#EXTINF:-1 ,4U Bluegrass Music (480p)
+https://rebroadcast.mytvtogo.net/mytvtogo/blugrassmusic/playlist.m3u8
 #EXTINF:-1 ,4U Classic TV
 https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
 #EXTINF:-1 ,4U Cooking
