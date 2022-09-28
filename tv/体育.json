@@ -577,13 +577,13 @@
       "parse": false
     },
     {
-      "name": "MavTV Motorsports Network (Netherlands)",
+      "name": "MavTV Global (Netherlands)",
       "url": "https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "MavTV Motorsports Network (New Zealand)",
+      "name": "MavTV Global (New Zealand)",
       "url": "https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
@@ -607,7 +607,19 @@
       "parse": false
     },
     {
-      "name": "Mtrspt 1",
+      "name": "Motorvision.TV (New Zealand)",
+      "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Mtrspt 1 (Australia)",
+      "url": "https://kravemedia-mtrspt1-1-au.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Mtrspt 1 (New Zealand)",
       "url": "https://kravemedia-mtrspt1-1-nz.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
@@ -1027,7 +1039,7 @@
       "parse": false
     },
     {
-      "name": "Rakuten MavTV Select",
+      "name": "Rakuten MavTV Global",
       "url": "https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
