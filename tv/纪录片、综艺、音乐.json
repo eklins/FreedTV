@@ -992,7 +992,7 @@
       "parse": false
     },
     {
-      "name": "Nosey",
+      "name": "Nosey (New Zealand)",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -1010,7 +1010,7 @@
       "parse": false
     },
     {
-      "name": "Outdoor Channel",
+      "name": "Outdoor Channel (New Zealand)",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -1070,7 +1070,7 @@
       "parse": false
     },
     {
-      "name": "Real Crime",
+      "name": "Real Crime (New Zealand)",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -1088,13 +1088,19 @@
       "parse": false
     },
     {
+      "name": "Real Life (New Zealand)",
+      "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Real Stories (US)",
       "url": "https://lds-realstories-plex.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Real Wild",
+      "name": "Real Wild (New Zealand)",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -1190,7 +1196,7 @@
       "parse": false
     },
     {
-      "name": "Tastemade International",
+      "name": "Tastemade (New Zealand)",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -1214,7 +1220,7 @@
       "parse": false
     },
     {
-      "name": "The Design Network",
+      "name": "The Design Network (New Zealand)",
       "url": "https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -1262,13 +1268,37 @@
       "parse": false
     },
     {
-      "name": "True Crime Network (WFUT-DT2)",
-      "url": "https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8",
+      "name": "Travel XP (Australia)",
+      "url": "https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Travel XP (New Zealand)",
+      "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Travel XP (UK)",
+      "url": "https://travelxp-travelxp-1-gb.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "True Crime Now (Australia)",
+      "url": "https://alliantcontent-truecrimenow-3-au.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "True Crime Now (New Zealand)",
+      "url": "https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "True Crime Now (WFUT-DT2)",
       "url": "https://v-ny.mybtv.net/live/714.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -2072,7 +2102,7 @@
       "parse": false
     },
     {
-      "name": "Rakuten Travel XP",
+      "name": "Rakuten Travel XP (UK)",
       "url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
@@ -2984,19 +3014,19 @@
       "parse": false
     },
     {
-      "name": "Now 70s",
+      "name": "Now 70s (New Zealand)",
       "url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Now 80s",
+      "name": "Now 80s (New Zealand)",
       "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Now 90s",
+      "name": "Now 90s (New Zealand)",
       "url": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
