@@ -83,7 +83,7 @@ https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
 https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
 #EXTINF:-1 ,ABC 9 Kansas City MO (KMBC-TV★720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
-#EXTINF:-1 ,ABC 9 Manchester NH (WMUR-TV★720p)
+#EXTINF:-1 ,ABC 9 Manchester, New Hampshire (WMUR-TV★720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
 #EXTINF:-1 ,ABC 9 Orlando FL (WFTV★720p)
 https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
@@ -2477,6 +2477,8 @@ https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 #EXTINF:-1 ,USA Today (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
+#EXTINF:-1 ,USA Today SportsWire
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Sportswire.m3u8
 #EXTINF:-1 ,Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 ,VBS TV (480p) [Not 24/7]
@@ -2549,8 +2551,6 @@ https://edu-wcat.azureedge.net/live/live.m3u8
 https://frontdoor.wcat-tv.org:8686/live/live.m3u8
 #EXTINF:-1 ,WLNG Radio (410p) [Not 24/7]
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
-#EXTINF:-1 ,WMUR 9 New Hampshire
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
 #EXTINF:-1 ,World (WLIW-DT3★432p)
 https://v-ny.mybtv.net/live/577.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,World Harvest TV
