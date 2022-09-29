@@ -111,6 +111,8 @@ https://bountyfilms-bounty-1-au.samsung.wurl.tv/playlist.m3u8
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 ,AUS★Channel 44 (480p)
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 ,AUS★Euronews (720p)
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,AUS★Filmstream
 https://spi-filmstream-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Fuel TV
@@ -119,6 +121,8 @@ https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Insight TV
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★In Trouble
+https://introuble-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★In Wild
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★In Wonder
@@ -145,18 +149,30 @@ https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Rialto
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,AUS★Timiline
-https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,AUS★True Crime Now
-https://alliantcontent-truecrimenow-3-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Sky Racing 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 ,AUS★Sky Thoroughbred Central
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8
+#EXTINF:-1 ,AUS★Smithsonian Channel Asia (1080p)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★Tastemade
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★Timiline
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★True Crime Now
+https://alliantcontent-truecrimenow-3-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Viceland (SBS)
 https://sbs-live.akamaized.net/hls/live/2002828/channel2/open/master_1800K.m3u8
 #EXTINF:-1 ,AUS★Wonder
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Austria.png",Austria❤FS1 (Salzburg)
 https://stream.fs1.tv/hls/webstream.m3u8
 #EXTINF:-1 ,AUT★OE24
