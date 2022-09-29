@@ -113,6 +113,8 @@ https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:-1 ,AUS★Euronews (720p)
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,AUS★FairArmy
+http://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Filmstream
 https://spi-filmstream-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Fuel TV
@@ -141,6 +143,8 @@ https://mavtv-mavtvglobal-1-au.samsung.wurl.tv/playlist.m3u8
 https://kravemedia-mtrspt1-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★People are Awesome
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 ,AUS★Real Families
@@ -805,14 +809,36 @@ https://pull-3187.5centscdn.com/vizjsj1apjkea3/smil:B4U_Kadak.smil/playlist.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 ,IND★Filmstream (English)
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IND★Inshort
+https://inshort-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,IND★Insight TV
+https://insighttv-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,IND★InTrouble
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,IND★InWild
+https://inwild-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,IND★InWonder
+https://inwonder-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,IND★FairArmy
+http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IND★Filmstream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IND★Go USA
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IND★KCV Movies (576p) [Not 24/7]
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
+#EXTINF:-1 ,IND★MavTV Global
+http://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IND★Nee Cinema (480p)
 https://live.neestream.net/neestream_01/neecinema/index.m3u8?token=693400
 #EXTINF:-1 ,IND★Northeast Live
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/HasBahCa.m3u8
+#EXTINF:-1 ,IND★People are Awesome
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IND★Star Gold (Utsav)
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 ,IND★The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IND★Zee Cinema
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Indonesia.png",Indonesia❤Ainos (576p)
@@ -949,8 +975,20 @@ http://51.210.199.9/hls/stream.m3u8
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
 #EXTINF:-1 ,IRQ★Dijlah (1080p)
 http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ireland.png",Ireland❤Bloomberg TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ireland.png",Ireland❤Africa News
+https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,IRL★AFV Family
+https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IRL★Bloomberg
 https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,IRL★Bloomberg Quicktake
+https://bloomberg-quicktake-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,IRL★Duck TV
+https://mmm-ducktv-4-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IRL★Euronews
+https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,IRL★MavTV Global
+https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IRL★Oireachtas TV
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 ,IRL★Rakuten Action Movies
@@ -1019,7 +1057,7 @@ http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 ,ITA★Euro TV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 ,ITA★Failarmy
+#EXTINF:-1 ,ITA★FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Icaro TV
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
@@ -1041,6 +1079,8 @@ https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 #EXTINF:-1 ,ITA★Parole di Vita
 https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
+#EXTINF:-1 ,ITA★People are Awesome
+https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Polo TV
 http://54.39.17.6:8080/polotv/playlist.m3u8
 #EXTINF:-1 ,ITA★Primocanale
@@ -1111,6 +1151,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 ,ITA★Sophia TV
 https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8
+#EXTINF:-1 ,ITA★Sport Outdoor TV
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
 #EXTINF:-1 ,ITA★Super JTV Teramo
@@ -1499,7 +1541,7 @@ https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 #EXTINF:-1 ,NLD★Discover Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,NLD★Failarmy
+#EXTINF:-1 ,NLD★FailArmy
 https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Feel Good TV
 https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
@@ -1513,6 +1555,8 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Groningen 1
 http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1 ,NLD★Hell's Kitchen
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8
 #EXTINF:-1 ,NLD★HK13 TV
 http://mtxstr001.matrixdata.nl/live/hk13/playlist.m3u8
 #EXTINF:-1 ,NLD★Ideaal TV
@@ -1543,22 +1587,32 @@ https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 #EXTINF:-1 ,NLD★One World TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01847-dutchessmediabv-oneworldtv-samsungnl/playlist.m3u8
+#EXTINF:-1 ,NLD★People are Awesome
+https://jukin-peopleareawesome-2-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 ,NLD★Radical Docs
+https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Radio 350
 https://stream.radio350.nl/hls/radio350.m3u8
 #EXTINF:-1 ,NLD★Rakuten Action Movies
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Comedy
 https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Documentaries
+https://rakuten-documentaries-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Drama
 https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Family
 https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Guardian
+https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Spotlight
 https://rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Top Free
 https://rakuten-topfree-8-nl.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Reuters Now
+https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 ,NLD★RTV GO!
@@ -1569,6 +1623,10 @@ http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
 #EXTINF:-1 ,NLD★Sofy TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
+#EXTINF:-1 ,NLD★Strongman Champions League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Travel XP
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★TV Valkenburg
 https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
 #EXTINF:-1 ,NLD★UStad
@@ -1581,6 +1639,8 @@ https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
 #EXTINF:-1 ,NLD★Wicked Tuna
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
+#EXTINF:-1 ,NLD★World Poker Tour
+https://wpt-theworldpokertour-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★WOS TV
 https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 ,NLD★Xplore
@@ -2091,6 +2151,8 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Rakuten Family
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ESP★Rakuten People are Awesome
+https://jukin-peopleareawesome-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Rakuten Spotlight
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Rakuten Thriller
@@ -2315,6 +2377,8 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★People are Awesome
+https://jukin-peopleareawesome-2-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Pluto Cats
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db044d7846b170009215ef0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,GBR★Pluto Romance
