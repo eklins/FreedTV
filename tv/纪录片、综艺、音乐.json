@@ -715,12 +715,23 @@
       "parse": false
     },
     {
+      "name": "Go USA (India)",
+      "url": "https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Go USA (Netherlands)",
       "url": "https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
-
+    {
+      "name": "Go USA (Sweden)",
+      "url": "https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
     {
       "name": "GTN (Greensboro, North Carolina)",
       "url": "https://lin11.isilive.ca/live/greensboro/GTN/chunklist.m3u8",
@@ -2066,18 +2077,6 @@
       "parse": false
     },
     {
-      "name": "Rakuten Guardian (Ireland)",
-      "url": "https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Rakuten Guardian (Netherlands)",
-      "url": "https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Rakuten Insight TV",
       "url": "https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
@@ -2110,6 +2109,18 @@
     {
       "name": "Rakuten The Design Network (Italy)",
       "url": "https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rakuten The Guardian (Ireland)",
+      "url": "https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rakuten The Guardian (Netherlands)",
+      "url": "https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
