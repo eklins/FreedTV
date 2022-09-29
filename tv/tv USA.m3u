@@ -569,6 +569,8 @@ https://vblive-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
 #EXTINF:-1 ,CityTV Beverly Hills TV 35
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
+#EXTINF:-1 ,CityTV Brevard Government Access TV (Space Coast, Florida)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/chunklist.m3u8
 #EXTINF:-1 ,CityTV Capital City Connection
 https://vblive-c.viebit.com/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/chunklist.m3u8
 #EXTINF:-1 ,CityTV Chino Hills (Channel 3/41★360p)
@@ -667,6 +669,8 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/chunklist.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 ,CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 ,Collier Television
+https://reflect-collier-countyboc.cablecast.tv/live-4/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 #EXTINF:-1 ,Comedy Dynamics (1080p)
 https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
 #EXTINF:-1 ,Comet (720p)
@@ -705,6 +709,8 @@ https://v-ny.mybtv.net/live/593.m3u8?env=prd&uid=-1&x=1
 https://invintus-otfp.global.ssl.fastly.net/2917038973/487b842c8d9f8e9fc0b4043b9a49e65328650ac0_720p_30fps.m3u8
 #EXTINF:-1 ,Dabl (WCBS-DT3)
 https://v-ny.mybtv.net/live/547.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,Dare To Dream Network
+https://3abn-live.akamaized.net/hls/live/2010545/D2D/HQs/chunklist.m3u8
 #EXTINF:-1 ,Dark Matter TV
 https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Dark Matter TV (West)
@@ -989,6 +995,10 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 #EXTINF:-1 ,Lively Place (720p)
 https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,LLBN His Light
+https://brightstar-hisword.secure.footprint.net/egress/bhandler/brightstar/brightstarHisLight/chunklist_b1344512.m3u8
+#EXTINF:-1 ,LLBN His Word
+https://brightstar-hisword.secure.footprint.net/egress/bhandler/brightstar/brightstarHisWord/chunklist_b1344512.m3u8
 #EXTINF:-1 ,Localish (WABC-DT2)
 https://v-ny.mybtv.net/live/555.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,LocalNow Christmas in July (720p) [Not 24/7]
@@ -1935,6 +1945,8 @@ https://2-fss-2.streamhoster.com/pl_118/amlst:202742-1432010/chunklist_b4500000.
 https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 #EXTINF:-1 ,Santa and the Three Bears (480p)
 https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
+#EXTINF:-1 ,Smart Life Style Television
+https://brightstar-sls.secure.footprint.net/egress/bhandler/brightstar/brightstarslshd/chunklist_b1344512.m3u8
 #EXTINF:-1 ,SMCTV 23 (Santa Maria Community Television)
 https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streama/chunklist_b2192000.m3u8
 #EXTINF:-1 ,SMCTV 24 (Santa Maria Community Television)
@@ -2271,6 +2283,8 @@ https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 https://a.jsrdn.com/broadcast/9e63a1b236/+0000/high/c.m3u8
 #EXTINF:-1 ,TAG TV (1080p) [Not 24/7]
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+#EXTINF:-1 ,Tampa Bay Community Network
+https://reflect-tampa-bay-community.cablecast.tv/live-16/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 #EXTINF:-1 ,Tastemade (1080p)
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF:-1 ,Tastemade Australia (1080p)
@@ -2537,6 +2551,8 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,C
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 #EXTINF:-1 ,WeHo TV (West Hollywood★360p)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/chunklist.m3u8
+#EXTINF:-1 ,WEZK-LP1
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/chunklist.m3u8?origin=1
 #EXTINF:-1 ,WFMZ 69 (WFMZ-DT1)
 https://v-pi.mybtv.net/live/423.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,WGN9 News Streaming (1080p)
