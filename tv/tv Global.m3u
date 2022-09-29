@@ -1001,10 +1001,10 @@ https://rakuten-documentaries-13-ie.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-13-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IRL★Rakuten Family
 https://rakuten-family-13-ie.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,IRL★Rakuten Guardian
-https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IRL★Rakuten Spotlight
 https://rakuten-spotlight-13-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IRL★Rakuten The Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Israel.png",Israel❤HOT HBO (Израиль)
 http://myott.top/stream/DT6QU63K5VX/381.m3u8
 #EXTINF:-1 ,ISR★HOT Zone (Израиль)
@@ -1429,6 +1429,8 @@ https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 http://m-1.data.lt/m-1/smil:m-1.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Luxembourg.png",Luxembourg❤eldo.TV
 https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/playlist.m3u8
+#EXTINF:-1 ,LUX★Rakuten Documentaries
+https://rakuten-documentaries-15-lu.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,LUX★RTL
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PGbPfPUXCBBAVRvMxhd67wSbJvcrKrwW6A&usqp=CAU",Macao❤澳门微视
@@ -1605,10 +1607,10 @@ https://rakuten-documentaries-8-nl.samsung.wurl.tv/playlist.m3u8
 https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Family
 https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,NLD★Rakuten Guardian
-https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Spotlight
 https://rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten The Guardian
+https://rakuten-guardian-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Top Free
 https://rakuten-topfree-8-nl.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Reuters Now
@@ -1729,10 +1731,18 @@ https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/chunklist.m3u8
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1 ,NGA★TVC Entertainment
 https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Norway.png",Norway❤Canal Motor
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Norway.png",Norway❤Africa News
+https://rakuten-africanews-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Bloomberg Quicktake (1080p)
+https://bloomberg-quicktake-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Bloomberg TV US (1080p)
+https://bloomberg-bloomberg-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,NOR★Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 ,NOR★Duck TV
 https://mmm-ducktv-4-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,NOR★Euronews
+https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,NOR★Kanal Asia 10
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 #EXTINF:-1 ,NOR★Rakuten Spotlight
@@ -2175,16 +2185,34 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1 ,SWE★Expressen TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+#EXTINF:-1 ,SWE★FairArmy
+https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Fashion TV
+https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Filmstream
+https://spi-filmstream-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Go USA
+https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Gusto TV
+https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Kanal 10 Asia
 https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/chunklist_w522739009_b2128000.m3u8
+#EXTINF:-1 ,SWE★MavTV Global
+https://mavtv-mavtvglobal-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Öppna Kanalen
 https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
+#EXTINF:-1 ,SWE★People are Awesome
+https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Radical Docs
+https://quintus-radicaldocs-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Drama
 https://rakuten-drama-9-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Family
 https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Spotlight
 https://rakuten-spotlight-9-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten The Guardian
+https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★TV4
 https://csm-e-cet4eurxaws102j8-78k15gpy268.tls1.yospace.com/csm/live/142791716.m3u8?yo.oh=Y3NtLWUtdHY0c2UtZWIudGxzMS55b3NwYWNlLmNvbQ==
 #EXTINF:-1 ,SWE★Västmanlands TV
