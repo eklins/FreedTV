@@ -355,6 +355,8 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 ,CAN★AZ Star (Persian)
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 ,CAN★Baywatch 1989-2001
+https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,CAN★Canada Star TV
 https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
 #EXTINF:-1 ,CAN★CBC News Highlights
@@ -367,26 +369,50 @@ https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 ,CAN★Degrassi: The Next Generation 2010-2015
 http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★DryBar Comedy
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★Eawaz (720p)
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
+#EXTINF:-1 ,CAN★FailArmy
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 ,CAN★FTF Sports
+https://elevensports-samsunguk-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 ,CAN★Heartland 2007-?
 https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,CAN★Insight TV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★Kidoodle TV
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★MavTV Global
+https://mavtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★NTV (Newfoundland TV★480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 ,CAN★Pardesi TV (720p) [Not 24/7]
 http://stream.pardesitv.online/pardesi/index.m3u8
+#EXTINF:-1 ,CAN★People Are Awesome
+https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★Players TV
+https://playerstv-samsungca.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★Plymouth Rock TV
 https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8
+#EXTINF:-1 ,CAN★Power Nation
+https://rtmtv-samsung-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★QVTV
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
+#EXTINF:-1 ,CAN★The Design Network
+https://thedesignnetwork-tdn-6-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★The Jack Hannah Channel
+https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★The Pet Collection International
+https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★Weather Spy
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,CAN★World Poker Tour
+https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★X Zone
 https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Chile.png",Chile❤Arab TV (Spanish)
