@@ -613,32 +613,26 @@
       "parse": false
     },
     {
-      "name": "Failarmy (Australia)",
+      "name": "FailArmy (Australia)",
       "url": "http://failarmy-international-au.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Failarmy (India)",
+      "name": "FailArmy (India)",
       "url": "http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Failarmy (Netherlands)",
+      "name": "FailArmy (Netherlands)",
       "url": "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Failarmy (UK)",
+      "name": "FailArmy (UK)",
       "url": "http://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX Soul",
-      "url": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -693,6 +687,12 @@
     {
       "name": "FNX (WMBQ-LD★432p)",
       "url": "https://v-ny.mybtv.net/live/658.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Soul",
+      "url": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -772,6 +772,12 @@
     {
       "name": "Hunt Channel",
       "url": "http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Inshort (India)",
+      "url": "https://inshort-samsungindia.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
