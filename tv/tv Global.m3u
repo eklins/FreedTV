@@ -837,7 +837,7 @@ https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/HasBahCa
 https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IND★Star Gold (Utsav)
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-#EXTINF:-1 ,IND★The Pet Collective
+#EXTINF:-1 ,IND★The Pet Collective International
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IND★Zee Cinema
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
@@ -991,7 +991,7 @@ https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IRL★Oireachtas TV
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
-#EXTINF:-1 ,IRL★Rakuten Action Movies
+#EXTINF:-1 ,IRL★Rakuten Action
 https://rakuten-action-13-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IRL★Rakuten Comedy
 https://rakuten-comedy-13-ie.samsung.wurl.tv/playlist.m3u8
@@ -1597,7 +1597,7 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Radio 350
 https://stream.radio350.nl/hls/radio350.m3u8
-#EXTINF:-1 ,NLD★Rakuten Action Movies
+#EXTINF:-1 ,NLD★Rakuten Action
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Comedy
 https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
@@ -2205,6 +2205,12 @@ https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
 https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Radical Docs
 https://quintus-radicaldocs-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Action
+https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Comedy
+https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Documentaries
+https://rakuten-documentaries-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Drama
 https://rakuten-drama-9-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Family
@@ -2213,10 +2219,20 @@ https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-9-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten The Guardian
 https://rakuten-guardian-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Strongman Champions League
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★The Pet Collection International
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Travel XP
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★TV4
 https://csm-e-cet4eurxaws102j8-78k15gpy268.tls1.yospace.com/csm/live/142791716.m3u8?yo.oh=Y3NtLWUtdHY0c2UtZWIudGxzMS55b3NwYWNlLmNvbQ==
 #EXTINF:-1 ,SWE★Västmanlands TV
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
+#EXTINF:-1 ,SWE★Waterbear
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
+#EXTINF:-1 ,SWE★World Poker Tour
+https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Switzerland.png",Switzerland❤One TV
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 ,CHE★Pluto Movies
