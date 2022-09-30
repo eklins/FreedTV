@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,3ABN Dare To Dream Network
+https://3abn-live.akamaized.net/hls/live/2010545/D2D/HQs/chunklist.m3u8
 #EXTINF:-1 ,3ABN English
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/HQs/chunklist.m3u8
 #EXTINF:-1 ,3ABN Kids Network (720p)
@@ -609,6 +611,8 @@ http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/longbeach/G0020_001/playlist.m3u8
 #EXTINF:-1 ,CityTV Loveland
 https://reflect-cityofloveland-co.cablecast.tv/live-3/live/WIFI-1596k-540p/WIFI-1596k-540p.m3u8
+#EXTINF:-1 ,CityTV MCTV (Monroe County)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 #EXTINF:-1 ,CityTV NCCTV (Newcastle COU)
 https://newcastlecoutv.secure.footprint.net/egress/bhandler/newcastlecou/streama/chunklist_b1344512.m3u8
 #EXTINF:-1 ,CityTV Newport Beach
@@ -709,8 +713,6 @@ https://v-ny.mybtv.net/live/593.m3u8?env=prd&uid=-1&x=1
 https://invintus-otfp.global.ssl.fastly.net/2917038973/487b842c8d9f8e9fc0b4043b9a49e65328650ac0_720p_30fps.m3u8
 #EXTINF:-1 ,Dabl (WCBS-DT3)
 https://v-ny.mybtv.net/live/547.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 ,Dare To Dream Network
-https://3abn-live.akamaized.net/hls/live/2010545/D2D/HQs/chunklist.m3u8
 #EXTINF:-1 ,Dark Matter TV
 https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Dark Matter TV (West)
@@ -2329,6 +2331,8 @@ https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
 https://filmdetective-plex.amagi.tv/index.m3u8
 #EXTINF:-1 ,The First
 https://thefirst-distroscale.amagi.tv/index.m3u8
+#EXTINF:-1 ,The Grio
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8
 #EXTINF:-1 ,The Heartland Network (720p)
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 ,The Love Destination (1080p)
