@@ -957,6 +957,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRI4)/Strea
 http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 ,IRN★AVA Series (720p)
 http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 ,IRN★bravo
+http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Channel 6
 http://51.210.199.6/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Family 24 (Prima Movies)
@@ -977,6 +979,10 @@ https://live1.presstv.ir/live/ifilm2.m3u8
 http://51.210.199.57/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 ,IRN★ITN (Iran TV Network)
+http://51.210.199.31/hls/stream.m3u8
+#EXTINF:-1 ,IRN★Mehraj
+http://51.210.199.32/hls/stream.m3u8
 #EXTINF:-1 ,IRN★MTC
 http://51.210.227.128/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Persian Film (720p) [Not 24/7]
