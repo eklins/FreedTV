@@ -111,6 +111,8 @@ https://bountyfilms-bounty-1-au.samsung.wurl.tv/playlist.m3u8
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 ,AUS★Channel 44 (480p)
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 ,AUS★DryBar Comedy
+https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Euronews (720p)
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,AUS★FairArmy
@@ -159,7 +161,7 @@ https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 ,AUS★Sky Thoroughbred Central
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8
-#EXTINF:-1 ,AUS★Smithsonian Channel Asia (1080p)
+#EXTINF:-1 ,AUS★Smithsonian Channel (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Tastemade
 https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
@@ -389,6 +391,8 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★MavTV Global
 https://mavtv-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★MHZ Choice
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★NTV (Newfoundland TV★480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 ,CAN★Pardesi TV (720p) [Not 24/7]
@@ -469,14 +473,28 @@ https://arenasportslovakia.ddns.net/hls/slager.m3u8
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Denmark.png",Denmark❤Africa News (English)
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,DNK★Duck TV (720p)
+https://mmm-ducktv-4-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DNK★Euronews (English)
 https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,DNK★Kanal Hovedstaden
 https://59b954022ec35.streamlock.net/liveTV2/smil:liveTVstream2.transcoder.smil/playlist.m3u8
 #EXTINF:-1 ,DNK★KKR TV
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten Action
+https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten Comedy
+https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten Documentaries
+https://rakuten-documentaries-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten Drama
+https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten Fuel TV
+https://fueltv-fueltv-10-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DNK★Rakuten Spotlight
 https://rakuten-spotlight-10-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten The Guardian
+https://rakuten-guardian-1-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DNK★TV2 Bornholm 
 https://live.tv2bornholm.dk/stream/live/playlist.m3u8
 #EXTINF:-1 ,DNK★TV2 Fyn
@@ -563,9 +581,9 @@ https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-documentaries-7-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Family
 https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,FRA★Rakuten Romance (EU)
+#EXTINF:-1 ,FRA★Rakuten Romance
 https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,FRA★Rakuten Romance (FR)
+#EXTINF:-1 ,FRA★Rakuten Romance (PLEX)
 https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Spotlight
 https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
@@ -651,6 +669,8 @@ https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DEU★Rakuten Family
 https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DEU★Rakuten Revry LGBTQ TV (720p)
+https://revry-revry-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DEU★Rakuten Spotlight
 https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DEU★Rakuten Thriller
@@ -661,8 +681,6 @@ https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DEU★RBW
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
-#EXTINF:-1 ,DEU★Revry LGBTQ TV (720p)
-https://revry-revry-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DEU★RFH
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
 #EXTINF:-1 ,DEU★Santhora Short Film TV (Tamil★Köln)
@@ -1099,6 +1117,8 @@ https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 ,ITA★La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 ,ITA★Mondo TV Kids
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★NSL
 https://streannunsec-lh.akamaihd.net/i/tv_1@868496/master.m3u8
 #EXTINF:-1 ,ITA★Onda Novara TV
@@ -1177,6 +1197,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 ,ITA★Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 ,ITA★Sofy TV
+https://sofytv-samsungit.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Sophia TV
 https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8
 #EXTINF:-1 ,ITA★Sport Outdoor TV
@@ -1597,6 +1619,8 @@ https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
 https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8
 #EXTINF:-1 ,NLD★LOE TV
 https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
+#EXTINF:-1 ,NLD★LOL! Network
+https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Meer TV
 https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
 #EXTINF:-1 ,NLD★MLS TV
@@ -1615,8 +1639,6 @@ https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u
 https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 #EXTINF:-1 ,NLD★Omrop Fryslân
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
-#EXTINF:-1 ,NLD★One World TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01847-dutchessmediabv-oneworldtv-samsungnl/playlist.m3u8
 #EXTINF:-1 ,NLD★People are Awesome
 https://jukin-peopleareawesome-2-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Qmusic
@@ -1685,12 +1707,18 @@ https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
 https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
 #EXTINF:-1 ,NZL★Cine View
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★Clubbing TV
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★DryBar Comedy
+https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★Dust
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★Firstlight (576p)
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 ,NZL★Juice TV
 https://juicex.nz/hls/mystream.m3u8
+#EXTINF:-1 ,NZL★Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★Kordia TV
 https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 #EXTINF:-1 ,NZL★Love Stories TV
@@ -1715,6 +1743,8 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 ,NZL★Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★PULSE。
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★Real Crime
@@ -1741,6 +1771,8 @@ https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★Trace Sport Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★Travel XP
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★True Crime Now
@@ -2189,6 +2221,8 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Rakuten Family
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ESP★Rakuten iHola! Play
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Rakuten People are Awesome
 https://jukin-peopleareawesome-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Rakuten Spotlight
@@ -2199,6 +2233,8 @@ https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Rakuten TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ESP★Supertoons TV
+https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sri-Lanka.png",Sri Lanka❤ITN
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 #EXTINF:-1 ,LKA★Santhora TV
@@ -2277,8 +2313,6 @@ https://rakuten-documentaries-4-ch.samsung.wurl.tv/playlist.m3u8
 https://rakuten-family-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rakuten Spotlight
 https://rakuten-spotlight-4-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,CHE★Rakuten Top Free
-https://rakuten-topfree-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rakuten TV Shows
 https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rouge TV
@@ -2413,6 +2447,8 @@ https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
 https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
 #EXTINF:-1 ,GBR★Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,GBR★Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Discover Film
@@ -2517,8 +2553,10 @@ https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/p
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 #EXTINF:-1 ,GBR★Talk TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
-#EXTINF:-1 ,GBR★Tennis Channel
+#EXTINF:-1 ,GBR★Tennis Channel ①
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Tennis Channel ②
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,GBR★The Box UK
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 ,GBR★Timeline
