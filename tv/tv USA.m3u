@@ -1249,6 +1249,8 @@ https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
 https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 #EXTINF:-1 ,Orange TV (720p)
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1 ,Orange TV Florida
+https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/chunklist_w1795620845_b26444100_sleng.m3u8
 #EXTINF:-1 ,OURTV (Opportunities in Urban Renaissance Television★720p)
 https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8
 #EXTINF:-1 ,Outdoor America
