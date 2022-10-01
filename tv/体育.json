@@ -409,7 +409,13 @@
       "parse": false
     },
     {
-      "name": "EDGE Sport",
+      "name": "EDGE Sport (UK)",
+      "url": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "EDGE Sport (US)",
       "url": "https://edgesport-samsungus.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
@@ -1045,8 +1051,8 @@
       "parse": false
     },
     {
-      "name": "Rakuten EDGE Sports (Spain)",
-      "url": "https://edgesports-row-rakuten.amagi.tv/playlist.m3u8",
+      "name": "Rakuten EDGE Sport (UK)",
+      "url": "https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
