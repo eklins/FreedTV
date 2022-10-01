@@ -617,6 +617,8 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 https://newcastlecoutv.secure.footprint.net/egress/bhandler/newcastlecou/streama/chunklist_b1344512.m3u8
 #EXTINF:-1 ,CityTV Newport Beach
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8
+#EXTINF:-1 ,CityTV NYXT
+https://vod.livestream.com/63392fc7_d3bcf2f70db926bfc3a26ad38cf2a59a0ed7cd55/events/00000000005442f2/167ee167-e73b-4762-bd90-08d01a5db4ae_1596.m3u8
 #EXTINF:-1 ,CityTV Ontario Public Access Channel (360p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
 #EXTINF:-1 ,CityTV PCTA Channel 3 (Fountain Valley)
