@@ -1027,8 +1027,12 @@ https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1e
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
 #EXTINF:-1 ,Lone Star (960p)
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/high/c.m3u8
+#EXTINF:-1 ,Miami TV
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w781457383_b1896000.m3u8
 #EXTINF:-1 ,Midnight Pulp
 https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Midnight Pulp (East)
+https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent
 #EXTINF:-1 ,Majestad Televisión (480p) [Not 24/7]
 https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8
 #EXTINF:-1 ,MCN6 (1080p) [Not 24/7]
