@@ -589,6 +589,8 @@ https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/coloradosprings/G1424_002/playlist.m3u
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
 #EXTINF:-1 ,CityTV DC Council Channel (1080p)
 https://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 ,CityTV Del Mar TV (720p)
+https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
 #EXTINF:-1 ,CityTV District of Columbia Network (DCN★1080p)
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 ,CityTV DKN
@@ -711,10 +713,12 @@ http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
 http://video.ct-n.com/live/web2stream/playlist.m3u8
 #EXTINF:-1 ,CT-N TV Conneticut (720p) [Not 24/7]
 http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
-#EXTINF:-1 ,CTN (404p)
+#EXTINF:-1 ,CTN (404p) [Not 24/7]
 http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
 #EXTINF:-1 ,CTN 61 Riviera Beach FL (WFGC-DT1★720p) [Not 24/7]
 http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ,CTN Lifestyle (480p)
+https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/playlist.m3u8
 #EXTINF:-1 ,CUNY TV (WNYE-DT3★1080p)
 https://v-ny.mybtv.net/live/593.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,CVTV
@@ -751,9 +755,7 @@ https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 https://ov.ottera.tv/live/master.m3u8?channel=earth_et
 #EXTINF:-1 ,Ecuavisa (720p)
 https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
-#EXTINF:-1 ,EDGEsport UK (1080p)
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,EDGEsport US (1080p)
+#EXTINF:-1 ,EDGE Sport (1080p)
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,edTV
 https://arizonawesterncol.secure.footprint.net/egress/bhandler/arizonawesterncol/streamb/playlist.m3u8
@@ -809,15 +811,11 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
 #EXTINF:-1 ,Filmeraa
 https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/high/c.m3u8
-#EXTINF:-1 ,Fireplace Lounge (720p)
-https://a.jsrdn.com/broadcast/aee08372e5/+0000/high/c.m3u8
-#EXTINF:-1 ,Fish Tank (720p)
-https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/high/c.m3u8
 #EXTINF:-1 ,Fite (720p) [Not 24/7]
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 ,FMTV (Latinos)
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w660067167.m3u8
-#EXTINF:-1 ,Folk TV East (480p) [Not 24/7]
+#EXTINF:-1 ,Folk TV (East★480p) [Not 24/7]
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,FOX 2 Detroit MI (WJBK★720p) [Not 24/7]
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8
@@ -845,11 +843,11 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTVT-Monetizer.m3u8
 #EXTINF:-1 ,FOX 13Q Seattle WA (KCPQ★720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
-#EXTINF:-1 ,Fox 15 West Texas Abilene TX (KXVA★1080p)
+#EXTINF:-1 ,FOX 15 West Texas Abilene TX (KXVA★1080p)
 https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
 #EXTINF:-1 ,FOX 26 Houston TX (KRIV★720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KRIV-Monetizer.m3u8
-#EXTINF:-1 ,Fox 28 Savannah GA (WTGS★720p)
+#EXTINF:-1 ,FOX 28 Savannah GA (WTGS★720p)
 https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 #EXTINF:-1 ,FOX 29 (WTXF-DT1★720p)
 https://v-pi.mybtv.net/live/369.m3u8?env=prd&uid=-1&x=1
@@ -859,11 +857,11 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTXF-Monetizer.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8
 #EXTINF:-1 ,FOX 35 Orlando FL (WOFL★720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WOFL-Monetizer.m3u8
-#EXTINF:-1 ,Fox 43 Harrisburg PA (WPMT★1080p)
+#EXTINF:-1 ,FOX 43 Harrisburg PA (WPMT★1080p)
 https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8
-#EXTINF:-1 ,Fox 54.1 Huntsville AL (WZDX★1080p)
+#EXTINF:-1 ,FOX 54.1 Huntsville AL (WZDX★1080p)
 https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8
-#EXTINF:-1 ,Fox 61 Hartford CT (WTIC-TV★1080p)
+#EXTINF:-1 ,FOX 61 Hartford CT (WTIC-TV★1080p)
 https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8
 #EXTINF:-1 ,FOX Greece (480p) [Not 24/7]
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
