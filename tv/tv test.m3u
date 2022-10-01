@@ -3,6 +3,8 @@
 http://93.152.174.144:4000/play/bbc1/index.m3u8
 #EXTINF:-1 ,GBR★BBC Two
 http://93.152.174.144:4000/play/bbc2/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",Celestial Classic Movies 天映经典频道
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPyrpm--oApjOinvA6i18Ms5hFAgjN1jV7w&usqp=CAU",Celestial Movies 天映频道
