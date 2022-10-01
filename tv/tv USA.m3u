@@ -18,7 +18,7 @@ https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
 #EXTINF:-1 ,4U Cooking
 https://broadcast.mytvtogo.net/cooking4u/cooking4u/playlist.m3u8
 #EXTINF:-1 ,4U Movee
-https://broadcast.mytvtogo.net/movee4u/movee4u/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/movee4u/chunks.m3u8
 #EXTINF:-1 ,4U Western
 https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
 #EXTINF:-1 ,30A Darcizzle Offshore
