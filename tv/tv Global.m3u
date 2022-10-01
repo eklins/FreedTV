@@ -2289,6 +2289,8 @@ https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
 https://rakuten-documentaries-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Drama
 https://rakuten-drama-9-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten EDGE Sports
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Family
 https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Spotlight
@@ -2511,7 +2513,7 @@ https://rakuten-actionmovies-1-gb.plex.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Comedy Movies (PLEX)
 https://rakuten-comedymovies-1-gb.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,GBR★Rakuten EDGEsport (1080p)
+#EXTINF:-1 ,GBR★Rakuten EDGE Sport (1080p)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Family
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
