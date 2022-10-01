@@ -447,8 +447,6 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 ,Camp Spoopy (576p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1 ,Campus Lore (720p)
-https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 #EXTINF:-1 ,Canal de la Fe (WRNN-DT3★432p)
 https://v-ny.mybtv.net/live/663.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Canela TV
@@ -665,6 +663,8 @@ https://yuma-az.secure.footprint.net/egress/bhandler/yumaaz/streama/playlist.m3u
 https://yuma-az.secure.footprint.net/egress/bhandler/yumaaz/streamb/playlist.m3u8
 #EXTINF:-1 ,CityTV Yuma AZ Live 77
 https://securestream6.champds.com/hlssstc/YumaCoAZLIVE/master.m3u8
+#EXTINF:-1 ,CL Sports (Campus Lore★720p)
+https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 #EXTINF:-1 ,Classic Art Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 ,Classic Movies Channel (720p)
