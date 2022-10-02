@@ -283,12 +283,6 @@
       "parse": false
     },
     {
-      "name": "Cinema Heaven (Korea) [Not 24/7]",
-      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/CinemaHeaven.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cinema Time (Cyprus)",
       "url": "https://s1.cystream.net/live/34100/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -805,18 +799,6 @@
       "parse": false
     },
     {
-      "name": "PLAYY Action (Korea) [Not 24/7]",
-      "url": "https://apichvod19.seezntv.com/OTM/11720_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PLAYY Healing Movie (Korea) [Not 24/7]",
-      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYHealingMovie.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Popstar! TV",
       "url": "https://linear-10.frequency.stream/dist/roku/10/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -927,12 +909,6 @@
     {
       "name": "The Love Destination",
       "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The Movie (Korea) [Not 24/07]",
-      "url": "https://apichvod19.seezntv.com/OTM/11090_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
