@@ -277,6 +277,97 @@
       "parse": false
     },
     {
+      "name": "Cinema Heaven (Korea) [Not 24/7]",
+      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/CinemaHeaven.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PLAYY Action (Korea) [Not 24/7]",
+      "url": "https://apichvod19.seezntv.com/OTM/11720_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PLAYY Healing Movie (Korea) [Not 24/7]",
+      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYHealingMovie.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Movie (Korea) [Not 24/07]",
+      "url": "https://apichvod19.seezntv.com/OTM/11090_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+
+    {
+      "name": "Channel China (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10790_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Billiards TV (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "IB Sports (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10220_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "JTBC Golf (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10280_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "JTBC Golf & Sports (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10700_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "KBSN Sports (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10410_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PBA & Golf (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10290_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SBS Golf (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10160_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sports (Korea)",
+      "url": "https://apichvod19.seezntv.com/OTM/10440_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SPOTV ① (Korea)",
+      "url": "http://live1.streamk.co:8080/sportsbox_preview/live53/playlist.m3u8?site=gaktv&ch=live53",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SPOTV ② (Korea)",
+      "url": "http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&ch=live54",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MIGU",
       "url": "http://39.135.42.205/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225901/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
