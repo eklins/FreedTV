@@ -293,6 +293,8 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 #EXTINF:-1 ,BeachTV Myrtle Beach & The Grand Strand (720p)
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 ,BeachTV North Miami (NMBTV)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/chunklist.m3u8
 #EXTINF:-1 ,BeachTV Panama City (720p)
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 ,BekTV News East (720p)
