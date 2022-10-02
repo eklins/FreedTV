@@ -1329,26 +1329,12 @@ https://tv.nknews.org/tvdash/stream.mpd
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 ,KOR★한국선거방송（韩国选举广播）
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1 ,KOR★AniOne
-https://apichvod19.seezntv.com/OTM/10640_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1 ,KOR★Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 ,KOR★Arirang Radio
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
-#EXTINF:-1 ,KOR★AsiaN [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/AsiaN.m3u8
-#EXTINF:-1 ,KOR★波耀
-https://apichvod19.seezntv.com/OTM/10600_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1 ,KOR★CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1 ,KOR★Channel A
-https://apichvod19.seezntv.com/OTM/10030_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
-#EXTINF:-1 ,KOR★Channel China [Not 24/7]
-https://apichvod19.seezntv.com/OTM/10790_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176
-#EXTINF:-1 ,KOR★ChungHwa TV [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/ChunghwaTV.m3u8
-#EXTINF:-1 ,KOR★Cinema Heaven [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/CinemaHeaven.m3u8
 #EXTINF:-1 ,KOR★EBS 1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 #EXTINF:-1 ,KOR★EBS 2
@@ -1359,14 +1345,8 @@ http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 #EXTINF:-1 ,KOR★EBS+ 2 (400p)
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,KOR★ENA Original (tvN 体育)
-https://apichvod19.seezntv.com/OTM/10100_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1 ,KOR★Gugbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 ,KOR★IB Sports
-https://apichvod19.seezntv.com/OTM/10220_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
-#EXTINF:-1 ,KOR★iHQ Drama [Not 24/7]
-https://apichvod19.seezntv.com/OTM/10800_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176
 #EXTINF:-1 ,KOR★KBS World
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 ,KOR★KCTV 광주 CH05
@@ -1383,10 +1363,6 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 ,KOR★MBC Sports+ (540p)
 http://51.81.66.195:1935/krtv/mbc_sports_540/playlist.m3u8
-#EXTINF:-1 ,KOR★MBN
-https://apichvod19.seezntv.com/OTM/10020_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
-#EXTINF:-1 ,KOR★Mnet Global Music Network
-https://apichvod19.seezntv.com/OTM/10150_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1 ,KOR★MTN
 http://183.110.27.87/mtnlive/720/playlist.m3u8
 #EXTINF:-1 ,KOR★NBS Korea Agricultural Broadcasting
@@ -1399,30 +1375,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=612
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=623
 #EXTINF:-1 ,KOR★NewKID ③
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-#EXTINF:-1 ,KOR★OBS
-https://apichvod19.seezntv.com/OTM/10510_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
-#EXTINF:-1 ,KOR★OCN [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/OCN.m3u8
-#EXTINF:-1 ,KOR★OL!FE
-https://apichvod19.seezntv.com/OTM/10320_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
-#EXTINF:-1 ,KOR★Pinkfong
-https://apichvod19.seezntv.com/OTM/10610_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
-#EXTINF:-1 ,KOR★PLAYY Action Movie [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
-#EXTINF:-1 ,KOR★PLAYY Healing Movie [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYHealingMovie.m3u8
-#EXTINF:-1 ,KOR★PLAYY Premium Movie [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYPremiumMovie.m3u8
-#EXTINF:-1 ,KOR★PLAYY Well-Made Movie [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYWellMadeMovie.m3u8
 #EXTINF:-1 ,KOR★SBS 淸州 (CJB 청주방송)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 ,KOR★SBS 光州 (KBC 광주방송)
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 ,KOR★SBS F!L
-https://apichvod19.seezntv.com/OTM/10930_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
-#EXTINF:-1 ,KOR★SBS Golf & PBA
-https://apichvod19.seezntv.com/OTM/10290_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176
 #EXTINF:-1 ,KOR★SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 ,KOR★SBS KNN
@@ -1437,22 +1393,8 @@ http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&c
 http://51.81.66.195:1935/krtv/sky_sports_540/playlist.m3u8
 #EXTINF:-1 ,KOR★TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 ,KOR★The Movie [Not 24/7]
-https://apichvod19.seezntv.com/OTM/11090_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
-#EXTINF:-1 ,KOR★TV Chosun（朝鲜）
-https://apichvod19.seezntv.com/OTM/10040_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1 ,KOR★TV Work Net (480p)
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 ,KOR★tvN [Not 24/7]
-https://apichvod19.seezntv.com/OTM/10050_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176
-#EXTINF:-1 ,KOR★tvN Drama [Not 24/7]
-https://apichvod19.seezntv.com/OTM/10110_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176
-#EXTINF:-1 ,KOR★tvN Show
-https://apichvod19.seezntv.com/OTM/10130_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176
-#EXTINF:-1 ,KOR★tvN Story
-https://apichvod19.seezntv.com/OTM/10120_L.m3u8?AdaptiveType=HLS&SessionID=6b7363bc-ec71-45bc-8797-3b50ad003176
-#EXTINF:-1 ,KOR★YTN
-https://apichvod19.seezntv.com/OTM/10300_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kuwait.png",Kuwait❤Al Rai TV
 https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Laos.png",Laos❤Champa TV2
