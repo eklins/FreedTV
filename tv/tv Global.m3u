@@ -2195,6 +2195,8 @@ https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/
 https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&
 #EXTINF:-1 ,SVN★Veseljak
 https://stream.veseljak.tv/hls/stream.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Somalia.png",Somalia❤Saab TV
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-South-Africa.png",South Africa❤CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Spain.png",Spain❤324
