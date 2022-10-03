@@ -99,6 +99,8 @@ http://ott-cdn.ucom.am/s42/index.m3u8
 http://ott-cdn.ucom.am/s32/index.m3u8
 #EXTINF:-1 ,ARM★Premium 1 (1080p)
 http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 ,ARM★Շողակաթ (Shoghakat TV★480p)
+http://ott-cdn.ucom.am/s13/index.m3u8
 #EXTINF:-1 ,ARM★Սինեմաքս (Sinemaks★480p)
 http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 ,ARM★Տուն Թունիկ (Town Townik★480p)
