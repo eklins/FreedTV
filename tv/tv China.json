@@ -553,18 +553,6 @@
       "parse": false
     },
     {
-      "name": "峨嵋电影",
-      "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "峨嵋综合",
-      "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emsxw_2000.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "恩施新闻综合",
       "url": "http://enshi-live21.cjyun.org/10070/s10070-eszh.m3u8?auth_key=1672502399-0-0-60521180e489ac8658a238bdf2e8119a",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
