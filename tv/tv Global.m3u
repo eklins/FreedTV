@@ -55,6 +55,10 @@ https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1 ,ALB★News 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 ,ALB★Top Estrada TV
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 ,ALB★TV 7 (540p) [Not 24/7]
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Argentina.png",Argentina❤5TV (Corrientes)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 ,ARG★13Max Televisión (720p)
@@ -73,26 +77,32 @@ https://streamlov.alsolnet.com/misionescuatro/live/chunklist_w1666960613.m3u8
 https://59537faa0729a.streamlock.net/rbdvideo/rbdvideo/chunklist_w1014102205.m3u8
 #EXTINF:-1 ,ARG★Tierra Mía TV (Spanish)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Armenia.png",Armenia❤5-րդ ալիք
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Armenia.png",Armenia❤5TV-րդ ալիք (480p)
 http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:-1 ,ARM★Հայ Կինո
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 ,ARM★Սինեմաքս
-http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:-1 ,ARM★ATV
+#EXTINF:-1 ,ARM★ATV (480p)
 http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1 ,ARM★ATV Ֆիլմզոն
+#EXTINF:-1 ,ARM★ATV Ֆիլմզոն (Filmzone★480p)
 http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 ,ARM★ATV Թավա
-http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 ,ARM★ATV Հայ
+#EXTINF:-1 ,ARM★ATV Հայ (Hay TV★480p)
 http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:-1 ,ARM★ATV ԽաղԱլիք
+#EXTINF:-1 ,ARM★ATV ԽաղԱլիք (Khaghaliq TV★234p)
 http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:-1 ,ARM★ATV Կինոման
+#EXTINF:-1 ,ARM★ATV Կինոման (Kinoman★480p)
 http://ott-cdn.ucom.am/s94/index.m3u8
-#EXTINF:-1 ,ARM★Premium 1
+#EXTINF:-1 ,ARM★ATV Թավա (Tava TV★480p)
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 ,ARM★Հայ Կինո (Hay Kino★480p)
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 ,ARM★Ջան TV (Jan TV★480p) [Not 24/7]
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 ,ARM★Քոմեդի (Komedi★480p)
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 ,ARM★Premium 1 (1080p)
 http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 ,ARM★Սինեմաքս (Sinemaks★480p)
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 ,ARM★Տուն Թունիկ (Town Townik★480p)
+http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm1QNHA9M26N9YVVNzELKV8i7A-_af0Fkp_A&usqp=CAU",Aruba❤Aruba TV (1080p) [Not 24/7]
 https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Australia.png",Australia❤ABC
