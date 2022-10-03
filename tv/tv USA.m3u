@@ -1891,10 +1891,12 @@ https://siloh.pluto.tv/lilo/production/WeatherNation/DC/master.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 ,Pop (720p) [Not 24/7]
 http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8
-#EXTINF:-1 ,Positiv TV (720p) [Not 24/7]
-https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+#EXTINF:-1 ,POSI TV (720p)
+https://tbn-jw.cdn.vustreams.com:443/live/positivtv/live.isml/live-audio_1=128000-video=2800000.m3u8
 #EXTINF:-1 ,PrimeTime Drama
 https://simultv.s.llnwi.net/o064/PrimeTimeDrama/interlink.m3u8
+#EXTINF:-1 ,PTL TV Network
+https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlistindex_5_av-p.m3u8
 #EXTINF:-1 ,Pursuit UP (720p)
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 #EXTINF:-1 ,Pymes TeVe
