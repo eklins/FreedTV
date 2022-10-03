@@ -739,8 +739,6 @@ http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 ,GRC★Corfu TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 ,GRC★KPHTH TV
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 ,GRC★Diavata TV
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 ,GRC★Ellas TV
@@ -753,6 +751,8 @@ http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 ,GRC★ERT News
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
+#EXTINF:-1 ,GRC★ERT World (480p)
+http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 ,GRC★Faros TV
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 ,GRC★Fox (480p) [Not 24/7]
@@ -769,6 +769,8 @@ https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 ,GRC★Ionian HD (1080p) [Not 24/7]
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 ,GRC★KPHTH TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 ,GRC★Magic TV (480p)
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 ,GRC★Mesogeios TV (432p)
