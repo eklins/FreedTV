@@ -1897,6 +1897,12 @@
       "parse": false
     },
     {
+      "name": "台湾八大戏剧台",
+      "url": "http://50.7.220.74:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
       "name": "台湾优视频道 (U Channel) [Not 24/7]",
       "url": "http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
