@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,3ABN Dare To Dream Network
 https://3abn-live.akamaized.net/hls/live/2010545/D2D/HQs/chunklist.m3u8
-#EXTINF:-1 ,3ABN English
+#EXTINF:-1 ,3ABN English (Three Angels Broadcasting Network)
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/HQs/chunklist.m3u8
 #EXTINF:-1 ,3ABN Kids Network (720p)
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
@@ -653,6 +653,10 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/fountainvalley/G0806_001/playlist.m3u8
 https://reflect-pinellas-park-fl.cablecast.tv/live-6/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 #EXTINF:-1 ,CityTV Placentia (California)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/chunklist.m3u8
+#EXTINF:-1 ,CityTV Pomona Internet Streaming Channel CA
+https://live.pomonaca.gov/live-3/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:-1 ,CityTV RCTV3
+https://vod.cityofrc.us/live-6/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 #EXTINF:-1 ,CityTV San Diego
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/chunklist.m3u8
 #EXTINF:-1 ,CityTV San Diego County News Center (CNC)
