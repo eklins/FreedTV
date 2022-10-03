@@ -1539,6 +1539,8 @@ http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Netherlands.png",Netherlands❤BR6
 https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
+#EXTINF:-1 ,NLD★DeepHouse District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 ,NLD★Den Haag TV
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 #EXTINF:-1 ,NLD★Discover Film
@@ -1563,7 +1565,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchennl-sam
 http://mtxstr001.matrixdata.nl/live/hk13/playlist.m3u8
 #EXTINF:-1 ,NLD★Ideaal TV
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
-#EXTINF:-1 ,NLD★JenZ
+#EXTINF:-1 ,NLD★JenZ (1080p)
 https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
 #EXTINF:-1 ,NLD★Lansingerland TV
 https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8
@@ -1591,7 +1593,7 @@ https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 #EXTINF:-1 ,NLD★People are Awesome
 https://jukin-peopleareawesome-2-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,NLD★Qmusic
+#EXTINF:-1 ,NLD★Qmusic (720p)
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 ,NLD★Radical Docs
 https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -1645,6 +1647,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-
 https://wpt-theworldpokertour-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★WOS TV
 https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 ,NLD★XITE (720p) [Not 24/7]
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 #EXTINF:-1 ,NLD★Xplore
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-New-Zealand.png",New Zealand❤Action Hollywood Movies
