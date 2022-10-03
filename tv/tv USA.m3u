@@ -655,8 +655,12 @@ https://reflect-pinellas-park-fl.cablecast.tv/live-6/live/WIFI-696k-360p/WIFI-69
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/chunklist.m3u8
 #EXTINF:-1 ,CityTV Pomona Internet Streaming Channel CA
 https://live.pomonaca.gov/live-3/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:-1 ,CityTV PSL TV
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/chunklist.m3u8
 #EXTINF:-1 ,CityTV RCTV3
 https://vod.cityofrc.us/live-6/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:-1 ,CityTV Riviera Beach FL
+https://stream.swagit.com/live-edge/rivierabeachfl/live-1-b/chunklist_w1474149489.m3u8
 #EXTINF:-1 ,CityTV San Diego
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/chunklist.m3u8
 #EXTINF:-1 ,CityTV San Diego County News Center (CNC)
@@ -669,6 +673,8 @@ https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8
 https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 ,CityTV SF Gov TV2 (San Francisco The City Channel)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_008/playlist.m3u8
+#EXTINF:-1 ,CityTV SPTV (St Pete)
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_002/chunklist.m3u8
 #EXTINF:-1 ,CityTV Stockton CA
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/chunklist.m3u8
 #EXTINF:-1 ,CityTV Thornton 8
@@ -2599,6 +2605,8 @@ https://hls-live-web-media.cdn01.net/default/stream_46616.m3u8?wxiv5B5JgHYmOv5FW
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 ,WCCA 194 Worcester MA (WCCA-TV★480p)
 https://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 ,WCOT
+https://stream.talgov.net/WCOT/smil:WCOT.smil/chunklist_w358641308_b3148000_sleng.m3u8
 #EXTINF:-1 ,WDAY News Fargo ND (720p)
 https://player-api.new.livestream.com/accounts/27442514/events/8305246/live.m3u8
 #EXTINF:-1 ,WDAY-X Automatic Weather Frago ND (720p)
