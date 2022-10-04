@@ -115,14 +115,14 @@
       "parse": true
     },
     {
-      "name": "台湾中天新闻",
+      "name": "台湾中天新闻 Github",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾中天新闻",
-      "url": "http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8",
+      "name": "台湾中天新闻 8504",
+      "url": "http://60.251.39.247:8504/http://192.168.77.24:8081/hls/78/80/ch63max.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
