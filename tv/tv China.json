@@ -2025,14 +2025,14 @@
     {
       "name": "台湾年代新闻",
       "url": "http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEeI09e9rbaEBTgvCffDkvWwwPiKwlnBUCyw&usqp=CAU",
       "parse": false
     },
     {
       "name": "台湾中天新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30",
+      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾TVBS新闻",
@@ -2042,261 +2042,75 @@
     },
     {
       "name": "台湾东森新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234",
+      "url": "http://50.7.220.74:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3",
       "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
       "parse": true
     },
     {
       "name": "台湾民视新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31",
+      "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾壹新闻",
       "url": "http://stream.nexttv.com.tw/n001/hd/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScRUteuPRghnzDLwGt9a9MWIwvVm_5Vs1pbg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾中视新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33",
+      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾华视新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾mnews•镜新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾台视新闻",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Q8qNfsfYckBC4fWMv5VeLk9NvT4Ixp1cKA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾寰宇新闻",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾三立LIVE新闻",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾三立iNEWS",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾三立财经新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyXBEnFoM_2tBFAq79GbvBd97AmvRtjCm9A&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾东森财经新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211",
-      "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
-      "parse": true
-    },
-    {
-      "name": "台湾SBN全球财经",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1LjHXLSG-6l6i1AEbxD48IZsuWJxWyHVOw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "人间卫视（佛光山）",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomB6l3aMAr-mcMqShmgNlqIx_PCxieWWpHg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾公视戏剧",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾民视影剧台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾人间卫视",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾经典电影台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾华语戏剧台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾经典卡通台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾精选动漫台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾金光布袋戏",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾民视综艺台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾华语综艺台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾中天美食旅游",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾中天全民党",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾民视第一台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾民视台湾台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾民视旅游台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾中视",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾华视",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾三立综合台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾新唐人亚太台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾客家电视台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾原住民电视",
       "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾原住民频道",
       "url": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾智林体育台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾时尚运动X",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾亚洲旅游台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾大立电视",
       "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "台湾猪哥亮歌厅秀",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Indigenous TV",
       "url": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "LUX Channel",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     }
   ]
 }
