@@ -565,6 +565,12 @@
       "parse": false
     },
     {
+      "name": "Rakuten Family (Denmark)",
+      "url": "https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Rakuten Family (Ireland)",
       "url": "https://rakuten-family-13-ie.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
@@ -577,7 +583,7 @@
       "parse": false
     },
     {
-      "name": "Rakuten Family (Slovakia)",
+      "name": "Rakuten Family (Switzerland)",
       "url": "https://rakuten-family-4-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
