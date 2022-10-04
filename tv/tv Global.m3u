@@ -679,6 +679,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=50&terminate=false&userId=
 #EXTINF:-1 ,DEU★Pluto Sitcom
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767ab2b456c8cf265ce921&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=405&terminate=false&userId=
+#EXTINF:-1 ,DEU★QVC (540p)
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,DEU★QVC Beauty (540p)
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 ,DEU★Radio 21 TV
 http://playback.akamaized.net/streams/22300508_6675945_lsi8b513v22ovejhvrn_1/master.m3u8?dw=32&hdnts=exp=1651159035~acl=/streams/22300508_6675945_lsi8b513v22ovejhvrn_1/master.m3u8*~hmac=31c81ff6576c2cf830d7427a0e3b3a080bef89a98b16d19de2bc6348fc8f068d
 #EXTINF:-1 ,DEU★Radio Weser TV Bremen
@@ -1165,6 +1169,8 @@ https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
 http://54.39.17.6:8080/polotv/playlist.m3u8
 #EXTINF:-1 ,ITA★Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 ,ITA★QVC (540p)
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 ,ITA★Radio 51 TV
 http://178.32.140.155/canale51/canale51/playlist.m3u8
 #EXTINF:-1 ,ITA★Radio Birikina TV
@@ -1305,7 +1311,7 @@ http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 https://ntv2.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 ,JPN★NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 ,JPN★QVC
+#EXTINF:-1 ,JPN★QVC (720p)
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 ,JPN★TBS
 https://tbs1.mov3.co/hls/tbs.m3u8
@@ -1615,6 +1621,10 @@ https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 https://jukin-peopleareawesome-2-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Qmusic (720p)
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 ,NLD★QVC ② (540p)
+http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,NLD★QVC Style (540p)
+http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 ,NLD★Radical Docs
 https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Radio 350
@@ -2521,6 +2531,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4af2ffa9506ab29cf38c38&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=216&terminate=false&userId=
 #EXTINF:-1 ,GBR★Pluto Retro Drama (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91f19c2c3300098ce961/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf91f19c2c3300098ce961&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=415&terminate=false&userId=
+#EXTINF:-1 ,GBR★QVC (540p)
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,GBR★QVC Beauty (540p)
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,GBR★QVC Plus1 (540p)
+https://live-qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1 ,GBR★QVC Style (540p)
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 ,GBR★Rakuten Action Movies
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rakuten Action Movies (PLEX)
