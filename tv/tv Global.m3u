@@ -227,6 +227,10 @@ https://alliantcontent-truecrimenow-3-au.samsung.wurl.tv/playlist.m3u8
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Azerbaijan.png",Azerbaijan❤Alvin Channel TV
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 ,AZE★Kepez (540p) [Not 24/7]
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 ,AZE★Muğan TV (1080p) [Not 24/7]
+http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bahamas.png",Bahamas❤Island Luck TV
 https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/chunklist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bahrain.png",Bahrain❤Bahrain International (720p) [Not 24/7]
