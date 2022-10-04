@@ -457,6 +457,12 @@
       "parse": false
     },
     {
+      "name": "WFMZ 69 (WFMZ-DT1)",
+      "url": "https://v-pi.mybtv.net/live/423.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmL_GWKy7TEjnnSI_kXoiPLZp64NKq-MSlA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Yahoo! Finance",
       "url": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",
