@@ -65,6 +65,8 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 ,ARG★Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 ,ARG★Canal Blu
+https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 #EXTINF:-1 ,ARG★Cine Famiiar
 https://streannlivecariflix.cachefly.net/cariflix5/cariflix5/playlist.m3u8
 #EXTINF:-1 ,ARG★Cine Hispano
