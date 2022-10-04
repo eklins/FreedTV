@@ -69,6 +69,8 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 https://streannlivecariflix.cachefly.net/cariflix5/cariflix5/playlist.m3u8
 #EXTINF:-1 ,ARG★Cine Hispano
 https://streannlivecariflix.cachefly.net/cariflix6/cariflix6/playlist.m3u8
+#EXTINF:-1 ,ARG★Corrientes TV
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 #EXTINF:-1 ,ARG★Millennium TV
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 #EXTINF:-1 ,ARG★Misiones Cuatro
@@ -77,6 +79,10 @@ https://streamlov.alsolnet.com/misionescuatro/live/chunklist_w1666960613.m3u8
 https://59537faa0729a.streamlock.net/rbdvideo/rbdvideo/chunklist_w1014102205.m3u8
 #EXTINF:-1 ,ARG★Tierra Mía TV (Spanish)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 ,ARG★TV MAX CBA
+https://panel.dattalive.com/8106/8106/playlist.m3u8
+#EXTINF:-1 ,ARG★X24
+https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Armenia.png",Armenia❤5TV-րդ ալիք (480p)
 http://ott-cdn.ucom.am/s6/index.m3u8
 #EXTINF:-1 ,ARM★ATV (480p)
@@ -1915,6 +1921,8 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★Kuriakos Music
 https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 ,PRT★MTV
+http://176.79.76.155:8000/play/a01x/index.m3u8
 #EXTINF:-1 ,PRT★Porto Canal
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 ,PRT★Rakuten Documentaries
