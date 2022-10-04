@@ -2137,7 +2137,7 @@ https://nn.geo.joj.sk/hls/family-540.m3u8
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
 #EXTINF:-1 ,SVK★LocAll (406p)
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Slovenia.png",Slovenia❤Boomerang
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Slovenia.png",Slovenia❤Boomerang EMEA
 https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BOOMERANG_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 ,SVN★Cartoon Network
 https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
@@ -2621,6 +2621,8 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 ,VNM★Da Nang TV2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 ,VNM★Da Vinci
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 ,VNM★HBTV (406p)
