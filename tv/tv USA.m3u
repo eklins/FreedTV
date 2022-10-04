@@ -861,6 +861,8 @@ https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/high/c.m3u8
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 ,FMTV (Latinos)
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w660067167.m3u8
+#EXTINF:-1 ,FNX (WMBQ-LD★432p)
+https://v-ny.mybtv.net/live/658.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Folk TV (East★480p) [Not 24/7]
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,FOX 2 Detroit MI (WJBK★720p) [Not 24/7]
@@ -933,6 +935,8 @@ http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
 https://us.gbnus.com/live/dhamma_high/playlist.m3u8
 #EXTINF:-1 ,GEB.tv (KBPX-LD5)
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
+#EXTINF:-1 ,get TV (KFPH-DT3★480p)
+https://v-px.mybtv.net/live/928.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,GFN TV (720p) [Not 24/7]
 https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
 #EXTINF:-1 ,Global Fashion Channel (1080p)
@@ -2621,7 +2625,7 @@ https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/chunklist.m3u8
 #EXTINF:-1 ,WEZK-LP1
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/chunklist.m3u8?origin=1
-#EXTINF:-1 ,WFMZ 69 (WFMZ-DT1)
+#EXTINF:-1 ,WFMZ 69 (WFMZ-DT1★720p)
 https://v-pi.mybtv.net/live/423.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,WGN9 News Streaming (1080p)
 http://iptu.org/live.m3u8?channel=301
