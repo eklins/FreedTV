@@ -1911,28 +1911,12 @@ https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 #EXTINF:-1 ,Pymes TeVe
 https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
-#EXTINF:-1 ,QVC (German★540p)
-https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 ,QVC (Italia★540p)
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 ,QVC (Japan★720p)
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 ,QVC2 (Deutsch★540p)
-http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 ,QVC Beauty (German★540p)
-https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,QVC ②
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/medhigh.m3u8
+#EXTINF:-1 ,QVC ③
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/high.m3u8
 #EXTINF:-1 ,QVC PLUS (540p)
 https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 ,QVC Style (Deutsch★540p)
-http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 ,QVC UK (540p)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 ,QVC UK Beauty (540p)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 ,QVC UK Plus1 (540p)
-https://live-qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
-#EXTINF:-1 ,QVC UK Style (540p)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 ,Radio Javan (720p)
 https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1 ,Radio Ritmo (1080p) [Not 24/7]
