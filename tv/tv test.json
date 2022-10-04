@@ -25,6 +25,12 @@
       "parse": true
     },
     {
+      "name": "Yahoo! News",
+      "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVpE5eWLZwYejT5ZB-mdHwrVwiW0f-PwK5g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾中天新闻 googlevideo",
       "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1664915827/ei/EkU8Y5G5Ncy_gwOj1a7QDg/ip/52.142.56.166/id/i3Y3_XhNruA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-p5qddn76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/111250/mh/Ot/mm/44/mn/sn-p5qddn76/ms/lva/mv/m/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1664893725/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAIQGdlo-Mmn-K-ulxt6nntclE3rxiVA6Q7q82JSZkdvrAiEAmKFsK8xXFI5RWZpY3knERva6M9_NgQ1JOOiNOjBDJ-c%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAMSBztbEfu6B1lr3rIRFn_tlhdqNGkwacMdaY9zlYyjuAiBhGbx7_wbq-1ghGDgl1BwZdfbM8GV3hT9LZvq4UjUcUQ%3D%3D/playlist/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
