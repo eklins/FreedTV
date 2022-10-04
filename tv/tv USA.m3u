@@ -589,6 +589,8 @@ https://vblive-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
 #EXTINF:-1 ,CityTV Beverly Hills TV 35
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
+#EXTINF:-1 ,CityTV Bowie
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/cityofbowie/G0466_001/playlist.m3u8
 #EXTINF:-1 ,CityTV Brevard Government Access TV (Space Coast★Florida)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/chunklist.m3u8
 #EXTINF:-1 ,CityTV Capital City Connection
@@ -647,6 +649,10 @@ https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8
 https://vod.livestream.com/63392fc7_d3bcf2f70db926bfc3a26ad38cf2a59a0ed7cd55/events/00000000005442f2/167ee167-e73b-4762-bd90-08d01a5db4ae_1596.m3u8
 #EXTINF:-1 ,CityTV Ontario Public Access Channel (360p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
+#EXTINF:-1 ,CityTV Pasco County FL
+https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/chunklist_w1707987742.m3u8
+#EXTINF:-1 ,CityTV PBCTV Channel 20
+https://pbcmedia.pbcgov.org:1936/live/mp4live.sdp/chunklist_w1150244360.m3u8
 #EXTINF:-1 ,CityTV PCTA Channel 3 (Fountain Valley)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/fountainvalley/G0806_001/playlist.m3u8
 #EXTINF:-1 ,CityTV Pinellas Park FL (360p)
@@ -675,6 +681,8 @@ https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_008/playlist.m3u8
 #EXTINF:-1 ,CityTV SPTV (St Pete)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_002/chunklist.m3u8
+#EXTINF:-1 ,CityTV St. Johns County FL
+https://edge-f.swagit.com/live/stjohnscountyfl/live-1-a/chunklist.m3u8
 #EXTINF:-1 ,CityTV Stockton CA
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/chunklist.m3u8
 #EXTINF:-1 ,CityTV Thornton 8
@@ -2015,6 +2023,8 @@ https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8
 https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1 ,SKWAD Play (1080p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF:-1 ,SKYE 13
+https://stream.mux.com/j01Cei1gJ8Q2b4q02MplrfJK5ggnVsMv58BdsEaICZImQ.m3u8
 #EXTINF:-1 ,Smile (540p) [Not 24/7]
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
 #EXTINF:-1 ,So...Real (1080p)
