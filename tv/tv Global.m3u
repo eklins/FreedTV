@@ -11,38 +11,20 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-#EXTINF:-1 ,🇺🇳1 HD (Das Erste)
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 ,🇦🇷🇲🇽A3Series Internacional (Argentina/Mexico)
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 ,🇦🇼Aruba.TV
 https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
-#EXTINF:-1 ,🇺🇳Asomavisión
-https://asomatv.duckdns.org/livestream/stream.m3u8
-#EXTINF:-1 ,🇺🇳Boogle Bollywood (1080p) [Not 24/7]
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 ,🇺🇳Cinema Classic TV
-http://213.172.73.132:8081/nimble_live/Cinema_classik_TV/playlist.m3u8
-#EXTINF:-1 ,🇺🇳ELTV
-http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
 #EXTINF:-1 ,🇺🇳Fentazy
 http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 ,🇺🇳NRB Network
-http://uni6rtmp.tulix.tv:1935/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,🇺🇳one
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 ,🇺🇳ONTV
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
-#EXTINF:-1 ,🇺🇳Pax TV
-https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
-#EXTINF:-1 ,🇺🇳Safari (480p) [Not 24/7]
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Shelanu TV (720p)
 https://1247634592.rsc.cdn77.org/1247634592/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
-#EXTINF:-1 ,🇺🇳Takhayl
-https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/shahid-media-prod-channel-assembly-1/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤WATAN-E-MAA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Albania.png",Albania❤7 HD
@@ -227,6 +209,8 @@ https://alliantcontent-truecrimenow-3-au.samsung.wurl.tv/playlist.m3u8
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Azerbaijan.png",Azerbaijan❤Alvin Channel TV
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 ,AZE★ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
 #EXTINF:-1 ,AZE★Kepez (540p) [Not 24/7]
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 ,AZE★Muğan TV (1080p) [Not 24/7]
@@ -293,6 +277,12 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 https://video01.logicahost.com.br/canaltvrio/canaltvrio/chunklist_w660183980.m3u8
 #EXTINF:-1 ,BRA★Central TV
 https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/chunklist_w968700281.m3u8
+#EXTINF:-1 ,BRA★CNT Curitiba
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+#EXTINF:-1 ,BRA★CNT Porto Alegre (Caxias★360p)
+https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_360p614k/index.m3u8
+#EXTINF:-1 ,BRA★CNT Rio de Janeiro (360p)
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_360p614k/index.m3u8
 #EXTINF:-1 ,BRA★COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 #EXTINF:-1 ,BRA★Eva Retro (Corporación Eva★480p) [Not 24/7]
@@ -529,6 +519,8 @@ https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,ECU★101 Tele Antequera
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:-1 ,ECU★Asomavisión
+https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Egypt.png",Egypt❤LBC (1080)
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,EGY★Rotana Cinema (1080)
@@ -639,7 +631,9 @@ https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
 https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,GEO★Palitra News (480p) [Not 24/7]
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Germany.png",Germany❤123 TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Germany.png",Germany❤1 HD (Das Erste)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 ,DEU★123 TV
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 ,DEU★a•TV
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
@@ -651,8 +645,6 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
 #EXTINF:-1 ,DEU★CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 ,DEU★Das Erste Ⓖ
-https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 ,DEU★DW (English)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 ,DEU★Euronews
@@ -885,6 +877,8 @@ https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-India.png",India❤B4U Kadak
 https://pull-3187.5centscdn.com/vizjsj1apjkea3/smil:B4U_Kadak.smil/playlist.m3u8
+#EXTINF:-1 ,IND★Boogle Bollywood (1080p) [Not 24/7]
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 ,IND★CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 ,IND★Filmstream (English)
@@ -915,6 +909,8 @@ https://live.neestream.net/neestream_01/neecinema/index.m3u8?token=693400
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/HasBahCa.m3u8
 #EXTINF:-1 ,IND★People are Awesome
 https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IND★Safari (480p) [Not 24/7]
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 ,IND★Star Gold (Utsav)
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 ,IND★The Pet Collective International
@@ -1235,9 +1231,9 @@ http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 ,ITA★RTTR Trento
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 ,ITA★RTV (San Marino)
+#EXTINF:-1 ,ITA★RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:-1 ,ITA★RTV Sports (San Marino)
+#EXTINF:-1 ,ITA★RTV San Marino Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 ,ITA★Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
@@ -1903,6 +1899,8 @@ https://cloudvideo.servers10.com:8081/8098/index.m3u8
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 #EXTINF:-1 ,PER★Memorias TV
 https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
+#EXTINF:-1 ,PER★Pax TV
+https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
 #EXTINF:-1 ,PER★Retro Plus HD (Spanish)
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 ,PER★TecSatel Cine TV (Arequipa)
@@ -2415,6 +2413,8 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
 #EXTINF:-1 ,UAE★MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 ,UAE★Takhayl
+https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/shahid-media-prod-channel-assembly-1/index.m3u8
 #EXTINF:-1 ,UAE★Weyyak Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:-1 ,UAE★Weyyak Drama
