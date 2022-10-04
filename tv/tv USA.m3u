@@ -1163,8 +1163,10 @@ https://livevideo01.12news.com/hls/live/2015501/newscasts/live.m3u8
 https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 #EXTINF:-1 ,NBC 26 Green Bay WI (WGBA★720p)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:-1 ,NBC 36 Charlotte NC (WCNC-TV★1080p)
-https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
+#EXTINF:-1 ,NBC 41 Kansas City (KSHB-DT1)
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+#EXTINF:-1 ,NBC 41 Kansas City (KSHB-DT2)
+https://content.uplynk.com/channel/52ce3d9af00349cda5f8151aefc7e552.m3u8
 #EXTINF:-1 ,NBC 207 Bangor Portland ME (WLBZ★1080p)
 https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8
 #EXTINF:-1 ,NBC News Now
@@ -2621,6 +2623,8 @@ https://v-pi.mybtv.net/live/423.m3u8?env=prd&uid=-1&x=1
 http://iptu.org/live.m3u8?channel=301
 #EXTINF:-1 ,White Plains Community Media (360p)
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:-1 ,WHPS Detroit (WHPS-CD2)
+https://hls-live-media.cdn01.net/default/stream_46366.m3u8?source=othersites
 #EXTINF:-1 ,WHT (LeSEA Broadcasting Network)
 http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
 #EXTINF:-1 ,Winthrop Community Access TV (WCAT-15★360p) [Not 24/7]
