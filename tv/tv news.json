@@ -469,12 +469,6 @@
       "parse": false
     },
     {
-      "name": "Yahoo! News",
-      "url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVpE5eWLZwYejT5ZB-mdHwrVwiW0f-PwK5g&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾中天新闻",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
