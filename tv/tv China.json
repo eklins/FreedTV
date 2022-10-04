@@ -1945,12 +1945,6 @@
       "parse": false
     },
     {
-      "name": "台湾壹新闻",
-      "url": "http://stream.nexttv.com.tw/n001/hd/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScRUteuPRghnzDLwGt9a9MWIwvVm_5Vs1pbg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾中视新闻",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
