@@ -1724,7 +1724,7 @@
     },
     {
       "name": "TVB 翡翠台",
-      "url": "http://50.7.220.74:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac",
+      "url": "http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8",
       "pic": "https://pic.baike.soso.com/ugc/baikepic2/29741/cut-20190627111118-175179980_jpg_286_229_7658.jpg/300",
       "parse": false
     },
@@ -1790,13 +1790,13 @@
     },
     {
       "name": "香港有线新闻台",
-      "url": "http://livetv.dnsfor.me:80/channel.5.m3u8",
+      "url": "http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港有线财经资讯台",
-      "url": "http://livetv.dnsfor.me:80/channel.6.m3u8",
+      "url": "http://98.142.138.122:1631/zhiboyuandakaTV/icable738952.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2KtzyAbZDyX7rNNKoDVHVZ2JCtfTupWfafw&usqp=CAU",
       "parse": false
     },
@@ -1808,7 +1808,7 @@
     },
     {
       "name": "香港无线新闻台",
-      "url": "http://9.zhxinda.xyz/newss.php?id=1",
+      "url": "http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
       "parse": true
     },
@@ -1933,6 +1933,12 @@
       "parse": false
     },
     {
+      "name": "台湾TVBS56台",
+      "url": "http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5684849.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "台湾东森新闻",
       "url": "http://50.7.220.74:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3",
       "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
@@ -1940,20 +1946,20 @@
     },
     {
       "name": "台湾民视新闻",
-      "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
+      "url": "http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾台视新闻",
+      "url": "http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Q8qNfsfYckBC4fWMv5VeLk9NvT4Ixp1cKA&usqp=CAU",
       "parse": false
     },
     {
       "name": "台湾中视新闻",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾台视新闻",
-      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Q8qNfsfYckBC4fWMv5VeLk9NvT4Ixp1cKA&usqp=CAU",
       "parse": false
     },
     {
@@ -1988,7 +1994,7 @@
     },
     {
       "name": "台湾TVBS亚洲台",
-      "url": "http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8",
+      "url": "http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
