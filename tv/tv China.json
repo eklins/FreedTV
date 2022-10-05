@@ -451,6 +451,18 @@
       "parse": false
     },
     {
+      "name": "BRTV 纪实科教（北京）",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8cdn",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BRTV KaKu 少儿（北京卡酷少儿）",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?$广西cdn",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "北海经济科教",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225882/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -961,6 +973,12 @@
       "parse": false
     },
     {
+      "name": "钱江新闻",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "青海经视",
       "url": "http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=a7ec5e491648026933",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -1129,14 +1147,20 @@
       "parse": false
     },
     {
-      "name": "中国蓝TV－1 浙江卫视",
-      "url": "http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
+      "name": "浙江国际",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "中国蓝TV－2 钱江新闻",
-      "url": "http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed",
+      "name": "浙江少儿",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "浙江新闻",
+      "url": "http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1162,30 +1186,6 @@
       "name": "中国蓝TV－6 新闻",
       "url": "http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中国蓝TV－7 浙江新闻",
-      "url": "http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中国蓝TV－8 浙江少儿",
-      "url": "http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "爱奇艺热播",
-      "url": "http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c57_lb_274_1080P_t10/8NmXs--hp_UIIi51Zx7J7qNeVdlH755PHQ8pV31zZJPTQyC38TpOhq0dHWgzGxyqhwzJhe3HAl6VKnvBm46sRosVQueXw2PN-Yhtbdj3Ovjr1wI2FKZwkHPAwuZgTn5YAjdow_NNjz-nnqGqg6sY5SfyIk13MzGuAIkZH-NqAOG6dO80RUe9OrC3xOFnkqwrU6RF2_26MqbBN654d0Wz0ZJ4wrVWfRkzU_Mxf0JR4UCk1XJe7We2B8o3IM0DEAXm93KAUzc6bjtuchGPRYfpTA/1db4bf2e9b5ba7c168108cdb91e857d8e/c57_lb_274_1080P_t10.m3u8?key=0fc476bb912ec9800423121613dedfa20&dis_t=1663960947&z=akm_oversea&pv=0.2",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BRTV KaKu 少儿（北京）",
-      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?$广西cdn",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
