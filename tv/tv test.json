@@ -7,6 +7,12 @@
       "parse": true
     },
     {
+      "name": "Parsi Land TV",
+      "url": "http://vps.parsiland.net/hls/ParsiLand.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Pop TV (720p)",
       "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
