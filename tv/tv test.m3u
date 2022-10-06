@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,中天新闻
+http://123.51.230.124:8535/.m3u8
 #EXTINF:-1 ,经典再现
 http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
 #EXTINF:-1 ,高清影院
