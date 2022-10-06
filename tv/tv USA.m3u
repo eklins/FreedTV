@@ -19,6 +19,8 @@ https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
 https://broadcast.mytvtogo.net/cooking4u/cooking4u/playlist.m3u8
 #EXTINF:-1 ,4U Movee
 https://rebroadcast.mytvtogo.net/mytvtogo/movee4u/chunks.m3u8
+#EXTINF:-1 ,4U Sci-Fi
+https://rebroadcast.mytvtogo.net/mytvtogo/SciFiTV4u/chunks.m3u8
 #EXTINF:-1 ,4U Western
 https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
 #EXTINF:-1 ,24 Hour Free Movies (720p)
