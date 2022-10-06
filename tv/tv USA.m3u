@@ -21,6 +21,8 @@ https://broadcast.mytvtogo.net/cooking4u/cooking4u/playlist.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/movee4u/chunks.m3u8
 #EXTINF:-1 ,4U Sci-Fi
 https://rebroadcast.mytvtogo.net/mytvtogo/SciFiTV4u/chunks.m3u8
+#EXTINF:-1 ,4U Street Music
+https://rebroadcast.mytvtogo.net/mytvtogo/streetmusic/chunks.m3u8
 #EXTINF:-1 ,4U Western
 https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
 #EXTINF:-1 ,24 Hour Free Movies (720p)
@@ -697,6 +699,8 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/chunklist.m3u8
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/tracy-ca/G0950_002/chunklist.m3u8
 #EXTINF:-1 ,CityTV Vacaville
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/vacaville/G0228_002/chunklist.m3u8
+#EXTINF:-1 ,CityTV Village of Wellington
+https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/wellington/G1218_002/playlist.m3u8
 #EXTINF:-1 ,CityTV Whittier
 https://cdn-unified-hls.streamspot.com/ingest1/89cbf0c54c/chunklist.m3u8?origin=1
 #EXTINF:-1 ,CityTV WITN 22 (Wilmington DE)
@@ -2011,6 +2015,12 @@ https://2-fss-2.streamhoster.com/pl_118/amlst:202742-1432010/chunklist_b4500000.
 https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 #EXTINF:-1 ,Santa and the Three Bears (480p)
 https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
+#EXTINF:-1 ,Scientology Network
+https://stream6.scientology.org/stream/hls_1280x720_4500k.m3u8?offset=30
+#EXTINF:-1 ,Scream Factory TV (720p)
+https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Screen Dreams (720p)
+https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 ,Smart Life Style Television
 https://brightstar-sls.secure.footprint.net/egress/bhandler/brightstar/brightstarslshd/chunklist_b1344512.m3u8
 #EXTINF:-1 ,SMCTV 23 (Santa Maria Community Television)
@@ -2019,10 +2029,6 @@ https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streama
 https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streamc/chunklist_b2192000.m3u8
 #EXTINF:-1 ,SMCTV 25 (Santa Maria Community Television)
 https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streamb/chunklist_b2192000.m3u8
-#EXTINF:-1 ,Scream Factory TV (720p)
-https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Screen Dreams (720p)
-https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 ,SF Commons TV76
 https://reflect-bayarea.cablecast.tv/live-5/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 #EXTINF:-1 ,SFGovTV2
@@ -2361,6 +2367,8 @@ https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8
 #EXTINF:-1 ,Tastemade France (1080p)
 https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8
+#EXTINF:-1 ,TBAE (Tampa Bay Arts & Education)
+https://out.videolinq.net/stream/amlst:dJXU3S7b@8GIh9ZIM/chunklist_w1347440134_b2596000.m3u8?resolutions=360%2C720%2C1080
 #EXTINF:-1 ,TBD. (720p)
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 ,TBN East (1080p) [Not 24/7]
