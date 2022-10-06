@@ -169,6 +169,12 @@
       "parse": false
     },
     {
+      "name": "4U Sci-Fi",
+      "url": "https://rebroadcast.mytvtogo.net/mytvtogo/SciFiTV4u/chunks.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "4U Western",
       "url": "https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
