@@ -2120,7 +2120,7 @@
     },
     {
       "name": "台湾TVBS新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129",
+      "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
       "parse": true
     },
@@ -2132,7 +2132,7 @@
     },
     {
       "name": "台湾东森新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234",
+      "url": "http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12",
       "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
       "parse": true
     },
