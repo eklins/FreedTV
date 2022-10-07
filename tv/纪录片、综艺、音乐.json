@@ -289,7 +289,7 @@
       "parse": false
     },
     {
-      "name": "4U Cooking",
+      "name": "4U Cooking (480p)",
       "url": "https://broadcast.mytvtogo.net/cooking4u/cooking4u/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -2779,7 +2779,7 @@
       "parse": false
     },
     {
-      "name": "4U Street Music",
+      "name": "4U Street Music (480p)",
       "url": "https://rebroadcast.mytvtogo.net/mytvtogo/streetmusic/chunks.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
