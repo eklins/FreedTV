@@ -1,12 +1,90 @@
 #EXTM3U
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/8TV_Chinese.png",8TV 八度空间
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXSe_f540eR6TNRkVm-gaDUoQ82sJKmwafcA&usqp=CAU",8TV 八度空间
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO afn (Asian Food Network)
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54243
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Animal Planet
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52847
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO ARENA
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54189
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO AXN
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54201
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO bEIN MAX
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54193
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Bernama news
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54164
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Boomerang
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54219
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Box Office Bollyone
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54165
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",ASTRO CCM 天映经典频道
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54185
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPyrpm--oApjOinvA6i18Ms5hFAgjN1jV7w&usqp=CAU",ASTRO Celestial Movies 天映频道
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54217
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Ceria
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54210
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Cinema World
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54203
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Cricket
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54242
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO CTI Asia
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54159
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Discovery Asia
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54256
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Disney XD
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54169
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwl56TV38VwipUoLZdu9AnFKfE92--ztzRig&usqp=CAU",ASTRO FOX Sports 2
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52858
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO GNIX Esports TV Canada
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54170
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO HBO Hits
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54190
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Hello
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54212
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Hits Movies
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54191
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO iQIYI
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54213
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO MTV Live
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54246
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO National Geographic Wild
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54229
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Nick Jr.
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54257
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Oasis
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54161
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Prima
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54214
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Rania
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54162
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO RUGBY PASS TV
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54163
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO SONY SETMAX APAC Plus
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54234
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",ASTRO SUPERSPORTS 1
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52859
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",ASTRO SUPERSPORTS 2
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52860
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",ASTRO SUPERSPORTS 3
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52861
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",ASTRO SUPERSPORTS 4
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52862
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO TVB Classic 千禧经典台
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54235
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO tvN
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54268
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO tvN Movies
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54237
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Warner Bros TV
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54180
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33tZ3Fpvn4I5nNSQn4_mAdFA4M3X6xuUgjg&usqp=CAU",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSmPGc7aQMeRHFI5T1VECspSQLy_4vPDfBEsrjg2w=s900-c-k-c0x00ffffff-no-rj",Maah TV
 http://51.210.199.33/hls/stream.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNRkKkPp2LCPJafaVEAZ6h5IzbClkrvrq-Q&usqp=CAU",NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwM3cnfiFBgQ9WqbPNGFd24ZOJFXZ37bixGw&usqp=CAU",TV2
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54175
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGCBRFSDyrz1Sh_7DF4vQM-SYk365S1xxKQ&usqp=CAU",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",TVS (576p)
