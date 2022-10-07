@@ -67,12 +67,6 @@
       "parse": false
     },
     {
-      "name": "台湾中天新闻 ZTXW",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "台湾中天新闻 YouTube",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ctitv/live",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
