@@ -1909,12 +1909,6 @@
       "parse": false
     },
     {
-      "name": "北京财经",
-      "url": "http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8",
-      "pic": "https://www.nettvpro.live/uploads/19/1-1Z42Q25030444.jpg",
-      "parse": false
-    },
-    {
       "name": "HK01 [Not 24/7]",
       "url": "https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
