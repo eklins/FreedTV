@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 ,中天新闻
+#EXTINF:-1 ,中天新闻 60
+http://60.251.39.247:8504/http://192.168.77.24:8081/hls/78/80/ch63.m3u8
+#EXTINF:-1 ,中天新闻 59
+http://59.125.122.90:18513/http/192.168.1.9:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 ,中天新闻 211
+http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 ,中天新闻 seb
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 ,NIL 中天123
 http://123.51.230.124:8535/.m3u8
 #EXTINF:-1 ,经典再现
 http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
