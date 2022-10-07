@@ -476,9 +476,9 @@
     },
     {
       "name": "台湾TVBS新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129",
+      "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾东森新闻",
@@ -488,15 +488,15 @@
     },
     {
       "name": "台湾民视新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31",
+      "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾中视新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33",
+      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾华视新闻",
