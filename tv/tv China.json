@@ -655,6 +655,12 @@
       "parse": false
     },
     {
+      "name": "海西",
+      "url": "http://stream.haixitv.cn/1/sd/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "JSTV",
       "url": "http://live.ynurl.com/video/s10045-JSTV/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
