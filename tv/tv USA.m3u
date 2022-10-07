@@ -2373,10 +2373,14 @@ https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadef
 https://out.videolinq.net/stream/amlst:dJXU3S7b@8GIh9ZIM/chunklist_w1347440134_b2596000.m3u8?resolutions=360%2C720%2C1080
 #EXTINF:-1 ,TBD. (720p)
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 ,TBN Africa
+https://playback.akamaized.net/streams/27460990_8787764_lsiw0vvw1c8hnu7rh53_1/media/27460990_8787764_lsiw0vvw1c8hnu7rh53_1@5256000p.m3u8?dw=14400&ts=1665154800&hdnts=exp=1665327929~acl=/streams/27460990_8787764_lsiw0vvw1c8hnu7rh53_1/media*~hmac=1ffacc8c1cae2a2faec357025701804a408161150dd0b53e391044f879c8569b
 #EXTINF:-1 ,TBN East (1080p) [Not 24/7]
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
 #EXTINF:-1 ,TBN Inspire (1080p) [Not 24/7]
 https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+#EXTINF:-1 ,TBN Pacific
+https://broadcast.tbnpacific.org.au:4430/TBNPacificTV/live/chunks.m3u8?nimblesessionid=76575
 #EXTINF:-1 ,TCT (WACP-DT1★1080p) [Not 24/7]
 https://v-pi.mybtv.net/live/321.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,TD Ameritrade Network (1080p)
@@ -2399,6 +2403,8 @@ https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
 https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
 #EXTINF:-1 ,The Boat Show (720p)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 ,The City Channel
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/chunklist.m3u8
 #EXTINF:-1 ,The Craftistry (1080p)
 https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,The Film Detective
@@ -2425,6 +2431,8 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 #EXTINF:-1 ,The Titanic Channel (720p)
 https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/high/c.m3u8
+#EXTINF:-1 ,The Walk
+https://cdn-unified-hls.streamspot.com/ingest1/8b0796adaf/chunklist.m3u8?origin=1
 #EXTINF:-1 ,The Wall Street Journal Live (720p)
 https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 #EXTINF:-1 ,This (480p)
