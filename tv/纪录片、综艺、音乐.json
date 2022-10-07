@@ -3025,7 +3025,7 @@
       "parse": false
     },
     {
-      "name": "Juice TV",
+      "name": "Juice TV (New Zealand)",
       "url": "https://juicex.nz/hls/mystream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
@@ -3061,7 +3061,7 @@
       "parse": false
     },
     {
-      "name": "Kordia TV",
+      "name": "Kordia TV (New Zealand)",
       "url": "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
@@ -3445,7 +3445,7 @@
       "parse": false
     },
     {
-      "name": "The Breeze",
+      "name": "The Breeze (New Zealand)",
       "url": "https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
@@ -3457,7 +3457,7 @@
       "parse": false
     },
     {
-      "name": "The Edge TV",
+      "name": "The Edge TV (New Zealand)",
       "url": "https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
