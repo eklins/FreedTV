@@ -7,6 +7,12 @@
       "parse": false
     },
     {
+      "name": "北京财经",
+      "url": "http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8",
+      "pic": "https://www.nettvpro.live/uploads/19/1-1Z42Q25030444.jpg",
+      "parse": false
+    },
+    {
       "name": "台湾中天新闻 ZTXW",
       "url": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
