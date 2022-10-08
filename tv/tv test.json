@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "SYFY HD (TS/listplay4k)",
+      "url": "http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCdUeDl9r5b_f8V0kA8GkVE/ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "América Sports (Venezuela)",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
