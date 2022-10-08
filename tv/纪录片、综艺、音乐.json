@@ -3181,6 +3181,12 @@
       "parse": false
     },
     {
+      "name": "Nos Païs (Curacao) [Not 24/7]",
+      "url": "http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NR1 (Number One)",
       "url": "https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -3555,6 +3561,12 @@
     {
       "name": "V2Beat",
       "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "VAM Vid's & More (Curacao)",
+      "url": "https://cur.watch/api/get_stream/vam/streann/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
