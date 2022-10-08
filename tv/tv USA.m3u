@@ -2595,6 +2595,8 @@ https://v-ny.mybtv.net/live/713.m3u8?env=prd&uid=-1&x=1
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Untamed Sports TV (KCKS-LD8★480p) [Not 24/7]
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 ,US Weekly TV (1080p)
+https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,USA Today (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
 #EXTINF:-1 ,USA Today SportsWire
