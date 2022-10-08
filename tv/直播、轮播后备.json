@@ -367,6 +367,12 @@
       "parse": false
     },
     {
+      "name": "台湾中天亚洲台",
+      "url": "http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
+    },
+    {
       "name": "香港有线新闻台",
       "url": "https://api.leonardpark.dev/live/icable/109",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkcwR6oAHj40u1_WK0Ke3tXc55qfNGE8W3w&usqp=CAU",
