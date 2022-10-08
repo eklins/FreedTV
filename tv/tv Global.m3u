@@ -557,10 +557,16 @@ http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8
 #EXTINF:-1 ,HRV★RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cyprus.png",Cyprus❤Cinema Time (34100 TV)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cyprus.png",Cyprus❤Alfa Sport (1080p) [Not 24/7]
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 ,CYP★Cinema Time (34100 TV)
 https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 ,CYP★Faros TV2
 https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 ,CYP★Music Reload (804p)
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 ,CYP★Sigma (576p) [Not 24/7]
+https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 ,CYP★Smile
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Czech-Republic.png",Czech❤CNN Prima News Ⓢ
