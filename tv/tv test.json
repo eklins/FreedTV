@@ -19,6 +19,12 @@
       "parse": false
     },
     {
+      "name": "The Family Channel",
+      "url": "https://v-pi.mybtv.net/live/326.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "4K 电影",
       "url": "http://111.20.33.70/TVOD/88888893/224/3221226352/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
