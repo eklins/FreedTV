@@ -255,6 +255,10 @@ https://597f64b67707a.streamlock.net/alkerazatv.org/alkerazatv.smil/playlist.m3u
 https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 ,Almagd TV North America (1080p)
 https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+#EXTINF:-1 ,AMC Absolute Reality (1080p)
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,AMC All Weddings (720p)
+https://amc-allweddings-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,American Horrors (480p)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 ,AMG TV (1080p)
@@ -269,6 +273,8 @@ https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamb/manifest.
 https://pasadenamed.secure.footprint.net/egress/bhandler/pasadenamed/streamb/chunklist_b1192000.m3u8
 #EXTINF:-1 ,ARTN TV (1080p) [Not 24/7]
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 ,Asian Crush (720p)
+https://ac-samsung-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ATD HD
 http://46.99.146.236/0.m3u8
 #EXTINF:-1 ,Atlanta Channel (720p)
@@ -625,10 +631,16 @@ https://edge-f.swagit.com/live/flagstaffaz/live-1-a/chunklist.m3u8
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/chunklist.m3u8
 #EXTINF:-1 ,CityTV G10 TV (Jacksonville-Onslow Government Channel)
 http://jacksonville.cablecast.tv/live-6/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:-1 ,CityTV Ho'ike Kaua'i Channel 53
+https://hoike-hi.secure.footprint.net/egress/bhandler/hoikehi/streama/chunklist_b1192000.m3u8
+#EXTINF:-1 ,CityTV Ho'ike Kaua'i Channel 54
+https://hoike-hi.secure.footprint.net/egress/bhandler/hoikehi/streamb/chunklist_b1192000.m3u8
 #EXTINF:-1 ,CityTV Huntington Beach Channel 3 (720p)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/huntingtonbeach/G0088_005/playlist.m3u8
 #EXTINF:-1 ,CityTV Irvine Community Television (720p)
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8
+#EXTINF:-1 ,CityTV Lake County IL (LCTV)
+http://edge-f.swagit.com/live/lakecountyil/smil:std-4x3-1-a/chunklist_b512000.m3u8
 #EXTINF:-1 ,CityTV Lake Havasu City AZ
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 #EXTINF:-1 ,CityTV Lakewood DC (720p)
@@ -1093,14 +1105,8 @@ https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1e
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
 #EXTINF:-1 ,Lone Star (960p)
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/high/c.m3u8
-#EXTINF:-1 ,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 ,Miami TV (Latino)
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w781457383_b1896000.m3u8
-#EXTINF:-1 ,Midnight Pulp
-https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Midnight Pulp (East)
-https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent
+#EXTINF:-1 ,Made In Hollywood
+https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Majestad Televisión (480p) [Not 24/7]
 https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8
 #EXTINF:-1 ,MCN6 (1080p) [Not 24/7]
@@ -1113,6 +1119,14 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 #EXTINF:-1 ,MGM USA (576p)
 http://c0.cdn.trinity-tv.net/stream/uq2t763988wmx82xs37vrzrtrvaz686y22jd9gcgvgbhu88g6dntdb82kggx9zgvpvwj5wisyi5mgwwgdqzm7d6xbf7yvctwzvhsu3t57ms3wa4qxwyeuqk3ayrdwx3k2b6cdtnrydx9qa3ezqzea===.m3u8
+#EXTINF:-1 ,Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 ,Miami TV (Latino)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w781457383_b1896000.m3u8
+#EXTINF:-1 ,Midnight Pulp
+https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Midnight Pulp (East)
+https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent
 #EXTINF:-1 ,Millennium TV 24 (1080p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8
 #EXTINF:-1 ,Millennium TV USA (1080p) [Not 24/7]
