@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,Sony
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14042
+#EXTINF:-1 ,Sony Sci-Fi HD
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_HD.ism/playlist.mpd
 #EXTINF:-1 ,Sony Sci-Fi SD
 http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
 #EXTINF:-1 ,SYFY FHD (top.streancdn)
