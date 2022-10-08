@@ -168,8 +168,8 @@
     {
       "name": "咪咕 ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E4%BD%93%E8%82%B2%E2%80%A2%E5%92%AA%E5%92%95.json",
-      "type": "m3u",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E4%BD%93%E8%82%B2%E7%9B%B4%E6%92%AD.json",
+      "type": "json",
       "subTitle": "",
       "click": true,
       "autoNext": false,
