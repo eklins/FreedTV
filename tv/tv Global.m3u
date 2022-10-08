@@ -1219,6 +1219,8 @@ http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
 https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Carina TV
 http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
+#EXTINF:-1 ,ITA★CG Entertainment (720p)
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Cinema Segreto
 https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★CNBC Italia
@@ -1410,7 +1412,7 @@ https://nhk2.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 ,JPN★NHK World Japan
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 ,JPN★Nippon TV (540p)
-https://ntv2.mov3.co/hls/ntv.m3u8
+https://cdnv148.cloudrsst.com/jptv/kanto_nippon_540/playlist.m3u8
 #EXTINF:-1 ,JPN★NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 ,JPN★QVC (720p)
@@ -1421,6 +1423,8 @@ https://tbs1.mov3.co/hls/tbs.m3u8
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 ,JPN★Tokyo MX2
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 ,JPN★Travel XP (1080p)
+https://travelxp-travelxp-1-jp.rakutenjp.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,JPN★Weather News (ウェザーニュース)
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Jordan.png",Jordan❤Al Mamlaka TV
@@ -2101,6 +2105,8 @@ https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 https://live.realitatea.net/livertmp/plus/playlist.m3u8
 #EXTINF:-1 ,ROU★Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+#EXTINF:-1 ,ROU★TVR International Returned
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1048000.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Russia.png",Russia❤1 HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,RUS★2x2
