@@ -797,6 +797,8 @@ https://v-ny.mybtv.net/live/547.m3u8?env=prd&uid=-1&x=1
 https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Dark Matter TV (West)
 https://distroscale-public.s3-us-west-2.amazonaws.com/strm/channels/darkmatter/v3.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 ,Decades (WNYW-DT5)
+https://v-ny.mybtv.net/live/553.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,DeFiance Media (1080p)
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Defy (WPXN-DT4)
@@ -805,6 +807,8 @@ https://v-ny.mybtv.net/live/611.m3u8?env=prd&uid=-1&x=1
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Denver 8 TV
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 ,Dimensions
+https://simultv.s.llnwi.net/o054/Dimensions/interlink.m3u8
 #EXTINF:-1 ,Divine Vision (480p) [Not 24/7]
 https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
 #EXTINF:-1 ,Docurama (1080p)
