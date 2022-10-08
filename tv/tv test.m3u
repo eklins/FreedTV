@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 ,Sony
+#EXTINF:-1 ,Sony (listplay4k)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFHDdCPUHuqFg8Pd6kmpgUY/ts
+#EXTINF:-1 ,Sony (driptvs)
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14042
-#EXTINF:-1 ,Sony Sci-Fi HD
+#EXTINF:-1 ,Sony Sci-Fi HD (mfe.cliptv)
 http://mfe.cliptv.az/dash/Sony_Sci_Fi_HD.ism/playlist.mpd
 #EXTINF:-1 ,Sony Sci-Fi SD
 http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
