@@ -889,12 +889,6 @@
       "parse": false
     },
     {
-      "name": "Switch",
-      "url": "https://simultv.s.llnwi.net/o059/Switch/interlink.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Tennis Channel ① (UK)",
       "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
