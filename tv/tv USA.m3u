@@ -149,7 +149,7 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 http://rtmp.abnsat.com/hls/arabic.m3u8
 #EXTINF:-1 ,ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
-#EXTINF:-1 ,Access Humboldt
+#EXTINF:-1 ,Access Humboldt (1080p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/66dfbe35ca1a418c87e3cf18ca46bd57/chunklist_b4628000.m3u8?p=79&s=1663054568&e=1663054688&h=21bbe454982113c754f18fd435d797e4
 #EXTINF:-1 ,Access Sacramento Channel 17
 https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
@@ -591,6 +591,10 @@ https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 ,Cinema 35 (Los Angeles City View 35)
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 ,Cinemax (East★360p)
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1 ,Cinemax Action (East★360p)
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
 #EXTINF:-1 ,CityTV ❛ōlelo 49 (Honolulu Hawaii)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_009/chunklist.m3u8
 #EXTINF:-1 ,CityTV ❛ōlelo 53 (Honolulu Hawaii)
@@ -2041,6 +2045,8 @@ https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
 https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 #EXTINF:-1 ,Revry Queer (720p)
 https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 ,Rewind TV (WPIX-DT4★480p)
+https://v-ny.mybtv.net/live/565.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Right Now TV
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastrightnowtv/playlist.m3u8
 #EXTINF:-1 ,Rooster Teeth TV (1080p)
