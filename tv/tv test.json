@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "name": "Antenna TV (WPHL-DT2★480p)",
+      "url": "https://v-pi.mybtv.net/live/356.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Family Channel (WACP-DT6★480p)",
+      "url": "https://v-pi.mybtv.net/live/326.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rewind TV (WPIX-DT4★480p)",
+      "url": "https://v-ny.mybtv.net/live/565.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "SYFY HD (TS/listplay4k)",
       "url": "http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCdUeDl9r5b_f8V0kA8GkVE/ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -21,18 +39,6 @@
     {
       "name": "Cinema Heaven (Korea) apichvod4",
       "url": "https://apichvod4.seezntv.com/OTM/11010_H.m3u8?AdaptiveType=HLS&SessionID=e6c3973c-b429-469f-83a4-a2b78397bdbf",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The Family Channel (WACP-DT6★480p)",
-      "url": "https://v-pi.mybtv.net/live/326.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Rewind TV (WPIX-DT4★480p)",
-      "url": "https://v-ny.mybtv.net/live/565.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
