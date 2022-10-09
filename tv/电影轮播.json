@@ -146,7 +146,7 @@
     },
     {
       "name": "2A Network",
-      "url": "https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8",
+      "url": "https://simultv.s.llnwi.net/o062/2ANetwork/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -368,7 +368,7 @@
     },
     {
       "name": "Cowboy Theater",
-      "url": "https://simultv.s.llnwi.net/o054/CowboyTheater/interlink.m3u8",
+      "url": "https://simultv.s.llnwi.net/o060/CowboyTheater/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -404,7 +404,7 @@
     },
     {
       "name": "Dimensions",
-      "url": "https://simultv.s.llnwi.net/o054/Dimensions/interlink.m3u8",
+      "url": "https://simultv.s.llnwi.net/o062/Dimensions/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -806,7 +806,7 @@
     },
     {
       "name": "Mythos",
-      "url": "https://simultv.s.llnwi.net/o058/Mythos/interlink.m3u8",
+      "url": "https://simultv.s.llnwi.net/o060/Mythos/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -884,19 +884,19 @@
     },
     {
       "name": "PrimeTime Drama",
-      "url": "https://simultv.s.llnwi.net/o064/PrimeTimeDrama/interlink.m3u8",
+      "url": "https://simultv.s.llnwi.net/o054/PrimeTimeDrama/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Providence Christian Network",
-      "url": "https://simultv.s.llnwi.net/n4s4/ProvidenceNetwork/interlink.m3u8",
+      "url": "https://simultv.s.llnwi.net/o059/ProvidenceNetwork/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Ready Set Action",
-      "url": "https://simultv.s.llnwi.net/o059/ReadySetAction/interlink.m3u8",
+      "url": "https://simultv.s.llnwi.net/o062/ReadySetAction/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -938,7 +938,7 @@
     },
     {
       "name": "Spydar TV",
-      "url": "https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8",
+      "url": "https://simultv.s.llnwi.net/o062/Spydar/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
