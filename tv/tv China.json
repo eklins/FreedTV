@@ -2000,19 +2000,19 @@
     },
     {
       "name": "台湾东森财经（美洲）",
-      "url": "http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8",
+      "url": "http://38.64.72.148:80/hls/modn/list/2021/chunklist1.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
     {
       "name": "台湾东森超视美洲",
-      "url": "http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8",
+      "url": "http://38.64.72.148:80/hls/modn/list/2018/chunklist1.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
     {
       "name": "台湾东森美洲",
-      "url": "http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8",
+      "url": "http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
@@ -2024,19 +2024,19 @@
     },
     {
       "name": "台湾华语电视 ①",
-      "url": "http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8",
+      "url": "http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
     {
       "name": "台湾华语电视 ②",
-      "url": "http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8",
+      "url": "http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
     {
       "name": "台湾华语电视 ③",
-      "url": "http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8",
+      "url": "http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
@@ -2108,7 +2108,7 @@
     },
     {
       "name": "台湾TVBS亚洲台",
-      "url": "http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8",
+      "url": "http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
@@ -2126,7 +2126,7 @@
     },
     {
       "name": "台湾长城精品",
-      "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8",
+      "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
@@ -2174,7 +2174,7 @@
     },
     {
       "name": "台湾TVBS新闻",
-      "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8",
+      "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
       "parse": true
     },
@@ -2204,7 +2204,7 @@
     },
     {
       "name": "台湾台视新闻",
-      "url": "http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8",
+      "url": "http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Q8qNfsfYckBC4fWMv5VeLk9NvT4Ixp1cKA&usqp=CAU",
       "parse": true
     },
