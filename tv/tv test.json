@@ -1,12 +1,6 @@
 {
   "data": [
     {
-      "name": "Antenna TV (WPHL-DT2★480p)",
-      "url": "https://v-pi.mybtv.net/live/356.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Pop TV (720p)",
       "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -33,24 +27,6 @@
     {
       "name": "AsiaN (Korea) apichvod6",
       "url": "https://apichvod6.seezntv.com/OTM/10200_H.m3u8?AdaptiveType=HLS&SessionID=8f39ebbb-9cd2-42b0-a0f5-2afb712ed5a7",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BBC News",
-      "url": "http://myott.top/stream/DT6QU63K5VX/85.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Eurosport ①",
-      "url": "http://myott.top/stream/DT6QU63K5VX/176.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sport ①",
-      "url": "http://myott.top/stream/DT6QU63K5VX/393.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
