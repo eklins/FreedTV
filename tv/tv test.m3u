@@ -3,6 +3,8 @@
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0
 #EXTINF:-1 ,无线财经
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0
+#EXTINF:-1 ,HBO Max
+http://163.172.33.7:25461/serveramsterdam/2292020/33
 #EXTINF:-1 ,Sony (listplay4k)
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFHDdCPUHuqFg8Pd6kmpgUY/ts
 #EXTINF:-1 ,Sony (driptvs)
