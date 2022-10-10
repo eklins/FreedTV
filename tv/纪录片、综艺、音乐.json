@@ -2107,6 +2107,12 @@
       "parse": false
     },
     {
+      "name": "Rakuten Documentaries (Denmark★PLEX)",
+      "url": "https://rakuten-documentaries-10-dk.plex.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Rakuten Documentaries (Ireland)",
       "url": "https://rakuten-documentaries-13-ie.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
@@ -2119,6 +2125,12 @@
       "parse": false
     },
     {
+      "name": "Rakuten Documentaries (Netherlands★PLEX)",
+      "url": "https://rakuten-documentaries-8-nl.plex.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Rakuten Documentaries (Portugal)",
       "url": "https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
@@ -2127,6 +2139,12 @@
     {
       "name": "Rakuten Documentaries (Sweden)",
       "url": "https://rakuten-documentaries-9-se.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rakuten Documentaries (Sweden★PLEX)",
+      "url": "https://rakuten-documentaries-9-se.plex.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
