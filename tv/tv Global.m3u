@@ -519,14 +519,24 @@ https://59b954022ec35.streamlock.net/liveTV2/smil:liveTVstream2.transcoder.smil/
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
 #EXTINF:-1 ,DNK★Rakuten Action
 https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten Action (PLEX)
+https://rakuten-action-10-dk.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DNK★Rakuten Comedy
 https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten Comedy (PLEX)
+https://rakuten-comedy-10-dk.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DNK★Rakuten Documentaries
 https://rakuten-documentaries-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten Documentaries (PLEX)
+https://rakuten-documentaries-10-dk.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DNK★Rakuten Drama
 https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten Drama (PLEX)
+https://rakuten-drama-10-dk.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DNK★Rakuten Family
 https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DNK★Rakuten Family (PLEX)
+https://rakuten-family-10-dk.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DNK★Rakuten Fuel TV
 https://fueltv-fueltv-10-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,DNK★Rakuten Spotlight
@@ -1673,14 +1683,24 @@ https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8
 https://stream.radio350.nl/hls/radio350.m3u8
 #EXTINF:-1 ,NLD★Rakuten Action
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Action (PLEX)
+https://rakuten-action-8-nl.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Comedy
 https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Comedy (PLEX)
+https://rakuten-comedy-8-nl.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Documentaries
 https://rakuten-documentaries-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Documentaries (PLEX)
+https://rakuten-documentaries-8-nl.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Drama
 https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Drama (PLEX)
+https://rakuten-drama-8-nl.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Family
 https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Family (PLEX)
+https://rakuten-family-8-nl.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Spotlight
 https://rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten The Guardian
@@ -2311,16 +2331,26 @@ https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
 https://quintus-radicaldocs-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Action
 https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Action (PLEX)
+https://rakuten-action-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Comedy
 https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Comedy (PLEX)
+https://rakuten-comedy-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Documentaries
 https://rakuten-documentaries-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Documentaries (PLEX)
+https://rakuten-documentaries-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Drama
 https://rakuten-drama-9-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Drama (PLEX)
+https://rakuten-drama-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten EDGE Sports
 https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Family
 https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Family (PLEX)
+https://rakuten-family-9-se.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Spotlight
 https://rakuten-spotlight-9-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten The Guardian
