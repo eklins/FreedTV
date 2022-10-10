@@ -37,6 +37,24 @@
       "parse": false
     },
     {
+      "name": "BBC News",
+      "url": "http://myott.top/stream/DT6QU63K5VX/85.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Eurosport ①",
+      "url": "http://myott.top/stream/DT6QU63K5VX/176.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sport ①",
+      "url": "http://myott.top/stream/DT6QU63K5VX/393.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "SYFY HD (TS/listplay4k)",
       "url": "http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCdUeDl9r5b_f8V0kA8GkVE/ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
