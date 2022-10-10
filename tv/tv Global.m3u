@@ -859,6 +859,8 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/playlist.m3u8
 #EXTINF:-1 ,HND★TEN Canal 10
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 ,HND★Thunder Sports
+https://emisoras.hn:8081/tsh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbkU0-6_hoIOmcd4PNdC5DaLqA8OLzu2Il6QfsKjpOujqC8OLb&s",Hong Kong❤RTHK Radio 1
 https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
 #EXTINF:-1 ,HKG★RTHK Radio 2
