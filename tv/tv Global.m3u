@@ -825,6 +825,8 @@ https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 http://78.83.87.222:9999/play/a017/index.m3u8
 #EXTINF:-1 ,GRC★Start
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 ,GRC★Tilemousiki (480p) [Not 24/7]
+http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 ,GRC★Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 ,GRC★Zerouno TV (720p)
