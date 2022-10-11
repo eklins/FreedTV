@@ -1065,6 +1065,8 @@ http://51.210.199.5/hls/stream.m3u8
 http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 ,IRN★bravo
 http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1 ,IRN★Caltex Music (720p) [Not 24/7]
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 ,IRN★Channel 6
 http://51.210.199.6/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Family 24 (Prima Movies)
