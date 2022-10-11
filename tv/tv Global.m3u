@@ -190,7 +190,7 @@ https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
 #EXTINF:-1 ,AUT★R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:-1 ,AUT★Rakuten Action Movies
-https://rakuten-actionmovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-actionmovies-5-at.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★Rakuten Comedy Movies
 https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★Rakuten Family
@@ -571,10 +571,30 @@ https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Finland.png",Finland❤Alfa TV
 https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
+#EXTINF:-1 ,FIN★Rakuten Action
+https://rakuten-action-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Rakuten Action (PLEX)
+https://rakuten-action-12-fi.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Rakuten Comedy
+https://rakuten-comedy-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Rakuten Comedy (PLEX)
+https://rakuten-comedy-12-fi.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Rakuten Documentaries
+https://rakuten-documentaries-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Rakuten Documentaries (PLEX)
+https://rakuten-documentaries-12-fi.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Rakuten Drama
+https://rakuten-drama-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Rakuten Drama (PLEX)
+https://rakuten-drama-12-fi.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FIN★Rakuten Family
 https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Rakuten Family (PLEX)
+https://rakuten-family-12-fi.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FIN★Rakuten Spotlight
 https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Rakuten The Guardian
+https://rakuten-guardian-1-fi.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤Africa News Français
 https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,FRA★BBC Doctor Who 2009-?
@@ -1701,6 +1721,8 @@ https://rakuten-drama-8-nl.plex.wurl.tv/playlist.m3u8
 https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Family (PLEX)
 https://rakuten-family-8-nl.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NLD★Rakuten Romance
+https://rakuten-romance-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten Spotlight
 https://rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Rakuten The Guardian
@@ -1851,8 +1873,28 @@ https://mmm-ducktv-4-no.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,NOR★Kanal Asia 10
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:-1 ,NOR★Rakuten Action
+https://rakuten-action-11-no.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NOR★Rakuten Action (PLEX)
+https://rakuten-action-11-no.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NOR★Rakuten Comedy
+https://rakuten-comedy-11-no.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NOR★Rakuten Comedy (PLEX)
+https://rakuten-comedy-11-no.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NOR★Rakuten Documentaries
+https://rakuten-documentaries-11-no.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NOR★Rakuten Documentaries (PLEX)
+https://rakuten-documentaries-11-no.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NOR★Rakuten Drama
+https://rakuten-drama-11-no.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NOR★Rakuten Drama (PLEX)
+https://rakuten-drama-11-no.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NOR★Rakuten Family
+https://rakuten-family-11-no.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NOR★Rakuten Spotlight
 https://rakuten-spotlight-11-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NOR★Rakuten The Guardian
+https://rakuten-guardian-1-no.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NOR★TV2 Nyhetsstrømmen
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 #EXTINF:-1 ,NOR★TV2 Sporten
@@ -2351,6 +2393,8 @@ https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Family (PLEX)
 https://rakuten-family-9-se.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SWE★Rakuten Romance
+https://rakuten-romance-9-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten Spotlight
 https://rakuten-spotlight-9-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SWE★Rakuten The Guardian
