@@ -25,7 +25,9 @@ https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 https://1247634592.rsc.cdn77.org/1247634592/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤WATAN-E-MAA
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤ATN International
+https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
+#EXTINF:-1 ,AFG★WATAN-E-MAA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Albania.png",Albania❤7 HD
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
@@ -35,16 +37,20 @@ http://live.albavision.net:1123/live/albdreams.m3u8
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1 ,ALB★Korça＋ [Not 24/7]
 http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1 ,ALB★News 24
+#EXTINF:-1 ,ALB★News 24 (392p) [Not 24/7]
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 ,ALB★Top Estrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 ,ALB★TV 7 (540p) [Not 24/7]
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Andorra.png",Andorra❤ATV (720p)
+https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Argentina.png",Argentina❤5TV (Corrientes)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 ,ARG★13Max Televisión (720p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+#EXTINF:-1 ,ARG★Am1020 (360p)
+http://51.79.83.93:9998/live/am1020/playlist.m3u8
 #EXTINF:-1 ,ARG★Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 ,ARG★Canal Blu
@@ -215,7 +221,7 @@ http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 ,AZE★Muğan TV (1080p) [Not 24/7]
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bahamas.png",Bahamas❤Island Luck TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bahamas.png",Bahamas❤Island Luck TV (720p)
 https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/chunklist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bahrain.png",Bahrain❤Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
@@ -233,6 +239,8 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 ,BLR★Belarus 24 (Беларусь)
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 ,BLR★City Music TV (720p)
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 #EXTINF:-1 ,BLR★CTV Belarus
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
 #EXTINF:-1 ,BLR★Nastoyashcheye vremya
@@ -255,6 +263,8 @@ https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belize.png",Belize❤Channel 7
 https://kalends.anl.bz/localchannels/channel7.stream/playlist.m3u8
+#EXTINF:-1 ,BLZ★Krem TV
+https://kalends.anl.bz/localchannels/kremtel.stream/playlist.m3u8
 #EXTINF:-1 ,BLZ★Love Television
 https://kalends.anl.bz/localchannels/lovetel.stream/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bolivia.png",Bolivia❤Abya Yala TV
@@ -267,6 +277,10 @@ https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 ,BOL★TV OFF travel
 https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bosnia-Herzegovina.png",Bosnia and Herzegovina❤B1 TV (1080p) [Not 24/7]
+http://proxy.bihnet.net:88/live/b1tv.m3u8
+#EXTINF:-1 ,BIH★Glas Drine
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Brazil.png",Brazil❤AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 ,BRA★All Sports Brasil
@@ -571,8 +585,12 @@ https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Finland.png",Finland❤Alfa TV
 https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
+#EXTINF:-1 ,FIN★Duck TV
+https://mmm-ducktv-4-fi.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,FIN★Filmstream
 https://spi-filmstream-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Himlen TV7 (720p)
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 #EXTINF:-1 ,FIN★Rakuten Action
 https://rakuten-action-12-fi.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FIN★Rakuten Action (PLEX)
@@ -597,6 +615,8 @@ https://rakuten-family-12-fi.plex.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FIN★Rakuten The Guardian
 https://rakuten-guardian-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Taevas TV7 (720p)
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤Africa News Français
 https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,FRA★BBC Doctor Who 2009-?
