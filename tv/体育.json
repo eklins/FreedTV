@@ -91,8 +91,14 @@
       "parse": false
     },
     {
-      "name": "MIGU 体育",
+      "name": "MIGU 体育 ①",
       "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MIGU 体育 ②",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
       "parse": false
     },
