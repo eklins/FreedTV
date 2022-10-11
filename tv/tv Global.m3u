@@ -1791,6 +1791,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★AusBiz
 https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NZL★Bite
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-bitenz-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★Bounty
 https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NZL★Cine View
@@ -2069,6 +2071,8 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,PRT★Rakuten Family
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,PRT★Reuters
+https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,PRT★RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★TVI Reality
