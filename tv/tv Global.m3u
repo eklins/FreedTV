@@ -643,8 +643,6 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 ,FRA★Filmstream
 https://spi-filmstream-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,FRA★France 24
-https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,FRA★M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 ,FRA★MDL
@@ -2571,8 +2569,6 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Kingdom.png",United Kingdom❤Arise News
 https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8
-#EXTINF:-1 ,GBR★Baby TV
-https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,GBR★BBC One
 http://w4.12all.tv:4000/play/bbc1/index.m3u8
 #EXTINF:-1 ,GBR★BBC Two
@@ -2787,63 +2783,15 @@ https://v2.catcast.tv/content/38144/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 ,VEN★TeleSUR English
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Vietnam.png",Vietnam❤Animax Asia
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
-#EXTINF:-1 ,VNM★BBC Earth
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ,VNM★BBC Lifestyle Asia
-https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 ,VNM★Blue Ant Entertainment
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,VNM★Blue Ant Extreme
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,VNM★Boomerang Southeast Asia
-https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ,VNM★CBeebies Asia
-https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ,VNM★Cinemax (720p)
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-#EXTINF:-1 ,VNM★Da Nang TV1
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Vietnam.png",Vietnam❤Da Nang TV1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 ,VNM★Da Nang TV2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1 ,VNM★Da Vinci
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ,VNM★HBO
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★HBTV (406p)
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 ,VNM★HITS
 http://api.vthanhtivii.xyz/v1/getlink/tv360/107/2.m3u8
-#EXTINF:-1 ,VNM★HTV1 (576p)
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
-#EXTINF:-1 ,VNM★HTV3 (576p)
-https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
-#EXTINF:-1 ,VNM★HTV4 (576p)
-https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
 #EXTINF:-1 ,VNM★Kiên Giang
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 ,VNM★Kix
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ,VNM★MTV Vietnam (576p)
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
-#EXTINF:-1 ,VNM★National Geographic (1080p)
-https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ,VNM★National Geographic Wild Asia (1080p)
-https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ,VNM★PTP HD
-https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist.m3u8
-#EXTINF:-1 ,VNM★Rock Entertainment
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
-#EXTINF:-1 ,VNM★Rock Extreme
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,VNM★THGL (Gia Lai TV)
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
-#EXTINF:-1 ,VNM★VTC2
-https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
-#EXTINF:-1 ,VNM★VTC4
-https://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8
-#EXTINF:-1 ,VNM★VTC5 (576p)
-https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
-#EXTINF:-1 ,VNM★VTC6 (576p)
-https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
