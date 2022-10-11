@@ -1338,7 +1338,7 @@ http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1 ,ITA★Super Six Lombardia
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 ,ITA★Super TV HD
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 #EXTINF:-1 ,ITA★Tele Abruzzo
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 ,ITA★Tele Arena
