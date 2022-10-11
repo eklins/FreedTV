@@ -2627,8 +2627,12 @@ https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★KMTV
 https://dk7psf0dh3v1r.cloudfront.net/KMTV/playlist.m3u8
-#EXTINF:-1 ,GBR★Love World TV
+#EXTINF:-1 ,GBR★Love World TV (1080p) [Not 24/7]
 https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:-1 ,GBR★Magna Vision (1080p) [Not 24/7]
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 ,GBR★Manoto TV (1080p)
+https://dh4wkqcyy8768.cloudfront.net/live.m3u8
 #EXTINF:-1 ,GBR★Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★MyTime Movie Network
@@ -2685,6 +2689,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4af2ffa9506ab29cf38c38&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=216&terminate=false&userId=
 #EXTINF:-1 ,GBR★Pluto Retro Drama (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91f19c2c3300098ce961/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf91f19c2c3300098ce961&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=415&terminate=false&userId=
+#EXTINF:-1 ,GBR★Pop Max (576p)
+https://live-sonybebanjo.simplestreamcdn.com/live/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 ,GBR★QVC (540p)
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 ,GBR★QVC Beauty (540p)
