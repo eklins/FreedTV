@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PopMax.uk" status="online",POP Max (576p)
+https://live-sonybebanjo.simplestreamcdn.com/live/popmax/bitrate1.isml/live.mpd
+#EXTINF:-1 tvg-id="PopMax.uk" status="online",POP Max (576p)
+https://live-sonybebanjo.simplestreamcdn.com/live/popmax/bitrate1.isml/live.m3u8
 #EXTINF:-1 ,无线新闻
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0
 #EXTINF:-1 ,无线财经
