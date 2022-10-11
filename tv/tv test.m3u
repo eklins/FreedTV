@@ -19,6 +19,54 @@ http://top.streancdn.fun:80/0987654321/1234567890/2162533
 http://top.streancdn.fun:80/0987654321/1234567890/2162508
 #EXTINF:-1 ,SYFY SD
 http://top.streancdn.fun:80/0987654321/1234567890/2163103
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Vietnam.png",Vietnam❤Animax Asia
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★BBC Lifestyle Asia
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 ,VNM★Blue Ant Entertainment
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,VNM★Blue Ant Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,VNM★Boomerang Southeast Asia
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★CBeebies Asia
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★Cinemax (720p)
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★Da Vinci
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★HBO
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★HTV1 (576p)
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★HTV3 (576p)
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★HTV4 (576p)
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★Kix
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★MTV Vietnam (576p)
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★National Geographic (1080p)
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★National Geographic Wild Asia (1080p)
+https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★PTP HD
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★Rock Entertainment
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★Rock Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,VNM★VTC2
+https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★VTC4
+https://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★VTC5 (576p)
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
+#EXTINF:-1 ,VNM★VTC6 (576p)
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO afn (Asian Food Network)
 http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54243
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Animal Planet
