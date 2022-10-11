@@ -1873,6 +1873,8 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 https://mmm-ducktv-4-no.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,NOR★Euronews
 https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,NOR★Filmstream
+https://spi-filmstream-1-no.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NOR★Kanal Asia 10
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 #EXTINF:-1 ,NOR★Rakuten Action
