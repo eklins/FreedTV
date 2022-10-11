@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,France 24 (driptvs)
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/309636
+#EXTINF:-1 ,France 24 (YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 ,无线新闻
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0
 #EXTINF:-1 ,无线财经
