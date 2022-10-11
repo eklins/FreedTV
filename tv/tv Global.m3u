@@ -571,6 +571,8 @@ https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Finland.png",Finland❤Alfa TV
 https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
+#EXTINF:-1 ,FIN★Filmstream
+https://spi-filmstream-1-fi.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FIN★Rakuten Action
 https://rakuten-action-12-fi.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FIN★Rakuten Action (PLEX)
