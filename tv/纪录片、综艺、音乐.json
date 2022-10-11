@@ -2923,6 +2923,12 @@
       "parse": false
     },
     {
+      "name": "Caltex Music (Iran) [Not 24/7]",
+      "url": "https://vid1.caltexmusic.com/hls/caltextv.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Carina TV (Italy)",
       "url": "http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
