@@ -487,12 +487,6 @@
       "parse": false
     },
     {
-      "name": "台湾华视新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "台湾台视新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Q8qNfsfYckBC4fWMv5VeLk9NvT4Ixp1cKA&usqp=CAU",
