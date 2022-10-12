@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,France 24
+#EXTINF:-1 ,France 24 HI
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 ,France 24 LO
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 ,France 24 (driptvs)
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/309636
