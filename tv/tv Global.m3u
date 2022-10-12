@@ -1463,6 +1463,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
 #EXTINF:-1 ,KOR★CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 ,KOR★Channel A
+http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NjU2MDQ0NTUsInBhdGgiOiIvY2hhbGl2ZXBjL19kZWZpbnN0Xy9hdHYyIn0.D-i8PryBOn25rZBeCqVepLbBqk7t0NKG96Medwmsw_o
 #EXTINF:-1 ,KOR★EBS 1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 #EXTINF:-1 ,KOR★EBS 2
@@ -1481,7 +1483,7 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 ,KOR★KCTV 광주 CH21
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1 ,KOR★KTV
+#EXTINF:-1 ,KOR★Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 ,KOR★KYTV (Korean Song Channel)
 http://live.kytv.co.kr:8080/hls/stream.m3u8
@@ -1515,6 +1517,10 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 http://51.81.66.195:1935/krtv/sbs_sports_540/playlist.m3u8
 #EXTINF:-1 ,KOR★Sky Sports
 http://51.81.66.195:1935/krtv/sky_sports_540/playlist.m3u8
+#EXTINF:-1 ,KOR★SPOTV (1080p)
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 ,KOR★SPOTV2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 ,KOR★TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 ,KOR★TV Work Net (480p)
