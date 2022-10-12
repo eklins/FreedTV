@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "France 24 (English)",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGtxTqEnFCfUQ5Oh26BXI4_qwkwuVHSqq5Q&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "EBC Western (Taiwan) TID",
       "url": "http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
