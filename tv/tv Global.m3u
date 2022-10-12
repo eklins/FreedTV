@@ -431,6 +431,10 @@ https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 https://mavtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★MHz Choice
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★NACTV (720p) [Not 24/7]
+http://stream.pivotalelements.com/nactv/stream.m3u8
+#EXTINF:-1 ,CAN★NETV Toronto (720p) [Not 24/7]
+https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 ,CAN★NTV (Newfoundland TV★480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 ,CAN★Pardesi TV (720p) [Not 24/7]
