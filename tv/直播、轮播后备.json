@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "France 24 (English)",
+      "name": "France 24 (YouTube)",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGtxTqEnFCfUQ5Oh26BXI4_qwkwuVHSqq5Q&usqp=CAU",
       "parse": true
