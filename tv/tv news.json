@@ -278,9 +278,9 @@
     },
     {
       "name": "France 24 (English)",
-      "url": "https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyGuxCofh3wqGebKPnBav9EXEWkESCE3XKA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "GB News",
