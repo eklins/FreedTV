@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ChannelA.kr" status="online",Channel A
+http://han.ddkdxmkj.com/api/han123.php?id=15
 #EXTINF:-1 ,Cinemax HDA8
 https://livecdn.fptplay.net/hda8/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 ,France 24 Github
