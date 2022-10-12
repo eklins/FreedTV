@@ -295,6 +295,12 @@
       "parse": false
     },
     {
+      "name": "Asia Travel (Taiwan)",
+      "url": "http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ATD HD",
       "url": "http://46.99.146.236/0.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
