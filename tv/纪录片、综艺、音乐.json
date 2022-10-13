@@ -3331,6 +3331,12 @@
       "parse": false
     },
     {
+      "name": "RTV Arberia Muzike 4 (Albania)",
+      "url": "http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sluhay (Belarus) [Not 24/7]",
       "url": "https://sluhay.by/live/Ch045pub/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
