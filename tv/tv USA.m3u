@@ -2455,6 +2455,8 @@ https://thefirst-distroscale.amagi.tv/index.m3u8
 https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/2593311/e/1_ta2cmesd/tl/viewer/st/0/t/wbfO_emWCrJLNSdykfFjvw/index-s33.m3u8?__hdnea__=st=1664689067~exp=1664775467~acl=/s/env/cluster-1-d.live.nvp1/live/hls/p/2593311/e/1_ta2cmesd/tl/viewer/st/0/t/wbfO_emWCrJLNSdykfFjvw/index-s3*~hmac=7c240adcea4042abd78485aa19041028d1678befcbcaa75705323edd325e6d9d
 #EXTINF:-1 ,The Grio
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8
+#EXTINF:-1 ,The Grio (WNYW-DT4)
+https://v-ny.mybtv.net/live/552.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,The Heartland Network (720p)
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 ,The Love Destination (1080p)
