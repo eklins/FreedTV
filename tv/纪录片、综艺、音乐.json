@@ -3109,12 +3109,6 @@
       "parse": false
     },
     {
-      "name": "MTV (Portugal)",
-      "url": "http://176.79.76.155:8000/play/a01x/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Music Reload (Cyprus)",
       "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
