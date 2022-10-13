@@ -55,16 +55,22 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 ,ARG★Am1020 (360p)
 http://51.79.83.93:9998/live/am1020/playlist.m3u8
+#EXTINF:-1 ,ARG★América TV (720p)
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 ,ARG★Cadena VIVO (720p)
+https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8
 #EXTINF:-1 ,ARG★Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 ,ARG★Canal Blu
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
-#EXTINF:-1 ,ARG★Cine Famiiar
-https://streannlivecariflix.cachefly.net/cariflix5/cariflix5/playlist.m3u8
-#EXTINF:-1 ,ARG★Cine Hispano
-https://streannlivecariflix.cachefly.net/cariflix6/cariflix6/playlist.m3u8
+#EXTINF:-1 ,ARG★CINE.AR (720p) [Not 24/7]
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 ,ARG★Corrientes TV
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+#EXTINF:-1 ,ARG★Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 ,ARG★CPEtv
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:-1 ,ARG★Millennium TV
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 #EXTINF:-1 ,ARG★Misiones Cuatro
