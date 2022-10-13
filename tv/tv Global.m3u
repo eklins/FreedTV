@@ -519,19 +519,19 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 ,CYP★Smile
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Czech-Republic.png",Czech❤CNN Prima News Ⓢ
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Czech-Republic.png",Czech❤CNN Prima News
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 ,CZE★JOJ Family Ⓢ
+#EXTINF:-1 ,CZE★JOJ Family
 https://live.cdn.joj.sk/live/hls/family-540.m3u8
-#EXTINF:-1 ,CZE★Óčko Ⓢ
+#EXTINF:-1 ,CZE★Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 ,CZE★Óčko Expres Ⓢ
+#EXTINF:-1 ,CZE★Óčko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 ,CZE★Óčko Star Ⓢ
+#EXTINF:-1 ,CZE★Óčko Gold
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1 ,CZE★Retro
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w389667105_b750000.m3u8
-#EXTINF:-1 ,CZE★Šlágr Premium Ⓢ
+#EXTINF:-1 ,CZE★Šlágr Premium
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Dominican-Republic.png",Dominican Republic❤GH TV
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
