@@ -661,6 +661,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 ,FRA★Filmstream
 https://spi-filmstream-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FRA★Generations TV (576p)
+https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 ,FRA★M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 ,FRA★MDL
