@@ -31,14 +31,18 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Albania.png",Albania❤7 HD
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
-#EXTINF:-1 ,ALB★ALB Dreams
+#EXTINF:-1 ,ALB★ALB Dreams (720p)
 http://live.albavision.net:1123/live/albdreams.m3u8
+#EXTINF:-1 ,ALB★ALB Music (720p) [Not 24/7]
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 ,ALB★ALPO (720p) [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1 ,ALB★Korça＋ [Not 24/7]
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1 ,ALB★News 24 (392p) [Not 24/7]
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 ,ALB★RTV Arberia Muzike 4
+http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
 #EXTINF:-1 ,ALB★Top Estrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 ,ALB★TV 7 (540p) [Not 24/7]
@@ -587,6 +591,8 @@ https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ethiopia.png",Ethiopia❤Addis TV (Amharic)
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Fiji.png",Fiji❤Fiji TV (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Finland.png",Finland❤Alfa TV
 https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
 #EXTINF:-1 ,FIN★Duck TV
