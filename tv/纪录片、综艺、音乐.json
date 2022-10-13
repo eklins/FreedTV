@@ -2983,6 +2983,12 @@
       "parse": false
     },
     {
+      "name": "Generations TV (France★576p)",
+      "url": "https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Glas Drine (Bosnia and Herzegovina)",
       "url": "http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
