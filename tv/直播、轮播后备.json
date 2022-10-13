@@ -157,6 +157,12 @@
       "parse": false
     },
     {
+      "name": "台湾TVBS新闻",
+      "url": "http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾民视新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
