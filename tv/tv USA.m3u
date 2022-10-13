@@ -591,10 +591,6 @@ https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 ,Cinema 35 (Los Angeles City View 35)
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 ,Cinemax (East★Spanish/English★360p)
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 ,Cinemax Action (East★360p)
-http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
 #EXTINF:-1 ,CityTV ❛ōlelo 49 (Honolulu Hawaii)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_009/chunklist.m3u8
 #EXTINF:-1 ,CityTV ❛ōlelo 53 (Honolulu Hawaii)
