@@ -619,6 +619,8 @@ https://rakuten-family-12-fi.plex.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FIN★Rakuten The Guardian
 https://rakuten-guardian-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FIN★Sci-Fi (FilmRise)
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
 #EXTINF:-1 ,FIN★Taevas TV7 (720p)
 https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤Africa News Français
