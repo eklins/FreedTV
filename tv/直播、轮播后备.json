@@ -283,6 +283,12 @@
       "parse": false
     },
     {
+      "name": "Cinemax (Taiwan)",
+      "url": "http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "张国荣",
       "url": "http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLlUoc6MlX-3WpixX-56C8R0hywYUMumFpA&usqp=CAU",
