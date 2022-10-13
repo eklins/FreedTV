@@ -517,6 +517,12 @@
       "parse": true
     },
     {
+      "name": "台湾非凡新闻",
+      "url": "http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGvISk6mJwmdmgZBt8159FRRva5qsa7gpDg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "台湾三立LIVE新闻",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
