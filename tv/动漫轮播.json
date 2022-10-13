@@ -1,136 +1,40 @@
 {
   "data": [
     {
-      "name": "海绵宝宝 ①",
+      "name": "🇱🇷海绵宝宝 ①",
       "url": "http://zzy789.xyz/bili.php?id=4355330",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
       "parse": true
     },
     {
-      "name": "海绵宝宝 ②",
-      "url": "http://zzy789.xyz/bili.php?id=9819411",
+      "name": "🇱🇷海绵宝宝 ②",
+      "url": "http://zzy789.xyz/bili.php?id=61834",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
       "parse": true
     },
     {
-      "name": "海绵宝宝 S1-13",
+      "name": "🇱🇷海绵宝宝 S1-13",
       "url": "http://zzy789.xyz/bili.php?id=14495324",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4haP2-Asg8a544pqQxwsE5umyfdLA0UJ7Q&usqp=CAU",
       "parse": true
     },
     {
-      "name": "哆啦A梦",
-      "url": "http://zzy789.xyz/bili.php?id=1717236",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JDOcmPcc3Byrj8amfEnk87lWAyKdCD4Seg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "哆啦A梦新番（日）",
-      "url": "http://zzy789.xyz/bili.php?id=482946",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNug9Ql_DwnWIcBNJiImyBCglR2k1W0kxCBg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "哆啦A梦剧场版",
-      "url": "http://zzy789.xyz/bili.php?id=6419694",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qnUhQ0AF5IRxsX5tOgFT4ucb1hBUiI94KQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "蜡笔小新 1992",
-      "url": "http://zzy789.xyz/bili.php?id=10375360",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmBwhUkFMnCziTZLDntAiYttkAe1N58T9Zg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "我们这一家 2002-2009",
-      "url": "http://zzy789.xyz/bili.php?id=14901318",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKL7-kLvPYajrac9sho5nmPo7_ErHiHf5Z3g&usqp=CAU",
+      "name": "🇱🇷猫和老鼠",
+      "url": "http://zzy789.xyz/bili.php?id=24470876",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi81nfT0U6I5D1tqbY8SLprWgC5pNYz9hG_g&usqp=CAU",
       "parse": true
     },
     {
       "name": "倒霉熊 2005",
       "url": "http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTLLKIgsjfUpnFqhHaYKHkWBOYVl02nFOYA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "小猪佩奇 2004",
       "url": "http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrZMOkoDojER9DAIj-WXiUMhBkAIfJ975zQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "武林外传 2010",
-      "url": "http://mmitv.top/pltv/yy.php?id=1355269338",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9L6K_BL-x_PRSkOQJ4hV0PBrTssQKxS4u-A&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "弹珠传说 2010",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354930979",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPaAjvF8u3qRwIRRI-FiBuy1oOnfWxuKw7EA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "星游记 2011",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354936155",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtD547cla-CX396o6pDlxxkZ5rPDNx5rzltw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "神魄 2013",
-      "url": "http://mmitv.top/pltv/yy.php?id=28796627",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrWkl2vWyymwb4sEt8YXfAw33tVRPYclo4w&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "通职者 2015",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382749919",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHeaKJwQwWyIMZBtVnN-LfWyCipZKXTBGcQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "蛮荒记 2015",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382736908",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wDXE6rMW1isot3oRTSdwAsSFuPlgRR67hw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "妖神记 2015",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382745171",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSusxUaIZEP1TG_0Z1gIp4YHNvjfxeTW_F_3w&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "妖神记之黑狱篇 2020",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382745173",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHHcsBBt2aapFkhtzjNVuwPOZ1NqV_DNibfA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "双月之城 2016",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382736907",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQPTqFibV153K2gecLGHExaWnN7o0z6MWVnA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "斗罗大陆 2018",
-      "url": "http://mmitv.top/pltv/yy.php?id=28796627",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqcpBVQYHD_GaZWFhdrjZt3gsMvpENR8M3A&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "宇宙护卫队 2018",
-      "url": "http://mmitv.top/pltv/yy.php?id=1382736837",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQCrNF5bUqWuINs9mOxPn8dWyCep6s7mJ2g&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "Barbie",
-      "url": "http://zzy789.xyz/bili.php?id=662181",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSasiI3lBlu8SYXGjxNO2HueYhtZW0K5zuWiw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Bubble Guppies 2011",
@@ -184,6 +88,12 @@
       "name": "Totally Turtles (Nickelodeon)",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8livestitch/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d0c16d686454ead733d08f8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=983&terminate=false&userId=&profilesFromStream=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQVhGaHyiXeJl1hL45xfE_LX7RpWt1GNhRA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Ultraman（奥特曼）1966",
+      "url": "http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnr51l0-a63tyAmoq9cB3zWs1dO5xSjPrlg&usqp=CAU",
       "parse": false
     },
     {
@@ -715,10 +625,58 @@
       "parse": false
     },
     {
-      "name": "奥特曼（日）1966",
-      "url": "http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVXOzPm-zT3L_4UUfxpNjENHKMCtazQazXQ&usqp=CAU",
-      "parse": false
+      "name": "蜡笔小新 1992",
+      "url": "http://zzy789.xyz/bili.php?id=10375360",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmBwhUkFMnCziTZLDntAiYttkAe1N58T9Zg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "神魄 2013",
+      "url": "http://mmitv.top/pltv/yy.php?id=28796627",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrWkl2vWyymwb4sEt8YXfAw33tVRPYclo4w&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "通职者 2015",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382749919",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHeaKJwQwWyIMZBtVnN-LfWyCipZKXTBGcQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "蛮荒记 2015",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736908",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wDXE6rMW1isot3oRTSdwAsSFuPlgRR67hw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "妖神记 2015",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382745171",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSusxUaIZEP1TG_0Z1gIp4YHNvjfxeTW_F_3w&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "妖神记之黑狱篇 2020",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382745173",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHHcsBBt2aapFkhtzjNVuwPOZ1NqV_DNibfA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "双月之城 2016",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736907",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQPTqFibV153K2gecLGHExaWnN7o0z6MWVnA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "斗罗大陆 2018",
+      "url": "http://mmitv.top/pltv/yy.php?id=28796627",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqcpBVQYHD_GaZWFhdrjZt3gsMvpENR8M3A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "宇宙护卫队 2018",
+      "url": "http://mmitv.top/pltv/yy.php?id=1382736837",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQCrNF5bUqWuINs9mOxPn8dWyCep6s7mJ2g&usqp=CAU",
+      "parse": true
     },
     {
       "name": "足球小将（日）1983",
@@ -759,18 +717,6 @@
     {
       "name": "🇦🇺ABC Kids (Australia)",
       "url": "https://c.mjh.nz/101002210222",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾经典卡通台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾精选动漫台",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
