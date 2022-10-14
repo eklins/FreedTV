@@ -23,6 +23,8 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 ,🇦🇼Aruba.TV
 https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
+#EXTINF:-1 ,🇺🇳CFN TV (720p)
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Fentazy
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 ,🇺🇳ONTV
@@ -31,6 +33,10 @@ https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 https://1247634592.rsc.cdn77.org/1247634592/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
+#EXTINF:-1 ,🇺🇳THT
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:-1 ,🇺🇳THT Music (1080p)
+http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤ATN International
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 ,AFG★WATAN-E-MAA
@@ -223,6 +229,8 @@ https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★RTV
 http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 ,AUT★Teins TV (1080p)
+https://live1.markenfunk.com/t1/live/playlist.m3u8
 #EXTINF:-1 ,AUT★Travel XP
 https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★True Crime Now
@@ -413,8 +421,6 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 ,CAN★Baywatch 1989-2001
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
-#EXTINF:-1 ,CAN★Canada Star TV
-https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
 #EXTINF:-1 ,CAN★CBC News Highlights
 https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
 #EXTINF:-1 ,CAN★CHCO TV
@@ -465,6 +471,10 @@ https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3
 https://rtmtv-samsung-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★QVTV
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
+#EXTINF:-1 ,CAN★S+L (Salt+Light)
+https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:-1 ,CAN★Star Canada TV
+https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
 #EXTINF:-1 ,CAN★The Design Network
 https://thedesignnetwork-tdn-6-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★The Jack Hannah Channel
@@ -2233,7 +2243,7 @@ http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 ,RUS★Enisey (Енисей)
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 ,RUS★Eurodance '90
+#EXTINF:-1 ,RUS★Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 ,RUS★Gubernia (Губерния★Самара)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
@@ -2241,8 +2251,8 @@ http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 https://netstreaming.eu:8080/hls/hd365.m3u8
 #EXTINF:-1 ,RUS★Hope (Надежда)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 ,RUS★HTB
-https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
+#EXTINF:-1 ,RUS★HTB HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 ,RUS★НТС (Севастополь)
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 ,RUS★НТМ (Народное телевидение Мордовии)
@@ -2275,6 +2285,8 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1 ,RUS★РБК
 http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 ,RUS★Ростов папа (Rostov papa)
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1 ,RUS★RT Documentary Russian
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,RUS★RT News
@@ -2513,6 +2525,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-sam
 https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Switzerland.png",Switzerland❤One TV (360p)
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 ,CHE★LFM TV (1080p)
+http://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
 #EXTINF:-1 ,CHE★Pluto Movies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,CHE★Pluto Movies+
@@ -2598,7 +2612,7 @@ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 ,UAE★Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 #EXTINF:-1 ,UAE★Dubai one
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1 ,UAE★Dubai Sports ①
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 ,UAE★Dubai Sports ②
@@ -2623,6 +2637,8 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
 #EXTINF:-1 ,UAE★MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 ,UAE★National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:-1 ,UAE★Takhayl
 https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/shahid-media-prod-channel-assembly-1/index.m3u8
 #EXTINF:-1 ,UAE★Weyyak Action
@@ -2638,7 +2654,7 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 ,UAE★Weyyak Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Kingdom.png",United Kingdom❤Arise News
-https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8
+http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 ,GBR★BBC One
 http://w4.12all.tv:4000/play/bbc1/index.m3u8
 #EXTINF:-1 ,GBR★BBC Two
@@ -2677,6 +2693,8 @@ https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://spi-filmstream-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★FTF For The Fans
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,GBR★Garshom TV (360p)
+http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 ,GBR★GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 ,GBR★Gusto TV
