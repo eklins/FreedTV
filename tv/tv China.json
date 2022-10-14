@@ -463,6 +463,12 @@
       "parse": false
     },
     {
+      "name": "BRTV 新闻（北京）",
+      "url": "http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "北海经济科教",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225882/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
