@@ -2345,6 +2345,8 @@ https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1 ,SRB★RTV AS
 https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sierra-Leone.png",Sierra Leone❤AYV (720p) [Not 24/7]
+https://1219373429.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Slovakia.png",Slovakia❤JOJ (720p) [Not 24/7]
 https://nn.geo.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 ,SVK★JOJ Family (540p) [Not 24/7]
