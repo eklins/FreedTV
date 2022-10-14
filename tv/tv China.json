@@ -463,6 +463,12 @@
       "parse": false
     },
     {
+      "name": "BRTV 青年（北京）",
+      "url": "http://111.13.42.235/PLTV/88888888/224/3221226562/1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BRTV 新闻（北京）",
       "url": "http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
