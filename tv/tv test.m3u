@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,财经体育资讯台
+http://120.84.96.62:808/hls/86/index.m3u8
 #EXTINF:-1 ,Hollywood HD 213.172
 http://213.172.73.171:8081/nimble_live/1179__MGM_HD/playlist.m3u8
 #EXTINF:-1 ,中天新闻 60.199
