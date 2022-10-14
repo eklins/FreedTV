@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,求索生活
+http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 ,财经体育资讯台
 http://120.84.96.62:808/hls/86/index.m3u8
 #EXTINF:-1 ,Hollywood HD 213.172
