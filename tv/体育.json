@@ -368,13 +368,13 @@
     },
     {
       "name": "BT Sports ①",
-      "url": "http://93.152.174.144:4000/play/btsport1/index.m3u8",
+      "url": "http://s@185.53.89.12:8081/live/ch1/chunks.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
       "name": "BT Sports ②",
-      "url": "http://93.152.174.144:4000/play/btsport2/index.m3u8",
+      "url": "http://s@185.53.89.12:8081/live/ch4/chunks.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -595,6 +595,12 @@
       "parse": false
     },
     {
+      "name": "La Liga TV",
+      "url": "http://s@185.53.89.12:8081/live/ch2/chunks.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Lax Sports Network TV",
       "url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -799,8 +805,32 @@
       "parse": false
     },
     {
+      "name": "Sky Sports Arena (India)",
+      "url": "http://watchindia.net:8880/live/vvv/vvv/2095.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sky Sports F1",
       "url": "http://93.152.174.144:4000/play/ssportsf1/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sports Football (India)",
+      "url": "http://watchindia.net:8880/live/vvv/vvv/2093.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sports Main Event (India)",
+      "url": "http://watchindia.net:8880/live/vvv/vvv/2091.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sports Premium League (India)",
+      "url": "http://watchindia.net:8880/live/vvv/vvv/2092.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -853,8 +883,38 @@
       "parse": false
     },
     {
+      "name": "Star Sports ① (India)",
+      "url": "http://watchindia.net:8880/live/vvv/vvv/2162.m3u8#http://103.99.249.107:81/play/a00d",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Star Sports ② (India)",
+      "url": "http://watchindia.net:8880/live/vvv/vvv/1069.m3u8#http://103.99.249.107:81/play/a00c",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Star Sports Select ① (India)",
+      "url": "http://watchindia.net:8880/live/vvv/vvv/1070.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Star Sports Select ② (India)",
+      "url": "http://watchindia.net:8880/live/vvv/vvv/1071.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Strongman Champions League (Netherlands)",
       "url": "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SuperSport Football (South Aftica)",
+      "url": "http://s@185.53.89.12:8081/live/ch3/chunks.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
