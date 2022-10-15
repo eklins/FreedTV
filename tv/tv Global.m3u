@@ -2131,6 +2131,8 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:-1 ,PRT★Igreja Online
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+#EXTINF:-1 ,PRT★Kuriakos TV (1080p)
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★Porto Canal
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 ,PRT★Rakuten Documentaries
@@ -2141,12 +2143,10 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,PRT★RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 ,PRT★TV Maná 1
-http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8
-#EXTINF:-1 ,PRT★TV Maná 2
-http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
-#EXTINF:-1 ,PRT★TV Maná Córdoba
-http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 ,PRT★TV Maná 1 (1080p)
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 ,PRT★TV Maná 2 (1080p)
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★TV Maná English (1080p)
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★TVI (480p)
