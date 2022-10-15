@@ -2245,7 +2245,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 ,RUS★Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 ,RUS★Fantastika Sci-Fi
+#EXTINF:-1 ,RUS★Fantastika Sci-Fi (Фантастика★400p) [Not 24/7]
 http://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 ,RUS★Gubernia (Губерния★Самара)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
@@ -2293,8 +2293,6 @@ http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,RUS★RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 ,RUS★Sci-Fi Фантастика (480p) [Not 24/7]
-https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 ,RUS★Sochi 24 (Сочи)
 https://serv30.vintera.tv/sochi/sochi24/playlist.m3u8
 #EXTINF:-1 ,RUS★Sochi Live HD
