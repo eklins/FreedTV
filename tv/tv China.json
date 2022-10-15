@@ -2204,7 +2204,7 @@
     },
     {
       "name": "台湾民视新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw",
+      "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
       "parse": true
     },
@@ -2252,7 +2252,7 @@
     },
     {
       "name": "台湾东森财经新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw",
+      "url": "http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54",
       "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
       "parse": true
     },
