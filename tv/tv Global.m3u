@@ -2355,8 +2355,10 @@ https://cllive.itworkscdn.net/sbclive/token=nva=1652274433~dirs=1~hash=01efbdb91
 https://edge.taghtia.com/sa/3.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Senegal.png",Senegal❤A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:-1 ,SEN★A2i Naija (French)
+#EXTINF:-1 ,SEN★A2i Naija (French) [Not 24/7]
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1 ,SEN★A2i TV (1080p) [Not 24/7]
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Serbia.png",Serbia❤Djak TV
 https://srv1.adriatelekom.com/DjakTV/index.m3u8
 #EXTINF:-1 ,SRB★Kurir TV
