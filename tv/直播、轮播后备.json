@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "易中天品三国",
+      "url": "http://mmitv.top/pltv/yy.php?id=1461244449",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "France 24 (YouTube)",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGtxTqEnFCfUQ5Oh26BXI4_qwkwuVHSqq5Q&usqp=CAU",
