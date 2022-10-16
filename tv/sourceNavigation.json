@@ -81,10 +81,10 @@
       "webPlus": {}
     },
     {
-      "name": "NewTV ",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/newtv.m3u",
-      "type": "txt",
+      "name": "WebTV ",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/webtv.json",
+      "type": "json",
       "subTitle": "",
       "click": true,
       "autoNext": false,
