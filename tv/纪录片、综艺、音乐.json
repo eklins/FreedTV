@@ -127,69 +127,33 @@
       "parse": false
     },
     {
-      "name": "河南国学频道",
-      "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPCH1Zj7kAddKB6u4WysBGnZFIH5nx7LjuQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "湖南金鹰纪实",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls",
-      "pic": "http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",
-      "parse": false
-    },
-    {
-      "name": "NewTV 精品纪录",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NewTV 军事评论",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFgNeSexlKvbZNezB6OxTrWv9L9vS0jeeIA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "兵器科技",
+      "name": "CCTV 兵器科技",
       "url": "http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
       "parse": true
     },
     {
-      "name": "文化精品",
-      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
-      "parse": false
-    },
-    {
-      "name": "发现之旅",
+      "name": "CCTV 发现之旅",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
       "parse": true
     },
     {
-      "name": "世界地理",
-      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055201348.jpg",
-      "parse": false
-    },
-    {
-      "name": "老故事",
+      "name": "CCTV 老故事",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
       "parse": true
     },
     {
-      "name": "纪实人文",
-      "url": "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx76NTDNiva_BFPxDpKKlt8f8rW3YkW7Gz1g&usqp=CAU",
+      "name": "CCTV 世界地理",
+      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055201348.jpg",
       "parse": false
     },
     {
-      "name": "全纪实",
-      "url": "http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr0UMdxprWg6GQobAN2hdIavdQphjXPKgYw&usqp=CAU",
+      "name": "CCTV 文化精品",
+      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
       "parse": false
     },
     {
@@ -205,16 +169,40 @@
       "parse": false
     },
     {
-      "name": "荒野探秘",
-      "url": "https://m.huya.com/21059555",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "name": "NewTV 精品纪录",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
     },
     {
-      "name": "探秘海底世界／复古恐龙时代",
-      "url": "https://m.huya.com/20985846",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": true
+      "name": "NewTV 军事评论",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "河南国学频道",
+      "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPCH1Zj7kAddKB6u4WysBGnZFIH5nx7LjuQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "湖南金鹰纪实",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",
+      "parse": false
+    },
+    {
+      "name": "纪实人文",
+      "url": "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx76NTDNiva_BFPxDpKKlt8f8rW3YkW7Gz1g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "全纪实",
+      "url": "http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr0UMdxprWg6GQobAN2hdIavdQphjXPKgYw&usqp=CAU",
+      "parse": false
     },
     {
       "name": "成都熊猫繁育研究基地",
