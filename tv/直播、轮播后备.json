@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "name": "荒野探秘",
+      "url": "https://m.huya.com/21059555",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "探秘海底世界／复古恐龙时代",
+      "url": "https://m.huya.com/20985846",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "易中天品三国",
       "url": "http://mmitv.top/pltv/yy.php?id=1461244449",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
