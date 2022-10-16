@@ -997,12 +997,6 @@
       "parse": false
     },
     {
-      "name": "USA Basketball Dream Team",
-      "url": "http://mmitv.top/pltv/yy.php?id=1354946966",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "VSIN",
       "url": "https://stream.rcncdn.com/live/vsinproxy.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -1291,25 +1285,31 @@
       "parse": false
     },
     {
-      "name": "欧美女子摔跤",
+      "name": "🇱🇷NBA梦之队经典",
+      "url": "http://mmitv.top/pltv/yy.php?id=1354946966",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇱🇷欧美女子摔跤",
       "url": "http://mmitv.top/pltv/yy.php?id=1459727675",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     },
     {
-      "name": "日本女子摔跤①",
+      "name": "🇯🇵日本女子摔跤①",
       "url": "http://mmitv.top/pltv/yy.php?id=1355277346",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     },
     {
-      "name": "日本女子摔跤②",
+      "name": "🇯🇵日本女子摔跤②",
       "url": "http://mmitv.top/pltv/yy.php?id=1354946995",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     },
     {
-      "name": "日本女子摔跤③",
+      "name": "🇯🇵日本女子摔跤③",
       "url": "https://m.huya.com/11602069",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
