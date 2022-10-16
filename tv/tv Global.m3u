@@ -29,8 +29,6 @@ https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 ,🇺🇳ONTV
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
-#EXTINF:-1 ,🇺🇳Shelanu TV (720p)
-https://1247634592.rsc.cdn77.org/1247634592/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 #EXTINF:-1 ,🇺🇳THT
@@ -2845,10 +2843,18 @@ https://revry-revry-3-gb.samsung.wurl.tv/playlist.m3u8
 https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Rugby World TV
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 ,GBR★Shelanu TV (720p)
+https://1247634592.rsc.cdn77.org/1247634592/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,GBR★Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 ,GBR★Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 ,GBR★Sky News Extra 1 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 ,GBR★Sky News Extra 2 (540p) [Not 24/7]
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 ,GBR★Sky News Extra 3 (1080p)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 ,GBR★Sofy TV
 https://sofytv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Spark TV
