@@ -1219,6 +1219,12 @@
       "parse": false
     },
     {
+      "name": "峨嵋电影",
+      "url": "http://112.19.214.90:8883/tsfile/live/1004_1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "哈哈炫动",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225711/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -1249,14 +1255,14 @@
       "parse": false
     },
     {
-      "name": "精彩综艺",
-      "url": "http://111.20.33.70/TVOD/88888893/224/3221226009/index.m3u8",
+      "name": "经典再现",
+      "url": "http://112.19.214.90:8883/tsfile/live/1009_1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "芒果TV直播",
-      "url": "http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8",
+      "name": "精彩综艺",
+      "url": "http://111.20.33.70/TVOD/88888893/224/3221226009/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
