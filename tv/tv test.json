@@ -25,6 +25,12 @@
       "parse": false
     },
     {
+      "name": "Space Toon (Indonesia)",
+      "url": "https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cinemax (US East★Spanish/English★360p)",
       "url": "http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
