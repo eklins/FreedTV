@@ -2701,6 +2701,8 @@ http://ott-cdn.ucom.am/s37/index.m3u8
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,GBR★Filmstream
 https://spi-filmstream-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Free Sports (1080p) [Not 24/7]
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
 #EXTINF:-1 ,GBR★FTF For The Fans
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,GBR★Garshom TV (360p)
