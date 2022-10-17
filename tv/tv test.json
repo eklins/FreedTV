@@ -1,12 +1,6 @@
 {
   "data": [
     {
-      "name": "大秦帝国（裂变、纵横、崛起）2009-2017",
-      "url": "http://106.53.212.251/daili/yy.php?id=1355501254",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "Pop TV (720p)",
       "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -23,6 +17,18 @@
       "url": "https://v-pi.mybtv.net/live/326.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "香港无线新闻台",
+      "url": "https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=http://9.zhxinda.xyz/newss.php?id=1",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
+      "parse": true
+    },
+    {
+      "name": "香港无线财经•资讯台",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=http://9.zhxinda.xyz/newss.php?id=2",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
+      "parse": true
     },
     {
       "name": "Space Toon (Indonesia)",
