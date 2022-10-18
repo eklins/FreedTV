@@ -1681,9 +1681,9 @@
       "parse": false
     },
     {
-      "name": "香港开电视 HKSTV-HKS",
+      "name": "香港HOY TV（开电视）",
       "url": "http://media.fantv.hk/m3u8/archive/channel2.m3u8",
-      "pic": "https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQktow13WJxrOAv95467U_NqB0bmDk3ccyg&usqp=CAU",
       "parse": false
     },
     {
@@ -2206,97 +2206,85 @@
       "name": "台湾TVBS新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾TVBS56台",
-      "url": "http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5684849.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾东森新闻",
       "url": "http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12",
       "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾民视新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾华视新闻",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾台视新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Q8qNfsfYckBC4fWMv5VeLk9NvT4Ixp1cKA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾寰宇新闻",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾年代新闻",
       "url": "http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEeI09e9rbaEBTgvCffDkvWwwPiKwlnBUCyw&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾非凡新闻",
       "url": "http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGvISk6mJwmdmgZBt8159FRRva5qsa7gpDg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾三立LIVE新闻",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾三立iNEWS",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾东森财经新闻",
       "url": "http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54",
       "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾原住民电视",
       "url": "http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾原住民频道",
       "url": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾大立电视",
       "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     },
     {
       "name": "Indigenous TV",
       "url": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
+      "parse": false
     }
   ]
 }
