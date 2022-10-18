@@ -61,6 +61,12 @@
       "parse": false
     },
     {
+      "name": "CCTV-3 综艺",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGS5wQ-Fb9Bts78C8A9We8EEL-XnI6ylTCPQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "CCTV-9 纪录",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunGOpNHKH2iuDkqWTmVS5WK9XcJwG1KuIvA&usqp=CAU",
@@ -135,25 +141,31 @@
     {
       "name": "河南国学频道",
       "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPCH1Zj7kAddKB6u4WysBGnZFIH5nx7LjuQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "湖南金鹰纪实",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls",
-      "pic": "http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "纪实人文",
       "url": "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx76NTDNiva_BFPxDpKKlt8f8rW3YkW7Gz1g&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "精彩综艺",
+      "url": "http://111.20.33.70/TVOD/88888893/224/3221226009/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "全纪实",
       "url": "http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr0UMdxprWg6GQobAN2hdIavdQphjXPKgYw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
