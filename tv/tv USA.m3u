@@ -2345,6 +2345,8 @@ https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 ,STIRR MST3K (Mystery Science Theater 3000)
 https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
+#EXTINF:-1 ,STIRR NASA TV (720p)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 ,STIRR National (720p)
 https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8
 #EXTINF:-1 ,STIRR Outdoor America (720p)
@@ -2381,9 +2383,11 @@ http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
 https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
 #EXTINF:-1 ,STIRR The Bob Ross Channel (240p)
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+#EXTINF:-1 ,STIRR The Country Network (1080p)
+https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
 #EXTINF:-1 ,STIRR The Film Detective
 https://filmdetective-stirr.amagi.tv/index.m3u8
-#EXTINF:-1 ,STIRR The Tim Conway Show
+#EXTINF:-1 ,STIRR The Tim Conway Show (720p)
 https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8
 #EXTINF:-1 ,STIRR USA Today (1080p)
 https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
