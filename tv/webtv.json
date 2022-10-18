@@ -73,6 +73,12 @@
       "parse": true
     },
     {
+      "name": "Father Ted",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=qx5PllHqlpc",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Horror",
       "url": "https://m.huya.com/11352903",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -967,6 +973,18 @@
       "parse": true
     },
     {
+      "name": "新玫瑰瞳铃眼（台）2003",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=1kzVPwTeKds",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD2kGLXXZQvgoRsX9GrZ7XTtRACEiuz6P1sQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "新兵日记（台）2010",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=bn7glmBPmIQ",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCC9WaS3iYhwUByecxB8ar7_ESF_baBvjHZA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🇰🇷绅士的品格 2012",
       "url": "http://mmitv.top/pltv/yy.php?id=1354930964",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP3C5DYwtlU1xgOyEXAkFZyLsbBOMHa6IgLg&usqp=CAU",
@@ -1462,6 +1480,36 @@
       "name": "饥饿游戏",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=vILCdaEnfTo",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwd-ZHSg4ZEDAzUz3ZbJJnx9ASPXJvQE6TRw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "超级星光大道",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=9w4LcIKdoIo",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "东森娱乐台",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=YacyMIDrIN4",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "猪哥会社",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jEEYa1HsVHI",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "万秀猪王",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ADDSmXoPDY8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "曾国城满满大平台",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_QtxCiOehkY",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
