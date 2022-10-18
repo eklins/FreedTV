@@ -1519,7 +1519,7 @@
       "parse": true
     },
     {
-      "name": "Human Documentary 人类纪",
+      "name": "Human Documentary 人类纪录片",
       "url": "http://mmitv.top/pltv/yy.php?id=1382735573",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
@@ -1786,6 +1786,12 @@
       "name": "🇦🇺ABC TV6",
       "url": "https://c.mjh.nz/101002810281",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RKaD5z6t4PGA_sczlIE5KQSh-KWeroppRQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇹🇼Taiwan+",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA/live",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
