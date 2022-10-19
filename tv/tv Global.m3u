@@ -703,6 +703,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0f17564a30008
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d
 #EXTINF:-1 ,FRA★Rakuten Action Movies
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FRA★Rakuten BBC Doctor Who 2005-?
+https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten BBC Drama
 https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Comedy Movies
@@ -711,6 +713,8 @@ https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-documentaries-7-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Family
 https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,FRA★Rakuten L'Atelier des Chefs (720p)
+https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Romance
 https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FRA★Rakuten Romance (PLEX)
