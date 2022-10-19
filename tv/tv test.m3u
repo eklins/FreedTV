@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,CHC动作电影
+http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CHC高清电影
+http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CHC家庭影院
+http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8?blog.ntnas.top
 #EXTINF:-1 ,Sci-Fi Universal (driptvs)
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/15719
 #EXTINF:-1 ,Studio Universal (driptvs)
