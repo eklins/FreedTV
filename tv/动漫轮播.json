@@ -517,8 +517,26 @@
       "parse": false
     },
     {
+      "name": "动漫 ①",
+      "url": "http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "动漫 ②",
+      "url": "http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "动漫 ③",
+      "url": "http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "动漫秀场",
-      "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8",
+      "url": "http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -543,6 +561,12 @@
     {
       "name": "嘉佳卡通（广东）",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "经典影艺",
+      "url": "http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
