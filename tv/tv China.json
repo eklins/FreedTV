@@ -159,7 +159,7 @@
     {
       "name": "安徽卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225541/index.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ux0FRUF05LXJOYN_lGnvcmBm_GMPq9WRug&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/anhui.png",
       "parse": false
     },
     {
@@ -177,7 +177,7 @@
     {
       "name": "重庆卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSYgb-bIawwUbxkAGuo0fNNjmtbbZ-HdtM0Q&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/chongqing.png",
       "parse": false
     },
     {
@@ -189,97 +189,97 @@
     {
       "name": "东方卫视（上海）",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225561/index.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOLHAymBfsArd22dQi3LEHjbii-1G6SoZtA&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png",
       "parse": false
     },
     {
       "name": "东南卫视（福建）",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225552/index.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrpTdvXv0yRzlXXNXXy4z-hK6lHNf6rcIfQ&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/dongnan.png",
       "parse": false
     },
     {
       "name": "甘肃卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225724/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMXoPd0CrtIsKX6wmvGMJc8U3pGPyLGcp5rw&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/gansu.png",
       "parse": false
     },
     {
       "name": "广东卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225558/index.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Qk12_XGG2COFNn2fD84hIQO3YXNXKwLISw&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/guangdong.png",
       "parse": false
     },
     {
       "name": "广西卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225731/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWshMeRhL_ZXjjNU8qEFPii1V67FSKw63x6A&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/guangxi.png",
       "parse": false
     },
     {
       "name": "贵州卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225728/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdmVhXZOb82LxRfNKOUZC_s5KcJhwuohMDJQ&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/guizhou.png",
       "parse": false
     },
     {
       "name": "海南卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn4cURG65tc5PgWZXeuhowDd6CNFF_0iWS_g&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/lvyou.png",
       "parse": false
     },
     {
       "name": "河北卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225732/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFfVwAUd96SYf0grfCs8N8gQLF0Qmug2m_g&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/hebei.png",
       "parse": false
     },
     {
       "name": "河南卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226196/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujxfXVxxdDwG3Grx3_r4yXE8EwrZx3dWJaw&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/henan.png",
       "parse": false
     },
     {
       "name": "黑龙江卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225542/index.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVl1AnpgLPanh0h2E-4Loc_oya4d1WXbG8xg&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",
       "parse": false
     },
     {
       "name": "湖北卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO2p4Ky1tByRFppETajRAi3NnkCq1uILuLKQ&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/hubei.png",
       "parse": false
     },
     {
       "name": "湖南卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225555/index.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA5IFFN2gGTpoPwKxX3MQdd5AAzRZ5hYgRAg&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/hunan.png",
       "parse": false
     },
     {
       "name": "吉林卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225680/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXJj1fGA1_gn0WPVLgqdoeLZQEWmnGn9MGLA&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
       "parse": false
     },
     {
       "name": "江苏卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjjgscuC2qxHipF4gYsUaZjpQuBW-7aMYBjA&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",
       "parse": false
     },
     {
       "name": "江西卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dEtD4jqmS6c6AtStePbqX0tpD8NprRwg3A&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",
       "parse": false
     },
     {
       "name": "辽宁卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgJxRtENI3CWhE11nJKfGT0IduUUhFqVJNDg&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png",
       "parse": false
     },
     {
@@ -303,19 +303,19 @@
     {
       "name": "山东卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjZCxGh7ThFnlzFX4W_B5Cd1vIuGAOOxRfw&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/shandong.png",
       "parse": false
     },
     {
       "name": "山西卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225549/index.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiGtGid9jxvjAfQuKkP-vgWoqWC3H8Be6Fg&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",
       "parse": false
     },
     {
       "name": "陕西卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225729/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7WterZct9z-UykALDOxPx7qV3cnMsodY3FQ&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/shanxi.png",
       "parse": false
     },
     {
@@ -333,7 +333,7 @@
     {
       "name": "天津卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Gml8bQFsTSa9PlFX6-8fcdZgp1tMKB1C_g&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/tianjin.png",
       "parse": false
     },
     {
@@ -351,13 +351,13 @@
     {
       "name": "新疆卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225725/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTisVwoaRyq9J8qC9iFgBL5ud_aI12KiuVrtg&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",
       "parse": false
     },
     {
       "name": "云南卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225664/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB409sJSoIkOQQ3umc21KjmESoi6wlQ458BA&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png",
       "parse": false
     },
     {
