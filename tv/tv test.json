@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "CCTV 世界地理",
+      "url": "http://42.176.185.28:9901/tsfile/live/1037_1.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055201348.jpg",
+      "parse": false
+    },
+    {
       "name": "Pop TV (720p)",
       "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -29,6 +35,24 @@
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=http://9.zhxinda.xyz/newss.php?id=2",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
+    },
+    {
+      "name": "CCTV 台球",
+      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 文化精品",
+      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 世界地理",
+      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055201348.jpg",
+      "parse": false
     },
     {
       "name": "Space Toon (Indonesia)",
