@@ -37,21 +37,9 @@
       "parse": false
     },
     {
-      "name": "CCTV 台球",
-      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
-      "parse": false
-    },
-    {
       "name": "CCTV 高尔夫•网球",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8?$广西cdn",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
-      "parse": false
-    },
-    {
-      "name": "CCTV 风云足球",
-      "url": "http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
       "parse": false
     },
     {
@@ -76,12 +64,6 @@
       "name": "劲爆体育",
       "url": "http://112.25.48.70/live/program/live/jbtyhd/4000000/mnf.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
-      "parse": false
-    },
-    {
-      "name": "天下足球",
-      "url": "http://[2409:8087:1050:301:2026::12]/wh7f454c46tw4122938034_1842780243/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225764/10000100000000060000000000000836_0.smil/01.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
@@ -118,12 +100,6 @@
       "name": "NewTV 武搏世界",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "北京体育",
-      "url": "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225675/2/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
