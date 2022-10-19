@@ -127,18 +127,6 @@
       "parse": false
     },
     {
-      "name": "CCTV 冬奥纪实 4K",
-      "url": "http://117.148.129.85:80/PLTV/88888888/224/3221233413/1.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CCTV 冬奥纪实 8K",
-      "url": "http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "CCTV 高尔夫•网球",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8?$广西cdn",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
@@ -639,6 +627,12 @@
     {
       "name": "哈尔滨影视",
       "url": "http://stream.hrbtv.net/yspd/sd/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "汉中-1",
+      "url": "http://111.20.33.93/TVOD/88888893/224/3221226331/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
