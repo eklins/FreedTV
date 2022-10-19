@@ -79,12 +79,6 @@
       "parse": false
     },
     {
-      "name": "CCTV 兵器科技",
-      "url": "http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls",
-      "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
-      "parse": false
-    },
-    {
       "name": "CCTV 发现之旅",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
@@ -94,18 +88,6 @@
       "name": "CCTV 老故事",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
-      "parse": false
-    },
-    {
-      "name": "CCTV 世界地理",
-      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055201348.jpg",
-      "parse": false
-    },
-    {
-      "name": "CCTV 文化精品",
-      "url": "http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls",
-      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
       "parse": false
     },
     {
