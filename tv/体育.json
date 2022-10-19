@@ -115,6 +115,12 @@
       "parse": false
     },
     {
+      "name": "天下足球🔇",
+      "url": "http://[2409:8087:1050:301:2026::12]/wh7f454c46tw4122938034_1842780243/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225764/10000100000000060000000000000836_0.smil/01.m3u8?fmt=ts2hls",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "澳视体育 CH4",
       "url": "http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
