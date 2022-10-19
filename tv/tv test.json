@@ -37,6 +37,18 @@
       "parse": true
     },
     {
+      "name": "CCTV 冬奥纪实 4K",
+      "url": "http://117.148.129.85:80/PLTV/88888888/224/3221233413/1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CCTV 冬奥纪实 8K",
+      "url": "http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "CCTV 风云音乐",
       "url": "http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121053553871.jpg",
