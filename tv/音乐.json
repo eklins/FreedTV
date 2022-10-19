@@ -55,12 +55,6 @@
       "parse": false
     },
     {
-      "name": "AKSU TV",
-      "url": "https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "ALB Music (Albania)",
       "url": "http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -97,12 +91,6 @@
       "parse": false
     },
     {
-      "name": "AXS TV Now",
-      "url": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "AZ Star (Canada★Persian)",
       "url": "http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -115,43 +103,25 @@
       "parse": false
     },
     {
-      "name": "Beat V2 (360p)",
-      "url": "https://stream.v2beat.live/360p.playlist.m3u8.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Betevé",
-      "url": "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bluegrass Music 4U",
-      "url": "https://rebroadcast.mytvtogo.net/mytvtogo/blugrassmusic/chunks.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Box Hits",
       "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Brit Asia Live (US Eastern)",
+      "name": "Brit Asia TV (US Eastern)",
       "url": "https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Brit Asia Live (US Pacific)",
+      "name": "Brit Asia TV (US Pacific)",
       "url": "https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Cafe 24",
+      "name": "Cafe 24 (Italy)",
       "url": "https://srvx1.selftv.video/cafe/live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
@@ -163,19 +133,7 @@
       "parse": false
     },
     {
-      "name": "Carina TV (Italy)",
-      "url": "http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cekmeköy Web TV",
-      "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Choice (Greece)",
+      "name": "Choice (Greece) [Not 24/7]",
       "url": "https://vod.streams.ovh:3528/stream/play.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
