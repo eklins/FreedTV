@@ -1303,6 +1303,12 @@
       "parse": false
     },
     {
+      "name": "NewTV 动画王国",
+      "url": "http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NewTV 动作电影",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
