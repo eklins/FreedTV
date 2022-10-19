@@ -2415,6 +2415,8 @@ https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 #EXTINF:-1 ,ESP★À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 ,ESP★betevé
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 ,ESP★DTV Play (Deporte Total)
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 ,ESP★EiTB ①
@@ -2683,9 +2685,9 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,GBR★Box Hits (576p)
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 ,GBR★Brit Asia Live (US Eastern)
+#EXTINF:-1 ,GBR★Brit Asia TV (US Eastern)
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
-#EXTINF:-1 ,GBR★Brit Asia Live (US Pacific)
+#EXTINF:-1 ,GBR★Brit Asia TV (US Pacific)
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
 #EXTINF:-1 ,GBR★Channel S (US Eastern)
 https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
