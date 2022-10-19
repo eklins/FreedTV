@@ -291,7 +291,7 @@
     {
       "name": "宁夏卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225726/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWZsmZyWWz3IbLZ1KWJvG2y-jBy5DIw6MEw&usqp=CAU",
+      "pic": "http://epg.51zmt.top:8000/tb1/ws/ningxia.png",
       "parse": false
     },
     {
