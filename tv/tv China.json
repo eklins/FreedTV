@@ -121,12 +121,6 @@
       "parse": false
     },
     {
-      "name": "CCTV 冬奥纪实",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36S5X_O8tI3TAzpLs3tcC5N5x7ePgNzZsDw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "CCTV 高尔夫•网球",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8?$广西cdn",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
