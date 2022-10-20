@@ -2275,6 +2275,12 @@
       "parse": false
     },
     {
+      "name": "苏州4 电影娱乐讯息",
+      "url": "https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "万州影视 (576p)",
       "url": "http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
