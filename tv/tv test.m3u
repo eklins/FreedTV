@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,BNN Bloomberg (Canada)
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
 #EXTINF:-1 ,CHC动作电影
 http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8?blog.ntnas.top
 #EXTINF:-1 ,CHC高清电影
