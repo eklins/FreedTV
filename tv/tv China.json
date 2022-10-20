@@ -157,6 +157,12 @@
       "parse": false
     },
     {
+      "name": "安多卫视（青海藏语綜合频道）",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0WThWbE8p2WAnrPvQcdMPFCWMEDXZAk_Vw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "安徽卫视",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225541/index.m3u8?fmt=ts2hls",
       "pic": "http://epg.51zmt.top:8000/tb1/ws/anhui.png",
