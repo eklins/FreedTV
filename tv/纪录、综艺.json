@@ -121,6 +121,12 @@
       "parse": false
     },
     {
+      "name": "BRTV 纪实科教（北京）",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "河南国学频道",
       "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
