@@ -43,6 +43,24 @@
       "parse": false
     },
     {
+      "name": "iHot 极限",
+      "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iHot 赛车",
+      "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251IS50-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "iHot 体育",
+      "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt",
+      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg",
+      "parse": false
+    },
+    {
       "name": "MIGU 体育 ①",
       "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
