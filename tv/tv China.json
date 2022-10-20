@@ -1441,6 +1441,18 @@
       "parse": false
     },
     {
+      "name": "SiTV 劲爆体育",
+      "url": "http://112.25.48.70/live/program/live/jbtyhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SiTV 魅力足球",
+      "url": "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "SiTV 七彩戏剧",
       "url": "http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
@@ -1449,6 +1461,12 @@
     {
       "name": "SiTV 全纪实",
       "url": "http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SiTV 新视觉HD",
+      "url": "http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
     },
@@ -1471,33 +1489,9 @@
       "parse": false
     },
     {
-      "name": "魅力足球",
-      "url": "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2021/0218/4d56ad1ebbb4685c2d09789e11704721.jpg",
-      "parse": false
-    },
-    {
-      "name": "新视觉HD",
-      "url": "http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8",
-      "pic": "http://www.weishizaixian.com/res/2021/06-29/bb11dc822c31e374d6a91da86b06c812.jpg",
-      "parse": false
-    },
-    {
-      "name": "五星体育",
+      "name": "五星体育（上海）",
       "url": "http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1012/af0110995a6085842ac7a7d3f5df9452.jpg",
-      "parse": false
-    },
-    {
-      "name": "劲爆体育",
-      "url": "http://111.40.196.9/PLTV/88888888/224/3221225505/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603065051706.jpg",
-      "parse": false
-    },
-    {
-      "name": "四海钓鱼",
-      "url": "http://117.148.129.14:80/PLTV/88888888/224/3221231718/1.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
