@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,AsiaN (Korea)
+https://apichvod32.seezntv.com/OTM/10200_H.m3u8?AdaptiveType=HLS&SessionID=f1980ae3-2e4f-438a-af45-4295d99cd4bf
 #EXTINF:-1 ,BNN Bloomberg (Canada)
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
 #EXTINF:-1 ,CHC动作电影
