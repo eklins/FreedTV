@@ -2585,8 +2585,12 @@ https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1 ,TUR★içel (720p) [Not 24/7]
 http://broadcasttr.com:1935/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 ,TUR★Kanal B (480p) [Not 24/7]
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 ,TUR★Kanal Urfa
 https://broadcasttr.com:446/kanalurfa/bant1/HasBahCa_w1125528664.m3u8
+#EXTINF:-1 ,TUR★Kanal V (720p) [Not 24/7]
+http://yerelmedya.tv:1935/kanalv/bant1/playlist.m3u8
 #EXTINF:-1 ,TUR★Köroğlu TV
 https://broadcasttr.com:446/koroglutv/bant1/chunklist_w970510302.m3u8
 #EXTINF:-1 ,TUR★Kral Pop TV
@@ -2595,6 +2599,8 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:-1 ,TUR★line
 https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+#EXTINF:-1 ,TUR★Mavi Karadeniz (720p)
+http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8
 #EXTINF:-1 ,TUR★Muğla Turk TV
 http://broadcasttr.com:1935/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 ,TUR★NR1 TURK
@@ -2605,6 +2611,8 @@ https://broadcasttr.com:446/orttv/bant1/chunklist_w51470567.m3u8
 https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 ,TUR★Show TURK
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+#EXTINF:-1 ,TUR★Sports TV (720p)
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 ,TUR★Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 ,TUR★TRT ①
