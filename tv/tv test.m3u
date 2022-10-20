@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,AsiaN (Korea)
+#EXTINF:-1 ,AsiaN (Korea) 20/10/2022
 https://apichvod32.seezntv.com/OTM/10200_H.m3u8?AdaptiveType=HLS&SessionID=f1980ae3-2e4f-438a-af45-4295d99cd4bf
+#EXTINF:-1 ,The Movie (Korea) 20/10/2022
+https://apichvod19.seezntv.com/OTM/11090_H.m3u8?AdaptiveType=HLS&SessionID=0df2ae21-d647-4db0-8b0d-89b72177a403
 #EXTINF:-1 ,BNN Bloomberg (Canada)
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
 #EXTINF:-1 ,CHC动作电影
