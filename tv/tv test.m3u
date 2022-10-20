@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,翡翠台
+http://live.tvfix.org/play/jade2#/playlist.m3u8
 #EXTINF:-1 ,AsiaN (Korea) 20/10/2022
 https://apichvod32.seezntv.com/OTM/10200_H.m3u8?AdaptiveType=HLS&SessionID=f1980ae3-2e4f-438a-af45-4295d99cd4bf
 #EXTINF:-1 ,The Movie (Korea) 20/10/2022
