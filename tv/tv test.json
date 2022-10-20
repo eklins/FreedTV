@@ -31,6 +31,12 @@
       "parse": false
     },
     {
+      "name": "香港无线新闻台 prd",
+      "url": "https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
+      "parse": true
+    },
+    {
       "name": "香港无线新闻台",
       "url": "https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=http://9.zhxinda.xyz/newss.php?id=1",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
