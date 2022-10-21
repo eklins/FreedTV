@@ -103,6 +103,12 @@
       "parse": true
     },
     {
+      "name": "PLAYY Action (Korea)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/233.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Sci-Fi ①",
       "url": "http://mmitv.top/pltv/yy.php?id=1354930209",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -141,6 +147,12 @@
     {
       "name": "Suspense & Thriller",
       "url": "http://mmitv.top/pltv/yy.php?id=1382745090",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "The Movie (Korea)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/232.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
