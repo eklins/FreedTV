@@ -187,6 +187,48 @@
       "parse": false
     },
     {
+      "name": "MG（备）5786",
+      "url": "http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225786/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）5793",
+      "url": "http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225793/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）5834",
+      "url": "http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225834/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）5848",
+      "url": "http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225848/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）5851",
+      "url": "http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）5857",
+      "url": "http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225857/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MG（备）5860",
+      "url": "http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MG（备）6375",
       "url": "http://111.13.42.238/PLTV/88888888/224/3221226375/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
