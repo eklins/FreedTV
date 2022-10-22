@@ -1529,24 +1529,38 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 ,KOR★ANI🔴NE
 https://apichvod21.seezntv.com/OTM/10640_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Anibox
+https://apichvod21.seezntv.com/OTM/10660_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 ,KOR★Arirang Radio
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
 #EXTINF:-1 ,KOR★AsiaN
 https://apichvod21.seezntv.com/OTM/10200_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Baduk TV (1080p)
+https://apichvod21.seezntv.com/OTM/10260_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Billiards TV
 https://apichvod21.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★BTN TV (1080p)
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 ,KOR★Carrie TV (1080p)
+https://apichvod21.seezntv.com/OTM/10380_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 ,KOR★Channel A
 https://apichvod21.seezntv.com/OTM/10030_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Channel China
 https://apichvod21.seezntv.com/OTM/10790_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Channel Seezn (1080p)
+https://apichvod21.seezntv.com/OTM/11770_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★ChungHwa TV (1080p)
+https://zhtv-seezn.pip.cjenm.com/zhtv/_definst_/o7/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NjY0MzEyOTAsImR1cmF0aW9uIjozMDAsInBhdGgiOiIvemh0di9fZGVmaW5zdF8vbzciLCJpYXQiOjE2NjY0MzA5OTAsInVubyI6IjE2NjY0MzA5OTAxMDk2MTgwMiJ9.W_OO7n6YAWRc77hx-fJKV9aBg5PhnREcA6DCibom0dI
 #EXTINF:-1 ,KOR★Cinema Heaven
 https://apichvod21.seezntv.com/OTM/11010_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★CNBC Golf & PBA
 https://apichvod21.seezntv.com/OTM/10290_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★DreamWorks
+https://apichvod21.seezntv.com/OTM/10760_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★EBS 1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 #EXTINF:-1 ,KOR★EBS 2
@@ -1599,6 +1613,8 @@ http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiO
 http://mnet.xp3.biz/mnet.m3u8
 #EXTINF:-1 ,KOR★MTN
 http://183.110.27.87/mtnlive/720/playlist.m3u8
+#EXTINF:-1 ,KOR★National Geographic Wild
+https://apichvod21.seezntv.com/OTM/10230_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 ,KOR★NewKID (Roku)
@@ -1659,8 +1675,12 @@ https://apichvod21.seezntv.com/OTM/10130_L.m3u8?AdaptiveType=HLS&SessionID=514cd
 https://apichvod21.seezntv.com/OTM/10100_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★tvN Story 故事
 https://apichvod21.seezntv.com/OTM/10120_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★WBC TV (1080p)
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 ,KOR★YTN
 https://apichvod21.seezntv.com/OTM/10300_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★YTN Science (270p)
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kuwait.png",Kuwait❤Al Rai TV
 https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Laos.png",Laos❤Champa TV2
