@@ -115,6 +115,12 @@
       "parse": true
     },
     {
+      "name": "Now Popcorn 爆谷星影台",
+      "url": "https://www.chaojidianshi.net/zhibo/54.html",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "PLAYY Action Movie (Korea)",
       "url": "http://mytv.dothome.co.kr/ch/catv/233.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -165,6 +171,30 @@
     {
       "name": "The Movie (Korea)",
       "url": "http://mytv.dothome.co.kr/ch/catv/232.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "TVB Classic 经典",
+      "url": "https://www.chaojidianshi.net/zhibo/88.html",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "TVB Jade 翡翠台",
+      "url": "https://www.chaojidianshi.net/zhibo/78.html",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "TVB Pearl 明珠",
+      "url": "https://www.chaojidianshi.net/zhibo/77.html",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "TVB Xing He 星河",
+      "url": "https://www.chaojidianshi.net/zhibo/76.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -1597,6 +1627,12 @@
       "parse": true
     },
     {
+      "name": "iQIYI",
+      "url": "https://www.chaojidianshi.net/zhibo/Malaysia/aiqiyiiQiyi.html",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "NASA: Earth From Space",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=86YLFOog4GM",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -1641,6 +1677,12 @@
     {
       "name": "The Last Lions",
       "url": "http://mmitv.top/pltv/yy.php?id=1382735577",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "ViuTV (Hong Kong)",
+      "url": "https://www.chaojidianshi.net/zhibo/94.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
@@ -1887,6 +1929,18 @@
     {
       "name": "🇹🇼Taiwan+",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA/live",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇲🇾TV1",
+      "url": "https://www.chaojidianshi.net/zhibo/Malaysia/TV1.html",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇲🇾TV2",
+      "url": "https://www.chaojidianshi.net/zhibo/Malaysia/TV2.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
