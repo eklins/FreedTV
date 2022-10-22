@@ -511,12 +511,6 @@
       "parse": false
     },
     {
-      "name": "BRTV KaKu 少儿（北京）",
-      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?$广西cdn",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "iHot 动漫",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251GS70-L.jpg",
@@ -526,6 +520,12 @@
       "name": "iHot 玩具",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I1460-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "BRTV KaKu 少儿（北京）",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?$广西cdn",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
