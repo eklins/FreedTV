@@ -1809,55 +1809,73 @@
     {
       "name": "🇦🇺ABC Kids",
       "url": "https://c.mjh.nz/101002210222",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RKaD5z6t4PGA_sczlIE5KQSh-KWeroppRQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇦🇺ABC ME",
       "url": "https://c.mjh.nz/101002210224",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RKaD5z6t4PGA_sczlIE5KQSh-KWeroppRQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇦🇺ABC Plus",
       "url": "https://c.mjh.nz/abc2",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RKaD5z6t4PGA_sczlIE5KQSh-KWeroppRQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇦🇺ABC TV1",
       "url": "https://c.mjh.nz/3201026102E1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RKaD5z6t4PGA_sczlIE5KQSh-KWeroppRQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇦🇺ABC TV2",
       "url": "https://c.mjh.nz/101002210221",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RKaD5z6t4PGA_sczlIE5KQSh-KWeroppRQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇦🇺ABC TV3",
       "url": "https://c.mjh.nz/101002310231",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RKaD5z6t4PGA_sczlIE5KQSh-KWeroppRQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇦🇺ABC TV4",
       "url": "https://c.mjh.nz/101002510251",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RKaD5z6t4PGA_sczlIE5KQSh-KWeroppRQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇦🇺ABC TV5",
       "url": "https://c.mjh.nz/101002710271",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RKaD5z6t4PGA_sczlIE5KQSh-KWeroppRQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇦🇺ABC TV6",
       "url": "https://c.mjh.nz/101002810281",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RKaD5z6t4PGA_sczlIE5KQSh-KWeroppRQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱KBS Life (480p)",
+      "url": "http://ye23.vip/z7z8/2021/kbs2020.php?id=7",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱KBS News D (720p)",
+      "url": "http://ye23.vip/z7z8/2021/kbs2020.php?id=4",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱KBS Story (480p)",
+      "url": "http://ye23.vip/z7z8/2021/kbs2020.php?id=8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
