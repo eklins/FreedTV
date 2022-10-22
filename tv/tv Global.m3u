@@ -1533,6 +1533,8 @@ https://apichvod21.seezntv.com/OTM/10640_L.m3u8?AdaptiveType=HLS&SessionID=514cd
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 ,KOR★Arirang Radio
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+#EXTINF:-1 ,KOR★AsiaN
+https://apichvod21.seezntv.com/OTM/10200_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Billiards TV
 https://apichvod21.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★CBS
@@ -1541,6 +1543,8 @@ http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 https://apichvod21.seezntv.com/OTM/10030_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Channel China
 https://apichvod21.seezntv.com/OTM/10790_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Cinema Heaven
+https://apichvod21.seezntv.com/OTM/11010_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★CNBC Golf & PBA
 https://apichvod21.seezntv.com/OTM/10290_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★EBS 1
