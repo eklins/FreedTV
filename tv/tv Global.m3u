@@ -1653,9 +1653,9 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 https://apichvod21.seezntv.com/OTM/10420_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Sky Sports
 https://apichvod21.seezntv.com/OTM/10440_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★SPOTV ①
+#EXTINF:-1 ,KOR★SPOTV
 https://apichvod21.seezntv.com/OTM/10070_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★SPOTV ②
+#EXTINF:-1 ,KOR★SPOTV2
 https://apichvod21.seezntv.com/OTM/11990_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
