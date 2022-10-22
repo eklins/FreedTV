@@ -1527,10 +1527,14 @@ https://tv.nknews.org/tvdash/stream.mpd
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 ,KOR★한국선거방송（韩国选举广播）
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1 ,KOR★ANI🔴NE
-https://apichvod21.seezntv.com/OTM/10640_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Anibox
 https://apichvod21.seezntv.com/OTM/10660_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Animax
+https://apichvod21.seezntv.com/OTM/10520_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★ANI🔴NE
+https://apichvod21.seezntv.com/OTM/10640_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Aniplus
+https://apichvod21.seezntv.com/OTM/10340_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 ,KOR★Arirang Radio
@@ -1543,7 +1547,7 @@ https://apichvod21.seezntv.com/OTM/10260_L.m3u8?AdaptiveType=HLS&SessionID=514cd
 https://apichvod21.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★BTN TV (1080p)
 http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 ,KOR★Carrie TV (1080p)
+#EXTINF:-1 ,KOR★Carrie TV
 https://apichvod21.seezntv.com/OTM/10380_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
@@ -1551,10 +1555,8 @@ http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 https://apichvod21.seezntv.com/OTM/10030_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Channel China
 https://apichvod21.seezntv.com/OTM/10790_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★Channel Seezn (1080p)
+#EXTINF:-1 ,KOR★Channel Seezn
 https://apichvod21.seezntv.com/OTM/11770_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★ChungHwa TV (1080p)
-https://zhtv-seezn.pip.cjenm.com/zhtv/_definst_/o7/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NjY0MzEyOTAsImR1cmF0aW9uIjozMDAsInBhdGgiOiIvemh0di9fZGVmaW5zdF8vbzciLCJpYXQiOjE2NjY0MzA5OTAsInVubyI6IjE2NjY0MzA5OTAxMDk2MTgwMiJ9.W_OO7n6YAWRc77hx-fJKV9aBg5PhnREcA6DCibom0dI
 #EXTINF:-1 ,KOR★Cinema Heaven
 https://apichvod21.seezntv.com/OTM/11010_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★CNBC Golf & PBA
@@ -1617,6 +1619,8 @@ http://183.110.27.87/mtnlive/720/playlist.m3u8
 https://apichvod21.seezntv.com/OTM/10230_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 ,KOR★NEC ETV 한국선거방송 (720p)
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 ,KOR★NewKID (Roku)
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 #EXTINF:-1 ,KOR★NewKID ①
