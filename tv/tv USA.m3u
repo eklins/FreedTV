@@ -253,6 +253,8 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
 #EXTINF:-1 ,Alkerazatv (720p)
 https://597f64b67707a.streamlock.net/alkerazatv.org/alkerazatv.smil/playlist.m3u8
+#EXTINF:-1 ,All Sports Television Network (W14DK-D5)
+https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/playlist.m3u8
 #EXTINF:-1 ,Almagd TV Middle East (1080p) [Not 24/7]
 https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 ,Almagd TV North America (1080p)
@@ -1331,6 +1333,8 @@ https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 ,NewsNet (KCKS-LD2★480p) [Not 24/7]
 https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
+#EXTINF:-1 ,NewsNet (W14DK-D2)
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 #EXTINF:-1 ,Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 ,Newsy Top Stories (720p)
@@ -2041,6 +2045,8 @@ https://a.jsrdn.com/broadcast/76381deeda/+0000/high/c.m3u8
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 ,Retro TV (KCKS-LD9★480p)
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:-1 ,Retro TV (W14DK-D3)
+https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 ,Retro TV (WJLP-DT5★432p)
 https://v-ny.mybtv.net/live/628.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Reuters Now (1080p)
@@ -2549,6 +2555,8 @@ https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 https://v-pi.mybtv.net/live/415.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,TSTV (720p)
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 ,TV Delmarva 14 (W14DK-D1)
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1 ,TVS Boxing (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 ,TVS Chef Champion (720p) [Not 24/7]
@@ -2707,6 +2715,8 @@ https://player-api.new.livestream.com/accounts/27442514/events/8305246/live.m3u8
 https://player-api.new.livestream.com/accounts/27442514/events/8331542/live.m3u8
 #EXTINF:-1 ,Weather Channel Baton Rouge LA (WBRZ)
 https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
+#EXTINF:-1 ,Weather Channel Delmarva WX (W14DK-D4)
+https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/playlist.m3u8
 #EXTINF:-1 ,Weather Nation (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
 #EXTINF:-1 ,Weather Nation (KCKS-LD6★480p) [Not 24/7]
