@@ -673,6 +673,12 @@
       "parse": false
     },
     {
+      "name": "Global Travel Channel 环球旅游 (576p)",
+      "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226610/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Go USA (India)",
       "url": "https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
