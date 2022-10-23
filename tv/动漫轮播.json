@@ -565,8 +565,8 @@
       "parse": false
     },
     {
-      "name": "哈哈炫动",
-      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225711/index.m3u8?$广西cdn",
+      "name": "广东嘉佳卡通",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -577,8 +577,8 @@
       "parse": false
     },
     {
-      "name": "嘉佳卡通（广东）",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8",
+      "name": "湖南金鹰卡通",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -589,14 +589,14 @@
       "parse": false
     },
     {
-      "name": "金鹰卡通（湖南）",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/index.m3u8",
+      "name": "南京少儿",
+      "url": "http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "南京少儿",
-      "url": "http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8",
+      "name": "上海哈哈炫动",
+      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225711/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
