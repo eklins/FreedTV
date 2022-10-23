@@ -170,7 +170,7 @@
     },
     {
       "name": "The Movie (Korea)",
-      "url": "http://mytv.dothome.co.kr/ch/catv/232.php",
+      "url": "https://kr-streams.onrender.com/scraper?channel=141",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
