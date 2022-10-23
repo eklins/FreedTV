@@ -1765,8 +1765,8 @@ https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 ,MEX★Canal 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 ,MEX★Canal Catorce
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 ,MEX★Canal Catorce 14 (XHSPRMT-TDT1)
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/chunklist_w115456558.m3u8
 #EXTINF:-1 ,MEX★Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 ,MEX★Conecta TV
