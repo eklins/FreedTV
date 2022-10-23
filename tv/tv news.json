@@ -49,18 +49,6 @@
       "parse": false
     },
     {
-      "name": "香港无线新闻台",
-      "url": "https://www.chaojidianshi.net/zhibo/73.html",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
-      "parse": true
-    },
-    {
-      "name": "香港无线财经•资讯台",
-      "url": "https://www.chaojidianshi.net/zhibo/79.html",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
-    },
-    {
       "name": "香港有线新闻台",
       "url": "http://livetv.dnsfor.me:80/channel.5.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
@@ -473,6 +461,18 @@
       "url": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "🇭🇰无线新闻台",
+      "url": "https://www.chaojidianshi.net/zhibo/73.html",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
+      "parse": true
+    },
+    {
+      "name": "🇭🇰无线财经•资讯台",
+      "url": "https://www.chaojidianshi.net/zhibo/79.html",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
+      "parse": true
     },
     {
       "name": "台湾中天新闻",
