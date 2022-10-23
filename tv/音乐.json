@@ -985,6 +985,12 @@
       "parse": false
     },
     {
+      "name": "CNR 经典音乐",
+      "url": "http://ngcdn004.cnr.cn/live/dszs/index.m3u8",
+      "pic": "https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/经典音乐广播.png",
+      "parse": false
+    },
+    {
       "name": "Stingray Classic Rock",
       "url": "https://stirr.ott-channels.stingray.com/101/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
