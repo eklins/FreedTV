@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,华数4K电影
+http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
 #EXTINF:-1 ,Billiards TV (Korea) php
 http://mytv.dothome.co.kr/ch/catv/252.php
 #EXTINF:-1 ,Billiards TV (Korea) HD★apichvod21
