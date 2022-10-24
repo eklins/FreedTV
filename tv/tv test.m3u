@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 ,Billiards TV (Korea) php
 http://mytv.dothome.co.kr/ch/catv/252.php
-#EXTINF:-1 ,Billiards TV (Korea) apichvod21★21/10/2022
+#EXTINF:-1 ,Billiards TV (Korea) HD★apichvod21
+https://apichvod21.seezntv.com/OTM/10080_H.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,Billiards TV (Korea) SD★apichvod21
 https://apichvod21.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,iHOT精彩影视
 http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000320630&livemode=1&stbId=3&channel-id=wasusyt
