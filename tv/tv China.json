@@ -1076,7 +1076,13 @@
     },
     {
       "name": "上海东方影视",
-      "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
+      "url": "http://111.40.196.28/wh7f454c46tw1127318098_1235980081/PLTV/88888888/224/3221225615/index.m3u8?icpid=88888888&RTS=1647066165&from=1&hms_devid=223",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "上海都市",
+      "url": "http://111.40.196.37/PLTV/88888888/224/3221225613/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1087,7 +1093,7 @@
       "parse": false
     },
     {
-      "name": "ICS（上海外语频道）",
+      "name": "上海外语频道 (ICS)",
       "url": "http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
