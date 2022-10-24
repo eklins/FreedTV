@@ -631,30 +631,6 @@
       "parse": false
     },
     {
-      "name": "广州GZ",
-      "url": "https://justsometime.gztv.com/sec/zhonghes.m3u8?auth_key=1666629527-0-0-7e76e54a8e0c49c6efc1a89b526955fc",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "广州法治",
-      "url": "https://aplays.gztv.com/sec/fazhi.m3u8?auth_key=1666629362-0-0-d5a4f719d092fac942344bc33e029ca6",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "广州新闻",
-      "url": "https://justsometime.gztv.com/sec/xinwen.m3u8?auth_key=1666629398-0-0-e65f4e5478d5a71e7ca7fa471eafcc38",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "广州影视",
-      "url": "https://aplays.gztv.com/sec/yingshi.m3u8?auth_key=1666629459-0-0-14ab5bac255145e69c27602c946fe600",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "哈尔滨影视",
       "url": "http://stream.hrbtv.net/yspd/sd/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
