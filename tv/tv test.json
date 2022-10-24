@@ -31,6 +31,12 @@
       "parse": false
     },
     {
+      "name": "GuangDong Film",
+      "url": "http://9.zhxinda.xyz/gdtv.php?pk=1199",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "NewTV 动画王国",
       "url": "http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
