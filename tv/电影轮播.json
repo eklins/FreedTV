@@ -2203,12 +2203,6 @@
       "parse": false
     },
     {
-      "name": "广州影视",
-      "url": "https://aplays.gztv.com/sec/yingshi.m3u8?auth_key=1666629459-0-0-14ab5bac255145e69c27602c946fe600",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "哈尔滨影视",
       "url": "http://stream.hrbtv.net/yspd/sd/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
