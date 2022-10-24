@@ -2251,6 +2251,12 @@
       "parse": false
     },
     {
+      "name": "华数 [Not 24/7]",
+      "url": "http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "黄骅影视 (576p)",
       "url": "http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -2311,7 +2317,7 @@
       "parse": false
     },
     {
-      "name": "苏州4 电影娱乐讯息",
+      "name": "苏州-4 电影娱乐讯息",
       "url": "https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
