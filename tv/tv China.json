@@ -373,56 +373,56 @@
       "parse": false
     },
     {
-      "name": "BCTV（北京有线电视台）",
-      "url": "http://live.sctvcloud.com/live/bcgqlive.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BDTV（宝坻）",
+      "name": "宝坻电视",
       "url": "https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BRTV 冬奥纪实（北京）",
+      "name": "北京冬奥纪实",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225676/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BRTV 纪实科教（北京）",
+      "name": "北京纪实科教",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BRTV KaKu 少儿（北京卡酷少儿）",
+      "name": "北京卡酷少儿",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BRTV 青年（北京）",
+      "name": "北京青年",
       "url": "http://111.13.42.235/PLTV/88888888/224/3221226562/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BRTV 体育休闲（北京）",
+      "name": "北京体育休闲",
       "url": "http://111.20.33.93/PLTV/88888893/224/3221226232/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BRTV 新闻（北京）",
+      "name": "北京新闻",
       "url": "http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BRTV 影视（北京）",
+      "name": "北京影视",
       "url": "http://111.13.42.234/PLTV/88888888/224/3221226486/1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "北京有线电视台",
+      "url": "http://live.sctvcloud.com/live/bcgqlive.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -577,31 +577,31 @@
       "parse": false
     },
     {
-      "name": "FZTV（福州）",
+      "name": "福州电视",
       "url": "http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227202/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "FZTV-1 综合（福州）",
+      "name": "福州-1 综合",
       "url": "http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "FZTV-2 影视（福州）",
+      "name": "福州-2 影视",
       "url": "http://live.zohi.tv/video/s10001-yspd-2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "FZTV-3 生活（福州）",
+      "name": "福州-3 生活",
       "url": "http://live.zohi.tv/video/s10001-shpd-3/index.m3u8?zfud",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "FZTV-少儿（福州）",
+      "name": "福州-少儿",
       "url": "http://live.zohi.tv/video/s10001-sepd-4/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
@@ -632,25 +632,25 @@
     },
     {
       "name": "广州GZ",
-      "url": "https://wsaplayline.gztv.com/sec/zhonghes.m3u8",
+      "url": "https://justsometime.gztv.com/sec/zhonghes.m3u8?auth_key=1666629527-0-0-7e76e54a8e0c49c6efc1a89b526955fc",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "广州法治",
-      "url": "https://wsaplayline.gztv.com/sec/fazhi.m3u8",
+      "url": "https://aplays.gztv.com/sec/fazhi.m3u8?auth_key=1666629362-0-0-d5a4f719d092fac942344bc33e029ca6",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "广州新闻",
-      "url": "https://wsaplayline.gztv.com/sec/xinwen.m3u8",
+      "url": "https://justsometime.gztv.com/sec/xinwen.m3u8?auth_key=1666629398-0-0-e65f4e5478d5a71e7ca7fa471eafcc38",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "广州影视",
-      "url": "https://wsaplayline.gztv.com/sec/yingshi.m3u8",
+      "url": "https://aplays.gztv.com/sec/yingshi.m3u8?auth_key=1666629459-0-0-14ab5bac255145e69c27602c946fe600",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -681,36 +681,6 @@
     {
       "name": "汉中-3",
       "url": "http://111.20.33.70/TVOD/88888893/224/3221225991/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HTV-1（杭州综合）",
-      "url": "http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2809529842_-2070680032/PLTV/88888888/224/3221229307/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HTV-2（杭州明珠）",
-      "url": "http://112.17.40.247/PLTV/88888888/224/3221229377/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HTV-3（杭州生活）",
-      "url": "http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2848313566_-100055911/PLTV/88888888/224/3221229313/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HTV-4（杭州影视）",
-      "url": "http://112.17.40.247/PLTV/88888888/224/3221229377/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HTV-5（杭州青少•体育）",
-      "url": "http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2880854862_-704780469/PLTV/88888888/224/3221229316/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
