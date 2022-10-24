@@ -85,6 +85,12 @@
       "parse": true
     },
     {
+      "name": "GZ Movie",
+      "url": "http://9.zhxinda.xyz/gz.php?id=yingshi",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Horror",
       "url": "https://m.huya.com/11352903",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1852,6 +1858,30 @@
       "name": "一城一味（舌尖姐妹篇）",
       "url": "http://mmitv.top/pltv/yy.php?id=1382745179",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykB-NbFFZveJMA4dGlEhXGqcv4u6rWbj1Gg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇨🇳广州GZ",
+      "url": "http://9.zhxinda.xyz/gz.php?id=zhonghe",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇨🇳广州法治",
+      "url": "http://9.zhxinda.xyz/gz.php?id=fazhi",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇨🇳广州竞赛",
+      "url": "http://9.zhxinda.xyz/gz.php?id=jingsai",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇨🇳广州新闻",
+      "url": "http://9.zhxinda.xyz/gz.php?id=xinwen",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
