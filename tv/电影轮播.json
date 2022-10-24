@@ -2294,7 +2294,7 @@
     },
     {
       "name": "上海东方影视",
-      "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
+      "url": "http://111.40.196.28/wh7f454c46tw1127318098_1235980081/PLTV/88888888/224/3221225615/index.m3u8?icpid=88888888&RTS=1647066165&from=1&hms_devid=223",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -2325,12 +2325,6 @@
     {
       "name": "新泰影视 (480p)",
       "url": "http://111.17.214.4:1935/live/xtys/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "徐州•3",
-      "url": "http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
