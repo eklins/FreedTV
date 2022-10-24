@@ -91,13 +91,13 @@
       "parse": false
     },
     {
-      "name": "BRTV 冬奥纪实（北京）",
+      "name": "北京冬奥纪实",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225676/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BRTV 体育休闲（北京）",
+      "name": "北京体育休闲",
       "url": "http://111.20.33.93/PLTV/88888893/224/3221226232/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
@@ -115,7 +115,7 @@
       "parse": false
     },
     {
-      "name": "HTV-5（杭州青少•体育）",
+      "name": "杭州-5 青少•体育",
       "url": "http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2880854862_-704780469/PLTV/88888888/224/3221229316/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
@@ -127,20 +127,14 @@
       "parse": false
     },
     {
-      "name": "江苏体育",
-      "url": "http://183.207.249.11:80/PLTV/4/224/3221225935/index.m3u8",
+      "name": "上海五星体育",
+      "url": "http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
       "name": "天下足球🔇",
       "url": "http://[2409:8087:1050:301:2026::12]/wh7f454c46tw4122938034_1842780243/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225764/10000100000000060000000000000836_0.smil/01.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "五星体育（上海）",
-      "url": "http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
