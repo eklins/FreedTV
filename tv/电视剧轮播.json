@@ -431,6 +431,12 @@
       "url": "http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "台湾ELTA影剧台",
+      "url": "http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "parse": false
     }
   ]
 }
