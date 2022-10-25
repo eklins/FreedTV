@@ -1351,6 +1351,8 @@ https://ntd02.akamaized.net/NTDA/index.m3u8
 https://ntd02.akamaized.net/NTD-West/index.m3u8
 #EXTINF:-1 ,NTD TV UK (New Tang Dynasty Television)
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1 ,NTTV
+https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/1496821/e/1_i3yjnteq/tl/main/st/0/t/K71zshSA-t-vYZLsbaI7bQ/index-s32.m3u8?__hdnea__=st=1666638756~exp=1666725156~acl=/s/env/cluster-1-d.live.nvp1/live/hls/p/1496821/e/1_i3yjnteq/tl/main/st/0/t/K71zshSA-t-vYZLsbaI7bQ/index-s3*~hmac=be27ffe65c12749b411d06a9b084b86b00d3fdd47b16f164b7c5e9a111386adf
 #EXTINF:-1 ,NYC TV gov (WNYE-DT2★432p)
 https://v-ny.mybtv.net/live/592.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,NYC TV Life (WNYE-DT1★1080p)
