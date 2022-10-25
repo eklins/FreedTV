@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" status="online",TraceBrazuka
+http://78.129.237.68/tsstreamer/TraceBrazukaLDAI_SD.ts
+#EXTINF:-1 tvg-id="" status="online",TraceLatina
+http://78.129.237.68/tsstreamer/TraceLatinaLDAI_SD.ts
+#EXTINF:-1 tvg-id="" status="online",TraceUrbanasia
+http://78.129.237.68/tsstreamer/TraceUrbanasiaLDAI_SD.ts
 #EXTINF:-1 ,Faza TV (720p)
 https://raw.githubusercontent.com/LaneSh4d0w/IPTV_Exception/master/channels/af/fazatv.m3u8
 #EXTINF:-1 ,SYFY
