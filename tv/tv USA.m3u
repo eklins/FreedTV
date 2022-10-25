@@ -81,8 +81,6 @@ https://v-pi.mybtv.net/live/333.m3u8?env=prd&uid=-1&x=1
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 ,ABC 7 Los Angeles CA (KABC-TV★720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1 ,ABC 7 New York (WABC-DT1★720p)
-https://v-ny.mybtv.net/live/554.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,ABC 7 Omaha NE (KETV★720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
 #EXTINF:-1 ,ABC 7 Washington DC (WJLA★720p)
@@ -2507,8 +2505,6 @@ https://cdn-unified-hls.streamspot.com/ingest1/8b0796adaf/chunklist.m3u8?origin=
 https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 #EXTINF:-1 ,This (480p)
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
-#EXTINF:-1 ,Timeless TV (WTVE-DT2★432p)
-https://v-pi.mybtv.net/live/401.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,TNT Sports 2 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1 ,TNT Sports 3 Brasil (720p)
