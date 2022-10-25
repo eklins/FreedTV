@@ -33,8 +33,6 @@ http://v2.catcast.tv/content/38144/index.m3u8
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
-#EXTINF:-1 ,🇺🇳THT
-https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤ATN International
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 ,AFG★WATAN-E-MAA
@@ -2415,8 +2413,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://serv30.vintera.tv/sochi/sochi24/playlist.m3u8
 #EXTINF:-1 ,RUS★Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 ,RUS★ТНТ Music
-http://83.222.205.65:8080/tntmusic/index.m3u8
+#EXTINF:-1 ,RUS★THT
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:-1 ,RUS★TV BRICS (Chinese)
 https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 ,RUS★TV BRICS (English)
