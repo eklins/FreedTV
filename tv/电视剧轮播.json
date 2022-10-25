@@ -49,7 +49,13 @@
       "parse": false
     },
     {
-      "name": "Degrassi: The Next Generation 2010-2015",
+      "name": "Degrassi: The Next Generation 2010-2015 (Canada)",
+      "url": "http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRICuO0dorqvYezQbS--4y2VNHpvHi0rPWv4w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Degrassi: The Next Generation 2010-2015 (US)",
       "url": "https://dhx-degrassi-1-us.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRICuO0dorqvYezQbS--4y2VNHpvHi0rPWv4w&usqp=CAU",
       "parse": false
