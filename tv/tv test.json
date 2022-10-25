@@ -31,6 +31,12 @@
       "parse": false
     },
     {
+      "name": "SYFY",
+      "url": "http://red.ipfox.org:8080/osama2022/osama2023/49326",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "广西影视",
       "url": "http://111.59.63.32:9901/tsfile/live/1006_1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
