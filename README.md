@@ -58,3 +58,7 @@ custom/exterior/files/ | 收集到的文件
 20210222 <br>
 因为原项目只有gitee建立，所以在GitHub做了一个定时拉取的备份 <br>
 在备份基础上增加了自定义资源+原项目资源合并的功能
+
+
+# Legal
+No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a pull request or opening an issue. However, note that we have no control over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is not a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (not GitHub, nor the maintainers of this repository).
