@@ -403,12 +403,6 @@
       "parse": false
     },
     {
-      "name": "北京体育休闲",
-      "url": "http://111.20.33.93/PLTV/88888893/224/3221226232/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "北京新闻",
       "url": "http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -655,24 +649,6 @@
       "parse": false
     },
     {
-      "name": "汉中-1",
-      "url": "http://111.20.33.93/TVOD/88888893/224/3221226331/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "汉中-2",
-      "url": "http://111.20.33.70/TVOD/88888893/224/3221225990/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "汉中-3",
-      "url": "http://111.20.33.70/TVOD/88888893/224/3221225991/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "河北影视剧",
       "url": "https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -777,12 +753,6 @@
     {
       "name": "湖南经视",
       "url": "http://124.232.231.246:6610/000000001001/201600010002/index.m3u8?A=&IASHttpSessionId=OTT?zhund",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "湖南快乐垂钓",
-      "url": "http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8?zhund",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1363,12 +1333,6 @@
       "parse": false
     },
     {
-      "name": "精彩综艺",
-      "url": "http://111.20.33.70/TVOD/88888893/224/3221226009/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "女人购物•生活",
       "url": "http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
@@ -1819,8 +1783,8 @@
       "parse": false
     },
     {
-      "name": "SiTV 欢笑剧场4K",
-      "url": "http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8",
+      "name": "SiTV 欢笑剧场",
+      "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
     },
