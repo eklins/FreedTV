@@ -1053,6 +1053,8 @@ https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Indonesia.png",Indonesia❤Ainos (576p)
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
+#EXTINF:-1 ,IDN★ANTV (720p)
+http://45.126.83.51/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 ,IDN★Banjar TV (720p) [Not 24/7]
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
 #EXTINF:-1 ,IDN★Banten TV (720p) [Not 24/7]
@@ -1081,8 +1083,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://bravo.kugo.id/dangduttivi/udp.stream/playlist.m3u8
 #EXTINF:-1 ,IDN★Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
-#EXTINF:-1 ,IDN★GPR TV
-https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
+#EXTINF:-1 ,IDN★Indosiar (480p)
+http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 ,IDN★Kompas TV
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 #EXTINF:-1 ,IDN★Kugo Star (576p)
@@ -1095,24 +1097,18 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 ,IDN★NDTV 24X7 (English)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 ,IDN★NET.
+http://45.126.83.51/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 ,IDN★Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1 ,IDN★Reformed 21
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 ,IDN★RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 ,IDN★SCTV (480p)
+http://45.126.83.51/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 ,IDN★The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
-#EXTINF:-1 ,IDN★TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 ,IDN★TVRI Aceh
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRIACEH)/index.m3u8
-#EXTINF:-1 ,IDN★TVRI Bali
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRIBALI)/index.m3u8
-#EXTINF:-1 ,IDN★TVRI DKI Jakarta
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRIDKI)/index.m3u8
-#EXTINF:-1 ,IDN★TVRI Sports
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel (TVRI4)/Stream (03)/index.m3u8
+#EXTINF:-1 ,IDN★TV One (480p)
+http://45.126.83.51/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤AVA Family (720p) [Not 24/7]
 http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 ,IRN★AVA Series (720p)
@@ -2281,6 +2277,8 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,PRT★RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 ,PRT★RTP Internacional Asia (480p)
+http://45.126.83.51/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 ,PRT★TV Maná 1 (1080p)
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★TV Maná 2 (1080p)
