@@ -593,6 +593,8 @@ https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 ,Cinema 35 (Los Angeles City View 35)
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 ,City Channel
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1365c8d0858e42e4be519e5a3a44c3d1/chunklist_b4628000.m3u8?p=79&s=1666722342&e=1666722462&h=a72c53fd2b2297b35232e54dd9f2f63d
 #EXTINF:-1 ,CityTV ❛ōlelo 49 (Honolulu Hawaii)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_009/chunklist.m3u8
 #EXTINF:-1 ,CityTV ❛ōlelo 53 (Honolulu Hawaii)
@@ -1089,6 +1091,8 @@ https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 ,LHCAZ TV (Lake Havasu City★Arizona)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
+#EXTINF:-1 ,Library Channel
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/c5a66d515382442eb15d19cc6e5b5822/chunklist_b4628000.m3u8?p=79&s=1666722630&e=1666722750&h=bca648806ddf33ed27b68bc5e4a7b835
 #EXTINF:-1 ,Lifestyle
 https://simultv.s.llnwi.net/o059/Lifestyle/interlink.m3u8
 #EXTINF:-1 ,Lifevision TV (406p) [Not 24/7]
