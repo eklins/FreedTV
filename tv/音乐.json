@@ -457,6 +457,18 @@
       "parse": false
     },
     {
+      "name": "PMC (Iran)",
+      "url": "https://hls.pmchd.live/hls/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PMC Royale (Iran) [Not 24/7]",
+      "url": "http://51.210.199.29/hls/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Polo TV (Italy)",
       "url": "http://54.39.17.6:8080/polotv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
