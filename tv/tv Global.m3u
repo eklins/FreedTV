@@ -13,15 +13,25 @@ http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsu
 http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO TLC
 http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",Celestial Classic Movies 天映经典频道
+http://45.126.83.51/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPyrpm--oApjOinvA6i18Ms5hFAgjN1jV7w&usqp=CAU",Celestial Movies 天映频道
+http://45.126.83.51/dr9445/h/h14/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwnSGubDN1ge8MBQARTGACXd5fhPEPtEAljA&usqp=CAU",Cinema World (576p)
+http://45.126.83.51/dr9445/h/h04/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33tZ3Fpvn4I5nNSQn4_mAdFA4M3X6xuUgjg&usqp=CAU",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSmPGc7aQMeRHFI5T1VECspSQLy_4vPDfBEsrjg2w=s900-c-k-c0x00ffffff-no-rj",Maah TV
 http://51.210.199.33/hls/stream.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNRkKkPp2LCPJafaVEAZ6h5IzbClkrvrq-Q&usqp=CAU",NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIzgPMYDjGIH2DVqOkbYsLxWbxgpF1ANs0g&usqp=CAU",ROCK Entertainment (576p)
+http://45.126.83.51/dr9445/h/h16/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-0l7Wwk6Ti1-ogUxr5ftDXsO4gN2RmQ_qA&usqp=CAU",ROCK Extreme (576p)
+http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9_6eKNtMGAjD8J4IKNmuq4D098oCPeTuiw&usqp=CAU",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJu2SKBxuHzGinurymAnHqtnMnuIC0DLlI1w&usqp=CAU",TVS (576p)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 ,🇦🇼Aruba.TV
 https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
@@ -1053,6 +1063,8 @@ https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Indonesia.png",Indonesia❤Ainos (576p)
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
+#EXTINF:-1 ,IDN★Aniplus
+http://45.126.83.51/dr9445/h/h02/index.m3u8
 #EXTINF:-1 ,IDN★ANTV (720p)
 http://45.126.83.51/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 ,IDN★Banjar TV (720p) [Not 24/7]
@@ -1075,16 +1087,24 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 #EXTINF:-1 ,IDN★Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
-#EXTINF:-1 ,IDN★Jakarta Globe News
-https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 #EXTINF:-1 ,IDN★CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 ,IDN★Dhamma TV (720p) [Not 24/7]
 https://bravo.kugo.id/dangduttivi/udp.stream/playlist.m3u8
+#EXTINF:-1 ,IDN★Elshinta TV (480p) [Not 24/7]
+http://45.126.83.51/qwr9ew/s/s10/02.m3u8
 #EXTINF:-1 ,IDN★Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 ,IDN★HITS (576p)
+http://45.126.83.51/dr9445/h/h37/01.m3u8
 #EXTINF:-1 ,IDN★Indosiar (480p)
 http://45.126.83.51/qwr9ew/s/s04/index.m3u8
+#EXTINF:-1 ,IDN★Jakarta Globe News
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+#EXTINF:-1 ,IDN★K+
+http://45.126.83.51/uq2663/h/h08/index.m3u8
+#EXTINF:-1 ,IDN★KIX
+http://45.126.83.51/dr9445/h/h07/index.m3u8
 #EXTINF:-1 ,IDN★Kompas TV
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 #EXTINF:-1 ,IDN★Kugo Star (576p)
@@ -1095,6 +1115,16 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 ,IDN★Metro TV (480p)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 ,IDN★My Cinema
+http://45.126.83.51/uq2663/h/h192/index.m3u8
+#EXTINF:-1 ,IDN★My Cinema Asia
+http://45.126.83.51/uq2663/h/h193/index.m3u8
+#EXTINF:-1 ,IDN★My Cinema Europe
+http://45.126.83.51/uq2663/h/h18/index.m3u8
+#EXTINF:-1 ,IDN★My Family Channel
+http://45.126.83.51/uq2663/h/h194/index.m3u8
+#EXTINF:-1 ,IDN★My Kidz
+http://45.126.83.51/uq2663/h/h191/index.m3u8
 #EXTINF:-1 ,IDN★NDTV 24X7 (English)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 ,IDN★NET.
@@ -1103,12 +1133,22 @@ http://45.126.83.51/qwr9ew/s/s08/index.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 ,IDN★RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 ,IDN★RTV
+http://45.126.83.51/dr9445/h/h10/index.m3u8
 #EXTINF:-1 ,IDN★SCTV (480p)
 http://45.126.83.51/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 ,IDN★The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+#EXTINF:-1 ,IDN★Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 ,IDN★TV One (480p)
 http://45.126.83.51/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 ,IDN★tvN
+http://45.126.83.51/dr9445/h/h20/index.m3u8
+#EXTINF:-1 ,IDN★tvN Movies
+http://45.126.83.51/dr9445/h/h21/index.m3u8
+#EXTINF:-1 ,IDN★U Channel (576p) [Not 24/7]
+http://45.126.83.51/x6bnqe/s/s73/index2.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤AVA Family (720p) [Not 24/7]
 http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 ,IRN★AVA Series (720p)
@@ -2589,6 +2629,8 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 https://sofytv-samsunges.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Supertoons TV
 https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ESP★TVE Internacional Asia-Oceania (576p)
+http://45.126.83.51/uq2663/h/h158/index2.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sri-Lanka.png",Sri Lanka❤ITN
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 #EXTINF:-1 ,LKA★Santhora TV
