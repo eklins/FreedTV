@@ -1435,7 +1435,9 @@ https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Yamato Animation
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cote-d-Ivoire.png",Ivory Coast❤Ivoire Channel (720p)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cote-d-Ivoire.png",Ivory Coast❤Business 24 Africa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8
+#EXTINF:-1 ,CIV★Ivoire Channel (720p)
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 ,CIV★Ntv Afrique (1080p) [Not 24/7]
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
