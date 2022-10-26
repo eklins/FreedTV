@@ -803,8 +803,6 @@ https://invintus-otfp.global.ssl.fastly.net/2917038973/487b842c8d9f8e9fc0b4043b9
 https://v-ny.mybtv.net/live/547.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Dark Matter TV
 https://dmtv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Dark Matter TV (West)
-https://distroscale-public.s3-us-west-2.amazonaws.com/strm/channels/darkmatter/v3.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 ,Decades (WNYW-DT5)
 https://v-ny.mybtv.net/live/553.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,DeFiance Media (1080p)
