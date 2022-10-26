@@ -1181,6 +1181,8 @@ http://51.210.199.58/hls/stream.m3u8
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 ,IRN★PMC (1080p)
 https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 ,IRN★PMC Royale (720p) [Not 24/7]
+http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Press TV (English)
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 ,IRN★SL ①
@@ -1197,6 +1199,8 @@ https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 http://51.210.199.8/hls/stream.m3u8
 #EXTINF:-1 ,IRN★VOX2 TVG
 http://51.210.199.9/hls/stream.m3u8
+#EXTINF:-1 ,IRN★Your Time TV (720p) [Not 24/7]
+https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iraq.png",Iraq❤AVA Entertainment (720p) [Not 24/7]
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
 #EXTINF:-1 ,IRQ★Dijlah (1080p)
