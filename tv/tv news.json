@@ -457,6 +457,12 @@
       "parse": false
     },
     {
+      "name": "WION (India★576p)",
+      "url": "http://45.126.83.51/uq2663/h/h91/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ-GjVvGAtquFlsS-YmzwhIojVinrsZ4Ve8A&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Yahoo! Finance",
       "url": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",
