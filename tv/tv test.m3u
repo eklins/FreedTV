@@ -97,6 +97,30 @@ http://top.streancdn.fun:80/0987654321/1234567890/2162533
 http://top.streancdn.fun:80/0987654321/1234567890/2162508
 #EXTINF:-1 ,SYFY SD
 http://top.streancdn.fun:80/0987654321/1234567890/2163103
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXSe_f540eR6TNRkVm-gaDUoQ82sJKmwafcA&usqp=CAU",8TV 八度空间
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33tZ3Fpvn4I5nNSQn4_mAdFA4M3X6xuUgjg&usqp=CAU",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNRkKkPp2LCPJafaVEAZ6h5IzbClkrvrq-Q&usqp=CAU",NTV7
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1 logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png",RTM Berita
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1 logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",RTM Okey
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 logo="https://www.rtm.gov.my/images/2021/04/05/dewanrakyatbaharu.jpg",RTM Parlimen Dewan Rakyat
+https://rtmklik.rtm.gov.my/tv/7
+#EXTINF:-1 logo="https://www.rtm.gov.my/images/2021/04/01/sukanrtmbaharu.jpg",RTM Sukan
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpoxvRef94zWT_VgzRRAxOY2QX1j41E6b8ag&usqp=CAU",TV1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwM3cnfiFBgQ9WqbPNGFd24ZOJFXZ37bixGw&usqp=CAU",TV2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqaca-JqaWqs_UvieEK88tQpOBeeQRFDNxg&usqp=CAU",TV3
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1CxRLBjYvDYEaFTnvzrQ1qV4HvyESmSgKTg&usqp=CAU",TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9_6eKNtMGAjD8J4IKNmuq4D098oCPeTuiw&usqp=CAU",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Vietnam.png",Vietnam❤Animax Asia
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #EXTINF:-1 ,VNM★BBC Earth
@@ -521,22 +545,6 @@ http://live.adultiptv.net/teen.m3u8
 http://live.adultiptv.net/threesome.m3u8
 #EXTINF:-1 ,Woman (Live•RedTraffic)
 http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png",RTM Berita
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-#EXTINF:-1 logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",RTM Okey
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1 logo="https://www.rtm.gov.my/images/2021/04/05/dewanrakyatbaharu.jpg",RTM Parlimen Dewan Rakyat
-https://rtmklik.rtm.gov.my/tv/7
-#EXTINF:-1 logo="https://www.rtm.gov.my/images/2021/04/01/sukanrtmbaharu.jpg",RTM Sukan
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpoxvRef94zWT_VgzRRAxOY2QX1j41E6b8ag&usqp=CAU",TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwM3cnfiFBgQ9WqbPNGFd24ZOJFXZ37bixGw&usqp=CAU",TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqaca-JqaWqs_UvieEK88tQpOBeeQRFDNxg&usqp=CAU",TV3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1CxRLBjYvDYEaFTnvzrQ1qV4HvyESmSgKTg&usqp=CAU",TV6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 ,CHC 家庭影院
 http://171.110.62.170:8181/tsfile/live/1011_1.m3u8
 #EXTINF:-1 ,CHC 动作电影
