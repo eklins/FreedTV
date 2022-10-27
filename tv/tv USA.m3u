@@ -59,6 +59,8 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmy30atvLifestyle30a/playlis
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 ,a3BIKINI (720p)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 ,AABC (KIIO-LD4)
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 #EXTINF:-1 ,ABC 2 Baton Rouge LA (WBRZ★720p) [Not 24/7]
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 ,ABC 2 WMAR
