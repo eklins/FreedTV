@@ -403,12 +403,6 @@
       "parse": false
     },
     {
-      "name": "北京体育休闲",
-      "url": "http://111.20.33.93/PLTV/88888893/224/3221226232/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "北京新闻",
       "url": "http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
