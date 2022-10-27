@@ -9,7 +9,7 @@
     {
       "name": "CNC 新华社",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225694/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGei7LMlonN1Ow1BZz797GbkuEt4wlsL0LA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_2A9rgtSm-3C7YsRtSrsL7Mi2tQJE58r1Q&usqp=CAU",
       "parse": false
     },
     {
@@ -87,7 +87,7 @@
     {
       "name": "东方财经•浦东",
       "url": "http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6sQaCsPXlX8oVHGoV-LDHKdH4aZbJB26jg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYG1YmQpfseqW6Db0qdvMBcDO52e_PafM6A&usqp=CAU",
       "parse": false
     },
     {
@@ -267,7 +267,7 @@
     {
       "name": "FOX News Now",
       "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-      "pic": "https://fox5sandiego.com/wp-content/uploads/sites/15/2021/01/FOX-5-NEWS-NOW-Logo-with-BG.jpg?w=1280",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDJr3pu8jjXF_FEKNBZNbAVB2WusKqzd01A&usqp=CAU",
       "parse": false
     },
     {
@@ -291,7 +291,7 @@
     {
       "name": "Global News (Canada)",
       "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLslZXLDkiM2Yz_tX9VeSlzYJQeHWZyvDVQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTX0-GiIU3F2ADp-KT5vrZ-c7DY9juidEsg&usqp=CAU",
       "parse": false
     },
     {
@@ -303,11 +303,11 @@
     {
       "name": "NBC News Now",
       "url": "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXaOxqLJW05rS3SHdrohAaZObWOjXeuXxWlg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJrgDEpY9IQryUMSTVFXuT4_tqN9TvJ7hOg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "NBT World [Not 24/7]",
+      "name": "NBT World (Thailand) [Not 24/7]",
       "url": "https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJ-ov8kF3pI4GP5wi65tJ7kU2DwZ2pHbnrA&usqp=CAU",
       "parse": false
@@ -333,17 +333,17 @@
     {
       "name": "Newsy",
       "url": "https://v-ny.mybtv.net/live/609.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/1200px-Newsy_2021.svg.png",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbS8yzAKs7OgjBaIfVMO0Va260uj50mm5kqw&usqp=CAU",
       "parse": false
     },
     {
       "name": "Newsy Top Stories",
       "url": "https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8",
-      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/1200px-Newsy_2021.svg.png",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbS8yzAKs7OgjBaIfVMO0Va260uj50mm5kqw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "NHK World",
+      "name": "NHK World Japan",
       "url": "http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlefI3-TyjxFiKubKCo_rSuTNrwE5CqypAw&usqp=CAU",
       "parse": false
