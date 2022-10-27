@@ -121,12 +121,6 @@
       "parse": false
     },
     {
-      "name": "CCTV 兵器科技",
-      "url": "http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
-      "parse": false
-    },
-    {
       "name": "CCTV 高尔夫•网球",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8?$广西cdn",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
