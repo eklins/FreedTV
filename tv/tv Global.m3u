@@ -345,8 +345,6 @@ https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 ,BRA★ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
-#EXTINF:-1 ,BRA★Megapix (TELE CINE ACTION)
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 ,BRA★MyTime Movie Network (English)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,BRA★Pluto BET Being Mary Jane (Portuguese)
@@ -1123,8 +1121,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://45.126.83.51/uq2663/h/h192/index.m3u8
 #EXTINF:-1 ,IDN★My Cinema Asia
 http://45.126.83.51/uq2663/h/h193/index.m3u8
-#EXTINF:-1 ,IDN★My Cinema Europe
-http://45.126.83.51/uq2663/h/h18/index.m3u8
 #EXTINF:-1 ,IDN★My Family Channel
 http://45.126.83.51/uq2663/h/h194/index.m3u8
 #EXTINF:-1 ,IDN★My Kidz
@@ -1225,6 +1221,8 @@ https://hls.pmchd.live/hls/stream.m3u8
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Press TV (English)
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+#EXTINF:-1 ,IRN★Sepanj TV
+http://51.210.199.30/hls/stream.m3u8
 #EXTINF:-1 ,IRN★SL ①
 http://51.210.199.3/hls/stream.m3u8
 #EXTINF:-1 ,IRN★SL ②
@@ -1559,8 +1557,6 @@ http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 https://sc.id-tv.kz/bober.m3u8
 #EXTINF:-1 ,KAZ★Cinema
 https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1 ,KAZ★Dorama (Дорама) [Not 24/7]
-https://sc.id-tv.kz/dorama_hd.m3u8
 #EXTINF:-1 ,KAZ★Ел Арна (576p)
 https://sc.id-tv.kz/ElArna.m3u8
 #EXTINF:-1 ,KAZ★FOX HD
@@ -2273,7 +2269,7 @@ https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
 #EXTINF:-1 ,PER★Retro Plus HD (Spanish)
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 ,PER★TecSatel Cine TV (Arequipa★720p) [Not 24/7]
+#EXTINF:-1 ,PER★TecSatel Cine Club TV (Arequipa★720p) [Not 24/7]
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 ,PER★X TV (Chachapoyas)
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
@@ -2715,6 +2711,8 @@ https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 ,CHE★LFM TV (1080p)
 http://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
+#EXTINF:-1 ,CHE★My Cinema Europe
+http://45.126.83.51/uq2663/h/h18/index.m3u8
 #EXTINF:-1 ,CHE★Pluto Movies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true
 #EXTINF:-1 ,CHE★Pluto Movies+
