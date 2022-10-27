@@ -85,12 +85,6 @@
       "parse": true
     },
     {
-      "name": "GZ Film",
-      "url": "http://9.zhxinda.xyz/gz.php?id=yingshi",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "HBO Family (Taiwan)",
       "url": "https://www.chaojidianshi.net/zhibo/490569.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1901,30 +1895,6 @@
       "name": "🆔Global TV",
       "url": "",
       "pic": "",
-      "parse": true
-    },
-    {
-      "name": "🇨🇳广州GZ",
-      "url": "http://9.zhxinda.xyz/gz.php?id=zhonghe",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇨🇳广州法治",
-      "url": "http://9.zhxinda.xyz/gz.php?id=fazhi",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇨🇳广州竞赛",
-      "url": "http://9.zhxinda.xyz/gz.php?id=jingsai",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇨🇳广州新闻",
-      "url": "http://9.zhxinda.xyz/gz.php?id=xinwen",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
