@@ -569,6 +569,8 @@ http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w389667
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Dominican-Republic.png",Dominican Republic❤GH TV
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+#EXTINF:-1 ,DOM★iUtv (Imagen Universal TV)
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 ,DOM★TVS (540p)
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Denmark.png",Denmark❤Africa News (English)
