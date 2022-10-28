@@ -1125,7 +1125,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://bravo.kugo.id/dangduttivi/udp.stream/playlist.m3u8
 #EXTINF:-1 ,IDN★Elshinta TV (480p) [Not 24/7]
 http://45.126.83.51/qwr9ew/s/s10/02.m3u8
-#EXTINF:-1 ,IDN★Ficom Channel
+#EXTINF:-1 ,IDN★Ficom Channel (720p)
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 ,IDN★HITS (576p)
 http://45.126.83.51/dr9445/h/h37/01.m3u8
@@ -1133,9 +1133,9 @@ http://45.126.83.51/dr9445/h/h37/01.m3u8
 http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 ,IDN★Jakarta Globe News
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
-#EXTINF:-1 ,IDN★K+
+#EXTINF:-1 ,IDN★K+ (576p)
 http://45.126.83.51/uq2663/h/h08/index.m3u8
-#EXTINF:-1 ,IDN★KIX
+#EXTINF:-1 ,IDN★KIX (576p)
 http://45.126.83.51/dr9445/h/h07/index.m3u8
 #EXTINF:-1 ,IDN★Kompas TV
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
@@ -1145,8 +1145,6 @@ https://bravo.kugo.id/kugostar/udp.stream/chunklist.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 ,IDN★Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 ,IDN★Metro TV (480p)
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 ,IDN★My Cinema
 http://45.126.83.51/uq2663/h/h192/index.m3u8
 #EXTINF:-1 ,IDN★My Cinema Asia
@@ -1155,8 +1153,6 @@ http://45.126.83.51/uq2663/h/h193/index.m3u8
 http://45.126.83.51/uq2663/h/h194/index.m3u8
 #EXTINF:-1 ,IDN★My Kidz
 http://45.126.83.51/uq2663/h/h191/index.m3u8
-#EXTINF:-1 ,IDN★NDTV 24X7 (English)
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 ,IDN★NET.
 http://45.126.83.51/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 ,IDN★Nusantara TV
@@ -1169,7 +1165,7 @@ http://45.126.83.51/dr9445/h/h10/index.m3u8
 http://45.126.83.51/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 ,IDN★The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
-#EXTINF:-1 ,IDN★Thrill
+#EXTINF:-1 ,IDN★Thrill (576p)
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 ,IDN★TV One (480p)
 http://45.126.83.51/qwr9ew/s/s105/01.m3u8
