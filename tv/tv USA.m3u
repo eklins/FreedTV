@@ -631,6 +631,8 @@ https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 ,CityTV DKN
 https://video.oct.dc.gov/out/u/DKN.m3u8
+#EXTINF:-1 ,CityTV Dubuque
+https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityofdubque/G0526_001/chunklist.m3u8
 #EXTINF:-1 ,CityTV Escambia County
 https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/chunklist_w1895810122.m3u8
 #EXTINF:-1 ,CityTV Flagstaff AZ
@@ -1079,6 +1081,8 @@ https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 https://difwk89tryvik.cloudfront.net/v1/manifest/dfe581e0a446a1e548014078b2d81b62b917979d/KRON_AD_CAMPAIGN/d24e9910-8dc7-4897-8bc4-a1040f5911c8/2.m3u8
 #EXTINF:-1 ,KTLA 5 Los Angeles CA (144p)
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+#EXTINF:-1 ,KTPS-TV
+http://tpscomm.topekapublicschools.net/live/live.m3u8
 #EXTINF:-1 ,Kweli TV (720p)
 https://a.jsrdn.com/broadcast/9c897f1973/+0000/high/c.m3u8
 #EXTINF:-1 ,La Mega Mundial (720p) [Not 24/7]
