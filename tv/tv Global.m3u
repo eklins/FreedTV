@@ -505,7 +505,11 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 #EXTINF:-1 ,CHL★Pop TV
 https://v4.tustreaming.cl/poptv/playlist.m3u8
-#EXTINF:-1 ,CHL★Retro Plus 3
+#EXTINF:-1 ,CHL★Retro Plus ①
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 ,CHL★Retro Plus ②
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1 ,CHL★Retro Plus ③
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 ,CHL★Romantica TV
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/romanticatv/romanticatv.smil/romanticatv/livestream2/chunks.m3u8?dpssid=b21130325766359a4d3950e7&sid=ba5t1l1xb216142802306359a4d549bbe
@@ -2277,8 +2281,6 @@ https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
 #EXTINF:-1 ,PER★Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
-#EXTINF:-1 ,PER★Retro Plus HD (Spanish)
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 ,PER★TecSatel Cine Club TV (Arequipa★720p) [Not 24/7]
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 ,PER★X TV (Chachapoyas)
