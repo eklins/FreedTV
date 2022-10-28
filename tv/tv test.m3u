@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,无线新闻
+https://tvp22.sky4k.top/index1.php?.m3u8
+#EXTINF:-1 ,无线财经
+https://tvp22.sky4k.top/index2.php?.m3u8
 #EXTINF:-1 tvg-id="" status="online",TraceBrazuka
 http://78.129.237.68/tsstreamer/TraceBrazukaLDAI_SD.ts
 #EXTINF:-1 tvg-id="" status="online",TraceLatina
