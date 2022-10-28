@@ -153,7 +153,13 @@
     {
       "name": "Bloomberg",
       "url": "https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71P4mnHdjmdwkH7R6ydUECWuLKxGKVX1-Hw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4OeDxWuPd72gYMis17sdoAXUWPmuqMriSA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Bloomberg Asia",
+      "url": "http://45.126.83.51/dr9445/h/h03/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNroASc9BorbVMaeVGiCxOrreGpPOzLh1FQ&usqp=CAU",
       "parse": false
     },
     {
@@ -171,13 +177,13 @@
     {
       "name": "Bloomberg US Live Event",
       "url": "https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71P4mnHdjmdwkH7R6ydUECWuLKxGKVX1-Hw&usqp=CAU",
       "parse": false
     },
     {
       "name": "Bloomberg US Politics Event",
       "url": "https://www.bloomberg.com/media-manifest/streams/politics.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71P4mnHdjmdwkH7R6ydUECWuLKxGKVX1-Hw&usqp=CAU",
       "parse": false
     },
     {
@@ -469,18 +475,6 @@
       "parse": false
     },
     {
-      "name": "香港无线新闻台",
-      "url": "https://www.chaojidianshi.net/zhibo/73.html",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
-      "parse": true
-    },
-    {
-      "name": "香港无线财经•资讯台",
-      "url": "https://www.chaojidianshi.net/zhibo/79.html",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
-    },
-    {
       "name": "台湾中天新闻",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_QbRXRnHMVY",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
@@ -562,6 +556,18 @@
       "name": "台湾东森财经新闻",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/57東森財經新聞/live",
       "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
+      "parse": true
+    },
+    {
+      "name": "香港无线新闻台",
+      "url": "https://www.chaojidianshi.net/zhibo/73.html",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
+      "parse": true
+    },
+    {
+      "name": "香港无线财经•资讯台",
+      "url": "https://www.chaojidianshi.net/zhibo/79.html",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
     }
   ]
