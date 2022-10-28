@@ -541,6 +541,12 @@
       "parse": false
     },
     {
+      "name": "Recuerdos Retro (Chile)",
+      "url": "https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Reload Radio (Cyprus)",
       "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
