@@ -495,18 +495,28 @@ https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8
 https://paneltv.online:1936/8186/8186/chunklist_w2111305498.m3u8
 #EXTINF:-1 ,CHL★Ekiz TV
 https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/Cv0Eeu0N-1K9uysKEQak98mJ5txlynEOAOwWbUIcx47Lhi1m66cKY9O8yxv2J3UTnApkUfVuv3dfCE5WYGXRB5cDLE-nz_YTlYGXiaY73e8LtRcB0xg8EWdJLfw0UE8EkzcpppfKDIWe1pOUZrXBXA7n768jDerpIctzBvtu5dRkydA3Yae0XMTHYQoV9jgUN2YGos7RZPp9g52YLoKTJbUfC1BQ11LQo24gLkh3quObNkIgu3x_TevpKby5yYykuPYAWu-ofnjJehupM5acTnJmFbvN-hHnIFJSdPXGEoOyHGf_AbBWMbATkmxEeRfTZNNo-4mqSTOUaD9NIyTfpcr3RbWGQf7gFMj1gXszZ3pfke3zphiz3DSyMstZwZz8cKGeZ5rponURFsYM5Ywa3YIOitlTS-LHA5Az6GVy55c368sBJs2OK1QboTWjMtgHpSibaA9dFKaodl_U6vrm0Bl55yeRG2ZFT9wRJo9VC60Ytfh6WLwETwDwweERhckmN7KPUZ6EnJkKUuYEWLEfpbEuY3kpEkgNsRhPfy9pSISbHsKvnCUMO72RUrph1jPtfeD1ZLvMtJsJj9lYxbbUhCSiGyDpDs5itaXswj4wB4oWNOcd5NdONEX9aSWMhoAEv7UM17-76VGIhuA0PdMKU4wC_EIrMoAFeS1QJfIZ_4bLSayyI8q_leJ_6yYLJUcF9CJ-HVs-Vk8fUi0uz9VhPQqXrfZKpag_RbI4WTgQQSHd5KPPKxuCLIXcPvQJ5v_B5YZqUB4KP8azdJhWV3PLnlwjEiiyXUPuCRuRZJnKDOCRmp0BQMiHCij2xkE5fhk6QmIUJ4JhToWw62pWvE5qNRoMvSv9EQpMNKnY9ehdIAEqCXVzLWVhc3QtMTCzAw.m3u8
-#EXTINF:-1 ,CHL★Evavision
+#EXTINF:-1 ,CHL★EVA Retro (480p) [Not 24/7]
+https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
+#EXTINF:-1 ,CHL★EVA Stream (480p) [Not 24/7]
+https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
+#EXTINF:-1 ,CHL★EVA Vision
 https://stmv1.zcastbr.com/evevision/evevision/chunklist_w1852830727.m3u8
 #EXTINF:-1 ,CHL★GVision
 https://tls-cl.cdnz.cl/escgabrielamistral/live/chunklist_w2030986954.m3u8
 #EXTINF:-1 ,CHL★PlanetaTV 90s (720p)
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
+#EXTINF:-1 ,CHL★PlanetaTV Kids (720p)
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 ,CHL★PlanetaTV Movie (720p)
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 ,CHL★PlanetaTV Music
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 #EXTINF:-1 ,CHL★Pop TV
 https://v4.tustreaming.cl/poptv/playlist.m3u8
+#EXTINF:-1 ,CHL★RCK TV (720p)
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+#EXTINF:-1 ,CHL★Recuerdos Retro
+https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
 #EXTINF:-1 ,CHL★Retro Plus ①
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 ,CHL★Retro Plus ②
@@ -515,6 +525,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 ,CHL★Romantica TV
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/romanticatv/romanticatv.smil/romanticatv/livestream2/chunks.m3u8?dpssid=b21130325766359a4d3950e7&sid=ba5t1l1xb216142802306359a4d549bbe
+#EXTINF:-1 ,CHL★T-Vinet
+https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 ,CHL★TV Quinta Region
 https://mediacpstreamchile.com:1936/8002/8002/chunklist_w1893654106.m3u8
 #EXTINF:-1 ,CHL★V Classic TV
