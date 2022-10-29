@@ -1203,15 +1203,15 @@ http://51.210.199.6/hls/stream.m3u8
 http://51.210.199.40/hls/stream.m3u8
 #EXTINF:-1 ,IRN★FX
 http://51.210.199.52/hls/stream.m3u8
-#EXTINF:-1 ,IRN★GEM Classic
+#EXTINF:-1 ,IRN★GEM Classic (576p) [Not 24/7]
 http://216.66.42.47:7777/GemClassic_HD.m3u8
-#EXTINF:-1 ,IRN★GEM Comedy
+#EXTINF:-1 ,IRN★GEM Comedy (576p) [Not 24/7]
 http://216.66.42.47:7777/GemComedy_HD.m3u8
-#EXTINF:-1 ,IRN★GEM Film
+#EXTINF:-1 ,IRN★GEM Film (576p) [Not 24/7]
 http://216.66.42.47:7777/GemFilm_HD.m3u8
-#EXTINF:-1 ,IRN★GEM Food
+#EXTINF:-1 ,IRN★GEM Food (576p) [Not 24/7]
 http://216.66.42.47:7777/GemFood_HD.m3u8
-#EXTINF:-1 ,IRN★GEM Series
+#EXTINF:-1 ,IRN★GEM Series (576p) [Not 24/7]
 http://216.66.42.47:7777/GemSeries_HD.m3u8
 #EXTINF:-1 ,IRN★icnet 1 (720p) [Not 24/7]
 http://51.210.199.7/hls/stream.m3u8
