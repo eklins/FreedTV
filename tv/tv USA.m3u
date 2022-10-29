@@ -2707,10 +2707,10 @@ https://81988.global.ssl.fastly.net/6054f2db9a679c037cbbb2b2/live_7749cbc088e711
 https://stream.rcncdn.com/live/vsinproxy.m3u8
 #EXTINF:-1 ,Washington: Seattle
 https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
-#EXTINF:-1 ,WATC (WATC-DT2)
-https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
-#EXTINF:-1 ,WATC 57 Atlanta's (WATC-DT1)
+#EXTINF:-1 ,WATC Atlanta's 57 (WATC-DT1)
 https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:-1 ,WATC Too (WATC-DT2)
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 ,Watch It Kid (486p)
 https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 #EXTINF:-1 ,Watch It Scream! (720p)
