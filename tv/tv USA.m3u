@@ -1419,9 +1419,9 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 ,PBS WHYY•Y2 (WHYY-DT2★432p)
 https://v-pi.mybtv.net/live/348.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 ,PBS WLIW 21 (WLIW-DT1)
+#EXTINF:-1 ,PBS WLIW21 (WLIW-DT1)
 https://v-ny.mybtv.net/live/575.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 ,PBS World Channel (480p)
+#EXTINF:-1 ,PBS World's Channel (480p)
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1 ,People TV (1080p)
 https://peopletv-samsungus-ingest.akamaized.net/playlist.m3u8
@@ -2755,7 +2755,7 @@ https://edu-wcat.azureedge.net/live/live.m3u8
 https://frontdoor.wcat-tv.org:8686/live/live.m3u8
 #EXTINF:-1 ,WLNG Radio (410p) [Not 24/7]
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
-#EXTINF:-1 ,World (WLIW-DT3★432p)
+#EXTINF:-1 ,WLIW21 World (WLIW-DT3★432p)
 https://v-ny.mybtv.net/live/577.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,World Harvest TV
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/chunklist_w1838529020.m3u8
