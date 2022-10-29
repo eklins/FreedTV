@@ -187,6 +187,8 @@ https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AUS★SBS Viceland
+https://sbs-live.akamaized.net/hls/live/2002828/channel2/open/master_1800K.m3u8
 #EXTINF:-1 ,AUS★Sky Racing 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 ,AUS★Sky Thoroughbred Central
@@ -203,8 +205,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★True Crime Now
 https://alliantcontent-truecrimenow-3-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,AUS★Viceland (SBS)
-https://sbs-live.akamaized.net/hls/live/2002828/channel2/open/master_1800K.m3u8
 #EXTINF:-1 ,AUS★Wonder
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Zoo Moo
