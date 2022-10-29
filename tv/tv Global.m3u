@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 欢喜台 (Hua Hee Dai)
 http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 全佳 (Quan Jia)
@@ -537,9 +539,17 @@ https://s2.tvdatta.com:3457/hybrid/play.m3u8
 https://s2.tvdatta.com:3172/hybrid/play.m3u8
 #EXTINF:-1 ,CHL★ViwixTV Music
 https://s2.tvdatta.com:3548/hybrid/play.m3u8
+#EXTINF:-1 ,CHL★ViwixTV Series
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
+#EXTINF:-1 ,CHL★ViwixTV Terror
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
 #EXTINF:-1 ,CHL★Waap (1080p)
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Colombia.png",Colombia❤Canal CNC Tulua (Valle del Cauca)
+#EXTINF:-1 ,CHL★Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Colombia.png",Colombia❤Canal Capital
+https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
+#EXTINF:-1 ,COL★Canal CNC Tulua (Valle del Cauca)
 https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
 #EXTINF:-1 ,COL★MovieFe (Spanish)
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
@@ -2229,7 +2239,7 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 ,PRY★Farra Play
 http://159.203.148.226/live/farra.m3u8
-#EXTINF:-1 ,PRY★Trece Paraguay
+#EXTINF:-1 ,PRY★Trece
 http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1 ,PRY★Unicanal
 http://45.55.127.106/live/unicanal.m3u8
