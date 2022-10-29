@@ -1514,7 +1514,7 @@
     },
     {
       "name": "Y2 (WHYY-DT2★432p)",
-      "url": "https://v-pi.mybtv.net/live/348.m3u8?env=prd&uid=-1&x=1",
+      "url": "https://v-pi.mybtv.net/live/348.m3u8?env=prd&uid=-1&x=1&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
