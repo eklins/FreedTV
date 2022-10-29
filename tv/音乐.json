@@ -199,6 +199,12 @@
       "parse": false
     },
     {
+      "name": "Farra Play (Paraguay)",
+      "url": "http://159.203.148.226/live/farra.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Fun Radio",
       "url": "https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
