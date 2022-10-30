@@ -11,6 +11,46 @@ https://apichvod21.seezntv.com/OTM/10520_L.m3u8?AdaptiveType=HLS&SessionID=514cd
 https://apichvod21.seezntv.com/OTM/10640_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Aniplus (480p)
 https://apichvod21.seezntv.com/OTM/10340_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Baduk TV (480p)
+https://apichvod21.seezntv.com/OTM/10260_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Carrie TV (480p)
+https://apichvod21.seezntv.com/OTM/10380_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Channel A (480p)
+https://apichvod21.seezntv.com/OTM/10030_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Channel China (480p)
+https://apichvod21.seezntv.com/OTM/10790_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Channel Seezn (480p)
+https://apichvod21.seezntv.com/OTM/11770_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★DreamWorks Asia (480p)
+https://apichvod21.seezntv.com/OTM/10760_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★iHQ Drama (480p)
+https://apichvod21.seezntv.com/OTM/10800_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★JTBC (480p)
+https://apichvod21.seezntv.com/OTM/10010_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★JTBC 2 (480p)
+https://apichvod21.seezntv.com/OTM/10780_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★JTBC 4 (480p)
+https://apichvod21.seezntv.com/OTM/10890_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★PLAYY Action Movie (480p)
+https://apichvod21.seezntv.com/OTM/11720_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★PLAYY Healing Movie (480p)
+https://apichvod21.seezntv.com/OTM/11730_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★PLAYY Premium Movie (480p)
+https://apichvod21.seezntv.com/OTM/11750_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★PLAYY Well Made Movie (480p)
+https://apichvod21.seezntv.com/OTM/11740_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★SBS F!L (480p)
+https://apichvod21.seezntv.com/OTM/10930_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★tvN (480p)
+https://apichvod21.seezntv.com/OTM/10050_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★tvN Drama (480p)
+https://apichvod21.seezntv.com/OTM/10110_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★tvN Show (480p)
+https://apichvod21.seezntv.com/OTM/10130_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★tvN Story 故事 (480p)
+https://apichvod21.seezntv.com/OTM/10120_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★YTN (480p)
+https://apichvod21.seezntv.com/OTM/10300_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 tvg-id="" status="online",TraceBrazuka
 http://78.129.237.68/tsstreamer/TraceBrazukaLDAI_SD.ts
 #EXTINF:-1 tvg-id="" status="online",TraceLatina
