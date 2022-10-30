@@ -325,8 +325,8 @@
       "parse": false
     },
     {
-      "name": "Billiards TV (Korea★480p)",
-      "url": "https://apichvod21.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823",
+      "name": "Billiards TV (Korea)",
+      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/BilliardsTV.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
