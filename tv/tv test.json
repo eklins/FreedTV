@@ -67,6 +67,12 @@
       "parse": false
     },
     {
+      "name": "POSI TV",
+      "url": "https://tbn-jw.cdn.vustreams.com:443/live/positivtv/live.isml/live-audio_1=128000-video=.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AXN 78.83 T",
       "url": "http://78.83.191.18:8000/play/a04d",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
