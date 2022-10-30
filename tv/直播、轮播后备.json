@@ -55,6 +55,12 @@
       "parse": true
     },
     {
+      "name": "National Geographic Wild (Korea★480p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10230_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "DreamWorks Asia (Korea) [Not 24/7]",
       "url": "https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -103,13 +109,13 @@
       "parse": false
     },
     {
-      "name": "SPOTV (Korea★480p)",
+      "name": "SPOTV ① (Korea★480p)",
       "url": "https://apichvod21.seezntv.com/OTM/10070_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "SPOTV2 (Korea★480p)",
+      "name": "SPOTV ② (Korea★480p)",
       "url": "https://apichvod21.seezntv.com/OTM/11990_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
