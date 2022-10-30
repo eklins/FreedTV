@@ -1639,42 +1639,46 @@ https://tv.nknews.org/tvdash/stream.mpd
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 ,KOR★한국선거방송（韩国选举广播）
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1 ,KOR★Anibox (480p)
-https://apichvod21.seezntv.com/OTM/10660_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★Animax (480p)
-https://apichvod21.seezntv.com/OTM/10520_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★ANI🔴NE (480p)
-https://apichvod21.seezntv.com/OTM/10640_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★Aniplus (480p)
-https://apichvod21.seezntv.com/OTM/10340_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Anibox (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/Anibox.m3u8
+#EXTINF:-1 ,KOR★Animax (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/AnimaxKorea.m3u8
+#EXTINF:-1 ,KOR★ANI🔴NE (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/Anione.m3u8
+#EXTINF:-1 ,KOR★Aniplus (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/Aniplus.m3u8
 #EXTINF:-1 ,KOR★Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 ,KOR★Arirang Radio
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
-#EXTINF:-1 ,KOR★AsiaN (480p)
-https://apichvod21.seezntv.com/OTM/10200_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★Baduk TV (480p)
-https://apichvod21.seezntv.com/OTM/10260_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★Billiards TV (480p)
-https://apichvod21.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★AsiaN (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/AsiaN.m3u8
+#EXTINF:-1 ,KOR★Baduk TV (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/BadukTV.m3u8
+#EXTINF:-1 ,KOR★Billiards TV (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/BilliardsTV.m3u8
 #EXTINF:-1 ,KOR★BTN TV (1080p)
 http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 ,KOR★Carrie TV (480p)
-https://apichvod21.seezntv.com/OTM/10380_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Carrie TV (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/CarrieTV.m3u8
 #EXTINF:-1 ,KOR★CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1 ,KOR★Channel A (480p)
-https://apichvod21.seezntv.com/OTM/10030_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★Channel China (480p)
-https://apichvod21.seezntv.com/OTM/10790_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★Channel Seezn (480p)
-https://apichvod21.seezntv.com/OTM/11770_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★Cinema Heaven (480p)
-https://apichvod21.seezntv.com/OTM/11010_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Channel A (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/ChannelA.m3u8
+#EXTINF:-1 ,KOR★Channel China (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/ChannelChina.m3u8
+#EXTINF:-1 ,KOR★Channel olleh tv (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/ChannelOllehTV.m3u8
+#EXTINF:-1 ,KOR★Channel Seezn (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/ChannelSeezn.m3u8
+#EXTINF:-1 ,KOR★Chunghwa TV (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/ChunghwaTV.m3u8
+#EXTINF:-1 ,KOR★Cinema Heaven (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/CinemaHeaven.m3u8
 #EXTINF:-1 ,KOR★CNBC Golf & PBA (480p)
 https://apichvod21.seezntv.com/OTM/10290_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★DreamWorks (480p)
-https://apichvod21.seezntv.com/OTM/10760_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★DreamWorks Asia (1080p)
+https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8
 #EXTINF:-1 ,KOR★EBS 1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 #EXTINF:-1 ,KOR★EBS 2
@@ -1689,20 +1693,30 @@ http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 https://apichvod21.seezntv.com/OTM/10270_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Gugbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 ,KOR★IB Sports (480p)
+#EXTINF:-1 ,KOR★Honey TV (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/HoneyTV.m3u8
+#EXTINF:-1 ,KOR★IB Sports (1080p)
 https://apichvod21.seezntv.com/OTM/10220_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★iHQ Drama (480p)
-https://apichvod21.seezntv.com/OTM/10800_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★JTBC (480p)
-https://apichvod21.seezntv.com/OTM/10010_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★JTBC 2 (480p)
-https://apichvod21.seezntv.com/OTM/10780_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★JTBC 4 (480p)
-https://apichvod21.seezntv.com/OTM/10890_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★JTBC Golf (480p)
-https://apichvod21.seezntv.com/OTM/10280_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★JTBC Golf & Sports (480p)
-https://apichvod21.seezntv.com/OTM/10700_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★iHQ Drama (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/iHQDrama.m3u8
+#EXTINF:-1 ,KOR★JTBC (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBC.m3u8
+#EXTINF:-1 ,KOR★JTBC 2 (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBC2.m3u8
+#EXTINF:-1 ,KOR★JTBC 4 (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBC4.m3u8
+#EXTINF:-1 ,KOR★JTBC Golf (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBCGolf.m3u8
+#EXTINF:-1 ,KOR★JTBC Golf & Sports (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBCGolfSports.m3u8
+#EXTINF:-1 ,KOR★K-League ① (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/KLeague1.m3u8
+#EXTINF:-1 ,KOR★K-League ② (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/KLeague2.m3u8
+#EXTINF:-1 ,KOR★K-League ③ (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/KLeague3.m3u8
+#EXTINF:-1 ,KOR★K-Pop
+http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1 ,KOR★KBS Sports (480p)
 https://apichvod21.seezntv.com/OTM/10410_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★KBS World
@@ -1713,6 +1727,8 @@ http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 #EXTINF:-1 ,KOR★KMTV Now
 https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,KOR★Korea Economy TV (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/KoreaEconomyTV.m3u8
 #EXTINF:-1 ,KOR★Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 ,KOR★KYTV (Korean Song Channel)
@@ -1723,14 +1739,14 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 ,KOR★MBC Sports+ (480p)
 https://apichvod21.seezntv.com/OTM/10430_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★MBN
-http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NjUxNTEyMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=kr~Xv5L95kOI3agqOfeoXNC240iM37AYB1IRPMhlB~N~lE4-xG6veYPwPc-MU68GdYosyspscCkn8wmdYRc32AB~cqmm2dvOblenHpr3kknWtKEx09mHzHl-hSMBbupxL8OeTMhXQ~AgY3yY4~ZfyAul8-AvjBa8MAKPWDdS6hU_&Key-Pair-Id=pub_hls-live.mbn.co.kr
-#EXTINF:-1 ,KOR★Mnet
-http://mnet.xp3.biz/mnet.m3u8
+#EXTINF:-1 ,KOR★MBN (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/MBN.m3u8
+#EXTINF:-1 ,KOR★Mnet (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/Mnet.m3u8
 #EXTINF:-1 ,KOR★MTN
 http://183.110.27.87/mtnlive/720/playlist.m3u8
-#EXTINF:-1 ,KOR★National Geographic Wild (480p)
-https://apichvod21.seezntv.com/OTM/10230_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★National Geographic Wild (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/NationalGeographicWildKorea.m3u8
 #EXTINF:-1 ,KOR★NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 ,KOR★NEC ETV 한국선거방송 (720p)
@@ -1747,56 +1763,72 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
 https://apichvod21.seezntv.com/OTM/10510_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★OL!FE (480p)
 https://apichvod21.seezntv.com/OTM/10320_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★PLAYY Action Movie (480p)
-https://apichvod21.seezntv.com/OTM/11720_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★PLAYY Healing Movie (480p)
-https://apichvod21.seezntv.com/OTM/11730_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★PLAYY Premium Movie (480p)
-https://apichvod21.seezntv.com/OTM/11750_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★PLAYY Well Made Movie (480p)
-https://apichvod21.seezntv.com/OTM/11740_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★PLAYY Action Movie (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
+#EXTINF:-1 ,KOR★PLAYY Healing Movie (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYHealingMovie.m3u8
+#EXTINF:-1 ,KOR★PLAYY Premium Movie (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYPremiumMovie.m3u8
+#EXTINF:-1 ,KOR★PLAYY Well Made Movie (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYWellMadeMovie.m3u8
+#EXTINF:-1 ,KOR★Professional Baseball 1 (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball1.m3u8
+#EXTINF:-1 ,KOR★Professional Baseball 2 (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball2.m3u8
+#EXTINF:-1 ,KOR★Professional Baseball 3 (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball3.m3u8
+#EXTINF:-1 ,KOR★Professional Baseball 4 (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball4.m3u8
+#EXTINF:-1 ,KOR★Professional Baseball 5 (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball5.m3u8
 #EXTINF:-1 ,KOR★SBS 淸州 (CJB 청주방송)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 ,KOR★SBS 光州 (KBC 광주방송)
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 ,KOR★SBS F!L (480p)
-https://apichvod21.seezntv.com/OTM/10930_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★SBS Golf (480p)
-https://apichvod21.seezntv.com/OTM/10160_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★SBS F!L (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/SBSFL.m3u8
+#EXTINF:-1 ,KOR★SBS Golf (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/SBSGolf.m3u8
 #EXTINF:-1 ,KOR★SBS JIBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 ,KOR★SBS KNN
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 #EXTINF:-1 ,KOR★SBS Sports (480p)
 https://apichvod21.seezntv.com/OTM/10420_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★Sky Sports (480p)
-https://apichvod21.seezntv.com/OTM/10440_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★SPOTV (480p)
-https://apichvod21.seezntv.com/OTM/10070_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★SPOTV2 (480p)
-https://apichvod21.seezntv.com/OTM/11990_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Screen Golf Zon (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/ScreenGolfzon.m3u8
+#EXTINF:-1 ,KOR★Sky Sports (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/SkySports.m3u8
+#EXTINF:-1 ,KOR★SPOTV ① (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/SpoTV1.m3u8
+#EXTINF:-1 ,KOR★SPOTV ② (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/SpoTV2.m3u8
 #EXTINF:-1 ,KOR★TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 ,KOR★The Movie (480p)
-https://apichvod21.seezntv.com/OTM/11090_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★The Movie (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/TheMovie.m3u8
+#EXTINF:-1 ,KOR★Tooniverse (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/Tooniverse.m3u8
 #EXTINF:-1 ,KOR★TV CHOSUN 朝鲜电视 (480p)
 https://apichvod21.seezntv.com/OTM/10040_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★TV Work Net (480p)
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 ,KOR★tvN (480p)
-https://apichvod21.seezntv.com/OTM/10050_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★tvN Drama (480p)
-https://apichvod21.seezntv.com/OTM/10110_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★tvN Show (480p)
-https://apichvod21.seezntv.com/OTM/10130_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★tvN (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/tvN.m3u8
+#EXTINF:-1 ,KOR★tvN Drama (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/tvNDrama.m3u8
+#EXTINF:-1 ,KOR★tvN Show (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/tvNShow.m3u8
 #EXTINF:-1 ,KOR★tvN Sport (480p)
 https://apichvod21.seezntv.com/OTM/10100_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
-#EXTINF:-1 ,KOR★tvN Story 故事 (480p)
-https://apichvod21.seezntv.com/OTM/10120_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★tvN Story (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/tvNStory.m3u8
+#EXTINF:-1 ,KOR★Viki (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
 #EXTINF:-1 ,KOR★WBC TV (1080p)
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-#EXTINF:-1 ,KOR★YTN (480p)
-https://apichvod21.seezntv.com/OTM/10300_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★YTN (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
 #EXTINF:-1 ,KOR★YTN Science (270p)
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kuwait.png",Kuwait❤Al Rai TV
@@ -2257,7 +2289,9 @@ https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1 ,PAN★TVMAX
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Paraguay.png",Paraguay❤Bella Asuncion TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Paraguay.png",Paraguay❤ABC TV (720p)
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 ,PRY★Bella Asuncion TV
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 ,PRY★Farra Play
 http://159.203.148.226/live/farra.m3u8
