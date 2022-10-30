@@ -1,12 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AsiaN.kr" status="online",AsiaN (1080p)
-https://allanf181.github.io/adaptive-streams/streams/kr/AsiaN.m3u8
-#EXTINF:-1 ,PRY★ABC TV (720p)
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 ,无线新闻
 https://tvp22.sky4k.top/index1.php
 #EXTINF:-1 ,无线财经
 https://tvp22.sky4k.top/index2.php
+#EXTINF:-1 ,KOR★Anibox (480p)
+https://apichvod21.seezntv.com/OTM/10660_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Animax (480p)
+https://apichvod21.seezntv.com/OTM/10520_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★ANI🔴NE (480p)
+https://apichvod21.seezntv.com/OTM/10640_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
+#EXTINF:-1 ,KOR★Aniplus (480p)
+https://apichvod21.seezntv.com/OTM/10340_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 tvg-id="" status="online",TraceBrazuka
 http://78.129.237.68/tsstreamer/TraceBrazukaLDAI_SD.ts
 #EXTINF:-1 tvg-id="" status="online",TraceLatina
