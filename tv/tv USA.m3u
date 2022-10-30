@@ -277,8 +277,6 @@ https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamb/manifest.
 https://pasadenamed.secure.footprint.net/egress/bhandler/pasadenamed/streamb/chunklist_b1192000.m3u8
 #EXTINF:-1 ,ARTN TV (1080p) [Not 24/7]
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:-1 ,ARTS (Metro 21)
-https://edge-f.swagit.com/live/batonrougela/smil:hd-16x9-1-a/chunklist_b1628000.m3u8
 #EXTINF:-1 ,Asian Crush (720p)
 https://ac-samsung-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ATD HD
@@ -1159,6 +1157,8 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 ,Mega TV Key West FL (720p) WSBS-DT1
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+#EXTINF:-1 ,Metro 21
+https://edge-f.swagit.com/live/batonrougela/smil:hd-16x9-1-a/chunklist_b1628000.m3u8
 #EXTINF:-1 ,Metro TV
 http://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/louisville/G0210_003/chunklist.m3u8
 #EXTINF:-1 ,MGM USA (576p)
