@@ -1557,6 +1557,8 @@ https://fujitv2.mov3.co/hls/fujitv.m3u8
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF:-1 ,JPN★Jidaigeki Senmon Channel (540p)
 https://cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8
+#EXTINF:-1 ,JPN★Movie Plus (540p)
+http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
 #EXTINF:-1 ,JPN★MTV ①
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 ,JPN★MTV ② (540p) [Not 24/7]
@@ -1597,6 +1599,12 @@ https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 https://travelxp-travelxp-1-jp.rakutenjp.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,JPN★Weather News (ウェザーニュース)
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 ,JPN★WOWOW Cinema (720p)
+http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
+#EXTINF:-1 ,JPN★WOWOW Live (720p)
+http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8
+#EXTINF:-1 ,JPN★WOWOW Prime (720p)
+http://cdn.us195.jpnettv.live:1935/jptv/wowprime_720/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Jordan.png",Jordan❤Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 ,JOR★Jordan Satellite Channel
@@ -2281,6 +2289,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist
 https://cloudvideo.servers10.com:8081/8168/index.m3u8
 #EXTINF:-1 ,PER★Chicos IPe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 ,PER★Cine Club TV (Arequipa★720p) [Not 24/7]
+https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 ,PER★Clips TV (Ica)
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 ,PER★Conecta2TV (Lima)
@@ -2319,8 +2329,6 @@ https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
 #EXTINF:-1 ,PER★Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
-#EXTINF:-1 ,PER★TecSatel Cine Club TV (Arequipa★720p) [Not 24/7]
-https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 ,PER★X TV (Chachapoyas)
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Philippines.png",Philippines❤CNN Philippines
