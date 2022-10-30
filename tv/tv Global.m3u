@@ -551,9 +551,11 @@ https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Colombia.png",Colombia❤Canal Capital
 https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
-#EXTINF:-1 ,COL★Canal CNC Tulua (Valle del Cauca)
-https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
-#EXTINF:-1 ,COL★MovieFe (Spanish)
+#EXTINF:-1 ,COL★CNC Monteria
+https://cloud28.vsgtech.co:3932/live/cncmonterialive.m3u8
+#EXTINF:-1 ,COL★CNC Tulua (Valle del Cauca)
+https://play.amelbasoluciones.co:3611/live/cnctulualive.m3u8
+#EXTINF:-1 ,COL★MovieFe
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 #EXTINF:-1 ,COL★Telepacífico (Santiago de Cali | Valle del Cauca)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
