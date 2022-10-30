@@ -476,14 +476,8 @@
     },
     {
       "name": "台湾中天新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_QbRXRnHMVY",
+      "url": "https://www.chaojidianshi.net/zhibo/42.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾中天新闻2 Talk Show",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ctitv/live",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPgNWQor0oaPEa4Y9jViBUOCfWVbmBT6mcw&usqp=CAU",
       "parse": true
     },
     {
@@ -511,12 +505,6 @@
       "parse": true
     },
     {
-      "name": "台湾中视新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/twctvnews/live",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "台湾寰宇新闻",
       "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
@@ -526,12 +514,6 @@
       "name": "台湾年代新闻",
       "url": "http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEeI09e9rbaEBTgvCffDkvWwwPiKwlnBUCyw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾mnews•镜新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
       "parse": true
     },
     {
@@ -554,7 +536,7 @@
     },
     {
       "name": "台湾东森财经新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/57東森財經新聞/live",
+      "url": "http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54",
       "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
       "parse": true
     },
