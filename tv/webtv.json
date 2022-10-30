@@ -61,12 +61,6 @@
       "parse": true
     },
     {
-      "name": "ChungHwa TV (Korea)",
-      "url": "https://kr-streams.onrender.com/scraper?channel=287",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "Comedy",
       "url": "http://mmitv.top/pltv/yy.php?id=1382736861",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -105,12 +99,6 @@
     {
       "name": "Horror",
       "url": "https://m.huya.com/11352903",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "Indie Film (Korea)",
-      "url": "https://kr-streams.onrender.com/scraper?channel=818",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -189,12 +177,6 @@
     {
       "name": "Suspense & Thriller",
       "url": "http://mmitv.top/pltv/yy.php?id=1382745090",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "The Movie (Korea)",
-      "url": "https://kr-streams.onrender.com/scraper?channel=141",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
