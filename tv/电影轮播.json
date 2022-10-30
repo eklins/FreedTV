@@ -806,7 +806,7 @@
     },
     {
       "name": "POSI TV",
-      "url": "https://tbn-jw.cdn.vustreams.com:443/live/positivtv/live.isml/live-audio_1=128000-video=2800000.m3u8",
+      "url": "https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
