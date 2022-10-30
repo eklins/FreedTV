@@ -163,6 +163,8 @@ http://195.154.185.179/xx_hot_tv/index.m3u8
 http://195.154.185.179/xx_venus_tv/index.m3u8
 #EXTINF:-1 ,Pinko Club
 http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Playboy TV (Korea)
+https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
 #EXTINF:-1 ,Private HD
 http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/243/index.m3u8
 #EXTINF:-1 ,Private.com
