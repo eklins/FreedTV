@@ -3,6 +3,14 @@
 https://tvp22.sky4k.top/index1.php
 #EXTINF:-1 ,无线财经
 https://tvp22.sky4k.top/index2.php
+#EXTINF:-1 ,HQM Pop ENV
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,HQM Pop VD
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,Pop TV ENV
+http://n1.klowdtv.net/live2/pop_360p/playlist.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,Pop TV VD
+http://n1.klowdtv.net/live2/pop_360p/playlist.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,KOR★Anibox (480p)
 https://apichvod21.seezntv.com/OTM/10660_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823
 #EXTINF:-1 ,KOR★Animax (480p)
