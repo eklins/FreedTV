@@ -13,6 +13,54 @@
       "parse": true
     },
     {
+      "name": "AsiaN (Korea★480p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10200_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema Heaven (Korea★480p)",
+      "url": "https://apichvod21.seezntv.com/OTM/11010_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DreamWorks Asia (Korea) [Not 24/7]",
+      "url": "https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Billiards TV (Korea★480p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNBC Golf & PBA (Korea★480p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10290_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "IB Sports (Korea★480p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10220_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "JTBC Golf (Korea★480p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10280_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "JTBC Golf & Sports (Korea★480p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10700_L.m3u8?AdaptiveType=HLS&SessionID=514cd991-a8c0-48a5-896c-0c49c533b823",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Discovery Science (Taiwan)",
       "url": "http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
