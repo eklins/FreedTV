@@ -751,6 +751,36 @@
       "parse": false
     },
     {
+      "name": "Professional Baseball ① (Korea)",
+      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Professional Baseball ② (Korea)",
+      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Professional Baseball ③ (Korea)",
+      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball3.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Professional Baseball ④ (Korea)",
+      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball4.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Professional Baseball ⑤ (Korea)",
+      "url": "https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball5.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Real Madrid TV",
       "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLkWQ-XnT5-ozoGABaHiSlgVgEUD5t7xdHg&usqp=CAU",
