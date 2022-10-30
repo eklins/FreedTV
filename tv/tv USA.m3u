@@ -2008,7 +2008,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc408
 #EXTINF:-1 ,Pop (720p) [Not 24/7]
 http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8
 #EXTINF:-1 ,POSI TV (720p)
-https://tbn-jw.cdn.vustreams.com:443/live/positivtv/live.isml/live-audio_1=128000-video=2800000.m3u8
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
 #EXTINF:-1 ,PrimeTime Drama
 https://simultv.s.llnwi.net/o054/PrimeTimeDrama/interlink.m3u8
 #EXTINF:-1 ,Providence Christian Network
