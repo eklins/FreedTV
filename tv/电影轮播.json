@@ -67,12 +67,6 @@
       "parse": false
     },
     {
-      "name": "ARTS (Metro 21)",
-      "url": "https://edge-f.swagit.com/live/batonrougela/smil:hd-16x9-1-a/chunklist_b1628000.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "AsiaN (Korea)",
       "url": "https://allanf181.github.io/adaptive-streams/streams/kr/AsiaN.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
