@@ -13,6 +13,54 @@
       "parse": true
     },
     {
+      "name": "Animax (Indonesia)",
+      "url": "http://45.126.83.51/dr9445/h/h144/01.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AXN (Indonesia)",
+      "url": "http://45.126.83.51/dr9445/h/h141/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pop TV (720p)",
+      "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pop TV (360p)",
+      "url": "http://n1.klowdtv.net/live2/pop_360p/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "GEM (Malaysia)",
+      "url": "http://45.126.83.51/uq2663/h/h19/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ONe TV Asia (Indonesia)",
+      "url": "http://45.126.83.51/uq2663/h/h143/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Antenna TV (WPHL-DT2★480p)",
+      "url": "https://v-pi.mybtv.net/live/356.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Fave TV (WCBS-DT4)",
+      "url": "https://v-ny.mybtv.net/live/648.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AXN 78.83 T",
       "url": "http://78.83.191.18:8000/play/a04d",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -41,60 +89,6 @@
       "url": "http://168.205.87.198:8555/live/1431/123456/190.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
-    },
-    {
-      "name": "Animax (Indonesia)",
-      "url": "http://45.126.83.51/dr9445/h/h144/01.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AXN (Indonesia)",
-      "url": "http://45.126.83.51/dr9445/h/h141/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "GEM (Malaysia)",
-      "url": "http://45.126.83.51/uq2663/h/h19/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ONe TV Asia (Indonesia)",
-      "url": "http://45.126.83.51/uq2663/h/h143/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Pop TV (720p)",
-      "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Pop TV (360p)",
-      "url": "http://n1.klowdtv.net/live2/pop_360p/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Antenna TV (WPHL-DT2★480p)",
-      "url": "https://v-pi.mybtv.net/live/356.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Fave TV (WCBS-DT4)",
-      "url": "https://v-ny.mybtv.net/live/648.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Y2 (WHYY-DT2★432p)",
-      "url": "https://v-pi.mybtv.net/live/348.m3u8?env=prd&uid=-1&x=1&already_redirected=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
     },
     {
       "name": "Dark Matter TV (West)",
