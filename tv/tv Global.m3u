@@ -1805,6 +1805,8 @@ https://allanf181.github.io/adaptive-streams/streams/kr/SpoTV1.m3u8
 https://allanf181.github.io/adaptive-streams/streams/kr/SpoTV2.m3u8
 #EXTINF:-1 ,KOR★TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 ,KOR★Telenovela (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/Telenovela.m3u8
 #EXTINF:-1 ,KOR★The Movie (1080p)
 https://allanf181.github.io/adaptive-streams/streams/kr/TheMovie.m3u8
 #EXTINF:-1 ,KOR★Tooniverse (1080p)
