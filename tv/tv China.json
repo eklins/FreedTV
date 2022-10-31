@@ -1814,13 +1814,13 @@
     },
     {
       "name": "香港有线新闻台",
-      "url": "http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8",
+      "url": "http://61.10.2.151/live_freedirect/hd110_h.live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港有线财经资讯台",
-      "url": "http://98.142.138.122:1631/zhiboyuandakaTV/icable738952.m3u8",
+      "url": "http://61.10.2.146/live_freedirect/freehd208_h.live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2KtzyAbZDyX7rNNKoDVHVZ2JCtfTupWfafw&usqp=CAU",
       "parse": false
     },
