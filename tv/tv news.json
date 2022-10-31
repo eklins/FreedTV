@@ -476,8 +476,14 @@
     },
     {
       "name": "台湾中天新闻",
-      "url": "https://www.chaojidianshi.net/zhibo/42.html",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_QbRXRnHMVY",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾中天新闻2 Talk Show",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ctitv/live",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPgNWQor0oaPEa4Y9jViBUOCfWVbmBT6mcw&usqp=CAU",
       "parse": true
     },
     {
@@ -502,6 +508,18 @@
       "name": "台湾台视新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Q8qNfsfYckBC4fWMv5VeLk9NvT4Ixp1cKA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾中视新闻",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/twctvnews/live",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾mnews•镜新闻",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
       "parse": true
     },
     {
