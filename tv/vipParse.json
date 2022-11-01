@@ -134,6 +134,12 @@
     },
     {
       "id": 1,
+      "name": "色猫",
+      "ad": "no",
+      "url": "https://jiexi.99mao.xyz/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "番茄",
       "ad": "no",
       "url": "https://dp.fqplayer.com/dplayer/?url="
