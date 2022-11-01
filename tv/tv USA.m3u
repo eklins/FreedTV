@@ -265,6 +265,8 @@ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 https://amc-allweddings-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,American Horrors (480p)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 ,American Horrors Classic
+https://5d0cf65a7cc81.streamlock.net/live/Stream2/playlist.m3u8
 #EXTINF:-1 ,AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 ,Amga TV (720p) [Not 24/7]
@@ -361,8 +363,6 @@ https://1189614805.rsc.cdn77.org/hls/bmt.m3u8
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Boomerang (EMEA Slovenia)
 http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
-#EXTINF:-1 ,Bounce (WXTV-DT2)
-https://v-ny.mybtv.net/live/644.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Bounce XL
 https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
 #EXTINF:-1 ,bspoketv (1080p) [Not 24/7]
