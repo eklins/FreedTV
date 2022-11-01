@@ -391,6 +391,12 @@
       "parse": false
     },
     {
+      "name": "Nicoya TV (Costa Rica)",
+      "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Nos Païs (Curacao) [Not 24/7]",
       "url": "http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -553,8 +559,20 @@
       "parse": false
     },
     {
+      "name": "Radio PROS (Belgium) [Not 24/7]",
+      "url": "https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Radio Stereo 5 TV",
       "url": "https://stream1.aswifi.it/stereo5/live/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Radio Studio Delta TV (Italy)",
+      "url": "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -703,6 +721,12 @@
       "parse": false
     },
     {
+      "name": "Sonus FM (Germany)",
+      "url": "http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Spotlight TV (UK)",
       "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -723,12 +747,6 @@
     {
       "name": "Tea TV2",
       "url": "https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Tempo TV",
-      "url": "https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -871,7 +889,13 @@
       "parse": false
     },
     {
-      "name": "Vuemme",
+      "name": "VM Latino (Costa Rica) [Not 24/7]",
+      "url": "https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Vuemme (Italy)",
       "url": "https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
