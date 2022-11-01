@@ -283,6 +283,8 @@ https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 ,BEL★MavTV Global
 https://mavtv-mavtvglobal-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,BEL★Radio PROS (Web Radio★720p) [Not 24/7]
+https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8
 #EXTINF:-1 ,BEL★Rakuten Family
 https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,BEL★RTL-Be
@@ -567,8 +569,12 @@ https://play.amelbasoluciones.co:3611/live/cnctulualive.m3u8
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 #EXTINF:-1 ,COL★Telepacífico (Santiago de Cali | Valle del Cauca)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Costa-Rica.png",Costa Rica❤STV El Camal Familiar (Spanish)
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Costa-Rica.png",Costa Rica❤Nicoya TV (720p)
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1 ,CRI★STV El Camal Familiar (Spanish)
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 ,CRI★VM Latino (720p) [Not 24/7]
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Croatia.png",Croatia❤HRT 1
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1 ,HRV★HRT 2
@@ -899,6 +905,8 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1 ,DEU★Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,DEU★Sonus FM
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 #EXTINF:-1 ,DEU★Sophia TV
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
 #EXTINF:-1 ,DEU★teltOwkanal
@@ -1439,6 +1447,8 @@ https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 ,ITA★Radio Radio TV
 http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
+#EXTINF:-1 ,ITA★Radio Studio Delta TV
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 ,ITA★Rai 1
 http://ott-cdn.ucom.am/s29/04.m3u8
 #EXTINF:-1 ,ITA★Rai 3
@@ -1501,7 +1511,7 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 https://stream1.aswifi.it/stereo5/live/index.m3u8
 #EXTINF:-1 ,ITA★Super JTV Teramo
 http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
-#EXTINF:-1 ,ITA★Super Six Lombardia
+#EXTINF:-1 ,ITA★Super Six (Lombardia)
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 ,ITA★Super TV HD
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
@@ -2895,6 +2905,8 @@ https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 ,TUR★Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1 ,TUR★Tempo TV
+https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
 #EXTINF:-1 ,TUR★TRT ①
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 ,TUR★TRT Avaz
