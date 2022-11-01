@@ -511,7 +511,7 @@
       "parse": false
     },
     {
-      "name": "Portal Fox Mix (Chile)",
+      "name": "Portalfoxmix (Chile)",
       "url": "http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
@@ -697,6 +697,12 @@
       "parse": false
     },
     {
+      "name": "Solo Báilalo (Chile)",
+      "url": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Spotlight TV (UK)",
       "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -825,6 +831,12 @@
     {
       "name": "VAM Vid's & More (Curacao)",
       "url": "https://cur.watch/api/get_stream/vam/streann/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "VC Online (Chile)",
+      "url": "https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
