@@ -37,6 +37,8 @@ http://v2.catcast.tv/content/38144/index.m3u8
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
+#EXTINF:-1 ,🇺🇳Yaren TV
+https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤ATN International
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 ,AFG★WATAN-E-MAA
@@ -515,6 +517,8 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 ,CHL★PlanetaTV Music
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
+#EXTINF:-1 ,CHL★Portalfoxmix
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 ,CHL★Pop TV
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 ,CHL★RCK TV (720p)
@@ -529,12 +533,16 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 ,CHL★Romantica TV
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/romanticatv/romanticatv.smil/romanticatv/livestream2/chunks.m3u8?dpssid=b21130325766359a4d3950e7&sid=ba5t1l1xb216142802306359a4d549bbe
+#EXTINF:-1 ,CHL★Solo Báilalo
+https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:-1 ,CHL★T-Vinet
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 ,CHL★TV Quinta Region
 https://mediacpstreamchile.com:1936/8002/8002/chunklist_w1893654106.m3u8
 #EXTINF:-1 ,CHL★V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 ,CHL★VC Online
+https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
 #EXTINF:-1 ,CHL★ViwixTV Accion
 https://s2.tvdatta.com:3457/hybrid/play.m3u8
 #EXTINF:-1 ,CHL★ViwixTV Estrenos
