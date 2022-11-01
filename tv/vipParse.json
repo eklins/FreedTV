@@ -44,7 +44,13 @@
     },
     {
       "id": 1,
-      "name": "光速",
+      "name": "光速（新）",
+      "ad": "no",
+      "url": "https://www.gszyv.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "光速（旧）",
       "ad": "no",
       "url": "https://www.guangsujx.com/m3u8/?url="
     },
