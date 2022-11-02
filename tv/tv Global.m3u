@@ -569,10 +569,22 @@ https://play.amelbasoluciones.co:3611/live/cnctulualive.m3u8
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 #EXTINF:-1 ,COL★Telepacífico (Santiago de Cali | Valle del Cauca)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Costa-Rica.png",Costa Rica❤Nicoya TV (720p)
+#EXTINF:-1 ,COL★TV Peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/chunklist_w500190715.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Costa-Rica.png",Costa Rica❤Mora TV
+https://stmv1.zcastbr.com/moratv1/moratv1/chunklist_w1089625041.m3u8
+#EXTINF:-1 ,CRI★MZ Sports
+https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,CRI★Nicoya TV (720p)
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-#EXTINF:-1 ,CRI★STV El Camal Familiar (Spanish)
+#EXTINF:-1 ,CRI★Oldies Hits
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w794351848.m3u8
+#EXTINF:-1 ,CRI★San Vito TV
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w2107163959.m3u8
+#EXTINF:-1 ,CRI★STV (Sarapiqui Television)
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 ,CRI★Tica TV+
+https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,CRI★VM Latino (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Croatia.png",Croatia❤HRT 1
@@ -853,6 +865,8 @@ https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 #EXTINF:-1 ,DEU★MDF 1
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 ,DEU★NDR Fernsehen International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 ,DEU★ONE1 Music
 https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
 #EXTINF:-1 ,DEU★Pluto Doctor Who 2005-?
