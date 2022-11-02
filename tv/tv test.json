@@ -26,8 +26,8 @@
       "parse": false
     },
     {
-      "name": "Bounce (WPXN-DT2)",
-      "url": "https://v-ny.mybtv.net/live/581.m3u8?env=prd&uid=-1&x=1",
+      "name": "Antenna TV (WPHL-DT2★480p)",
+      "url": "https://v-pi.mybtv.net/live/356.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -68,26 +68,8 @@
       "parse": false
     },
     {
-      "name": "Antenna TV (WPHL-DT2★480p)",
-      "url": "https://v-pi.mybtv.net/live/356.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Fave TV (WCBS-DT4)",
-      "url": "https://v-ny.mybtv.net/live/648.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "POSI TV",
       "url": "https://tbn-jw.cdn.vustreams.com:443/live/positivtv/live.isml/live-audio_1=128000-video=2800000.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "POSI TV",
-      "url": "https://tbn-jw.cdn.vustreams.com:443/live/positivtv/live.isml/live-audio_1=128000-video=.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
