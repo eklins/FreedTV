@@ -103,6 +103,12 @@
       "parse": true
     },
     {
+      "name": "Indie Film (Korea)",
+      "url": "https://kr-streams.onrender.com/scraper?channel=818",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "iQIYI",
       "url": "https://www.chaojidianshi.net/zhibo/Malaysia/aiqiyiiQiyi.html",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
