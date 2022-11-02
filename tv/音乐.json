@@ -451,6 +451,12 @@
       "parse": false
     },
     {
+      "name": "Oldies Hits (Costa Rica)",
+      "url": "https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w794351848.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "One TV (Switzerland★360p)",
       "url": "https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
