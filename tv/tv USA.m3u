@@ -2147,8 +2147,10 @@ https://soreal-tcl.amagi.tv/playlist.m3u8
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/coloradosprings/G1424_002/chunklist.m3u8
 #EXTINF:-1 ,Spirit TV (720p) [Not 24/7]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 ,SportsGrid (720p)
+#EXTINF:-1 ,Sports Grid (720p)
 https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Sports News Highlights
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-sportsnewshigh-ono/playlist.m3u8
 #EXTINF:-1 ,Sportskool TV (720p)
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/high/c.m3u8
 #EXTINF:-1 ,Spydar TV (720p)
