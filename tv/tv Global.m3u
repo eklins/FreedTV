@@ -41,7 +41,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/
 https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤ATN International
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-#EXTINF:-1 ,AFG★WATAN-E-MAA
+#EXTINF:-1 ,AFG★Solh TV
+http://51.210.199.42/hls/stream.m3u8
+#EXTINF:-1 ,AFG★WATAN E MAA TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Albania.png",Albania❤7 HD
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
@@ -401,6 +403,12 @@ http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
 #EXTINF:-1 ,BRA★TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bulgaria.png",Bulgaria♥100% Auto Moto TV (406p) [Not 24/7]
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 ,BGR★Code Fashion
+https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1 ,BGR★Light Channel (480p) [Not 24/7]
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cabo-Verde.png",Cabo Verde❤TCSM TV
 https://stream.internet.one:443/RadioCaboVerde/video.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cambodia.png",Cambodia❤Bayon TV (360p)
@@ -433,7 +441,7 @@ https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
 https://temp3.isilive.ca/live/CHCOTV/live/chunklist.m3u8
 #EXTINF:-1 ,CAN★CTV News
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 ,CAN★CPAC
+#EXTINF:-1 ,CAN★CPAC (720p)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 ,CAN★Degrassi: The Next Generation 2010-2015
 http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
@@ -443,7 +451,7 @@ https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 ,CAN★FailArmy
 https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,CAN★Fight Network
+#EXTINF:-1 ,CAN★Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ,CAN★FTF Sports
 https://elevensports-samsunguk-ca.samsung.wurl.tv/playlist.m3u8
@@ -473,7 +481,7 @@ http://stream.pardesitv.online/pardesi/index.m3u8
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★Players TV
 https://playerstv-samsungca.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,CAN★Plymouth Rock TV
+#EXTINF:-1 ,CAN★Plymouth Rock TV (1080p)
 https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8
 #EXTINF:-1 ,CAN★Power Nation
 https://rtmtv-samsung-ca.samsung.wurl.tv/playlist.m3u8
@@ -631,7 +639,9 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w389667105_b750000.m3u8
 #EXTINF:-1 ,CZE★Šlágr Premium
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Dominican-Republic.png",Dominican Republic❤GH TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Dominican-Republic.png",Dominican Republic❤amè 47
+https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w2087392373.m3u8
+#EXTINF:-1 ,DOM★GH TV
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 ,DOM★iUtv Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
@@ -1321,8 +1331,6 @@ http://51.210.199.30/hls/stream.m3u8
 http://51.210.199.3/hls/stream.m3u8
 #EXTINF:-1 ,IRN★SL ②
 http://51.210.199.2/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Solh TV
-http://51.210.199.42/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Tehran TV 24
 http://51.210.227.132/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Tin TV (720p) [Not 24/7]
