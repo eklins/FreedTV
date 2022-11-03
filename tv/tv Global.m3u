@@ -37,6 +37,8 @@ http://v2.catcast.tv/content/38144/index.m3u8
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
+#EXTINF:-1 ,🇦🇼Telearuba
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Yaren TV
 https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤ATN International
@@ -91,6 +93,8 @@ https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 #EXTINF:-1 ,ARG★Misiones Cuatro
 https://streamlov.alsolnet.com/misionescuatro/live/chunklist_w1666960613.m3u8
+#EXTINF:-1 ,ARG★Power
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 ,ARG★RBD TV
 https://59537faa0729a.streamlock.net/rbdvideo/rbdvideo/chunklist_w1014102205.m3u8
 #EXTINF:-1 ,ARG★Tierra Mía TV (Spanish)
@@ -231,8 +235,12 @@ https://rakuten-family-5-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★Rakuten TV Shows
 https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,AUT★Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 ,AUT★RTV
 http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 ,AUT★Swamiji TV
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 ,AUT★Teins TV (1080p)
 https://live1.markenfunk.com/t1/live/playlist.m3u8
 #EXTINF:-1 ,AUT★Travel XP
@@ -303,6 +311,8 @@ https://5fc584f3f19c9.streamlock.net/televisionhd/videotelevisionhd/chunklist_w4
 https://593b04c4c5670.streamlock.net/8192/8192/chunklist_w349536411.m3u8
 #EXTINF:-1 ,BOL★Canal CNC Cartagena
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8
+#EXTINF:-1 ,BOL★Marivisión TV
+https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
 #EXTINF:-1 ,BOL★Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 ,BOL★TV OFF travel
@@ -401,8 +411,14 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:-1 ,BRA★TV Marajoara
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 ,BRA★TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 ,BRA★TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Brunei.png",Brunei♥RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 ,BRN★RTB Go
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bulgaria.png",Bulgaria♥100% Auto Moto TV (406p) [Not 24/7]
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 ,BGR★Code Fashion
@@ -459,10 +475,14 @@ https://elevensports-samsunguk-ca.samsung.wurl.tv/playlist.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 ,CAN★Heartland 2007-?
 https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,CAN★ICI Montreal (CFHD-DT)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 ,CAN★Insight TV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★Kidoodle TV
 https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CAN★Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★MavTV Global
 https://mavtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★MHz Choice
@@ -485,7 +505,7 @@ https://playerstv-samsungca.amagi.tv/playlist.m3u8
 https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8
 #EXTINF:-1 ,CAN★Power Nation
 https://rtmtv-samsung-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,CAN★QVTV
+#EXTINF:-1 ,CAN★QVTV (Quo Vadis TV)
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
 #EXTINF:-1 ,CAN★S+L (Salt+Light)
 https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
@@ -499,6 +519,8 @@ https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8
 https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★The X Zone TV Channel
 https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8
+#EXTINF:-1 ,CAN★TV 16 Toronto
+http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
 #EXTINF:-1 ,CAN★Weather Spy
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,CAN★World Poker Tour
@@ -611,6 +633,8 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 https://seswa.bonce.tv/hls/bonceswa.m3u8
 #EXTINF:-1 ,CUW★Nos Païs (720p) [Not 24/7]
 http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+#EXTINF:-1 ,CUW★TeleCuraçao
+https://streannlivecariflix.cachefly.net/cariflix1/cariflix1/playlist.m3u8
 #EXTINF:-1 ,CUW★VAM Vid's & More
 https://cur.watch/api/get_stream/vam/streann/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cyprus.png",Cyprus❤Alfa Sport (1080p) [Not 24/7]
@@ -783,6 +807,8 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 ,FRA★MyTime Movie Network
 https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,FRA★MyZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 ,FRA★Nancy Web TV (394p) [Not 24/7]
 https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
 #EXTINF:-1 ,FRA★Pluto Action
@@ -1045,6 +1071,8 @@ https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 ,HTI★Radio Télé 4VEH
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
+#EXTINF:-1 ,HTI★TV Panou
+http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Honduras.png",Honduras❤Alfa & Omega Visión
 https://srv.panelcast.net/aovision/aovision/playlist.m3u8
 #EXTINF:-1 ,HND★Ebenezer TV (360p)
@@ -1241,6 +1269,8 @@ http://45.126.83.51/dr9445/h/h20/index.m3u8
 http://45.126.83.51/dr9445/h/h21/index.m3u8
 #EXTINF:-1 ,IDN★tvOne (480p)
 http://45.126.83.51/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 ,IDN★TVRI World
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 ,IDN★U Channel (576p) [Not 24/7]
 http://45.126.83.51/x6bnqe/s/s73/index2.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤AVA Family (720p) [Not 24/7]
@@ -1485,6 +1515,8 @@ https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 http://ott-cdn.ucom.am/s29/04.m3u8
 #EXTINF:-1 ,ITA★Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 ,ITA★Rai Italia Asia
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 ,ITA★Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 ,ITA★Rakuten Action Movies
@@ -1685,6 +1717,8 @@ https://sc.id-tv.kz/Kinopremiera_hd.m3u8
 https://sc.id-tv.kz/Kinosemiya_hd.m3u8
 #EXTINF:-1 ,KAZ★Kinosvidanie (Киносвидание) [Not 24/7]
 https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kenya.png",Kenya♥Inooro TV
+https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Korea-North.png",Korea (N)❤KCTV (Korean Central Television)
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Korea-South.png",Korea (S)❤국악방송
@@ -1923,6 +1957,8 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 ,MOZ★TV Maná Moçambique (576p)
 http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Myanmar.png",Myanmar (Burma)♥mitv (Myanmar International TV)
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Netherlands.png",Netherlands❤BR6
 https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
 #EXTINF:-1 ,NLD★DeepHouse District
