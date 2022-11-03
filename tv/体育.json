@@ -643,6 +643,12 @@
       "parse": false
     },
     {
+      "name": "MBC Sports (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10430_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MBC Sports Box",
       "url": "http://live1.streamk.co:8080/sportsbox_preview/live55/playlist.m3u8?site=gaktv&ch=live53",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
