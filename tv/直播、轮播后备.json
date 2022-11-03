@@ -25,6 +25,12 @@
       "parse": true
     },
     {
+      "name": "台湾中天新闻（牛视网 extension）",
+      "url": "https://www.chaojidianshi.net/extension/42.xhtml",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "台湾中天新闻（YT）",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_QbRXRnHMVY",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
