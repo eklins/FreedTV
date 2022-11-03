@@ -325,6 +325,12 @@
       "parse": false
     },
     {
+      "name": "Billiards TV (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BT Sports ①",
       "url": "http://s@185.53.89.12:8081/live/ch1/chunks.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -363,6 +369,12 @@
     {
       "name": "CL Sports (Campus Lore)",
       "url": "https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNBC Golf & PBA (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10290_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -505,6 +517,12 @@
       "parse": false
     },
     {
+      "name": "IB Sports (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10220_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Idman TV (Azerbaijan)",
       "url": "http://109.205.166.68/server124/idman_az/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -537,6 +555,18 @@
     {
       "name": "Japan Pro Wrestling World",
       "url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "JTBC Golf (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10280_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "JTBC Golf & Sports (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10700_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -751,6 +781,12 @@
       "parse": false
     },
     {
+      "name": "SBS Golf (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10160_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sharjah Sports TV (UAE)",
       "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -759,6 +795,12 @@
     {
       "name": "Ski TV",
       "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sports (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10440_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -867,6 +909,18 @@
     {
       "name": "SPOTV2 (Hong Kong)",
       "url": "https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SPOTV ① (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10070_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SPOTV ② (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/11990_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
