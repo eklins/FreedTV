@@ -427,9 +427,15 @@
       "parse": false
     },
     {
-      "name": "TRT World (Turkey)",
-      "url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
+      "name": "TRT World (Indonesia)",
+      "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgY3ZlPnLYgHi_XRf2o77e2XUqqRareaj_w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVRI World (Indonesia)",
+      "url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0tvk2xHSz2MeH8j0CaYNrA0oPnBbdJiQ6fg&usqp=CAU",
       "parse": false
     },
     {
