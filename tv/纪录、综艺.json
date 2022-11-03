@@ -367,6 +367,12 @@
       "parse": false
     },
     {
+      "name": "Code Fashion (Bulgaria)",
+      "url": "https://cdn3.invivo.bg/Codefashion_5500/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Comedy Dynamics",
       "url": "https://comedydynamics-localnow.cinedigm.com/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
