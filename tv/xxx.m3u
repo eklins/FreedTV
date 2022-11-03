@@ -173,8 +173,8 @@ http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6245/index.m3u8
 http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12112/index.m3u8
 #EXTINF:-1 ,Reality Kings
 http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6249/index.m3u8
-#EXTINF:-1 ,RedLight HD
-http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/242/index.m3u8
+#EXTINF:-1 ,RedLight HD (Netherlands)
+http://w4.12all.tv:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 ,Redlight HD (Private TV1)
 http://93.152.174.144:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 ,Russia
