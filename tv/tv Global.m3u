@@ -1177,6 +1177,8 @@ http://45.126.83.51/qwr9ew/s/s10/02.m3u8
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 ,IDN★HITS (576p)
 http://45.126.83.51/dr9445/h/h37/01.m3u8
+#EXTINF:-1 ,IDN★I AM CHANNEL (576p) [Not 24/7]
+http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:-1 ,IDN★Indosiar (480p)
 http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 ,IDN★Jakarta Globe News
@@ -1201,7 +1203,7 @@ http://45.126.83.51/uq2663/h/h193/index.m3u8
 http://45.126.83.51/uq2663/h/h194/index.m3u8
 #EXTINF:-1 ,IDN★My Kidz
 http://45.126.83.51/uq2663/h/h191/index.m3u8
-#EXTINF:-1 ,IDN★NET.
+#EXTINF:-1 ,IDN★NET. (480p)
 http://45.126.83.51/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 ,IDN★Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
@@ -1215,12 +1217,12 @@ http://45.126.83.51/qwr9ew/s/s03/index.m3u8
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 #EXTINF:-1 ,IDN★Thrill (576p)
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 ,IDN★TV One (480p)
-http://45.126.83.51/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 ,IDN★tvN (576p)
 http://45.126.83.51/dr9445/h/h20/index.m3u8
 #EXTINF:-1 ,IDN★tvN Movies (576p)
 http://45.126.83.51/dr9445/h/h21/index.m3u8
+#EXTINF:-1 ,IDN★tvOne (480p)
+http://45.126.83.51/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 ,IDN★U Channel (576p) [Not 24/7]
 http://45.126.83.51/x6bnqe/s/s73/index2.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤AVA Family (720p) [Not 24/7]
