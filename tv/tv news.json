@@ -476,7 +476,7 @@
     },
     {
       "name": "台湾中天新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_QbRXRnHMVY",
+      "url": "https://www.chaojidianshi.net/extension/42.xhtml",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": true
     },
@@ -560,13 +560,13 @@
     },
     {
       "name": "香港无线新闻台",
-      "url": "https://www.chaojidianshi.net/zhibo/73.html",
+      "url": "https://www.chaojidianshi.net/extension/73.xhtml",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
       "parse": true
     },
     {
       "name": "香港无线财经•资讯台",
-      "url": "https://www.chaojidianshi.net/zhibo/79.html",
+      "url": "https://www.chaojidianshi.net/extension/79.xhtml",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
     }
