@@ -45,8 +45,6 @@ https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 ,AFG★Solh TV
 http://51.210.199.42/hls/stream.m3u8
-#EXTINF:-1 ,AFG★WATAN E MAA TV
-https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Albania.png",Albania❤7 HD
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 #EXTINF:-1 ,ALB★ALB Dreams (720p)
@@ -249,7 +247,7 @@ https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
 https://alliantcontent-truecrimenow-3-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Azerbaijan.png",Azerbaijan❤Alvin Channel TV
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Azerbaijan.png",Azerbaijan❤Alvin Channel TV (360p) [Not 24/7]
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 ,AZE★ELTV
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
@@ -287,6 +285,8 @@ http://lova.me/hls/hithd.m3u8
 https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belgium.png",Belgium❤BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 ,BEL★City Music TV (720p)
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 #EXTINF:-1 ,BEL★EbS Live (Europe by Satellite★1080p)
 https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:-1 ,BEL★EbS+ Live (Europe by Satellite★1080p)
@@ -521,6 +521,8 @@ https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
 https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8
 #EXTINF:-1 ,CAN★TV 16 Toronto
 http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1 ,CAN★WATAN E MAA TV
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 ,CAN★Weather Spy
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,CAN★World Poker Tour
@@ -731,6 +733,8 @@ https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,EGY★Rotana Music (1080p)
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,EGY★Watan TV (1080p)
+https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Estonia.png",Estonia❤El Toro TV
 https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ethiopia.png",Ethiopia❤Addis TV (Amharic)
