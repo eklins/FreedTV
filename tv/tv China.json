@@ -2240,7 +2240,7 @@
     },
     {
       "name": "台湾中天娱乐",
-      "url": "http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a",
+      "url": "http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
@@ -2276,7 +2276,7 @@
     },
     {
       "name": "台湾东森新闻",
-      "url": "http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12",
+      "url": "http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3",
       "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
       "parse": false
     },
