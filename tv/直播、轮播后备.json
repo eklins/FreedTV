@@ -43,14 +43,20 @@
       "parse": true
     },
     {
-      "name": "台湾东森财经新闻",
+      "name": "台湾东森财经新闻 YT",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/57東森財經新聞/live",
       "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
       "parse": true
     },
     {
-      "name": "台湾东森财经新闻",
+      "name": "台湾东森财经新闻 ct",
       "url": "http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54",
+      "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
+      "parse": true
+    },
+    {
+      "name": "台湾东森财经新闻 198",
+      "url": "http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371",
       "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
       "parse": true
     },
