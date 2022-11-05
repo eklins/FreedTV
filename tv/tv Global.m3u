@@ -371,6 +371,8 @@ https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
 #EXTINF:-1 ,BRA★Ghost TV (Portuguese)
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1 ,BRA★Gospel Movie Television
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 ,BRA★ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 #EXTINF:-1 ,BRA★MyTime Movie Network (English)
@@ -1723,7 +1725,7 @@ http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 https://sc.id-tv.kz/bober.m3u8
 #EXTINF:-1 ,KAZ★Cinema
 https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1 ,KAZ★Ел Арна (576p)
+#EXTINF:-1 ,KAZ★El Arna (Ел Арна★576p)
 https://sc.id-tv.kz/ElArna.m3u8
 #EXTINF:-1 ,KAZ★FOX HD
 https://sc.id-tv.kz/FOX_HD.m3u8
