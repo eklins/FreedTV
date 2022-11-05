@@ -162,7 +162,7 @@
     },
     {
       "name": "WebTV ",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshTocS_vR5gi-k6Z5icyiicUZ-uV7kBcnPw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsSvI6d33KNTwPWeEuOpUZQo52mT4TQ06rQ&usqp=CAU",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/webtv.json",
       "type": "json",
       "subTitle": "",
@@ -258,7 +258,7 @@
     },
     {
       "name": "直播•轮播后备json",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsSvI6d33KNTwPWeEuOpUZQo52mT4TQ06rQ&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshTocS_vR5gi-k6Z5icyiicUZ-uV7kBcnPw&usqp=CAU",
       "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/%E7%9B%B4%E6%92%AD%E3%80%81%E8%BD%AE%E6%92%AD%E5%90%8E%E5%A4%87.json",
       "type": "json",
       "subTitle": "",
