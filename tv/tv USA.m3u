@@ -607,6 +607,8 @@ https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_011/chunklist.m3u8
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_012/chunklist.m3u8
 #EXTINF:-1 ,CityTV ❛ōlelo 55 (Honolulu Hawaii)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_013/chunklist.m3u8
+#EXTINF:-1 ,CityTV Arundel
+https://reflect-anne-arundel-co.cablecast.tv/live-2/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 ,CityTV Banning CA
 https://vblive-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8
 #EXTINF:-1 ,CityTV Beverly Hills TV 10
@@ -619,6 +621,8 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/cityofbowie/G0466_001/playlist.m3u8
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/chunklist.m3u8
 #EXTINF:-1 ,CityTV Capital City Connection
 https://vblive-c.viebit.com/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/chunklist.m3u8
+#EXTINF:-1 ,CityTV CCM (County Cable Montgomery)
+https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/montgomerycountymd/G0319_006/chunklist.m3u8
 #EXTINF:-1 ,CityTV Chino Hills (Channel 3/41★360p)
 https://edge-f.swagit.com/live/chinohillsca/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 ,CityTV Colorado Springs CO (720p)
@@ -641,6 +645,8 @@ https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/chunklist_w18958
 https://edge-f.swagit.com/live/flagstaffaz/live-1-a/chunklist.m3u8
 #EXTINF:-1 ,CityTV FLTV (Fort Lauderdale)
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/chunklist.m3u8
+#EXTINF:-1 ,CityTV Freeport TV3
+https://reflect-fctv3.cablecast.tv/live-3/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 ,CityTV G10 TV (Jacksonville-Onslow Government Channel)
 http://jacksonville.cablecast.tv/live-6/live/CELL-496k-270p/CELL-496k-270p.m3u8
 #EXTINF:-1 ,CityTV Ho'ike Kaua'i Channel 53
@@ -687,6 +693,8 @@ https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/chunklist_w1707987742.
 https://pbcmedia.pbcgov.org:1936/live/mp4live.sdp/chunklist_w1150244360.m3u8
 #EXTINF:-1 ,CityTV PCTA Channel 3 (Fountain Valley)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/fountainvalley/G0806_001/playlist.m3u8
+#EXTINF:-1 ,CityTV PCTV (Pittsfield)
+https://watch.pittsfieldtv.net/live-26/live/WIFI-1896k-720p/WIFI-1896k-720p.m3u8
 #EXTINF:-1 ,CityTV Pinellas Park FL (360p)
 https://reflect-pinellas-park-fl.cablecast.tv/live-6/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 #EXTINF:-1 ,CityTV Placentia (California)
@@ -695,16 +703,24 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/chunklist.m3u8
 https://live.pomonaca.gov/live-3/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 #EXTINF:-1 ,CityTV PSL TV
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/chunklist.m3u8
+#EXTINF:-1 ,CityTV QACTV
+https://qactv.secure.footprint.net/egress/bhandler/qactv/streama/chunklist_b2192000.m3u8
 #EXTINF:-1 ,CityTV RCTV3
 https://vod.cityofrc.us/live-6/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 #EXTINF:-1 ,CityTV Riviera Beach FL
 https://stream.swagit.com/live-edge/rivierabeachfl/live-1-b/chunklist_w1474149489.m3u8
+#EXTINF:-1 ,CityTV Rockville 11
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/rockvillemd/G0458_001/chunklist.m3u8
 #EXTINF:-1 ,CityTV San Diego
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/chunklist.m3u8
 #EXTINF:-1 ,CityTV San Diego County News Center (CNC)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
 #EXTINF:-1 ,CityTV Santa Cruz Currents
 https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamc/playlist.m3u8
+#EXTINF:-1 ,CityTV Searsport Government Channel 7
+https://vblive-c.viebit.com/b0126a25-6de6-4ae1-b436-cc6a2ea22e8b/chunklist.m3u8
+#EXTINF:-1 ,CityTV Searsport Public Channel 2
+https://vblive-c.viebit.com/95128a3b-4532-4f52-b15b-dd89c12679f3/chunklist.m3u8
 #EXTINF:-1 ,CityTV SF Commons Channel 29 (San Francisco CA★480p)
 https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 ,CityTV SF Commons Channel 76 (San Francisco CA★480p)
@@ -1159,6 +1175,8 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #EXTINF:-1 ,MCN6 Music Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1 ,MCPS TV (Montgomery County Public School)
+https://edge-f.swagit.com/live/mcpsmd/smil:xd-16x9-1-a/chunklist_b528000.m3u8
 #EXTINF:-1 ,Mega TV Key West FL (720p) WSBS-DT1
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 #EXTINF:-1 ,Metro 21
@@ -2143,6 +2161,10 @@ https://stream.mux.com/j01Cei1gJ8Q2b4q02MplrfJK5ggnVsMv58BdsEaICZImQ.m3u8
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
 #EXTINF:-1 ,So...Real (1080p)
 https://soreal-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,SPC TV
+https://sportlandtv.secure.footprint.net/egress/bhandler/sportlandtv/streama/chunklist_b2192000.m3u8
+#EXTINF:-1 ,SPPA TV
+https://sportlandtv.secure.footprint.net/egress/bhandler/sportlandtv/streamb/chunklist_b2192000.m3u8
 #EXTINF:-1 ,Springs TV
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/coloradosprings/G1424_002/chunklist.m3u8
 #EXTINF:-1 ,Spirit TV (720p) [Not 24/7]
@@ -2769,6 +2791,8 @@ https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
 https://hls-live-media.cdn01.net/default/stream_46366.m3u8?source=othersites
 #EXTINF:-1 ,WHT (LeSEA Broadcasting Network)
 http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
+#EXTINF:-1 ,Windham TV
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/windhamweb/G0496_003/chunklist.m3u8
 #EXTINF:-1 ,Winthrop Community Access TV (WCAT-15★360p) [Not 24/7]
 https://edu-wcat.azureedge.net/live/live.m3u8
 #EXTINF:-1 ,Winthrop Community Access TV (WCAT-22★480p)
@@ -2803,6 +2827,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
 #EXTINF:-1 ,Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,YMTV3
+https://vblive-c.viebit.com/50f316b0-dccc-41e1-ba9b-fb9479a6880e/chunklist.m3u8
 #EXTINF:-1 ,Young Hollywood (720p)
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Youtoo America (1080p)
