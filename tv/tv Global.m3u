@@ -463,7 +463,7 @@ https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 ,CMR★Play TV (720p) [Not 24/7]
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png",Canada❤Amazing Discoveries
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png",Canada❤Amazing Discoveries (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 ,CAN★AZ Star (Persian)
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
@@ -539,6 +539,8 @@ https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8
 https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★The X Zone TV Channel
 https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8
+#EXTINF:-1 ,CAN★Toronto 360 TV (720p) [Not 24/7]
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:-1 ,CAN★TV 16 Toronto
 http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
 #EXTINF:-1 ,CAN★Weather Spy
