@@ -1244,11 +1244,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 ,IDN★Dens Food Channel (576p)
 http://45.126.83.51/x6bnqe/s/s38/index.m3u8
 #EXTINF:-1 ,IDN★Dens Knowledge and Learning (576p)
-http://210.210.155.37/x6bnqe/s/s36/index.m3u8
+http://45.126.83.51/x6bnqe/s/s36/index.m3u8
 #EXTINF:-1 ,IDN★Dens Life Style (576p)
-http://210.210.155.37/x6bnqe/s/s65/index.m3u8
+http://45.126.83.51/x6bnqe/s/s65/index.m3u8
 #EXTINF:-1 ,IDN★Dens ShowBiz (576p)
-http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+http://45.126.83.51/x6bnqe/s/s35/index.m3u8
 #EXTINF:-1 ,IDN★Dhamma TV (720p) [Not 24/7]
 https://bravo.kugo.id/dangduttivi/udp.stream/playlist.m3u8
 #EXTINF:-1 ,IDN★Elshinta TV (480p) [Not 24/7]
@@ -1550,7 +1550,7 @@ http://ott-cdn.ucom.am/s29/04.m3u8
 #EXTINF:-1 ,ITA★Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 ,ITA★Rai Italia Asia
-http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+http://45.126.83.51/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 ,ITA★Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 ,ITA★Rakuten Action Movies
