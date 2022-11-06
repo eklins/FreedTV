@@ -19,6 +19,12 @@
       "parse": false
     },
     {
+      "name": "France 24 (English) YT",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6H9Mj1n4qlKxQCTeo82ftRpflvkxJBBgAjQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "台湾中天新闻",
       "url": "http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
