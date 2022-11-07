@@ -2048,6 +2048,12 @@
       "parse": true
     },
     {
+      "name": "🇧🇱tvN",
+      "url": "https://kr-streams.onrender.com/scraper?channel=280",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🇱🇷WPS-TV",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://api.new.livestream.com/accounts/12013978/events/8776061",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
