@@ -50,8 +50,14 @@
       "parse": false
     },
     {
-      "name": "Fright Flix (web)",
+      "name": "Fright Flix (web-Distro)",
       "url": "https://www.distro.tv/live/frightflix/",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Fright Flix (web-Plex)",
+      "url": "https://watch.plex.tv/live-tv/channel/frightflix-2",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
