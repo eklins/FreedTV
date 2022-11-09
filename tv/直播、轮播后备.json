@@ -73,6 +73,54 @@
       "parse": true
     },
     {
+      "name": "台湾中视新闻",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/twctvnews/live",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾mnews•镜新闻",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾寰宇新闻",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=B7Zp3d6xXWw",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾年代新闻",
+      "url": "http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEeI09e9rbaEBTgvCffDkvWwwPiKwlnBUCyw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾非凡新闻",
+      "url": "http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGvISk6mJwmdmgZBt8159FRRva5qsa7gpDg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾三立LIVE新闻",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EB4g7wecgTI",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾三立iNEWS",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CKjSm5ZeehE",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾东森财经新闻",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/57東森財經新聞/live",
+      "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
+      "parse": true
+    },
+    {
       "name": "Discovery Science (Taiwan)",
       "url": "http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
