@@ -1209,6 +1209,8 @@ https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 ,MovieFe
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
+#EXTINF:-1 ,MRTV
+https://vblive-c.viebit.com/eb570483-7292-47be-817a-342406651456/chunklist.m3u8
 #EXTINF:-1 ,Music City Arts
 https://pegstudio.dyndns.tv/live-11/live/live.m3u8
 #EXTINF:-1 ,My Madison TV (WISC-DT2★720p)
