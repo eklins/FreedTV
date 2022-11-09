@@ -751,6 +751,8 @@ https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1 ,ECU★Asomavisión
 https://asomatv.duckdns.org/livestream/stream.m3u8
+#EXTINF:-1 ,ECU★TVC
+https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Egypt.png",Egypt❤LBC (1080)
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,EGY★Rotana Cinema (1080)
