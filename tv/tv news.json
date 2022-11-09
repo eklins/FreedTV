@@ -301,6 +301,12 @@
       "parse": false
     },
     {
+      "name": "GPR TV (Indonesia)",
+      "url": "https://wowza.convergen.co/gprtv/myLive/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSPx0yMQYtf5sdeydSZUWlsi3wf884ByKqQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "HLN",
       "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJQD2LUm0f2IDP7Mvl0tHxH5CQbDu8u-Udw&usqp=CAU",
