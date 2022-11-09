@@ -673,6 +673,12 @@
       "parse": false
     },
     {
+      "name": "Movie (China)",
+      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Movie Kingdom",
       "url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -2419,6 +2425,24 @@
       "parse": false
     },
     {
+      "name": "影视 ①",
+      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "影视 ②",
+      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "影视 ③",
+      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "优电影",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225733/index.m3u8?$广西",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -2427,60 +2451,6 @@
     {
       "name": "浙江影视娱乐",
       "url": "http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中国影视 ①",
-      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中国影视 ②",
-      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中国影视 ③",
-      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中国影视 ④",
-      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中国影视 ⑤",
-      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中国影视 ⑥",
-      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中国影视 ⑦",
-      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中国影视 ⑧",
-      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "中国影视 ⑨",
-      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
