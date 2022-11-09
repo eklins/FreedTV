@@ -32,6 +32,18 @@
       "parse": false
     },
     {
+      "name": "GEM Comedy (Iran★576p) [Not 24/7]",
+      "url": "http://216.66.42.47:7777/GemComedy_HD.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "GEM Film (Iran★576p) [Not 24/7]",
+      "url": "http://216.66.42.47:7777/GemFilm_HD.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TV Plata (Dominican Republic)",
       "url": "https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1835589535.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -40,6 +52,12 @@
     {
       "name": "Antenna TV (WPHL-DT2★480p)",
       "url": "https://v-pi.mybtv.net/live/356.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Rewind TV (WPIX-DT4★480p)",
+      "url": "https://v-ny.mybtv.net/live/565.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
