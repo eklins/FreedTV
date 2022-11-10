@@ -493,12 +493,6 @@
       "parse": false
     },
     {
-      "name": "台湾中天新闻2 Talk Show",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ctitv/live",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPgNWQor0oaPEa4Y9jViBUOCfWVbmBT6mcw&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "台湾TVBS新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
