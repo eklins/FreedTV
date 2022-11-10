@@ -2443,6 +2443,12 @@
       "parse": false
     },
     {
+      "name": "影视综艺",
+      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "优电影",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225733/index.m3u8?$广西",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
