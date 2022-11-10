@@ -638,6 +638,12 @@
       "parse": false
     },
     {
+      "name": "CCTV 兵器科技（无声）",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
+      "parse": false
+    },
+    {
       "name": "CCTV 兵器科技",
       "url": "http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2019/0801/3946de076291b3a561947481fcdd7dfc.jpg",
