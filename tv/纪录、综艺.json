@@ -141,61 +141,55 @@
     {
       "name": "北京纪实科教",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsVROSQDrqpcQ4ncrBm5KO4r9g7Ab3AHmyw&usqp=CAU",
       "parse": false
     },
     {
       "name": "非遗美食",
       "url": "http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsVROSQDrqpcQ4ncrBm5KO4r9g7Ab3AHmyw&usqp=CAU",
       "parse": false
     },
     {
       "name": "河南国学频道",
       "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsVROSQDrqpcQ4ncrBm5KO4r9g7Ab3AHmyw&usqp=CAU",
       "parse": false
     },
     {
       "name": "湖南金鹰纪实",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsVROSQDrqpcQ4ncrBm5KO4r9g7Ab3AHmyw&usqp=CAU",
       "parse": false
     },
     {
       "name": "纪实人文",
       "url": "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsVROSQDrqpcQ4ncrBm5KO4r9g7Ab3AHmyw&usqp=CAU",
       "parse": false
     },
     {
       "name": "精彩综艺",
       "url": "http://111.20.33.70/TVOD/88888893/224/3221226009/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsVROSQDrqpcQ4ncrBm5KO4r9g7Ab3AHmyw&usqp=CAU",
       "parse": false
     },
     {
       "name": "美食汇 (576p)",
       "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226702/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsVROSQDrqpcQ4ncrBm5KO4r9g7Ab3AHmyw&usqp=CAU",
       "parse": false
     },
     {
       "name": "书画频道 (576p)",
       "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226698/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsVROSQDrqpcQ4ncrBm5KO4r9g7Ab3AHmyw&usqp=CAU",
       "parse": false
     },
     {
       "name": "天元围棋 (576p)",
       "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226607/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "综艺",
-      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsVROSQDrqpcQ4ncrBm5KO4r9g7Ab3AHmyw&usqp=CAU",
       "parse": false
     },
     {
