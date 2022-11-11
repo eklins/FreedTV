@@ -359,6 +359,14 @@ https://www.bloomberg.com/media-manifest/streams/politics.m3u8
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Blue Mountain TV (K21J-QD1)
 https://1189614805.rsc.cdn77.org/hls/bmt.m3u8
+#EXTINF:-1 ,BMC Government (Belmont)
+https://belmontmedia.secure.footprint.net/egress/bhandler/belmontmedia/streamb/playlist.m3u8
+#EXTINF:-1 ,BMC HD (Belmont)
+https://belmontmedia.secure.footprint.net/egress/bhandler/belmontmedia/streamd/playlist.m3u8
+#EXTINF:-1 ,BMC Info (Belmont)
+https://belmontmedia.secure.footprint.net/egress/bhandler/belmontmedia/streamc/playlist.m3u8
+#EXTINF:-1 ,BMC Public TV (Belmont)
+https://belmontmedia.secure.footprint.net/egress/bhandler/belmontmedia/streama/playlist.m3u8
 #EXTINF:-1 ,bon appétit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Boomerang (EMEA Slovenia)
