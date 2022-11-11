@@ -1406,7 +1406,9 @@ https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 ,IRN★PMC Royale (720p) [Not 24/7]
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Press TV (English)
-https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:-1 ,IRN★Press TV (French)
+https://live.presstv.ir/live/presstvfr/index.m3u8
 #EXTINF:-1 ,IRN★Sepanj TV
 http://51.210.199.30/hls/stream.m3u8
 #EXTINF:-1 ,IRN★SL ①
