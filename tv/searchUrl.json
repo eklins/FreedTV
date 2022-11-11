@@ -389,15 +389,6 @@
       "detailUrl": ""
     },
     {
-      "id": 1,
-      "name": "冠军",
-      "url": "https://www.cmpzy.com/api.php/provide/vod/at/xml/",
-      "cate": "电影,1&&连续剧,2&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&足球,19",
-      "click": true,
-      "type": "xml",
-      "detailUrl": ""
-    },
-    {
       "id":1,
       "name":"樱花",
       "url":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/",
