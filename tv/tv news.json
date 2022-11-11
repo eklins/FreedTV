@@ -373,8 +373,8 @@
       "parse": false
     },
     {
-      "name": "Press TV English (Iran)",
-      "url": "https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8",
+      "name": "Press TV (English★Iran)",
+      "url": "https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZI0aTQLKtKm9MxxQIuZwPkWRHUSedWkHzag&usqp=CAU",
       "parse": false
     },
