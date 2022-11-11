@@ -275,6 +275,10 @@ https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streama/manifest.m3u8
 #EXTINF:-1 ,AMP ② (Access Media Productions Community★Monterey CA★720p)
 https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamb/manifest.m3u8
+#EXTINF:-1 ,Andover TV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/andover/live/ch1/video.m3u8
+#EXTINF:-1 ,AOTV (Massachusetts)
+https://reflect-vod-athol.cablecast.tv/live-5/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 #EXTINF:-1 ,Arroyo
 https://pasadenamed.secure.footprint.net/egress/bhandler/pasadenamed/streamb/chunklist_b1192000.m3u8
 #EXTINF:-1 ,ARTN TV (1080p) [Not 24/7]
@@ -879,6 +883,8 @@ https://ov.ottera.tv/live/master.m3u8?channel=elec_en
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 ,Entrepreneur (720p)
 https://a.jsrdn.com/broadcast/7582ed85f7/+0000/high/c.m3u8
+#EXTINF:-1 ,EPlusTV 6
+https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/index.m3u8
 #EXTINF:-1 ,Esperanza TV (480p) [Not 24/7]
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
 #EXTINF:-1 ,ESR 24x7 eSports Network (1080p)
@@ -979,6 +985,8 @@ https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8
 https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8
 #EXTINF:-1 ,FOX Greece (480p) [Not 24/7]
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 ,FOX Live Now
+https://lnc-fox-live-now.tubi.video/index.m3u8
 #EXTINF:-1 ,FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,FOX News Radio (720p)
@@ -1177,6 +1185,8 @@ https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/high/c.m3u8
 https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Majestad Televisión (480p) [Not 24/7]
 https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8
+#EXTINF:-1 ,MBC America (480p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 #EXTINF:-1 ,MCN6 (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 ,MCN6 Arts Channel (1080p) [Not 24/7]
@@ -1397,6 +1407,8 @@ https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 ,Newsy Top Stories (720p)
 https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
+#EXTINF:-1 ,NOTV (KNOV-CD1)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 ,Novelísima (Spanish) [Not 24/7]
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 #EXTINF:-1 ,NRB TV (480p)
@@ -2627,6 +2639,8 @@ https://v-pi.mybtv.net/live/415.m3u8?env=prd&uid=-1&x=1
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 ,TV Delmarva 14 (W14DK-D1)
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+#EXTINF:-1 ,TV4 (Bullhead City)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_001/chunklist.m3u8
 #EXTINF:-1 ,TVS Boxing (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 ,TVS Chef Champion (720p) [Not 24/7]
