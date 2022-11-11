@@ -433,6 +433,19 @@
       "parse": false
     },
     {
+      "name": "Dave (UK)",
+      "url": "http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-DAVE/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+
+    {
+      "name": "Dave ja vu (UK)",
+      "url": "http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Defy (WPXN-DT4)",
       "url": "https://v-ny.mybtv.net/live/611.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
