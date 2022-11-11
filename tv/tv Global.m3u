@@ -771,6 +771,12 @@ https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
 https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ethiopia.png",Ethiopia❤Addis TV (Amharic)
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 ,ETH★ETV Entertainment (ኢቲቪ መዝናኛ)
+https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv-ent_1.m3u8
+#EXTINF:-1 ,ETH★NBC Ethiopia
+https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/nbc_eth-1.m3u8
+#EXTINF:-1 ,ETH★Prime Media
+https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/prime-media_1.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Fiji.png",Fiji❤Fiji TV (720p) [Not 24/7]
 https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Finland.png",Finland❤Alfa TV
@@ -1125,6 +1131,10 @@ http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/chunklist_w336986461.m3u8
 #EXTINF:-1 ,HND★Alfa & Omega Visión
 https://srv.panelcast.net/aovision/aovision/playlist.m3u8
+#EXTINF:-1 ,HND★CTV
+https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,HND★Dios Te Ve
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,HND★Ebenezer TV (360p)
 https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/chunklist_w156791259_b850000_slen.m3u8
 #EXTINF:-1 ,HND★Lenca Television (Canal 40) 
@@ -3089,6 +3099,10 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,GBR★Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★Dave
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-DAVE/index.m3u8
+#EXTINF:-1 ,GBR★Dave ja vu
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/index.m3u8
 #EXTINF:-1 ,GBR★Discover Film
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★EDGE Sport
