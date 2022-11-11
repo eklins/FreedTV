@@ -109,7 +109,7 @@
       "parse": false
     },
     {
-      "name": "Al Jazeera (English)",
+      "name": "Al Jazeera (Qatar)",
       "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS934k9F2F5q9sTpqIbEJgSTfHYP-h2hkbHmg&usqp=CAU",
       "parse": false
@@ -247,7 +247,7 @@
       "parse": false
     },
     {
-      "name": "DW (English)",
+      "name": "DW (Germany)",
       "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
       "pic": "https://s3.spbtv.com/spbtv-world-production/50577931455a0d496a75_512x512c.png",
       "parse": false
@@ -277,7 +277,7 @@
       "parse": false
     },
     {
-      "name": "France 24 (English)",
+      "name": "France 24",
       "url": "http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6H9Mj1n4qlKxQCTeo82ftRpflvkxJBBgAjQ&usqp=CAU",
       "parse": false
@@ -397,8 +397,8 @@
       "parse": false
     },
     {
-      "name": "RT News",
-      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+      "name": "RT News (Russia)",
+      "url": "https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8",
       "pic": "https://static.wikia.nocookie.net/logopedia/images/6/6c/RussiaToday-logo.jpg/revision/latest/scale-to-width-down/200?cb=20150103194351",
       "parse": false
     },
@@ -415,7 +415,7 @@
       "parse": false
     },
     {
-      "name": "TeleSur English (Venezuela)",
+      "name": "TeleSur (Venezuela)",
       "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_e1X0wmsDx9-gbUz0CnG2YGBlLcX1aBiwUw&usqp=CAU",
       "parse": false
