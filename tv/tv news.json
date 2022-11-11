@@ -259,7 +259,7 @@
       "parse": false
     },
     {
-      "name": "Euronews (English)",
+      "name": "Euronews (France)",
       "url": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://images-na.ssl-images-amazon.com/images/I/61-5K6QDrnL.png",
       "parse": false
@@ -373,7 +373,7 @@
       "parse": false
     },
     {
-      "name": "Press TV (English★Iran)",
+      "name": "Press TV (Iran)",
       "url": "https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZI0aTQLKtKm9MxxQIuZwPkWRHUSedWkHzag&usqp=CAU",
       "parse": false
@@ -460,12 +460,6 @@
       "name": "US Law & Crime",
       "url": "http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzaAjxJxTLytDaxwPOVKJm6FMpkgJauAs0tw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "WFMZ 69 (WFMZ-DT1)",
-      "url": "https://v-pi.mybtv.net/live/423.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmL_GWKy7TEjnnSI_kXoiPLZp64NKq-MSlA&usqp=CAU",
       "parse": false
     },
     {
