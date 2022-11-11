@@ -223,7 +223,7 @@
       "parse": false
     },
     {
-      "name": "CNA 亚洲新闻台",
+      "name": "CNA 亚洲新闻台 (Singapore)",
       "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
       "pic": "https://onecms-res.cloudinary.com/image/upload/v1628577495/mediacorp/cna/image/2021-08/cna-logo-data.jpg",
       "parse": false
@@ -232,12 +232,6 @@
       "name": "CNBC",
       "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShCqoPVXQPFgZ4gDSY1G-XMPmgZg6-SKZ_Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CNBC Asia",
-      "url": "https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTubcUlOOOprbuVvkQw3D1fr_UxHsa2_qJ0A&usqp=CAU",
       "parse": false
     },
     {
