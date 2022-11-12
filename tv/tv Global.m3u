@@ -3091,6 +3091,8 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
 #EXTINF:-1 ,GBR★Brit Asia TV (US Pacific)
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+#EXTINF:-1 ,GBR★Channel 4
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,GBR★Channel S (US Eastern)
 https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
 #EXTINF:-1 ,GBR★Channel S (US Pacific)
@@ -3137,6 +3139,16 @@ https://ign-sportstribal.amagi.tv/playlist.m3u8
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★InWonder
 https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,GBR★itv
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITV-107/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,GBR★itv2
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,GBR★itv3
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITV3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,GBR★itv4
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITV4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,GBR★itvBe
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITVBE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,GBR★Jewelery Maker (1080p)
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 ,GBR★KMTV
