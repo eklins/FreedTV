@@ -375,8 +375,8 @@ https://belmontmedia.secure.footprint.net/egress/bhandler/belmontmedia/streama/p
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Boomerang (EMEA Slovenia)
 http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
-#EXTINF:-1 ,Bounce (WPXN-DT2)
-https://v-ny.mybtv.net/live/581.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,Bounce (WXTV-DT2)
+https://v-ny.mybtv.net/live/644.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Bounce XL
 https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
 #EXTINF:-1 ,bspoketv (1080p) [Not 24/7]
