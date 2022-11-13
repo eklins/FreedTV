@@ -44,12 +44,6 @@
       "parse": false
     },
     {
-      "name": "XUMO Gravitas Movies",
-      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "GEM Comedy (Iran★576p) [Not 24/7]",
       "url": "http://216.66.42.47:7777/GemComedy_HD.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
