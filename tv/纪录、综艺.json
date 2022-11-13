@@ -2552,8 +2552,32 @@
       "parse": false
     },
     {
+      "name": "XUMO Chive TV",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO Circle",
+      "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO Complex",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "XUMO Family Feud",
       "url": "https://live-content.xumo.com/170/content/XM00UVIHRILCPE/21427120/4.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO Food 52",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
@@ -2572,6 +2596,12 @@
     {
       "name": "XUMO Funny or Die (Roku)",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO Glamour",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
@@ -2608,6 +2638,12 @@
     {
       "name": "XUMO Nosey",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "XUMO Now This",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
