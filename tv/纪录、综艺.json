@@ -2408,13 +2408,25 @@
       "parse": false
     },
     {
+      "name": "STIRR Big Life TV",
+      "url": "https://biglife.sinclair.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "STIRR Chicken Soup For The Soul",
       "url": "https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "STIRR Docurama",
+      "name": "STIRR Choppertown",
+      "url": "https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STIRR Docurama [Not 24/7]",
       "url": "https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
@@ -2486,7 +2498,7 @@
       "parse": false
     },
     {
-      "name": "STIRR SOAR",
+      "name": "STIRR SOAR [Not 24/7]",
       "url": "https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
