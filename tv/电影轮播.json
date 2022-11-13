@@ -2084,7 +2084,7 @@
     },
     {
       "name": "XUMO Gravitas Movies",
-      "url": "https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8",
+      "url": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
       "parse": false
     },
