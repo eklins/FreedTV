@@ -1017,6 +1017,8 @@ https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 ,Greenbelt TV [Not 24/7]
 https://greenbeltacctv.secure.footprint.net/egress/bhandler/greenbelt/streama/chunklist_b1475584.m3u8
+#EXTINF:-1 ,Grit (WDAM-DT6)
+https://dai2-playlistserver.aws.syncbak.com/cpl/20980038/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk4MDAzOCIsImNpZCI6MjE5MDMsInNpZCI6MTU4LCJtZDUiOiIwN2QxMmRjNjAwOTM2MGI0MmY3NjNkNTRiMWIwZjI1NCIsImlhdCI6MTY2MDkxMzU2MCwiZXhwIjoxNjkyNDQ5NTYwLCJpc3MiOiJTeW5jYmFrIChURykifQ.JrWVgwzIn_RcNuWhkzIjr1i4qjXU1v4n0KFrSzoTQvQ
 #EXTINF:-1 ,Grit (WJLP-DT3)
 https://v-ny.mybtv.net/live/626.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Grit Xtra
