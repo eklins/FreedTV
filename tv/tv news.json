@@ -115,12 +115,6 @@
       "parse": false
     },
     {
-      "name": "Arirang Korea",
-      "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1o_yrkMSTiSWu64Fva8109Fw0AvbMvcqkNg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Arise News (UK)",
       "url": "https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv5Q7QI4qSTQrUnkAawWTEHB-9hOnPsrL4Bg&usqp=CAU",
@@ -289,12 +283,6 @@
       "parse": false
     },
     {
-      "name": "GPR TV (Indonesia)",
-      "url": "https://wowza.convergen.co/gprtv/myLive/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSPx0yMQYtf5sdeydSZUWlsi3wf884ByKqQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NBC News Now",
       "url": "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJrgDEpY9IQryUMSTVFXuT4_tqN9TvJ7hOg&usqp=CAU",
@@ -418,12 +406,6 @@
       "name": "TRT World (Indonesia)",
       "url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgY3ZlPnLYgHi_XRf2o77e2XUqqRareaj_w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVRI World (Indonesia)",
-      "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0tvk2xHSz2MeH8j0CaYNrA0oPnBbdJiQ6fg&usqp=CAU",
       "parse": false
     },
     {
