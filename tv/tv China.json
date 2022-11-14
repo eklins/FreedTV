@@ -991,6 +991,12 @@
       "parse": false
     },
     {
+      "name": "莆田.1",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227161/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "钱江新闻",
       "url": "http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -1143,6 +1149,24 @@
     {
       "name": "西安影视频道",
       "url": "http://stream2.xiancity.cn/xatv4/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "厦门-1",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227185/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "厦门-2",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226777/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "厦门-3",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226760/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
