@@ -493,6 +493,8 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://elevensports-samsunguk-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 ,CAN★Gusto TV
+https://gusto-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,CAN★Heartland 2007-?
 https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,CAN★ICI Montreal (CFHD-DT)
