@@ -1227,6 +1227,8 @@ https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF:-1 ,IND★MavTV Global
 http://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IND★NDTV 24x7
+http://140.238.155.232:9000/jmsytb.m3u8?c=19
 #EXTINF:-1 ,IND★Nee Cinema (480p)
 https://live.neestream.net/neestream_01/neecinema/index.m3u8?token=693400
 #EXTINF:-1 ,IND★Northeast Live
