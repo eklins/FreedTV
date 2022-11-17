@@ -548,12 +548,6 @@
       "parse": true
     },
     {
-      "name": "iHot 谍战",
-      "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J4330-L.jpg",
-      "parse": false
-    },
-    {
       "name": "iHot 动漫",
       "url": "http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251GS70-L.jpg",
