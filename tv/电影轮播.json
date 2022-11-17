@@ -895,6 +895,12 @@
       "parse": false
     },
     {
+      "name": "Rewind TV (WPIX-DT4★480p)",
+      "url": "https://v-ny.mybtv.net/live/565.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ROCK Entertainment (Malaysia★576p)",
       "url": "http://45.126.83.51/dr9445/h/h16/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -933,6 +939,12 @@
     {
       "name": "Spydar TV",
       "url": "https://simultv.s.llnwi.net/o062/Spydar/interlink.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Start TV (WCBS-DT2)",
+      "url": "https://v-ny.mybtv.net/live/546.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
