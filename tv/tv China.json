@@ -2234,7 +2234,7 @@
     },
     {
       "name": "台湾TVBS HD",
-      "url": "http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=29",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
