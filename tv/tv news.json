@@ -403,6 +403,12 @@
       "parse": false
     },
     {
+      "name": "Top News (Thailand)",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=9",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdlM5OfCBfuDanJZIYSbXAh3FmQnJU73sqSg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TRT World (Indonesia)",
       "url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgY3ZlPnLYgHi_XRf2o77e2XUqqRareaj_w&usqp=CAU",
@@ -446,7 +452,7 @@
     },
     {
       "name": "台湾中天新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=03",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=24",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
@@ -454,6 +460,12 @@
       "name": "台湾TVBS新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾TVBS56台直播",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=29",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
       "parse": false
     },
     {
@@ -476,19 +488,19 @@
     },
     {
       "name": "台湾中视新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=02",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=25",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
       "parse": false
     },
     {
       "name": "台湾mnews•镜新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=28",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=38",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
       "parse": false
     },
     {
       "name": "台湾寰宇新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=22",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=27",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
       "parse": false
     },
@@ -505,16 +517,16 @@
       "parse": false
     },
     {
-      "name": "台湾三立LIVE新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EB4g7wecgTI",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
-      "parse": true
+      "name": "台湾三立iNEWS",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=22",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
+      "parse": false
     },
     {
-      "name": "台湾三立iNEWS",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CKjSm5ZeehE",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
-      "parse": true
+      "name": "台湾三立LIVE新闻",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=23",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
+      "parse": false
     },
     {
       "name": "台湾三立财经新闻",
@@ -524,9 +536,9 @@
     },
     {
       "name": "台湾东森财经新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/57東森財經新聞/live",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=35",
       "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
-      "parse": true
+      "parse": false
     },
     {
       "name": "香港无线新闻台",
