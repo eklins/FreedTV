@@ -61,6 +61,12 @@
       "parse": true
     },
     {
+      "name": "Cinema Heaven (Korea★540p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/231.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Comedy",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736861",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
