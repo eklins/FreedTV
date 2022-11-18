@@ -230,6 +230,156 @@
       "parse": false
     },
     {
+      "name": "AsiaN (Korea★404p) [Not 24/7]",
+      "url": "https://apichvod21.seezntv.com/OTM/10200_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema Heaven (Korea★404p) [Not 24/7]",
+      "url": "https://apichvod21.seezntv.com/OTM/11010_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "OCN (Korea★404p) [Not 24/7]",
+      "url": "https://apichvod21.seezntv.com/OTM/10950_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PLAYY Action Movie (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/11720_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PLAYY Healing Movie (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/11730_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PLAYY Premium Movie (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/11750_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PLAYY Well Made Movie (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/11740_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The Movie (Korea★404p) [Not 24/7]",
+      "url": "https://apichvod21.seezntv.com/OTM/11090_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Channel China (Korea★404p) [Not 24/7]",
+      "url": "https://apichvod21.seezntv.com/OTM/10790_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ChungHwa TV (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10190_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DreamWorks Asia (Korea★404p) [Not 24/7]",
+      "url": "https://apichvod21.seezntv.com/OTM/10760_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Miao Mi (Korea★404p) [Not 24/7]",
+      "url": "https://apichvod21.seezntv.com/OTM/10940_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Billiards TV (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNBC Golf & PBA (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10290_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "IB Sports (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10220_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "JTBC Golf (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10280_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "JTBC Golf & Sports (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10700_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "KBS Sports (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10410_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MBC Sports (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10430_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SBS Golf (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10160_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SBS Sports (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10420_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sports (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10440_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SPOTV ① (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10070_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SPOTV ② (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/11990_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Mnet Global Music Network (Korea★404p)",
+      "url": "https://apichvod21.seezntv.com/OTM/10150_L.m3u8?AdaptiveType=HLS&SessionID=9b8f1ad9-0d8d-4342-8660-3ad88f5fbf6a",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Fright Flix (web-Distro)",
       "url": "https://www.distro.tv/live/frightflix/",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
