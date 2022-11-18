@@ -837,6 +837,12 @@ https://invintus-otfp.global.ssl.fastly.net/2917038973/487b842c8d9f8e9fc0b4043b9
 https://v-ny.mybtv.net/live/547.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,Dark Matter TV
 https://dmtv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,DATV Education Channel 22
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/datv/live/ch2/video.m3u8
+#EXTINF:-1 ,DATV Government Channel 99
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/datv/live/ch3/video.m3u8
+#EXTINF:-1 ,DATV Public Channel 8
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/datv/live/ch1/video.m3u8
 #EXTINF:-1 ,Deal or No Deal 2005-2019 (720p) [Not 24/7]
 https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Decades (WNYW-DT5)
@@ -867,6 +873,10 @@ https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 #EXTINF:-1 ,EarthX TV (720p)
 https://ov.ottera.tv/live/master.m3u8?channel=earth_et
+#EXTINF:-1 ,ECAT HD
+https://ecat.secure.footprint.net/egress/bhandler/ecat/streama/playlist.m3u8
+#EXTINF:-1 ,ECAT Public Channel
+https://ecat.secure.footprint.net/egress/bhandler/ecat/streamb/playlist.m3u8
 #EXTINF:-1 ,Ecuavisa (720p)
 https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
 #EXTINF:-1 ,EDGE Sport (1080p)
