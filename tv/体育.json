@@ -2,20 +2,20 @@
   "data": [
     {
       "name": "CCTV-5 体育",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225756/index.m3u8?servicetype=1",
       "pic": "http://tv.haoqu99.com/d/file/2015/0417/20150417122518526.jpg",
       "parse": false
     },
     {
       "name": "CCTV-5+ 体育赛事",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8?servicetype=1",
       "pic": "http://tv.haoqu99.com/d/file/2014/0722/20140722110316660.jpg",
       "parse": false
     },
 
     {
       "name": "CCTV-16 奥林匹克",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/index.m3u8",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/index.m3u8?servicetype=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiYz9cTj9snQ_sJdWtiTJDatTgi-Qvou46g&usqp=CAU",
       "parse": false
     },
