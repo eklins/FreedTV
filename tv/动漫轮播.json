@@ -343,6 +343,12 @@
       "parse": false
     },
     {
+      "name": "Toonami",
+      "url": "https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Toonami Aftermath East (480p)",
       "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
