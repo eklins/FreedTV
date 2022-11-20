@@ -349,6 +349,12 @@
       "parse": false
     },
     {
+      "name": "AS Metalocalypse",
+      "url": "http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AS Rick and Morty",
       "url": "https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
