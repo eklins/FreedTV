@@ -979,6 +979,18 @@
       "parse": false
     },
     {
+      "name": "AS Channel 5",
+      "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AS Williams Stream",
+      "url": "http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Bumblebee Classics (480p)",
       "url": "https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/manifest/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/0d14dc99-cc30-4c0e-8531-40cdfe650694/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohN2sbpPHRpeKzNQGn4AH0mcSZbnOYC5qdg&usqp=CAU",
