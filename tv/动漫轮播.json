@@ -367,6 +367,18 @@
       "parse": false
     },
     {
+      "name": "AS Squidbillies",
+      "url": "https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6erIvM0gD8AlUJ92AW2_DZjgGh4jpUMHM3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AS Superjail!",
+      "url": "https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6erIvM0gD8AlUJ92AW2_DZjgGh4jpUMHM3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AS The Venture Bros",
       "url": "https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_de.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6erIvM0gD8AlUJ92AW2_DZjgGh4jpUMHM3w&usqp=CAU",
