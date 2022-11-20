@@ -13,12 +13,7 @@
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
     },
-    {
-      "name": "CCTV-5 体育",
-      "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1?世界杯",
-      "pic": "http://tv.haoqu99.com/d/file/2015/0417/20150417122518526.jpg",
-      "parse": false
-    },
+
     {
       "name": "Pop TV (720p)",
       "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
