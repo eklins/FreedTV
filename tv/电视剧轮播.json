@@ -265,6 +265,12 @@
       "parse": false
     },
     {
+      "name": "AS Williams Stream",
+      "url": "http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Pluto Classic Drama",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e3cccf49290007053c67&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=520&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
