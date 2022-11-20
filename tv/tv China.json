@@ -2024,13 +2024,13 @@
     },
     {
       "name": "香港无线新闻台",
-      "url": "https://www.chaojidianshi.net/zhibo/73.html",
+      "url": "https://www.chaojidianshi.net/extension/73.xhtml",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
       "parse": true
     },
     {
       "name": "香港无线财经•资讯台",
-      "url": "https://www.chaojidianshi.net/zhibo/79.html",
+      "url": "https://www.chaojidianshi.net/extension/79.xhtml",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
     },
@@ -2474,9 +2474,9 @@
     },
     {
       "name": "台湾中天新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_QbRXRnHMVY",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=24",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "台湾中天新闻2 Talk Show",
@@ -2488,6 +2488,12 @@
       "name": "台湾TVBS新闻",
       "url": "http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾TVBS56台直播",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=29",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
       "parse": false
     },
     {
@@ -2510,13 +2516,19 @@
     },
     {
       "name": "台湾中视新闻",
-      "url": "http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=25",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
-      "parse": true
+      "parse": false
+    },
+    {
+      "name": "台湾mnews•镜新闻",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=38",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
+      "parse": false
     },
     {
       "name": "台湾寰宇新闻",
-      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=27",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
       "parse": false
     },
@@ -2533,16 +2545,16 @@
       "parse": false
     },
     {
-      "name": "台湾三立LIVE新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EB4g7wecgTI",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
-      "parse": true
+      "name": "台湾三立iNEWS",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=22",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
+      "parse": false
     },
     {
-      "name": "台湾三立iNEWS",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CKjSm5ZeehE",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
-      "parse": true
+      "name": "台湾三立LIVE新闻",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=23",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
+      "parse": false
     },
     {
       "name": "台湾东森财经新闻",
