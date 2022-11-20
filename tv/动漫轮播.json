@@ -343,6 +343,18 @@
       "parse": false
     },
     {
+      "name": "AS Aqua Teen Hunger Force",
+      "url": "https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AS Daily Animated",
+      "url": "https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AS Home Movies",
       "url": "https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
@@ -351,6 +363,12 @@
     {
       "name": "AS Metalocalypse",
       "url": "http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AS Primal",
+      "url": "https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
       "parse": false
     },
