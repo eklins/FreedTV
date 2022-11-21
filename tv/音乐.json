@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "4FUN TV (Poland★576p) [Not 24/7]",
+      "url": "https://stream.4fun.tv:8888/hls/4f.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "4U Bluegrass Music (480p)",
       "url": "https://rebroadcast.mytvtogo.net/mytvtogo/blugrassmusic/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
