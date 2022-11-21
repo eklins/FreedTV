@@ -1063,6 +1063,12 @@
       "parse": false
     },
     {
+      "name": "XUMO VEVO 80s",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "88 Stereo Radio-TV (720p) [Not 24/7]",
       "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
