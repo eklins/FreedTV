@@ -2,6 +2,15 @@
   "data": [
     {
       "id": 1,
+      "name": "新卧龙",
+      "url": "https://www.wolongzyw.com/api.php/provide/vod/at/xml/",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11&&国产剧,12&&香港剧,13&&韩国剧,14&&欧美剧,15&&台湾剧,16&&日本剧,17&&海外剧,18&&纪录片,22&&短片,23&&动漫电影,24&&中国动漫,25&&欧美动漫,26&&日本动漫,27&&台湾综艺,30&&韩国综艺,31&&中国综艺,32&&泰国剧,33&&欧美综艺,37&&电影解说,38&&惊悚片,39&&歌舞片,41&&家庭片,42&&古装片,43&&历史片,44&&悬疑片,45&&犯罪片,46",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
+      "id": 1,
       "name": "if101",
       "url": "http://demo.if101.tv/api.php/provide/vod/at/xml/",
       "cate": "Sport,24&&Documentary,25&&Adventure,28&&Drama,29&&Action,30&&Anime Movie,31&&LGBT,32&&Comedy,33&&Fantasy,34&&Terror,35&&Suspense,36&&Horror,37&&Song & Dance,38&&Disaster,39&&Romance,40&&Crime,41&&Sci-Fi,42&&Classic,43&&Web Movie,44&&War,117&&US Series,119&&Japan Series,120&&Korea Series,121&&China Series,122&&Thailand Series,123&&Hong Kong Series,124&&Taiwan Series,125&&Singapore & Malaysia Series,126&&Other's Series,127&&US Variety,128&&Japan Variety,129&&Korea Variety,130&&China Variety,131&&ASEAN Variety,132&&Hong Kong & Taiwan Variety,133&&Other's Variety,134&&US Anime,135&&Japan Anime,136&&Korea Anime,137&&China Anime,138&&ASEAN Anime,139&&Hong Kong & Taiwan Anime,140&&Other's Anime,142",
