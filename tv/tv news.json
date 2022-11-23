@@ -224,7 +224,7 @@
     },
     {
       "name": "CNBC",
-      "url": "http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60",
+      "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR01Lo6sznPIZeJs_hVhTcQWwyBZKXJhCe3w&usqp=CAU",
       "parse": false
     },
