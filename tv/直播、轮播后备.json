@@ -73,19 +73,19 @@
       "parse": true
     },
     {
-      "name": "台湾中天新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_QbRXRnHMVY",
+      "name": "台湾中天新闻 140",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=24",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
-      "name": "台湾中天新闻",
+      "name": "台湾中天新闻 198",
       "url": "http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "台湾中天新闻",
+      "name": "台湾中天新闻 redrainl",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=03",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
@@ -145,8 +145,14 @@
       "parse": true
     },
     {
-      "name": "台湾中视新闻",
+      "name": "台湾中视新闻 redrainl",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=02",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾中视新闻 140",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=25",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
       "parse": false
     },
@@ -157,8 +163,14 @@
       "parse": true
     },
     {
-      "name": "台湾mnews•镜新闻",
+      "name": "台湾mnews•镜新闻 redrainl",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=28",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾mnews•镜新闻 140",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=38",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
       "parse": false
     },
@@ -169,8 +181,14 @@
       "parse": true
     },
     {
-      "name": "台湾寰宇新闻",
+      "name": "台湾寰宇新闻 redrainl",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=22",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾寰宇新闻 140",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=27",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
       "parse": false
     },
