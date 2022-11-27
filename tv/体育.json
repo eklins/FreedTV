@@ -1046,38 +1046,50 @@
       "parse": false
     },
     {
-      "name": "TRUE Premier Football 1 (Thailand)",
+      "name": "true Premier Football 1 (Thailand)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13312.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "TRUE Premier Football 2 (Thailand)",
+      "name": "true Premier Football 2 (Thailand)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13313.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "TRUE Sports 1 (Thailand)",
+      "name": "true Sports 1 (Thailand)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13301.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "TRUE Sports 2 (Thailand)",
+      "name": "true Sports 2 (Thailand)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "TRUE Sports 3 (Thailand)",
+      "name": "true Sports 3 (Thailand)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13323.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "TRUE Sports 4 (Thailand)",
+      "name": "true Sports 4 (Thailand)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13324.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "true visions SPOTV (Thailand)",
+      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13297.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "true visions SPOTV 2 (Thailand)",
+      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13306.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
