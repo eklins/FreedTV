@@ -279,7 +279,7 @@
     },
     {
       "name": "ASTRO Arena 1 (Malaysia)",
-      "url": "http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90",
+      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16593.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -332,44 +332,20 @@
       "parse": false
     },
     {
-      "name": "beIN Sports ① (Argentina)",
-      "url": "http://93.152.174.144:4000/play/bein1ar/index.m3u8",
+      "name": "beIN Sports",
+      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16586.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "beIN Sports ① (France)",
-      "url": "http://93.152.174.144:4000/play/bein1fr/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports ② (France)",
-      "url": "http://93.152.174.144:4000/play/bein2fr/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports ③ (Argentina)",
-      "url": "http://93.152.174.144:4000/play/bein3ar/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports ③ (France)",
-      "url": "http://93.152.174.144:4000/play/bein3fr/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports ③ (Taiwan)",
+      "name": "beIN Sports 2 (Taiwan)",
       "url": "http://198.16.64.10:8278/Bein2hd/playlist.m3u8?tid=MD5D6186771861867718&ct=19225&tsum=7c0ab40062586283b22934ea37318203",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "beIN Sports ⑦ (Argentina)",
-      "url": "http://93.152.174.144:4000/play/bein7/index.m3u8",
+      "name": "beIN Sports 3",
+      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16595.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -490,6 +466,12 @@
     {
       "name": "ELEVEN 2 (Taiwan)",
       "url": "http://61.221.81.93:8078/hls/26/80/esport2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ESPN (Portugal)",
+      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16587.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -728,6 +710,12 @@
       "parse": false
     },
     {
+      "name": "NBC Golf",
+      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16594.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Nittele G+ Sports & News (Japan★540p)",
       "url": "https://cdnv148.cloudrsst.com/jptv/japan_tv_G_540/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -760,6 +748,12 @@
     {
       "name": "Players TV (Canada)",
       "url": "https://playerstv-samsungca.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Premiere (Brazil)",
+      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16589.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
