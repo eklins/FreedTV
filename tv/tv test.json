@@ -50,12 +50,6 @@
       "parse": false
     },
     {
-      "name": "SYFY (Portugal)",
-      "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5266",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "WOWOW Cinema (Japan)",
       "url": "http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -74,7 +68,7 @@
       "parse": false
     },
     {
-      "name": "ASTRO Arena 801 (Malaysia)",
+      "name": "ASTRO Arena 1 (Malaysia)",
       "url": "http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
