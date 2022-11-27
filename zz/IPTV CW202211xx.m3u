@@ -1169,7 +1169,7 @@ http://w.nasvpn.xyz:8080/live/saya/saya/16577.ts
 http://w.nasvpn.xyz:8080/live/saya/saya/16578.ts
 #EXTINF:-1 group-title="BACKUP",astro OASIS
 http://w.nasvpn.xyz:8080/live/saya/saya/16579.ts
-#EXTINF:-1 group-title="BACKUP",Unknown_16040
+#EXTINF:-1 group-title="BACKUP",Unknown_16040 (A&E)
 http://w.nasvpn.xyz:8080/live/saya/saya/16583.ts
 #EXTINF:-1 group-title="BACKUP",HGTV
 http://w.nasvpn.xyz:8080/live/saya/saya/16584.ts
@@ -1225,7 +1225,7 @@ http://w.nasvpn.xyz:8080/live/saya/saya/177.ts
 http://w.nasvpn.xyz:8080/live/saya/saya/173.ts
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC HD
 http://w.nasvpn.xyz:8080/live/saya/saya/3292.ts
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/37/STAR_Movies_HD_logo.jpg",START MOVIE
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/37/STAR_Movies_HD_logo.jpg",Star Movies
 http://w.nasvpn.xyz:8080/live/saya/saya/4106.ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",THRILL
 http://w.nasvpn.xyz:8080/live/saya/saya/179.ts
