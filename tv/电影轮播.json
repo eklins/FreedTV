@@ -427,8 +427,8 @@
       "parse": false
     },
     {
-      "name": "HBO",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/7868.ts",
+      "name": "HBO (Taiwan)",
+      "url": "http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
