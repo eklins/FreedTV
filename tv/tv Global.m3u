@@ -31,6 +31,8 @@ http://w.nasvpn.xyz:8080/live/saya/saya/173.ts
 http://w.nasvpn.xyz:8080/live/saya/saya/5525.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO National Geographic
 http://w.nasvpn.xyz:8080/live/saya/saya/5765.ts
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Oasis
+http://w.nasvpn.xyz:8080/live/saya/saya/16579.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Prima
 http://w.nasvpn.xyz:8080/live/saya/saya/176.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 1
@@ -73,6 +75,8 @@ https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 ,🇺🇳ONTV
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
+#EXTINF:-1 ,🇺🇳Sci-Fi (LostFilm.TV)
+http://w.nasvpn.xyz:8080/live/saya/saya/7773.ts
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 #EXTINF:-1 ,🇦🇼Telearuba
