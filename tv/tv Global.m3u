@@ -2899,6 +2899,10 @@ https://rakuten-tvshows-4-ch.samsung.wurl.tv/playlist.m3u8
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 ,CHE★Tele 1 (German)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Thailand.png",Thailand♥true Chinese More
+http://w.nasvpn.xyz:8080/live/saya/saya/13300.ts
+#EXTINF:-1 ,THA★WB TV
+http://w.nasvpn.xyz:8080/live/saya/saya/5213.ts
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤360
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 ,TUR★Africa NTR
