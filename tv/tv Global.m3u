@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXSe_f540eR6TNRkVm-gaDUoQ82sJKmwafcA&usqp=CAU",8TV 八度空间
+http://w.nasvpn.xyz:8080/live/saya/saya/16569.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 欢喜台 (Hua Hee Dai)
 http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 全佳 (Quan Jia)
@@ -41,6 +43,14 @@ http://51.210.199.33/hls/stream.m3u8
 http://45.126.83.51/dr9445/h/h16/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-0l7Wwk6Ti1-ogUxr5ftDXsO4gN2RmQ_qA&usqp=CAU",ROCK Extreme (576p)
 http://45.126.83.51/dr9445/h/h15/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpoxvRef94zWT_VgzRRAxOY2QX1j41E6b8ag&usqp=CAU",TV1
+http://w.nasvpn.xyz:8080/live/saya/saya/16574.ts
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwM3cnfiFBgQ9WqbPNGFd24ZOJFXZ37bixGw&usqp=CAU",TV2
+http://w.nasvpn.xyz:8080/live/saya/saya/16575.ts
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqaca-JqaWqs_UvieEK88tQpOBeeQRFDNxg&usqp=CAU",TV3
+http://w.nasvpn.xyz:8080/live/saya/saya/5149.ts
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9_6eKNtMGAjD8J4IKNmuq4D098oCPeTuiw&usqp=CAU",TV9
+http://w.nasvpn.xyz:8080/live/saya/saya/16577.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 ,🇦🇼Aruba.TV
