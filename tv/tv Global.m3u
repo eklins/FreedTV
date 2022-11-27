@@ -29,8 +29,8 @@ http://198.16.64.10:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225
 http://w.nasvpn.xyz:8080/live/saya/saya/173.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Ceria
 http://w.nasvpn.xyz:8080/live/saya/saya/5525.ts
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO National Geographic
-http://w.nasvpn.xyz:8080/live/saya/saya/5765.ts
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Ceria B
+http://w.nasvpn.xyz:8080/live/saya/saya/7868.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Prima
 http://w.nasvpn.xyz:8080/live/saya/saya/176.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 1
@@ -47,6 +47,8 @@ http://45.126.83.51/dr9445/h/h14/index.m3u8
 http://45.126.83.51/dr9445/h/h04/index.m3u8
 #EXTINF:-1 logo="https://www.coolstreaming.us/img/ch/ima24238087143.jpg",Maah TV
 http://51.210.199.33/hls/stream.m3u8
+#EXTINF:-1 logo="https://www.ifia.com/wp-content/uploads/2020/05/seo.ngsversion.1565614141405.jpg",National Geographic
+http://w.nasvpn.xyz:8080/live/saya/saya/5765.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIzgPMYDjGIH2DVqOkbYsLxWbxgpF1ANs0g&usqp=CAU",ROCK Entertainment (576p)
 http://45.126.83.51/dr9445/h/h16/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-0l7Wwk6Ti1-ogUxr5ftDXsO4gN2RmQ_qA&usqp=CAU",ROCK Extreme (576p)
