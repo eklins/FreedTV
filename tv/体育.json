@@ -1136,6 +1136,12 @@
       "parse": false
     },
     {
+      "name": "true Tennis (Thailand) [Not 24/7]",
+      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/5228.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Türkmenistan Sport",
       "url": "http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
