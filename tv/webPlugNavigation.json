@@ -309,35 +309,35 @@
       "click": true
     },
     {
-      "name": "人人美剧7",
+      "name": "海兔影院",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_49_g4gb9khQ7AFj537z2v9VjDZf0qsOfsg&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://kan.meiju7.com/",
+      "webUrl": "https://www.haitu.tv/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "UU粤语网",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
+      "name": "爱壹帆",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_49_g4gb9khQ7AFj537z2v9VjDZf0qsOfsg&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.uuyuuy.com/",
+      "webUrl": "https://new.iyf.tv/",
       "webOpen": true,
       "click": true
     },
     {
-      "name": "港剧社8090",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
+      "name": "泥巴影院",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_49_g4gb9khQ7AFj537z2v9VjDZf0qsOfsg&usqp=CAU",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://m.tvbs.cc/",
+      "webUrl": "https://m.mudvod.tv/",
       "webOpen": true,
       "click": true
     },
@@ -348,7 +348,7 @@
       "keyUpPlay": false,
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
-      "webUrl": "https://www.olevod.com/",
+      "webUrl": "https://www.oulevod.tv/",
       "webOpen": true,
       "click": true
     },
@@ -371,17 +371,6 @@
       "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "webUrl": "https://www.nnyy6.top/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "枫林网",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTiekVDhUrhcgiSOyq5MP4MTlP6fiJ6eEyw&usqp=CAU",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://imaple.co/",
       "webOpen": true,
       "click": true
     },
