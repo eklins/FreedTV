@@ -959,8 +959,6 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 ,DEU★BLK TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
-#EXTINF:-1 ,DEU★CNN International
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 ,DEU★DW (English)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 ,DEU★Euronews
@@ -3052,7 +3050,7 @@ https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
 #EXTINF:-1 ,GBR★Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★CNN International
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★Dave
