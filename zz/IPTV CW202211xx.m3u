@@ -1593,3 +1593,575 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212276
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
 #EXTINF:-1 ,中国功夫
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 ,咪咕4K-HLG源-备用2
+http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,咪咕4K-HLG源-备用3
+http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CCTV16 4K SDR源 25帧
+http://111.11.123.28:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 ,CCTV16 4K IPV6 HLG源 50帧
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,卫视卡式台
+http://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CCTV4K-25P-HLG源
+http://159.75.85.63:8280/cctv4k.php
+#EXTINF:-1 ,V Sports UHD
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
+#EXTINF:-1 ,Astro Super Sport 4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+#EXTINF:-1 ,Astro Super Sport 4K备
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 ,Bein Sport 4K
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=100891&extension=ts&play_token=ou2Un6sNC5
+#EXTINF:-1 ,Bein Sport 4K备
+http://k13tvonline.eu:8000/play/live.php?mac=00:1A:79:48:3C:F0&stream=189095&extension=ts&play_token=t1kkZSahBq
+#EXTINF:-1 ,RMC Sport 4K
+http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=ts&play_token=9Z33UVlX3f
+#EXTINF:-1 ,Canal+ 4K
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=4075&extension=ts&play_token=f663dY0IBp
+#EXTINF:-1 ,Insight UHD
+http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=d0cef6d2e668ade6842222
+#EXTINF:-1 ,Now Sports UHD HK 616
+http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
+#EXTINF:-1 ,BT Sport Ultimate 4K
+http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts
+#EXTINF:-1 ,Hub Premier Sport 4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+#EXTINF:-1 ,DAZN F1 UHD 4K
+http://tribaliptv.com:8080/Gustavo/123456/4930
+#EXTINF:-1 ,MOVISTAR LIGA DE CAMPEONES UHD 4K
+http://tribaliptv.com:8080/Gustavo/123456/12401
+#EXTINF:-1 ,TRAVELXP TV 4K
+http://45.153.35.200:8001/play/a0b8
+#EXTINF:-1 ,NASA 4k 60P
+http://45.153.35.200:8001/play/a0b7
+#EXTINF:-1 ,MYZEN TV 4K
+http://45.153.35.200:8001/play/a0ba
+#EXTINF:-1 ,ULTRA NATURE TV 4K
+http://185.236.229.31:9981/play/a01d
+#EXTINF:-1 ,Sky Sport UHD
+http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 ,Clarity4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 ,爱自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 ,loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 ,CCTV5-高清(2)
+http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8
+#EXTINF:-1 ,CCTV5-高清(3)
+http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 ,五星体育(1)
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,五星体育(2)
+http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,广东体育
+http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 ,广东体育（备）
+http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 ,南国都市
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+#EXTINF:-1 ,南国都市(备)
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 ,4K测试源
+https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
+#EXTINF:-1 ,CCTV4K 16M2160
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 ,CCTV16-4K 18M2160
+http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+#EXTINF:-1 ,CCTV16-4K 25M2160
+http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场 12M2160
+http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 ,纯享4K 25M2160HDR
+http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 ,纯享4K 30M2160HLG
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 ,4K修复 7M2160HEVC
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 ,CCTV16-4K50P-HLG
+http://159.75.85.63:5828/gudou.php?id=4010
+#EXTINF:-1 ,CCTV-4K50P-HLG
+http://159.75.85.63:5828/gudou.php?id=4005
+#EXTINF:-1 ,广东体育HD
+http://159.75.85.63:5828/gudou.php?id=gdsportsHD_7000
+#EXTINF:-1 ,CCTV5HD
+http://159.75.85.63:5828/gudou.php?id=CCTV5HD_7000
+#EXTINF:-1 ,凤凰中文
+http://159.75.85.63:5828/gudou.php?id=fhzw_1500
+#EXTINF:-1 ,星空卫视
+http://159.75.85.63:5828/gudou.php?id=xingkong_1500
+#EXTINF:-1 ,翡翠台HD
+http://159.75.85.63:5828/gudou.php?id=1350_4500
+#EXTINF:-1 ,明珠台HD
+http://159.75.85.63:5828/gudou.php?id=1351_4500
+#EXTINF:-1 ,USA | A&E
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145912
+#EXTINF:-1 ,USA | ADULT SWIM
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145913
+#EXTINF:-1 ,USA | AMC HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145914
+#EXTINF:-1 ,USA | AMC+
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145915
+#EXTINF:-1 ,USA | AMERICAN HEROS CHANNEL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145916
+#EXTINF:-1 ,USA | ANIMAL PLANET
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145917
+#EXTINF:-1 ,USA | ANTENNA TV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145918
+#EXTINF:-1 ,USA | ASPIRE
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145919
+#EXTINF:-1 ,USA | AWE
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145920
+#EXTINF:-1 ,USA | BBC AMERICA
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145922
+#EXTINF:-1 ,USA | BET
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145923
+#EXTINF:-1 ,USA | BET HER
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145924
+#EXTINF:-1 ,USA | BET JAMS
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145925
+#EXTINF:-1 ,USA | BET SOUL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145926
+#EXTINF:-1 ,USA | Black News Channel
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145927
+#EXTINF:-1 ,USA | BOUNCE
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145928
+#EXTINF:-1 ,USA | BRAVO EAST
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145929
+#EXTINF:-1 ,USA | BUZZR
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145930
+#EXTINF:-1 ,USA | CMT
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145932
+#EXTINF:-1 ,USA | COMEDY CENTRAL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145933
+#EXTINF:-1 ,USA | COMET
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145934
+#EXTINF:-1 ,USA | COOKING CHANNEL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145935
+#EXTINF:-1 ,USA | COURT TV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145936
+#EXTINF:-1 ,USA | COZI
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145937
+#EXTINF:-1 ,USA | Crime & Investigation
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145938
+#EXTINF:-1 ,USA | DABL TV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145939
+#EXTINF:-1 ,USA | DESTINATION AMERICA
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145941
+#EXTINF:-1 ,USA | DISCOVERY CHANNEL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145942
+#EXTINF:-1 ,USA | DISCOVERY FAMILY
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145943
+#EXTINF:-1 ,USA | DISCOVERY LIFE
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145944
+#EXTINF:-1 ,USA | DISCOVERY SCIENCE
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145945
+#EXTINF:-1 ,USA | DISCOVERY VELOCITY (MOTORTREND)
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145946
+#EXTINF:-1 ,USA | DIY Network
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145947
+#EXTINF:-1 ,USA | DOG TV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145948
+#EXTINF:-1 ,USA | E! ENTERTAINMENT
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145949
+#EXTINF:-1 ,USA | FOOD NETWORK
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145951
+#EXTINF:-1 ,USA | FREEFORM
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145952
+#EXTINF:-1 ,USA | FUSE
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145953
+#EXTINF:-1 ,USA | FX
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145954
+#EXTINF:-1 ,USA | FXM (Retro)
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145955
+#EXTINF:-1 ,USA | FXX
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145956
+#EXTINF:-1 ,USA | FYI
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145957
+#EXTINF:-1 ,USA | GAC FAMILY
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145958
+#EXTINF:-1 ,USA | GET TV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145959
+#EXTINF:-1 ,USA | GRIT
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145960
+#EXTINF:-1 ,USA | GSN
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145961
+#EXTINF:-1 ,USA | HALLMARK CHANNEL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145962
+#EXTINF:-1 ,USA | HALLMARK DRAMA
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145963
+#EXTINF:-1 ,USA | HALLMARK MOVIES AND MYSTERIES
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145964
+#EXTINF:-1 ,USA | HEROS & ICONS (H&I)
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145965
+#EXTINF:-1 ,USA | HGTV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145966
+#EXTINF:-1 ,USA | HISTORY CHANNEL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145967
+#EXTINF:-1 ,USA | HLN
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145968
+#EXTINF:-1 ,USA | HSN
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145969
+#EXTINF:-1 ,USA | INSP
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145970
+#EXTINF:-1 ,USA | INVESTIGATION DISCOVERY (ID)
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145971
+#EXTINF:-1 ,USA | ION TV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145972
+#EXTINF:-1 ,USA | JUSTICE CENTRAL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145973
+#EXTINF:-1 ,USA | LAW & CRIME
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145974
+#EXTINF:-1 ,USA | LIFETIME
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145975
+#EXTINF:-1 ,USA | LOGO
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145976
+#EXTINF:-1 ,USA | ME TV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145977
+#EXTINF:-1 ,USA | MTV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145978
+#EXTINF:-1 ,USA | MTV 2
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145979
+#EXTINF:-1 ,USA | MTV CLASSIC
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145980
+#EXTINF:-1 ,USA | MTV LIVE
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145981
+#EXTINF:-1 ,USA | NATGEO
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145983
+#EXTINF:-1 ,USA | NATGEO WILD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145984
+#EXTINF:-1 ,USA | OVATION
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145985
+#EXTINF:-1 ,USA | OWN
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145986
+#EXTINF:-1 ,USA | OXYGEN
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145987
+#EXTINF:-1 ,USA | PARAMOUNT NETWORK
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145988
+#EXTINF:-1 ,USA | PEOPLE TV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145989
+#EXTINF:-1 ,USA | QVC
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145991
+#EXTINF:-1 ,USA | QVC 2
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145992
+#EXTINF:-1 ,USA | REELZ
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145993
+#EXTINF:-1 ,USA | RETRO PLEX
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145994
+#EXTINF:-1 ,USA | REVOLT
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145995
+#EXTINF:-1 ,USA | SMITHSONIAN CHANNEL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145996
+#EXTINF:-1 ,USA | SUNDANCE
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145997
+#EXTINF:-1 ,USA | SYFY
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145998
+#EXTINF:-1 ,USA | TASTEMADE
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145999
+#EXTINF:-1 ,USA | TBS EAST
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146000
+#EXTINF:-1 ,USA | TCM
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146001
+#EXTINF:-1 ,USA | TLC
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146002
+#EXTINF:-1 ,USA | TNT EAST
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146003
+#EXTINF:-1 ,USA | TRAVEL CHANNEL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146004
+#EXTINF:-1 ,USA | TRUTV EAST
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146005
+#EXTINF:-1 ,USA | TV LAND
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146006
+#EXTINF:-1 ,USA | TV ONE
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146007
+#EXTINF:-1 ,USA | USA NETWORK
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146008
+#EXTINF:-1 ,USA | VH1
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146009
+#EXTINF:-1 ,USA | VICELAND
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146010
+#EXTINF:-1 ,USA | WE TV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146011
+#EXTINF:-1 ,USA | WEATHER CHANNEL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146012
+#EXTINF:-1 ,USA | DISNEY CHANNEL
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146675
+#EXTINF:-1 ,USA | DISNEY JR
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146676
+#EXTINF:-1 ,USA | NICK JR
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146677
+#EXTINF:-1 ,USA | NICK MUSIC
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146678
+#EXTINF:-1 ,USA | NICK TOONS
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146679
+#EXTINF:-1 ,USA | NICKELODEON
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146680
+#EXTINF:-1 ,USA | PBS KIDS
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146681
+#EXTINF:-1 ,USA | TEEN NICK
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146682
+#EXTINF:-1 ,USA | UNIVERSAL KIDS
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146683
+#EXTINF:-1 ,USA | Disney XD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146684
+#EXTINF:-1 ,USA: ESPN
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35057
+#EXTINF:-1 ,USA: ESPN DEPORTES
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35059
+#EXTINF:-1 ,USA: ESPN NEWS
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35060
+#EXTINF:-1 ,USA: ESPN U
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35061
+#EXTINF:-1 ,USA: ACC NETWORK
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35156
+#EXTINF:-1 ,US: CNBC | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52819
+#EXTINF:-1 ,US: COMEDY CENTRAL | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52820
+#EXTINF:-1 ,US: COURT TV | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52821
+#EXTINF:-1 ,US: CRIME & INVESTIGATION | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52822
+#EXTINF:-1 ,US: DISCOVERY FAMILY | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52824
+#EXTINF:-1 ,US: DISCOVERY SCIENCE | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52825
+#EXTINF:-1 ,US: DISCOVERY | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52826
+#EXTINF:-1 ,US: DIY NETWORK | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52827
+#EXTINF:-1 ,US: E! | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52829
+#EXTINF:-1 ,US: FOOD NETWORK | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52831
+#EXTINF:-1 ,US: FOX Business Network | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52832
+#EXTINF:-1 ,US: FOX News | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52833
+#EXTINF:-1 ,US: FOX | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52834
+#EXTINF:-1 ,US: FREE SPEECH TV | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52835
+#EXTINF:-1 ,US: FREEFORM | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52836
+#EXTINF:-1 ,US: FUSION | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52838
+#EXTINF:-1 ,US: FX | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52839
+#EXTINF:-1 ,US: FXM | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52840
+#EXTINF:-1 ,US: FYI | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52842
+#EXTINF:-1 ,US: GAME SHOW NETWORK | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52843
+#EXTINF:-1 ,US: HALLMARK CHANNEL | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52845
+#EXTINF:-1 ,US: HALLMARK DRAMA | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52846
+#EXTINF:-1 ,US: HALLMARK MOVIES & MYSTERIES | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52847
+#EXTINF:-1 ,US: HGTV | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52848
+#EXTINF:-1 ,US: HISTORY CHANNEL | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52849
+#EXTINF:-1 ,US: HLN | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52850
+#EXTINF:-1 ,US: HSN | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52851
+#EXTINF:-1 ,US: IFC | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52852
+#EXTINF:-1 ,US: INSP | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52853
+#EXTINF:-1 ,US: INVESTIGATION DISCOVERY | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52854
+#EXTINF:-1 ,US: JUSTICE CENTRAL | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52855
+#EXTINF:-1 ,US: LIFETIME MOVIES | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52856
+#EXTINF:-1 ,US: LIFETIME | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52857
+#EXTINF:-1 ,US: Logo | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52859
+#EXTINF:-1 ,US: ME TV | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52860
+#EXTINF:-1 ,US: MSNBC | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52861
+#EXTINF:-1 ,US: MTV 2 | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52862
+#EXTINF:-1 ,US: MTV Latino | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52863
+#EXTINF:-1 ,US: MTV | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52864
+#EXTINF:-1 ,US: MTVU | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52865
+#EXTINF:-1 ,US: MY9 (New York) | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52866
+#EXTINF:-1 ,US: NAT GEO WILD EAST | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52867
+#EXTINF:-1 ,US: NATIONAL GEOGRAPHIC EAST | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52868
+#EXTINF:-1 ,US: NBC | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52869
+#EXTINF:-1 ,US: NICK TOONS | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52870
+#EXTINF:-1 ,US: OUTDOOR CHANNEL | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52871
+#EXTINF:-1 ,US: OUTSIDE TV | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52872
+#EXTINF:-1 ,US: OWN | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52873
+#EXTINF:-1 ,US: PARAMOUNT NETWORK | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52874
+#EXTINF:-1 ,US: PBS KIDS | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52875
+#EXTINF:-1 ,US: POP | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52877
+#EXTINF:-1 ,US: PURSUIT CHANNEL | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52878
+#EXTINF:-1 ,US: QVC | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52879
+#EXTINF:-1 ,US: REELZ | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52880
+#EXTINF:-1 ,US: RFD-TV | UHD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52882
+#EXTINF:-1 ,US: SUNDANCE TV | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52883
+#EXTINF:-1 ,US: SYFY  | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52884
+#EXTINF:-1 ,US: TBS EAST | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52885
+#EXTINF:-1 ,US: TCM | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52886
+#EXTINF:-1 ,US: TELEMUNDO 47 | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52887
+#EXTINF:-1 ,US: TNT (East) | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52888
+#EXTINF:-1 ,US: TRU TV EAST | UHD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52889
+#EXTINF:-1 ,US: TV ONE | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52890
+#EXTINF:-1 ,US: Univision | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52891
+#EXTINF:-1 ,US: Motor Trend | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52892
+#EXTINF:-1 ,US: VH1 (East) | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52893
+#EXTINF:-1 ,US: VICELAND | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52894
+#EXTINF:-1 ,US: WE TV | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52895
+#EXTINF:-1 ,US: WGN AMERICA | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52896
+#EXTINF:-1 ,US: WPIX 11 NY | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52897
+#EXTINF:-1 ,US: News 12 New Jersey | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52898
+#EXTINF:-1 ,US: News 12 The Bronx | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52899
+#EXTINF:-1 ,US: ESPN 2 | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52628
+#EXTINF:-1 ,US: ESPN DEPORTES | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52637
+#EXTINF:-1 ,US: ESPN NEWS | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52639
+#EXTINF:-1 ,US: ESPN U | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52641
+#EXTINF:-1 ,US: ESPN | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52642
+#EXTINF:-1 ,US: FNTSY SPORTS NETWORK | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52643
+#EXTINF:-1 ,US: FOX SPORTS ARIZONA PLUS | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52649
+#EXTINF:-1 ,US: Fubo Sports Network | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52670
+#EXTINF:-1 ,US: GINX eSports | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52671
+#EXTINF:-1 ,US: GolTV (En) | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52672
+#EXTINF:-1 ,GOL TV (ES) | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52673
+#EXTINF:-1 ,US: MAV TV | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52674
+#EXTINF:-1 ,US: MSG 2 PLUS | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52676
+#EXTINF:-1 ,US: MSG 2 | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52677
+#EXTINF:-1 ,US: MSG PLUS | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52678
+#EXTINF:-1 ,US: MSG | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52679
+#EXTINF:-1 ,US: NBCSN CHICAGO PLUS | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52681
+#EXTINF:-1 ,US: NBCSN | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52683
+#EXTINF:-1 ,US: NESN  HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52684
+#EXTINF:-1 ,US: NESN BOSTON | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52685
+#EXTINF:-1 ,US: NFL NETWORK | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52686
+#EXTINF:-1 ,US: PAC-12 ARIZONA | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52688
+#EXTINF:-1 ,US: PAC-12 BAY AREA | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52689
+#EXTINF:-1 ,US: PAC-12 LOS ANGELES | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52690
+#EXTINF:-1 ,US: PAC-12 MOUNTAIN | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52691
+#EXTINF:-1 ,US: PAC-12 NETWORK | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52692
+#EXTINF:-1 ,US: PAC-12 OREGON | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52693
+#EXTINF:-1 ,US: PAC-12 WASHINGTON | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52694
+#EXTINF:-1 ,US: SPORTSMAN CHANNEL | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52696
+#EXTINF:-1 ,US: SPORTSNET New York | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52697
+#EXTINF:-1 ,US: TENNIS CHANNEL | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52701
+#EXTINF:-1 ,US: TyC Sports | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52714
+#EXTINF:-1 ,US: UFC TV
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52715
+#EXTINF:-1 ,US: UFC TV | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52716
+#EXTINF:-1 ,US: VSIN | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52717
+#EXTINF:-1 ,US: WORLD FISHING NETWORK | HD*
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52718
+#EXTINF:-1 ,US: WWE NETWORK | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52719
+#EXTINF:-1 ,USA | MY 9 NEW YORK
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142368
+#EXTINF:-1 ,USA | MY 13 LOS ANGELES
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142369
+#EXTINF:-1 ,USA | WGN AMERICA
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142370
+#EXTINF:-1 ,USA | WGN CHICAGO 9
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142371
+#EXTINF:-1 ,USA CW East Philadelphia UHD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142375
+#EXTINF:-1 ,USA CW21 (WTTO) Birmingham
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142380
+#EXTINF:-1 ,USA CW23 (WUCW) Saint Paul
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142382
+#EXTINF:-1 ,USA CW33 (KVCW) Las Vegas
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142383
+#EXTINF:-1 ,USA CW38 (WSWB) Wilkes-Barre
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142386
+#EXTINF:-1 ,USA CW53 (WWHO) Columbus
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142390
+#EXTINF:-1 ,USA CW57 (WPSG) Philadelphia
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142391
+#EXTINF:-1 ,USA CW58 (WNAB) Nashville
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142392
+#EXTINF:-1 ,USA CW69 (WUPA) Atlanta
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142393
+#EXTINF:-1 ,USA: MY50
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142395
+#EXTINF:-1 ,USA CW (KMAX) SACRAMENTO
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142396
+#EXTINF:-1 ,NBA TV | HD
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/30855
