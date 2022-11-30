@@ -373,6 +373,12 @@
       "parse": false
     },
     {
+      "name": "MTV U (US)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52865",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Mun2TV (Dominican Republic)",
       "url": "https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
