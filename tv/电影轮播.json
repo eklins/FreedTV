@@ -410,13 +410,13 @@
     },
     {
       "name": "Freeform",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145952",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52836",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "fuse",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145953",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52838",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -428,7 +428,13 @@
     },
     {
       "name": "FX (US)",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145954",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52839",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FXM",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52840",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -476,19 +482,19 @@
     },
     {
       "name": "Hallmark",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145962",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52845",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Hallmark Drama",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145963",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52846",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Hallmark Movies And Mysteries",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145964",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52847",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -590,7 +596,7 @@
     },
     {
       "name": "INSP",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145970",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52853",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -686,7 +692,13 @@
     },
     {
       "name": "Lifetime",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145975",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52857",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Lifetime Movies Network",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52856",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -824,7 +836,7 @@
     },
     {
       "name": "MTV 2",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145979",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52862",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -902,7 +914,7 @@
     },
     {
       "name": "Paramount Network",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145988",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52874",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -921,6 +933,12 @@
     {
       "name": "Persiana One (Iran)",
       "url": "http://51.210.199.21/hls/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Pop",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52877",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1046,19 +1064,25 @@
     },
     {
       "name": "SYFY (US)",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145998",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52884",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "tbs",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146000",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52885",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "TCM",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146001",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52886",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TNT",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52888",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1105,6 +1129,12 @@
       "parse": false
     },
     {
+      "name": "TV One",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52890",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TVLand Classic",
       "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146006",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1124,7 +1154,7 @@
     },
     {
       "name": "VH1",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146009",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52893",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1154,7 +1184,7 @@
     },
     {
       "name": "WE TV",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/146011",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52895",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
