@@ -224,13 +224,19 @@
     },
     {
       "name": "CNBC",
-      "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52819",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR01Lo6sznPIZeJs_hVhTcQWwyBZKXJhCe3w&usqp=CAU",
       "parse": false
     },
     {
       "name": "CNBC Africa (480p) [Not 24/7]",
       "url": "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShCqoPVXQPFgZ4gDSY1G-XMPmgZg6-SKZ_Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNBC Europe",
+      "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShCqoPVXQPFgZ4gDSY1G-XMPmgZg6-SKZ_Q&usqp=CAU",
       "parse": false
     },
