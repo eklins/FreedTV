@@ -187,6 +187,12 @@
       "parse": false
     },
     {
+      "name": "FXX",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145956",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Happy Kids",
       "url": "https://happykids-roku.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
