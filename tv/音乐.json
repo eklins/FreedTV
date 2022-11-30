@@ -685,6 +685,12 @@
       "parse": false
     },
     {
+      "name": "Revolt",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145995",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Romantica TV (Chile)",
       "url": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/romanticatv/romanticatv.smil/romanticatv/livestream2/chunks.m3u8?dpssid=b21130325766359a4d3950e7&sid=ba5t1l1xb216142802306359a4d549bbe",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
