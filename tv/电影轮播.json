@@ -943,12 +943,6 @@
       "parse": false
     },
     {
-      "name": "PIX11 New York NY (WPIX-DT1)",
-      "url": "https://v-ny.mybtv.net/live/562.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Pop",
       "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52877",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1215,12 +1209,6 @@
     {
       "name": "WE TV",
       "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52895",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "WGN America (NewsNation)",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52896",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
