@@ -489,7 +489,13 @@
     },
     {
       "name": "ESPN (US)",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35057",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52642",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ESPN 2 (US)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52628",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -501,13 +507,13 @@
     },
     {
       "name": "ESPN News (US)",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35060",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52639",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "ESPN U (US)",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35061",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52641",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -542,6 +548,18 @@
       "parse": false
     },
     {
+      "name": "FNTSY Sports Network",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52643",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Sports Arizona Plus",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52649",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Free Sports (UK) [Not 24/7]",
       "url": "https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -556,6 +574,18 @@
     {
       "name": "FTF Sports (US)",
       "url": "https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Fubo Sports Network",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52670",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "GolTV",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52672",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -680,6 +710,12 @@
       "parse": false
     },
     {
+      "name": "MavTV (US)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52674",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MavTV Global (Netherlands)",
       "url": "https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -718,6 +754,30 @@
     {
       "name": "Motorvision.TV (New Zealand)",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MSG (US)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52679",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MSG Plus (US)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52678",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MSG2 (US)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52677",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MSG2 Plus (US)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52676",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
