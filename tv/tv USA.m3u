@@ -1347,8 +1347,12 @@ https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x
 https://content.uplynk.com/channel/aa92b664ac5941de81cd410803329da2.m3u8
 #EXTINF:-1 ,News 4JAX+
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
+#EXTINF:-1 ,News 12 New Jersey
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52898
 #EXTINF:-1 ,News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 ,News 12 The Bronx
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52899
 #EXTINF:-1 ,News Albuquerque NM (KOAT-TV★720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
 #EXTINF:-1 ,News Baltimore MD (WBAL-TV★576p)
