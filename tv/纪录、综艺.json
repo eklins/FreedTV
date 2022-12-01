@@ -1664,8 +1664,26 @@
       "parse": false
     },
     {
+      "name": "The CW (Las Vegas★KVCW-33)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW (Sacramento★KMAX-31)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142396",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "The CW Nashville (WNAB-58)",
       "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142392",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Philly 57 (WPSG)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142375",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
