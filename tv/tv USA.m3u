@@ -2573,8 +2573,8 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/chunklist.m3u8
 #EXTINF:-1 ,The Craftistry (1080p)
 https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,The Family Channel (WACP-DT6★480p)
-https://v-pi.mybtv.net/live/326.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,The CW (53 Columbus★WWHO)
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142390
 #EXTINF:-1 ,The Film Detective
 https://filmdetective-plex.amagi.tv/index.m3u8
 #EXTINF:-1 ,The First
