@@ -655,6 +655,12 @@
       "parse": false
     },
     {
+      "name": "KCOP-13 Los Angeles",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142369",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "KIX (Indonesia★576p)",
       "url": "http://45.126.83.51/dr9445/h/h07/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1083,6 +1089,18 @@
     {
       "name": "TCM",
       "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52886",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW (33 Las Vegas★KVCW)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Philly 57 (WPSG)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142375",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
