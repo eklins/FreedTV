@@ -1070,6 +1070,12 @@
       "parse": false
     },
     {
+      "name": "SNY (SportsNet New York)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52697",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sports Grid (UK)",
       "url": "https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1184,14 +1190,14 @@
       "parse": false
     },
     {
-      "name": "Tennis Channel ① (UK)",
+      "name": "Tennis Channel (UK)",
       "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Tennis Channel ② (UK)",
-      "url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8",
+      "name": "Tennis Channel (US)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52701",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1328,7 +1334,19 @@
       "parse": false
     },
     {
-      "name": "Unbeaten (US)",
+      "name": "TyC Sports (Argentina)",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52714",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UFC",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52716",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Unbeaten",
       "url": "https://unbeaten-roku.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -1340,7 +1358,7 @@
       "parse": false
     },
     {
-      "name": "VSIN",
+      "name": "VSiN",
       "url": "https://stream.rcncdn.com/live/vsinproxy.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -1359,7 +1377,7 @@
     },
     {
       "name": "WWE Network",
-      "url": "http://93.152.174.144:4000/play/WWE/index.m3u8",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52719",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
