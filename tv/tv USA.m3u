@@ -951,6 +951,8 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
 #EXTINF:-1 ,FOX 4 Dallas / Fort Worth TX (KDFW★720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8
+#EXTINF:-1 ,FOX 5
+http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52834
 #EXTINF:-1 ,FOX 5 Atlanta GA (WAGA-TV★720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
 #EXTINF:-1 ,FOX 5 New York (WNYW-DT1★720p)
