@@ -842,6 +842,48 @@
       "parse": false
     },
     {
+      "name": "PAC-12 Arizona",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52688",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Bay Area",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52689",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Los Angeles",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52690",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Mountain",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52691",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Network",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52692",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Oregon",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52693",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Washington",
+      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52694",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Nittele G+ Sports & News (Japan★540p)",
       "url": "https://cdnv148.cloudrsst.com/jptv/japan_tv_G_540/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
