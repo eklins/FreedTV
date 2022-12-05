@@ -1191,8 +1191,6 @@ https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1e
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
 #EXTINF:-1 ,Lone Star (960p)
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/high/c.m3u8
-#EXTINF:-1 ,LX
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 ,Made In Hollywood
 https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Majestad Televisión (480p) [Not 24/7]
@@ -1305,6 +1303,8 @@ https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
 https://content.uplynk.com/channel/52ce3d9af00349cda5f8151aefc7e552.m3u8
 #EXTINF:-1 ,NBC 207 Bangor Portland ME (WLBZ★1080p)
 https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8
+#EXTINF:-1 ,NBC LX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 ,NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 ,NBC News West 9 Midland-Odessa TX (KWES★1080p)
