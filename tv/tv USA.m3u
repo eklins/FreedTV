@@ -952,7 +952,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
 #EXTINF:-1 ,FOX 4 Dallas / Fort Worth TX (KDFW★720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8
 #EXTINF:-1 ,FOX 5
-http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52834
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52834
 #EXTINF:-1 ,FOX 5 Atlanta GA (WAGA-TV★720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
 #EXTINF:-1 ,FOX 5 New York (WNYW-DT1★720p)
@@ -1352,11 +1352,11 @@ https://content.uplynk.com/channel/aa92b664ac5941de81cd410803329da2.m3u8
 #EXTINF:-1 ,News 4JAX+
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 #EXTINF:-1 ,News 12 New Jersey
-http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52898
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52898
 #EXTINF:-1 ,News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 ,News 12 The Bronx
-http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52899
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52899
 #EXTINF:-1 ,News Albuquerque NM (KOAT-TV★720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
 #EXTINF:-1 ,News Baltimore MD (WBAL-TV★576p)
@@ -2578,7 +2578,7 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/chunklist.m3u8
 #EXTINF:-1 ,The Craftistry (1080p)
 https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,The CW (Columbus★WWHO-53)
-http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142390
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142390
 #EXTINF:-1 ,The Film Detective
 https://filmdetective-plex.amagi.tv/index.m3u8
 #EXTINF:-1 ,The First
@@ -2826,7 +2826,7 @@ https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/chunklist.m3u8?origin=
 #EXTINF:-1 ,WFMZ 69 (WFMZ-DT1★720p)
 https://v-pi.mybtv.net/live/423.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,WGN America (NewsNation)
-http://31.14.41.118:8080/Faucontv/v62vczsqLzN/142370
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142370
 #EXTINF:-1 ,WGN9 News Streaming (1080p)
 http://iptu.org/live.m3u8?channel=301
 #EXTINF:-1 ,White Plains Community Media (360p)
