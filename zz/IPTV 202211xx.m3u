@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 ,♦08/11 福建PLTV
 #EXTINF:-1 ,CCTV4K 16M2160
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 #EXTINF:-1 ,CCTV16 25M2160
@@ -479,6 +480,7 @@ http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227169/index.m3u8
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227157/index.m3u8?servicetype=1
 #EXTINF:-1 ,莆田1 576
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227161/index.m3u8?servicetype=1
+#EXTINF:-1 ,♦09/11 国内直播源
 #EXTINF:-1 ,劲爆体育
 http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_6000.m3u8
 #EXTINF:-1 ,北京体育休闲
@@ -537,6 +539,7 @@ http://yfsl.vsd.gehua.net.cn/live/HuNanHD_6000.m3u8
 http://yfsl.vsd.gehua.net.cn/live/GuangDongHD_6000.m3u8
 #EXTINF:-1 ,四海钓鱼
 http://yfsl.vsd.gehua.net.cn/live/SiHaiDiaoYuHD_2000.m3u8
+#EXTINF:-1 ,♦14/11 山东移动直播源
 #EXTINF:-1 ,九台同屏
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
 #EXTINF:-1 ,凤凰资讯台
@@ -929,6 +932,7 @@ http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227075/index.m3u8
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8
 #EXTINF:-1 ,综艺_6887
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+#EXTINF:-1 ,♦11/11 台湾直播源
 #EXTINF:-1 ,ABC news
 http://140.238.155.232:9000/jmsytb.m3u8?c=1
 #EXTINF:-1 ,ABC news
@@ -995,6 +999,7 @@ http://140.238.155.232:9000/jmsytb.m3u8?c=49
 http://140.238.155.232:9000/jmsytb.m3u8?c=51
 #EXTINF:-1 ,MUSIC REGI FLIH FALLING
 http://140.238.155.232:9000/jmsytb.m3u8?c=53
+#EXTINF:-1 ,♦15/11 iHot直播源
 #EXTINF:-1,爱动漫
 http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=wasusyt&Contentid=6000000006000280630
 #EXTINF:-1,爱奇谈
@@ -1145,6 +1150,7 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 ,CBS NEWS
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 ,♦25/11 外语直播源
 #EXTINF:-1 group-title="BACKUP",天映频道
 http://w.nasvpn.xyz:8080/live/saya/saya/16568.ts
 #EXTINF:-1 group-title="BACKUP",Gteat Times 大时代
@@ -1517,6 +1523,7 @@ http://w.nasvpn.xyz:8080/live/saya/saya/13852.ts
 http://w.nasvpn.xyz:8080/live/saya/saya/13853.ts
 #EXTINF:-1 group-title="RADIO MALAYSIA" tvg-logo="http://w.nasvpn.xyz:8080/images/8135f28caee347639a3b9a6a81d0f0cd.png",harmoni
 http://w.nasvpn.xyz:8080/live/saya/saya/13854.ts
+#EXTINF:-1 ,♦26/11 江苏移动IPV6直播源
 #EXTINF:-1 ,CCTV-1
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
 #EXTINF:-1 ,CCTV-1
@@ -1593,6 +1600,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212276
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
 #EXTINF:-1 ,中国功夫
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 ,♦28/11 世界杯高码率直播源
 #EXTINF:-1 ,咪咕4K-HLG源-备用2
 http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8?blog.ntnas.top
 #EXTINF:-1 ,咪咕4K-HLG源-备用3
@@ -1695,6 +1703,7 @@ http://159.75.85.63:5828/gudou.php?id=xingkong_1500
 http://159.75.85.63:5828/gudou.php?id=1350_4500
 #EXTINF:-1 ,明珠台HD
 http://159.75.85.63:5828/gudou.php?id=1351_4500
+#EXTINF:-1 ,♦29/11 USA直播源
 #EXTINF:-1 ,USA | A&E
 http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145912
 #EXTINF:-1 ,USA | ADULT SWIM
