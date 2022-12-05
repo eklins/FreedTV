@@ -38,19 +38,25 @@
     },
     {
       "name": "Game Show Network (360p)",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145961",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145961",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Heroes & Icons",
-      "url": "http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145965",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145965",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Heroes & Icons (WWOR-DT3)",
       "url": "https://v-ny.mybtv.net/live/561.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Paramount Network (UK)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145988",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
