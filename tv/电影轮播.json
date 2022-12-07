@@ -1615,12 +1615,6 @@
       "parse": false
     },
     {
-      "name": "Rakuten Action (Ireland)",
-      "url": "https://rakuten-action-13-ie.samsung.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Rakuten Action (Netherlands)",
       "url": "https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
@@ -1693,12 +1687,6 @@
       "parse": false
     },
     {
-      "name": "Rakuten Comedy (Ireland)",
-      "url": "https://rakuten-comedy-13-ie.samsung.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Rakuten Comedy (Netherlands)",
       "url": "https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
@@ -1767,12 +1755,6 @@
     {
       "name": "Rakuten Drama (Finland★PLEX)",
       "url": "https://rakuten-drama-12-fi.plex.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Rakuten Drama (Ireland)",
-      "url": "https://rakuten-drama-13-ie.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
