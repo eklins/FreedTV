@@ -308,12 +308,6 @@
       "parse": false
     },
     {
-      "name": "AT&T SportsNet",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/59945",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "ATG (Sweden)",
       "url": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -344,26 +338,8 @@
       "parse": false
     },
     {
-      "name": "beIN Sports (Canada)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284530",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 1 (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2272",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "beIN Sports 1 4K",
       "url": "http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=100891&extension=ts&play_token=ou2Un6sNC5",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 2 (Philippines)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/282773",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -376,24 +352,6 @@
     {
       "name": "beIN Sports 3",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16595.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 3 (Philippines)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/266844",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 6 (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/151030",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports USA",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296691",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -412,12 +370,6 @@
     {
       "name": "Best Cable Sports (Peru)",
       "url": "https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BIG Ten Network",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2279",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -458,12 +410,6 @@
       "parse": false
     },
     {
-      "name": "CBS Sports Network",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/267357",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "CF97 Soccer Live",
       "url": "https://d1sp4cpu5on4l7.cloudfront.net/out/v1/ec82e0a9c5564fb497366186c09052e5/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -478,12 +424,6 @@
     {
       "name": "CorTV (Latin)",
       "url": "https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cowboy Channel",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/267736",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -542,12 +482,6 @@
       "parse": false
     },
     {
-      "name": "Eleven Sports (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/7765",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "ESPN (Portugal)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16587.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -566,12 +500,6 @@
       "parse": false
     },
     {
-      "name": "ESPN 3 (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/14816",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "ESPN Deportes (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35059",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -584,20 +512,8 @@
       "parse": false
     },
     {
-      "name": "ESPN SEC Network",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6447",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "ESPN U (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52641",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Fight Box",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/530",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -638,50 +554,14 @@
       "parse": false
     },
     {
-      "name": "FOX Soccer Plus",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2314",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX Sports 2 (Malaysia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157488",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX Sports 506 (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157457",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "FOX Sports Arizona Plus (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52649",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "FOX Sports Racing (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2327",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Free Sports (UK) [Not 24/7]",
       "url": "https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FS1 (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/756",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FS2 (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/757",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -764,12 +644,6 @@
       "parse": false
     },
     {
-      "name": "iNews (Indonesia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157579",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "InTrouble (Australia)",
       "url": "https://introuble-samsungau.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -836,24 +710,6 @@
       "parse": false
     },
     {
-      "name": "Longhorn Network",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2340",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "LSN Lacrosse TV",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296738",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Marquee Sports",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/150609",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MavTV (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52674",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -874,12 +730,6 @@
     {
       "name": "MBC Sports Box",
       "url": "http://live1.streamk.co:8080/sportsbox_preview/live55/playlist.m3u8?site=gaktv&ch=live53",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MLB Network",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2342",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -956,12 +806,6 @@
       "parse": false
     },
     {
-      "name": "NBA League Pass",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/198974",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NBA TV",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/30855",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -970,36 +814,6 @@
     {
       "name": "NBC Golf",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16594.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NBC Sports Bay Area",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/45785",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NBC Sports Boston",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/35132",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NBC Sports Chicago",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/8490",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NBC Sports Philadelphia",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/35472",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NBC Sports Washington",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/82282",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1028,32 +842,8 @@
       "parse": false
     },
     {
-      "name": "NFL Network ①",
+      "name": "NFL Network",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52685",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NFL Network ②",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2367",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NFL Red Zone",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2369",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NHL Network",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2348",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Olympic Channel",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6479",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1292,12 +1082,6 @@
       "parse": false
     },
     {
-      "name": "Spectrum SportsNet",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/150611",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Sports Grid (UK)",
       "url": "https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1364,14 +1148,8 @@
       "parse": false
     },
     {
-      "name": "Stadium ①",
+      "name": "Stadium",
       "url": "https://stadium.samsung.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Stadium ②",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/29657",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1478,12 +1256,6 @@
       "parse": false
     },
     {
-      "name": "true NBA TV (Thailand)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/281638",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "true Premier Football 1 (Thailand)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13312.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1562,12 +1334,6 @@
       "parse": false
     },
     {
-      "name": "TVG 2",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/57055",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "TVRI Sport",
       "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1604,24 +1370,6 @@
       "parse": false
     },
     {
-      "name": "Willow",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2372",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Willow Xtra",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296763",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "WNBA",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296751",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "World of Freeports",
       "url": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1631,156 +1379,6 @@
       "name": "World Poker Tour (Netherlands)",
       "url": "https://wpt-theworldpokertour-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "WWE Network",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2373",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "YES",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/5519",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Arizona Plus",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/150613",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Detroit",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6463",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Detroit Plus",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296661",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Florida",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296662",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Great Lakes",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296665",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Indiana",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296666",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Kansas City",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296667",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Midwest",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/58557",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Midwest Plus",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296670",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports New Orleans",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296672",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports North",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2324",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Ohio",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296675",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Ohio Plus",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296678",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Oklahoma",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6452",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports San Diego Plus",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296680",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports SoCal",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296681",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports South",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/277374",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Southwest",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/3364",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Southwest Plus",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296685",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Sun Plus",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296686",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports West",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/3367",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Wisconsin",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/295668",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Wisconsin Plus",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296689",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
       "parse": false
     },
     {
