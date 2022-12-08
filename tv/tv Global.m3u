@@ -51,6 +51,8 @@ http://45.126.83.51/dr9445/h/h04/index.m3u8
 http://51.210.199.33/hls/stream.m3u8
 #EXTINF:-1 logo="https://www.ifia.com/wp-content/uploads/2020/05/seo.ngsversion.1565614141405.jpg",National Geographic
 http://w.nasvpn.xyz:8080/live/saya/saya/5765.ts
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNRkKkPp2LCPJafaVEAZ6h5IzbClkrvrq-Q&usqp=CAU",NTV7
+http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/174695
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIzgPMYDjGIH2DVqOkbYsLxWbxgpF1ANs0g&usqp=CAU",ROCK Entertainment (576p)
 http://45.126.83.51/dr9445/h/h16/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-0l7Wwk6Ti1-ogUxr5ftDXsO4gN2RmQ_qA&usqp=CAU",ROCK Extreme (576p)
@@ -58,13 +60,13 @@ http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/ms/3/37/STAR_Movies_HD_logo.jpg",Star Movies
 http://w.nasvpn.xyz:8080/live/saya/saya/4106.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpoxvRef94zWT_VgzRRAxOY2QX1j41E6b8ag&usqp=CAU",TV1
-http://w.nasvpn.xyz:8080/live/saya/saya/16574.ts
+http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/158357
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwM3cnfiFBgQ9WqbPNGFd24ZOJFXZ37bixGw&usqp=CAU",TV2
-http://w.nasvpn.xyz:8080/live/saya/saya/16575.ts
+http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/158355
 #EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
-http://w.nasvpn.xyz:8080/live/saya/saya/5149.ts
+http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/158360
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9_6eKNtMGAjD8J4IKNmuq4D098oCPeTuiw&usqp=CAU",TV9
-http://w.nasvpn.xyz:8080/live/saya/saya/16577.ts
+http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/171953
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg",WWE Network
