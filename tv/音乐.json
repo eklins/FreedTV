@@ -349,6 +349,12 @@
       "parse": false
     },
     {
+      "name": "Mnet Global Music Network (Korea★404p)",
+      "url": "https://apichvod11.seezntv.com/OTM/10150_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Mola Hits TV (Spain)",
       "url": "http://ventdelnord.tv:8080/mola/directe.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
