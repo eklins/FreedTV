@@ -31,8 +31,20 @@
       "parse": false
     },
     {
+      "name": "5 Star Max",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2291",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "24 Hour Free Movies",
       "url": "https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ABC Spark",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/35520",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -45,6 +57,12 @@
     {
       "name": "Action Hollywood Movies (New Zealand)",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Action Max",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2274",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -903,6 +921,12 @@
     {
       "name": "Parsiland TV (Iran)",
       "url": "http://vps.parsiland.net/hls/ParsiLand.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Peachfree TV (Atlanta Georgia WPCH TV)",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/484",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
