@@ -308,6 +308,12 @@
       "parse": false
     },
     {
+      "name": "AT&T SportsNet",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/59945",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ATG (Sweden)",
       "url": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1391,6 +1397,144 @@
       "name": "WWE Network",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52719",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Arizona Plus",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/150613",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Detroit",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6463",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Detroit Plus",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296661",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Florida",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296662",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Great Lakes",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296665",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Indiana",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296666",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Kansas City",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296667",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Midwest",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/58557",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Midwest Plus",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296670",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports New Orleans",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296672",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports North",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2324",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Ohio",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296675",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Ohio Plus",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296678",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Oklahoma",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6452",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports San Diego Plus",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296680",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports SoCal",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296681",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports South",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/277374",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Southwest",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/3364",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Southwest Plus",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296685",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Sun Plus",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296686",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports West",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/3367",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Wisconsin",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/295668",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
+      "parse": false
+    },
+    {
+      "name": "Bally Sports Wisconsin Plus",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296689",
+      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
       "parse": false
     },
     {
