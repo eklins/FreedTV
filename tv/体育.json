@@ -380,6 +380,12 @@
       "parse": false
     },
     {
+      "name": "Billiards TV (Korea★404p)",
+      "url": "https://apichvod11.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BT Sports ①",
       "url": "http://s@185.53.89.12:8081/live/ch1/chunks.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
