@@ -344,8 +344,14 @@
       "parse": false
     },
     {
-      "name": "beIN Sports",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16586.ts",
+      "name": "beIN Sports (Canada)",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/284530",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "beIN Sports 1 (US)",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2272",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -368,6 +374,18 @@
       "parse": false
     },
     {
+      "name": "beIN Sports 6 (US)",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/151030",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "beIN Sports USA",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296691",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "beIN Sports Xtra",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -382,6 +400,12 @@
     {
       "name": "Best Cable Sports (Peru)",
       "url": "https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BIG Ten Network",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2279",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -422,6 +446,12 @@
       "parse": false
     },
     {
+      "name": "CBS Sports Network",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/267357",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "CF97 Soccer Live",
       "url": "https://d1sp4cpu5on4l7.cloudfront.net/out/v1/ec82e0a9c5564fb497366186c09052e5/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -436,6 +466,12 @@
     {
       "name": "CorTV (Latin)",
       "url": "https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cowboy Channel",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/267736",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
