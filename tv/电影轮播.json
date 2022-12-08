@@ -37,12 +37,6 @@
       "parse": false
     },
     {
-      "name": "ABC Spark",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/35520",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Ace (KCKS-LD3★480p)",
       "url": "https://cdn.igocast.com/channel3_hls/channel3_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -109,12 +103,6 @@
       "parse": false
     },
     {
-      "name": "BET",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2278",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Bloody Disgusting",
       "url": "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -175,14 +163,8 @@
       "parse": false
     },
     {
-      "name": "Celestial Movies 天映频道 (Indonesia★576p)",
+      "name": "Celestial Movies 天映频道 (Malaysia★576p)",
       "url": "http://45.126.83.51/dr9445/h/h14/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Celestial Movies 天映频道 (Malaysia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/174687",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -343,24 +325,6 @@
       "parse": false
     },
     {
-      "name": "Epix",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/15096",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Epix 2",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6372",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Epix Hits",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6357",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Fave TV (WCBS-DT4)",
       "url": "https://v-ny.mybtv.net/live/648.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -415,12 +379,6 @@
       "parse": false
     },
     {
-      "name": "fmn (Indonesia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/165057",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Folk TV East (480p)",
       "url": "https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -429,18 +387,6 @@
     {
       "name": "Foreign Movies (China)",
       "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX Crime",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/165076",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX Life",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/165083",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -471,12 +417,6 @@
     {
       "name": "FX (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52839",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FX Now (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/758",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -541,12 +481,6 @@
       "parse": false
     },
     {
-      "name": "HBO (Indonesia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/197972",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "HBO (Malaysia★Ria B)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/7868.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -577,38 +511,8 @@
       "parse": false
     },
     {
-      "name": "HBO ① (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2336",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO ② (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/5844",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Comedy (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2335",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "HBO Family (Taiwan)",
       "url": "http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Family (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/760",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Hits (Indonesia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/196480",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -621,18 +525,6 @@
     {
       "name": "HBO Signature (Taiwan)",
       "url": "http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Signature (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6305",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Zone (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6328",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -651,12 +543,6 @@
     {
       "name": "HITS (Indonesia★576p)",
       "url": "http://45.126.83.51/dr9445/h/h37/01.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HITS Movies (Indonesia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/221947",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -735,12 +621,6 @@
     {
       "name": "Kanal A (Slovenia)",
       "url": "https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Kapamilya Channel (Philippines)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/144837",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -865,42 +745,6 @@
       "parse": false
     },
     {
-      "name": "MAX 5 Star",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2291",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MAX Action",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2274",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MAX More",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/752",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MAX Movie",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/15110",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MAX Outer",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/15109",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MAX Thriller",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78147",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MCN6 Arts Channel [Not 24/7]",
       "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -957,12 +801,6 @@
     {
       "name": "Movie Sphere (US)",
       "url": "https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MoviePlex",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/38477",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1040,7 +878,7 @@
     },
     {
       "name": "ONe (Indonesia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/165077",
+      "url": "http://198.16.64.10:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1063,12 +901,6 @@
       "parse": false
     },
     {
-      "name": "Peachfree TV (Atlanta Georgia WPCH TV)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/484",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Persiana Comedy (Iran)",
       "url": "http://51.210.199.27/hls/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1077,12 +909,6 @@
     {
       "name": "Persiana One (Iran)",
       "url": "http://51.210.199.21/hls/stream.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PixL",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/147583",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1195,56 +1021,8 @@
       "parse": false
     },
     {
-      "name": "Shorts TV",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/281900",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Shout! Factory TV",
       "url": "https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime ①",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/765",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime ②",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/78161",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime Extreme",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/12036",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime Family Zone",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/16139",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime Next",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/13008",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime Showcase",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6306",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime Women",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/12995",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1257,12 +1035,6 @@
     {
       "name": "Sofy TV (UK)",
       "url": "https://sofytv-samsunguk.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sony Movies",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/5831",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1281,84 +1053,6 @@
     {
       "name": "Start TV",
       "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/151056",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/12044",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Cinema",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/767",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Comedy",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/12040",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz East",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/6302",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Edge",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2357",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Encore",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/38500",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Encore Action",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/30773",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Encore Classic",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/25816",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Encore Family",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/47926",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Encore Suspense",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/38501",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Encore Western",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/47928",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz In Black",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/15056",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Starz Kids & Family",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/15052",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1423,12 +1117,6 @@
       "parse": true
     },
     {
-      "name": "The Movie Channel",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/163770",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "This (480p)",
       "url": "https://cdn.igocast.com/channel11_hls/channel11_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1471,12 +1159,6 @@
       "parse": false
     },
     {
-      "name": "Universal Premiere",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/291223",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "usa",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146008",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1507,12 +1189,6 @@
       "parse": false
     },
     {
-      "name": "WB TV (Indonesia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157594",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "WB TV (Malaysia)",
       "url": "http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1527,12 +1203,6 @@
     {
       "name": "WE TV",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52895",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "WGN9 Chicago Illinois",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2371",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
