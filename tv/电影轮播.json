@@ -187,6 +187,12 @@
       "parse": false
     },
     {
+      "name": "Cinema Heaven (Korea★404p)",
+      "url": "https://apichvod11.seezntv.com/OTM/11010_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Cinema Time (Cyprus)",
       "url": "https://s1.cystream.net/live/34100/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -913,6 +919,31 @@
       "parse": false
     },
     {
+      "name": "PLAYY Action Movie (Korea★404p)",
+      "url": "https://apichvod11.seezntv.com/OTM/11720_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+https://apichvod11.seezntv.com/OTM/11730_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37
+    {
+      "name": "PLAYY Healing Movie (Korea★404p)",
+      "url": "https://apichvod11.seezntv.com/OTM/11730_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PLAYY Premium Movie (Korea★404p)",
+      "url": "https://apichvod11.seezntv.com/OTM/11750_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PLAYY Well Made Movie (Korea★404p)",
+      "url": "https://apichvod11.seezntv.com/OTM/11740_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Pop",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52877",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1085,6 +1116,12 @@
       "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "The Movie (Korea★404p) [Not 24/7]",
+      "url": "https://apichvod11.seezntv.com/OTM/11090_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
     },
     {
       "name": "This (480p)",
