@@ -379,6 +379,12 @@
       "parse": false
     },
     {
+      "name": "MTV 80s (US)",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/19911",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MTV 00s (US)",
       "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1533",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -411,6 +417,12 @@
     {
       "name": "Music City Arts",
       "url": "https://pegstudio.dyndns.tv/live-11/live/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Music Dance EDM",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/192207",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -1012,6 +1024,126 @@
       "name": "Zerouno TV (Greece)",
       "url": "http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC 90s",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66078",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Hip-Hop & R&B",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66075",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Hit List",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66097",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Indie",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66097",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Kidz Bop",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66104",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Kidz Only",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66105",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Max",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66084",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Mexican",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66101",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Musica URBANa",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66094",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Pop & Country",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66083",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Pop Hits",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66082",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Pop Latino",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66090",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC R&B Soul",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66079",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Rap",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/63184",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Teen Beats",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66077",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Throwback Jamz",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66100",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Today Country",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66076",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Toddler Tunes",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66099",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Tropicales",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/148267",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MC Y2K",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/66088",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
       "parse": false
     },
     {
