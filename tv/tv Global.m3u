@@ -735,6 +735,8 @@ https://tunzilla.com/http://abielito.ddns.net:8080/live/misioneltv/index.m3u8
 https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
 #EXTINF:-1 ,DOM★Romana TV Canal 42
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 ,DOM★TV Plata
+https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1835589535.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Denmark.png",Denmark❤Africa News (English)
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,DNK★Duck TV (720p)
