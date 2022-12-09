@@ -44,6 +44,12 @@
       "parse": false
     },
     {
+      "name": "Celestial Movies 天映频道 (Hong Kong)",
+      "url": "http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Epix Drive In",
       "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/35054",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -110,6 +116,72 @@
       "parse": false
     },
     {
+      "name": "BT Sports ①",
+      "url": "http://s@185.53.89.12:8081/live/ch1/chunks.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BT Sports ②",
+      "url": "http://s@185.53.89.12:8081/live/ch4/chunks.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BT Sports ③",
+      "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BT Sport ④ (ESPN)",
+      "url": "http://93.152.174.144:4000/play/btsportespn/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Canal 11",
+      "url": "https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CorTV (Latin)",
+      "url": "https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nittele G+ Sports & News (Japan★540p)",
+      "url": "https://cdnv148.cloudrsst.com/jptv/japan_tv_G_540/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Star Sports ① (India)",
+      "url": "http://watchindia.net:8880/live/vvv/vvv/2162.m3u8#http://103.99.249.107:81/play/a00d",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Star Sports ② (India)",
+      "url": "http://watchindia.net:8880/live/vvv/vvv/1069.m3u8#http://103.99.249.107:81/play/a00c",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "天下足球🔇",
+      "url": "http://[2409:8087:1050:301:2026::12]/wh7f454c46tw4122938034_1842780243/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225764/10000100000000060000000000000836_0.smil/01.m3u8?fmt=ts2hls",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 6560（体育或宣传动画）",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ABC Spark",
       "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/35520",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -118,12 +190,6 @@
     {
       "name": "BET",
       "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2278",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Celestial Movies 天映频道 (Hong Kong)",
-      "url": "http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1175,18 +1241,6 @@
       "name": "CNN International",
       "url": "https://cnn-cnninternational-1-eu.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJqy1bnWblN5euwv19wyNeY08WesyuwzE3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "天下足球🔇",
-      "url": "http://[2409:8087:1050:301:2026::12]/wh7f454c46tw4122938034_1842780243/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225764/10000100000000060000000000000836_0.smil/01.m3u8?fmt=ts2hls",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BesTV 6560（体育或宣传动画）",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
       "parse": false
     },
     {
