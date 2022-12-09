@@ -428,36 +428,6 @@
       "parse": false
     },
     {
-      "name": "BT Sports ①",
-      "url": "http://s@185.53.89.12:8081/live/ch1/chunks.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BT Sports ②",
-      "url": "http://s@185.53.89.12:8081/live/ch4/chunks.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BT Sports ③",
-      "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BT Sport ④ (ESPN)",
-      "url": "http://93.152.174.144:4000/play/btsportespn/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Canal 11",
-      "url": "https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "CBS Sports Network",
       "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/267357",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -472,12 +442,6 @@
     {
       "name": "CL Sports (Campus Lore)",
       "url": "https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CorTV (Latin)",
-      "url": "https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1052,12 +1016,6 @@
       "parse": false
     },
     {
-      "name": "Nittele G+ Sports & News (Japan★540p)",
-      "url": "https://cdnv148.cloudrsst.com/jptv/japan_tv_G_540/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Now Sports Prime (HK)",
       "url": "http://livetv.dnsfor.me:80/channel.12.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1372,18 +1330,6 @@
     {
       "name": "Stadium ②",
       "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/29657",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Star Sports ① (India)",
-      "url": "http://watchindia.net:8880/live/vvv/vvv/2162.m3u8#http://103.99.249.107:81/play/a00d",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Star Sports ② (India)",
-      "url": "http://watchindia.net:8880/live/vvv/vvv/1069.m3u8#http://103.99.249.107:81/play/a00c",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
