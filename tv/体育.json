@@ -446,6 +446,12 @@
       "parse": false
     },
     {
+      "name": "ESPN (Brazil)",
+      "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5064",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ESPN (Portugal)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16587.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -458,14 +464,38 @@
       "parse": false
     },
     {
+      "name": "ESPN 2 (Brazil)",
+      "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5426",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ESPN 2 (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52628",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
+      "name": "ESPN 3 (Brazil)",
+      "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465906",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ESPN 4 (Brazil)",
+      "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465908",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ESPN Deportes (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35059",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ESPN Extra (Brazil)",
+      "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5214",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -904,6 +934,12 @@
     {
       "name": "Premium Football 1 (Thailand)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13312.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PX Sports (Mexico)",
+      "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061295",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
