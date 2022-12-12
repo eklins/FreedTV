@@ -2827,8 +2827,6 @@ https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/chunklist.m3u8?origin=
 https://v-pi.mybtv.net/live/423.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,WGN America (NewsNation)
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142370
-#EXTINF:-1 ,WGN9 Chicago Illinois
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2371
 #EXTINF:-1 ,WGN9 News Streaming (1080p)
 http://iptu.org/live.m3u8?channel=301
 #EXTINF:-1 ,White Plains Community Media (360p)
