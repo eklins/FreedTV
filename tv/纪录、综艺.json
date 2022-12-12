@@ -361,12 +361,6 @@
       "parse": false
     },
     {
-      "name": "Animal Planet (Indonesia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157532",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Animal Planet (Taiwan)",
       "url": "http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -417,12 +411,6 @@
     {
       "name": "AYV TV (Sierra Leone)",
       "url": "https://1219373429.rsc.cdn77.org/live/stream-1/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BBC Earth (Malaysia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/171979",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -489,12 +477,6 @@
     {
       "name": "Buzzr (KCKS-LD1)",
       "url": "https://cdn.igocast.com/channel1_hls/channel1_master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CBS Reality",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/169120",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -579,12 +561,6 @@
     {
       "name": "Crime Investigation (Taiwan)",
       "url": "http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Crime+ Investigation (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/165052",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -694,36 +670,6 @@
     {
       "name": "Discovery Science (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145945",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Velocity (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/2302",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery World (Indonesia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157597",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery World (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/755",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DIY Network",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52827",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "DMAX (Taiwan)",
-      "url": "http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -992,12 +938,6 @@
       "parse": false
     },
     {
-      "name": "History (Indonesia)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/162519&redirect=true",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "History (Slovenia)",
       "url": "https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1250,20 +1190,8 @@
       "parse": false
     },
     {
-      "name": "Magnolia Network (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/469",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Manoto TV",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Motortrend (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/272264",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1276,12 +1204,6 @@
     {
       "name": "Museum TV Fast",
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Myrtle Beach South Carolina (WMBF TV)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/150975",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1370,12 +1292,6 @@
       "parse": false
     },
     {
-      "name": "Our TV",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/166229",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Outdoor America",
       "url": "https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1420,12 +1336,6 @@
     {
       "name": "PBS America (UK)",
       "url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PBS America (US)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/11720",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1714,12 +1624,6 @@
     {
       "name": "Temple TV",
       "url": "https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The Beach Channel",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296655",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2948,12 +2852,6 @@
       "parse": false
     },
     {
-      "name": "The CW (Baltimore★WNUV)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/296699",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "The CW (Columbus★WWHO-53)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142390",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
@@ -2966,6 +2864,12 @@
       "parse": false
     },
     {
+      "name": "The CW (Sacramento★KMAX-31)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142396",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "The CW (Las Vegas Nevada★KVCW)",
       "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/286715",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
@@ -2974,12 +2878,6 @@
     {
       "name": "The CW (Los Angeles California★KTLA)",
       "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/171820",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The CW (Sacramento★KMAX-31)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142396",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
       "parse": false
     },
