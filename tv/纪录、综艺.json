@@ -301,6 +301,12 @@
       "parse": false
     },
     {
+      "name": "ABC Craft Stone",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145812",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Action (KCKS-LD4)",
       "url": "https://cdn.igocast.com/channel4_hls/channel4_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -423,6 +429,12 @@
     {
       "name": "BBC Lifestyle (Taiwan)",
       "url": "http://198.16.64.10:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Beach TV (Myrtle Beach Grand Strand)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145860",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -565,6 +577,12 @@
       "parse": false
     },
     {
+      "name": "Crime Investigation (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145971",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cut Up N Cook",
       "url": "https://simultv.s.llnwi.net/o059/CutUpNCook/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -676,6 +694,12 @@
     {
       "name": "Docurama",
       "url": "https://docurama-tcl.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Drew",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145824",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1168,6 +1192,12 @@
     {
       "name": "LUXE.TV (UK)",
       "url": "https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Mad Dog and Merrill (540p)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145948",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1852,6 +1882,12 @@
     {
       "name": "Waterbear (Netherlands)",
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Wéo (Picardie★480p) [Not 24/7]",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145816",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2858,14 +2894,14 @@
       "parse": false
     },
     {
-      "name": "The CW (Columbus★WWHO-53)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142390",
+      "name": "The CW (Las Vegas★KVCW-33)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "The CW (Las Vegas★KVCW-33)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
+      "name": "The CW (Los Angeles California★KTLA)",
+      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/171820",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
       "parse": false
     },
@@ -2876,14 +2912,20 @@
       "parse": false
     },
     {
-      "name": "The CW (Las Vegas Nevada★KVCW)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/286715",
+      "name": "The CW 38 (Boston)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142386",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "The CW (Los Angeles California★KTLA)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/171820",
+      "name": "The CW Columbus (WWHO-53)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142390",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Las Vegas",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
       "parse": false
     },
