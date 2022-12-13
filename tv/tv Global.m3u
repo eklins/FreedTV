@@ -3081,6 +3081,8 @@ https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★itv
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITV-107/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,GBR★itv1
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITVPLUS1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,GBR★itv2
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,GBR★itv3
@@ -3101,6 +3103,8 @@ https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:-1 ,GBR★Manoto TV (1080p)
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
+#EXTINF:-1 ,GBR★More4
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,GBR★Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,GBR★MyTime Movie Network
