@@ -64,7 +64,7 @@
       "name": "AsiaN (Korea)",
       "url": "https://kr-streams.onrender.com/scraper?channel=215",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "Cinema Heaven (Korea★540p)",
