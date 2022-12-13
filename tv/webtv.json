@@ -2041,14 +2041,20 @@
       "parse": true
     },
     {
-      "name": "🇧🇱KBS Drama",
-      "url": "http://ye23.vip/z7z8/2021/kbs2020.php?id=5",
+      "name": "🇧🇱KBS Drama (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/2.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "🇧🇱KBS Life (480p)",
-      "url": "http://ye23.vip/z7z8/2021/kbs2020.php?id=7",
+      "name": "🇧🇱KBS Joy (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/3.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱KBS Life (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/5.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
@@ -2059,8 +2065,8 @@
       "parse": true
     },
     {
-      "name": "🇧🇱KBS Story (480p)",
-      "url": "http://ye23.vip/z7z8/2021/kbs2020.php?id=8",
+      "name": "🇧🇱KBS Story (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/4.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
