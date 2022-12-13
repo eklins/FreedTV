@@ -295,6 +295,12 @@
       "parse": false
     },
     {
+      "name": "38",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145861",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "A&E",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16583.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -748,6 +754,12 @@
     {
       "name": "Everyday Heroes",
       "url": "https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "External Ottera",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/135538",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
