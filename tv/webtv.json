@@ -1243,19 +1243,31 @@
       "parse": true
     },
     {
-      "name": "🇰🇷Channel China (404p)",
+      "name": "Channel A (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/212.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Channel China (Korea★404p)",
       "url": "http://mytv.dothome.co.kr/ch/catv/229.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
-      "name": "🇰🇷iHQ Drama (404p)",
+      "name": "ChungHwa TV (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/228.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "iHQ Drama (Korea★404p)",
       "url": "http://mytv.dothome.co.kr/ch/catv/256.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
-      "name": "🇰🇷tvN Drama (404p)",
+      "name": "tvN Drama (Korea★404p)",
       "url": "http://mytv.dothome.co.kr/ch/catv/226.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
@@ -1699,12 +1711,6 @@
       "parse": true
     },
     {
-      "name": "Channel A (Korea★404p)",
-      "url": "http://mytv.dothome.co.kr/ch/catv/212.php",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "Endangered Species 频危物种",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936141",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -2023,14 +2029,38 @@
       "parse": true
     },
     {
+      "name": "🇨🇳HZTV-1（惠州）",
+      "url": "http://ye23.vip/z7z8/2021/0752.php?id=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🇫🇷France 24 (English)",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6H9Mj1n4qlKxQCTeo82ftRpflvkxJBBgAjQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "🇨🇳HZTV-1（惠州）",
-      "url": "http://ye23.vip/z7z8/2021/0752.php?id=1",
+      "name": "🇧🇱FTV",
+      "url": "http://ye23.vip/z7z8/2021/kbs2020.php?id=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱JTBC",
+      "url": "http://mytv.dothome.co.kr/ch/catv/211.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱JTBC 2",
+      "url": "http://mytv.dothome.co.kr/ch/catv/282.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱JTBC 4",
+      "url": "http://mytv.dothome.co.kr/ch/catv/283.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
@@ -2107,8 +2137,14 @@
       "parse": true
     },
     {
-      "name": "🇹🇼Taiwan+",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA/live",
+      "name": "🇧🇱tvN",
+      "url": "https://kr-streams.onrender.com/scraper?channel=280",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇧🇱YTN (404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/215.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
@@ -2125,20 +2161,14 @@
       "parse": true
     },
     {
-      "name": "🇧🇱tvN",
-      "url": "https://kr-streams.onrender.com/scraper?channel=280",
+      "name": "🇹🇼Taiwan+",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA/live",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇱🇷WPS-TV",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://api.new.livestream.com/accounts/12013978/events/8776061",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇧🇱YTN (404p)",
-      "url": "http://mytv.dothome.co.kr/ch/catv/215.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
@@ -2151,6 +2181,24 @@
     {
       "name": "Billiards TV (Korea★404p)",
       "url": "http://mytv.dothome.co.kr/ch/catv/252.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "IB Sports (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/253.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "JTBC Golf (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/248.php",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "JTBC Golf & Sports (Korea★404p)",
+      "url": "http://mytv.dothome.co.kr/ch/catv/249.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     },
