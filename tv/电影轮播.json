@@ -37,6 +37,12 @@
       "parse": false
     },
     {
+      "name": "38",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145861",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Ace (KCKS-LD3★480p)",
       "url": "https://cdn.igocast.com/channel3_hls/channel3_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -259,6 +265,12 @@
       "parse": false
     },
     {
+      "name": "Crime+ Investigation",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145938",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Dark Matter TV",
       "url": "https://dmtv-plex.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -315,6 +327,12 @@
     {
       "name": "Electric Now",
       "url": "https://ov.ottera.tv/live/master.m3u8?channel=elec_en",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "External Ottera",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/135538",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -2110,6 +2128,18 @@
       "name": "STIRR Westerns",
       "url": "https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Columbus (WWHO-53)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142390",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Las Vegas",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
       "parse": false
     },
     {
