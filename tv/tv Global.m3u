@@ -1269,6 +1269,8 @@ https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
 http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
 #EXTINF:-1 ,IDN★Aniplus (576p)
 http://45.126.83.51/dr9445/h/h02/index.m3u8
+#EXTINF:-1 ,IDN★antv
+http://45.126.83.51/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 ,IDN★Banjar TV (720p) [Not 24/7]
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
 #EXTINF:-1 ,IDN★Banten TV (720p) [Not 24/7]
