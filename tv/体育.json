@@ -560,6 +560,12 @@
       "parse": false
     },
     {
+      "name": "ESPN SEC Network (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1206",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ESPN U (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52641",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -914,6 +920,30 @@
       "parse": false
     },
     {
+      "name": "NBC Sports Boston",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/948",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBC Sports Chicago",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/950",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBC Sports Philadelphia Plus",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/91763",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBC Sports Washington",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/953",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NBCSN",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52683",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -938,8 +968,26 @@
       "parse": false
     },
     {
+      "name": "Next Level Sports",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/98852",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NFL Network",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52685",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NFL Red Zone",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27932",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NHL Network",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104306",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1178,6 +1226,12 @@
       "parse": false
     },
     {
+      "name": "Spectrum SportsNet",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/39873",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sports Grid (UK)",
       "url": "https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1204,6 +1258,12 @@
     {
       "name": "Sportskool TV (US)",
       "url": "https://a.jsrdn.com/broadcast/fabeab4b08/+0000/high/c.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SportsNet New York",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1160",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1240,6 +1300,36 @@
     {
       "name": "Stadium",
       "url": "https://stadium.samsung.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stadium 2",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/40325",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stadium 3",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/40326",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stadium College Sports Atlantic",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27933",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stadium College Sports Central",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/40323",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Stadium College Sports Pacific",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/55465",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
