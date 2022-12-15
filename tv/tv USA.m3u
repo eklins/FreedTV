@@ -475,6 +475,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.
 https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 #EXTINF:-1 ,byu TV (720p)
 http://168.138.70.50:5080/channel/655c192c/index.m3u8
+#EXTINF:-1 ,C-SPAN
+http://daddyserver.com:8080/Libra/k5GP3C3lGo/14705
 #EXTINF:-1 ,Cable Hits (720p) [Not 24/7]
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 ,Calabasas Channel (480p)
