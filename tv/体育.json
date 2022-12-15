@@ -1490,6 +1490,12 @@
       "parse": false
     },
     {
+      "name": "TVG Network",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1116",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TVRI Sport",
       "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1526,6 +1532,12 @@
       "parse": false
     },
     {
+      "name": "Willow Xtra Cricket",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/65375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "World of Freeports",
       "url": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1534,6 +1546,18 @@
     {
       "name": "World Poker Tour (Netherlands)",
       "url": "https://wpt-theworldpokertour-1-nl.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "WWE Network",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1128",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "YES",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1129",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
