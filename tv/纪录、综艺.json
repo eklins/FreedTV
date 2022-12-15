@@ -302,13 +302,31 @@
     },
     {
       "name": "A&E",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16583.ts",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1000",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "ABC Craft Stone",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145812",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ABC East",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/796",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ABC Huntsville AL WAAY",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11785",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ABC West",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/92637",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -379,8 +397,14 @@
       "parse": false
     },
     {
-      "name": "Animal Planet (US)",
+      "name": "Animal Planet (US East)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145917",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Animal Planet (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/48863",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -411,6 +435,18 @@
     {
       "name": "AWE",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145920",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AWE Encore",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104673",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AXS TV",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1007",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -499,8 +535,20 @@
       "parse": false
     },
     {
+      "name": "CBS East",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/843",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "CGTN Documentary",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Chef Champion",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/120971",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -668,7 +716,13 @@
       "parse": false
     },
     {
-      "name": "Discovery (US)",
+      "name": "Discovery (US East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1034",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Discovery (US West)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145942",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -736,12 +790,6 @@
     {
       "name": "DryBar Comedy (US)",
       "url": "https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "E! Entertainment",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145949",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -866,8 +914,14 @@
       "parse": false
     },
     {
-      "name": "Food Network",
+      "name": "Food Network (US East)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145951",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Food Network (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12021",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -968,8 +1022,14 @@
       "parse": false
     },
     {
-      "name": "HGTV (US)",
+      "name": "HGTV (US East)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145966",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HGTV (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12026",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -998,8 +1058,8 @@
       "parse": false
     },
     {
-      "name": "History (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145967",
+      "name": "History (US East)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12027",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1040,8 +1100,14 @@
       "parse": false
     },
     {
-      "name": "Investigation Discovery",
+      "name": "Investigation Discovery (US East)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145971",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Investigation Discovery (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/14708",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1252,6 +1318,12 @@
     {
       "name": "Manoto TV",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Military",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1060",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2936,8 +3008,8 @@
       "parse": false
     },
     {
-      "name": "The CW (Los Angeles California★KTLA)",
-      "url": "http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/171820",
+      "name": "The CW (Los Angeles California★KTLA-5)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27917",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
       "parse": false
     },
