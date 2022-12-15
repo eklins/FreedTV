@@ -1045,6 +1045,8 @@ https://happykids-vizio.amagi.tv/playlist.m3u8
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Haunt TV
 https://haunttv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,HBO Pop (Latin America)
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5089
 #EXTINF:-1 ,High Vision (1080p) [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,History East (720p) [Not 24/7]
