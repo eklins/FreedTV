@@ -187,6 +187,72 @@
       "parse": false
     },
     {
+      "name": "Cinema 02",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19185",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 06",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19189",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 07",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19190",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 08",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19191",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 14",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19197",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 16",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19199",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 18",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19201",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 30",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19213",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 31",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19214",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 32",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19215",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema 38",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/19220",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cinema Heaven (Korea★404p)",
       "url": "https://apichvod1.seezntv.com/OTM/11010_L.m3u8?AdaptiveType=HLS&SessionID=5c88a543-33ad-4b9b-a9a1-83710d72ad14",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1477,8 +1543,14 @@
       "parse": false
     },
     {
-      "name": "TNT",
+      "name": "TNT (East)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52888",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TNT (West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/12041",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1551,12 +1623,6 @@
     {
       "name": "WB TV (Malaysia)",
       "url": "http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "WB TV (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/5213.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
