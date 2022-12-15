@@ -1862,8 +1862,14 @@
       "parse": false
     },
     {
-      "name": "Travel Channel",
+      "name": "Travel Channel (US East)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146004",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Travel Channel (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1113",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1904,8 +1910,14 @@
       "parse": false
     },
     {
-      "name": "truTV",
+      "name": "truTV (US East)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146005",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "truTV (US West)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1115",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
