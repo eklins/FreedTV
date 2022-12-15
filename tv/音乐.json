@@ -949,6 +949,12 @@
       "parse": false
     },
     {
+      "name": "Vallenato Internacional (US)",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/122112",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "VAM Vid's & More (Curacao)",
       "url": "https://cur.watch/api/get_stream/vam/streann/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -957,6 +963,12 @@
     {
       "name": "VC Online (Chile)",
       "url": "https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "VEVO 80s",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/122062",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
