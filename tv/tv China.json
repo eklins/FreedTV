@@ -2443,12 +2443,6 @@
       "parse": false
     },
     {
-      "name": "台湾TVBS HD",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=29",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
       "name": "台湾TVBS欢乐台",
       "url": "http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
@@ -2510,7 +2504,7 @@
     },
     {
       "name": "台湾中天新闻",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=24",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=03",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
@@ -2524,12 +2518,6 @@
       "name": "台湾TVBS新闻",
       "url": "http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾TVBS56台直播",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=29",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
       "parse": false
     },
     {
@@ -2552,19 +2540,19 @@
     },
     {
       "name": "台湾中视新闻",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=25",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=02",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMiNVejBOcb8b9dK6POlz1MGob56EnmN9dw&usqp=CAU",
       "parse": false
     },
     {
       "name": "台湾mnews•镜新闻",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=38",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=28",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
       "parse": false
     },
     {
       "name": "台湾寰宇新闻",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=27",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=22",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
       "parse": false
     },
@@ -2578,18 +2566,6 @@
       "name": "台湾非凡新闻",
       "url": "http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGvISk6mJwmdmgZBt8159FRRva5qsa7gpDg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾三立iNEWS",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=22",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾三立LIVE新闻",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=23",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
       "parse": false
     },
     {
