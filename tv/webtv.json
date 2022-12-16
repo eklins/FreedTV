@@ -91,6 +91,12 @@
       "parse": true
     },
     {
+      "name": "HBO (Taiwan)",
+      "url": "https://www.chaojidianshi.net/extension/490570.xhtml",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "HBO Family (Taiwan)",
       "url": "https://www.chaojidianshi.net/extension/490569.xhtml",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -2149,6 +2155,18 @@
       "parse": true
     },
     {
+      "name": "🇲🇾8TV 八度空间",
+      "url": "https://www.chaojidianshi.net/extension/260164927.xhtml",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇲🇾NTV7",
+      "url": "https://www.chaojidianshi.net/extension/260164926.xhtml",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🇲🇾TV1",
       "url": "https://www.chaojidianshi.net/extension/260164923.xhtml",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
@@ -2157,6 +2175,18 @@
     {
       "name": "🇲🇾TV2",
       "url": "https://www.chaojidianshi.net/extension/260164924.xhtml",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇲🇾TV3",
+      "url": "https://www.chaojidianshi.net/extension/260164925.xhtml",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇲🇾TV9",
+      "url": "https://www.chaojidianshi.net/extension/260164928.xhtml",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
@@ -2176,6 +2206,36 @@
       "name": "🆔Sport",
       "url": "",
       "pic": "",
+      "parse": true
+    },
+    {
+      "name": "ASTRO Supersport",
+      "url": "https://www.chaojidianshi.net/extension/260165317.xhtml",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "ASTRO Supersport 2",
+      "url": "https://www.chaojidianshi.net/extension/260165318.xhtml",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "ASTRO Supersport 3",
+      "url": "https://www.chaojidianshi.net/extension/260165319.xhtml",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "ASTRO Supersport 4",
+      "url": "https://www.chaojidianshi.net/extension/260165320.xhtml",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "ASTRO Supersport 5",
+      "url": "https://www.chaojidianshi.net/extension/260165321.xhtml",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
