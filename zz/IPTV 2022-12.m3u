@@ -11204,8 +11204,6 @@ http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&
 http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
 #EXTINF:-1 ,靖天国际台
 http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
-#EXTINF:-1 ,AXN
-http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6162/index.m3u8
 #EXTINF:-1 ,澳门Macau
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 ,澳门Macau
@@ -11280,8 +11278,6 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21ab
 http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 #EXTINF:-1 ,HBO HITS
 http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-#EXTINF:-1 ,Hollywood
-http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/9236/index.m3u8
 #EXTINF:-1 ,探索亚洲
 http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
 #EXTINF:-1 ,美食星球
@@ -11310,29 +11306,3 @@ https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 ,ELEVEN 2
 http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-#EXTINF:-1 ,MYTV电影台1 HD
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19407/index.m3u8
-#EXTINF:-1 ,MYTV电影台2 HD
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19408/index.m3u8
-#EXTINF:-1 ,MYTV电影台4 HD
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19409/index.m3u8
-#EXTINF:-1 ,MYTV电影台5 HD
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19410/index.m3u8
-#EXTINF:-1 ,MYTV电影台3 HD
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19411/index.m3u8
-#EXTINF:-1 ,FRESH电影 6
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19301/index.m3u8
-#EXTINF:-1 ,FRESH电影 7
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19300/index.m3u8
-#EXTINF:-1 ,FRESH电影8
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19299/index.m3u8
-#EXTINF:-1 ,动作电影
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18050/index.m3u8
-#EXTINF:-1 ,k恐怖电影
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18055/index.m3u8
-#EXTINF:-1 ,V音乐台
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18054/index.m3u8
-#EXTINF:-1 ,STAR电影台1
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18036/index.m3u8
-#EXTINF:-1 ,STAR电影台2
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18032/index.m3u8
