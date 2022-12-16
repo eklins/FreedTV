@@ -517,6 +517,12 @@
       "parse": false
     },
     {
+      "name": "台湾华视新闻",
+      "url": "http://stream.dsichannel.com/hls/cts-news.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾mnews•镜新闻",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=28",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
