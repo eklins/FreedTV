@@ -733,12 +733,6 @@
       "parse": false
     },
     {
-      "name": "贺州综合",
-      "url": "http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225847/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "湖安新闻综合",
       "url": "http://120.210.216.73:8080/ysten-business/live/SD12-576P-fnxwzh/1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -1257,18 +1251,6 @@
     {
       "name": "彝良",
       "url": "http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "玉林公共",
-      "url": "http://39.135.42.205/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225835/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "玉林新闻综合",
-      "url": "http://39.135.42.205/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225838/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
