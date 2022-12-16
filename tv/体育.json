@@ -284,12 +284,6 @@
       "parse": false
     },
     {
-      "name": "ASTRO Arena 1 (Malaysia)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16593.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "ASTRO Arena 2 (Malaysia)",
       "url": "http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -370,12 +364,6 @@
     {
       "name": "beIN Sports 2 (Taiwan)",
       "url": "http://198.16.64.10:8278/Bein2hd/playlist.m3u8?tid=MD5D6186771861867718&ct=19225&tsum=7c0ab40062586283b22934ea37318203",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 3",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16595.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -496,12 +484,6 @@
     {
       "name": "ESPN (Brazil)",
       "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5064",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ESPN (Portugal)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16587.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -627,13 +609,13 @@
     },
     {
       "name": "FS1",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16191.ts",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/120728",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "FS2",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16192.ts",
+      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1179",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -914,12 +896,6 @@
       "parse": false
     },
     {
-      "name": "NBC Golf",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16594.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NBC Sports Chicago",
       "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/950",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1054,18 +1030,6 @@
     {
       "name": "Players TV (Canada)",
       "url": "https://playerstv-samsungca.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Premiere (Brazil)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16589.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Premium Football 1 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13312.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1390,84 +1354,6 @@
     {
       "name": "Trace Sport Stars (New Zealand)",
       "url": "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true beIN Sports 1 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/4096.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true beIN Sports 3 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/4099.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true Premier Football 1 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13312.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true Premier Football 2 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13313.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true Premier Football 7 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16395.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true Sports 1 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13301.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true Sports 2 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true Sports 3 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13323.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true Sports 4 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13324.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true Sports 5 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16539.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true SPOTV (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13297.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true SPOTV 2 (Thailand)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/13306.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "true Tennis (Thailand) [Not 24/7]",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/5228.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
