@@ -229,12 +229,6 @@
       "parse": false
     },
     {
-      "name": "今日亚洲",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=30",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "芒果TV",
       "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
