@@ -116,6 +116,42 @@
       "parse": false
     },
     {
+      "name": "ABC News (US)",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=1",
+      "pic": "https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg",
+      "parse": false
+    },
+    {
+      "name": "Top News (Thailand)",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=9",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdlM5OfCBfuDanJZIYSbXAh3FmQnJU73sqSg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾TVBS56台直播",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=29",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾三立iNEWS",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=22",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾三立LIVE新闻",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=23",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾东森财经新闻",
+      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=35",
+      "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
+      "parse": false
+    },
+    {
       "name": "香港RTHK 31",
       "url": "https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8",
       "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",
