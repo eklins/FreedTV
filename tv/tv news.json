@@ -98,7 +98,7 @@
     },
     {
       "name": "ABC News (US)",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=1",
+      "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
       "pic": "https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg",
       "parse": false
     },
@@ -439,12 +439,6 @@
       "parse": false
     },
     {
-      "name": "Top News (Thailand)",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=9",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdlM5OfCBfuDanJZIYSbXAh3FmQnJU73sqSg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "TRT World (Indonesia)",
       "url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgY3ZlPnLYgHi_XRf2o77e2XUqqRareaj_w&usqp=CAU",
@@ -499,12 +493,6 @@
       "parse": false
     },
     {
-      "name": "台湾TVBS56台直播",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=29",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgmNpr2O3bTlJIai5B2V3ob9xrGv6FdbYDA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾东森新闻",
       "url": "http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3",
       "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
@@ -554,15 +542,15 @@
     },
     {
       "name": "台湾三立iNEWS",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=22",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CKjSm5ZeehE",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "台湾三立LIVE新闻",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=23",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EB4g7wecgTI",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
-      "parse": false
+      "parse": true
     },
     {
       "name": "台湾三立财经新闻",
@@ -572,7 +560,7 @@
     },
     {
       "name": "台湾东森财经新闻",
-      "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=35",
+      "url": "http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371",
       "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
       "parse": false
     },
