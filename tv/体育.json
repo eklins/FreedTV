@@ -272,12 +272,6 @@
       "parse": false
     },
     {
-      "name": "Altitude Sports",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/98853",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Arryadia (Morocco)",
       "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -302,24 +296,6 @@
       "parse": false
     },
     {
-      "name": "AT&T SportsNet (Pittsburgh)",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1139",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AT&T SportsNet (Rocky Mountain)",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/91820",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AT&T SportsNet (Southwest)",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1156",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "ATG (Sweden)",
       "url": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -340,12 +316,6 @@
     {
       "name": "Barça TV (576p)",
       "url": "http://93.152.174.144:4000/play/barcatv/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Barstool Sports [Not 24/7]",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/111029",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
       "parse": false
     },
@@ -386,33 +356,9 @@
       "parse": false
     },
     {
-      "name": "BIG Ten Network",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1015",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Billiard TV (US)",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/176",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Billiards TV (Korea★404p)",
       "url": "https://apichvod1.seezntv.com/OTM/10080_L.m3u8?AdaptiveType=HLS&SessionID=5c88a543-33ad-4b9b-a9a1-83710d72ad14",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Boxing TV",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/263",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CBS Sports Network",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/845",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
@@ -536,12 +482,6 @@
       "parse": false
     },
     {
-      "name": "ESPN SEC Network (US)",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1206",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "ESPN U (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52641",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -584,18 +524,6 @@
       "parse": false
     },
     {
-      "name": "FOX Soccer Plus (US)",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/79461",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX Sports (US)",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/10543",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "FOX Sports Arizona Plus (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52649",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -604,18 +532,6 @@
     {
       "name": "Free Sports (UK) [Not 24/7]",
       "url": "https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FS1",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/120728",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FS2",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1179",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -634,12 +550,6 @@
     {
       "name": "Fubo Sports Network",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52670",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Galavision (US East)",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/92400",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -770,18 +680,6 @@
       "parse": false
     },
     {
-      "name": "MASN",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/79463",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MASN 2",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/79464",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MavTV (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52674",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -806,12 +704,6 @@
       "parse": false
     },
     {
-      "name": "MLB Network",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/747",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MMA Junkie (US)",
       "url": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -820,12 +712,6 @@
     {
       "name": "MostVideo.TV",
       "url": "http://w4.mostvideo.tv/tv/ch1.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Moto America TV",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/262",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -896,24 +782,6 @@
       "parse": false
     },
     {
-      "name": "NBC Sports Chicago",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/950",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NBC Sports Philadelphia Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/91763",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NBC Sports Washington",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/953",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NBCSN",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52683",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -938,26 +806,8 @@
       "parse": false
     },
     {
-      "name": "Next Level Sports",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/98852",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NFL Network",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52685",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NFL Red Zone",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27932",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NHL Network",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/104306",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1184,12 +1034,6 @@
       "parse": false
     },
     {
-      "name": "Spectrum SportsNet",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/39873",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Sports Grid (UK)",
       "url": "https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1216,12 +1060,6 @@
     {
       "name": "Sportskool TV (US)",
       "url": "https://a.jsrdn.com/broadcast/fabeab4b08/+0000/high/c.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SportsNet New York",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1160",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1258,36 +1096,6 @@
     {
       "name": "Stadium",
       "url": "https://stadium.samsung.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Stadium 2",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/40325",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Stadium 3",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/40326",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Stadium College Sports Atlantic",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27933",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Stadium College Sports Central",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/40323",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Stadium College Sports Pacific",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/55465",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1370,12 +1178,6 @@
       "parse": false
     },
     {
-      "name": "TVG Network",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1116",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "TVRI Sport",
       "url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1412,12 +1214,6 @@
       "parse": false
     },
     {
-      "name": "Willow Xtra Cricket",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/65375",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "World of Freeports",
       "url": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1427,192 +1223,6 @@
       "name": "World Poker Tour (Netherlands)",
       "url": "https://wpt-theworldpokertour-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "WWE Network",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1128",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "YES",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1129",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Arizona",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1180",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Arizona Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1145",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Detroit",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1182",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Detroit Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1196",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Florida",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1197",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Great Lakes",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1192",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Indiana",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/91761",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Kansas City",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/93053",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Midwest",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11361",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Midwest Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1183",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports New Orleans",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/91819",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports North Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11362",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Ohio",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1185",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Ohio Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/92068",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Oklahoma",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1186",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Oklahoma Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11367",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports San Diego",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1189",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports San Diego Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/13924",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports SoCal",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/93052",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports SoCal Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1187",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports South",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11363",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports South Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1190",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Southeast",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1191",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Southwest",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11365",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Southwest Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1188",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Sun",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1193",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports West",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/11366",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports West Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1195",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
-      "parse": false
-    },
-    {
-      "name": "Bally Sports Wisconsin Plus",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1194",
-      "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bally_Sports_app_logo.png/200px-Bally_Sports_app_logo.png",
       "parse": false
     },
     {
