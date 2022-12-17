@@ -97,12 +97,6 @@
       "parse": false
     },
     {
-      "name": "BET Her",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1012",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "BET Soul",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145926",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -823,12 +817,6 @@
       "parse": false
     },
     {
-      "name": "Spirit TV (US)",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/94254",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Spotlight TV (UK)",
       "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -861,12 +849,6 @@
     {
       "name": "The Breeze (New Zealand)",
       "url": "https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The Country Network",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/96007",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -949,12 +931,6 @@
       "parse": false
     },
     {
-      "name": "Vallenato Internacional (US)",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/122112",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "VAM Vid's & More (Curacao)",
       "url": "https://cur.watch/api/get_stream/vam/streann/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -963,12 +939,6 @@
     {
       "name": "VC Online (Chile)",
       "url": "https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "VEVO 80s",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/122062",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -1036,132 +1006,6 @@
       "name": "Zoom Back TV",
       "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1084390",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Alternative",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27746",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Brits Hits",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1244",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Dance EDM",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27747",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Hi-Hop R&B",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27748",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Kids Only!",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27751",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Mexicana",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27753",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Music Choice Max",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27754",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Musica Urbana",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27755",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Pop & Country",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27756",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Pop Hits",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27757",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Pop Latino",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27758",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC R&B Soul",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27759",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Rap",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27760",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Rap 2K",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/1247",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Rock",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27761",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Teen Beats",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27762",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Throwback Jamz",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27763",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Today's Country",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27764",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Toddler Tunes",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27765",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Tropicales",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27766",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MC Y2K",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/27767",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bPEj2C0vk7zkFDtECWdIy8swpnQb00v-Fw&usqp=CAU",
       "parse": false
     },
     {
@@ -1245,12 +1089,6 @@
     {
       "name": "STIRR Classica",
       "url": "https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STIRR djazz",
-      "url": "http://daddyserver.com:8080/Libra/k5GP3C3lGo/10813",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
       "parse": false
     },
