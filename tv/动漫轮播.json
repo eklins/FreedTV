@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "海绵宝宝",
+      "url": "http://epg.112114.xyz/douyu/7528160",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "倒霉熊 2005",
       "url": "http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTLLKIgsjfUpnFqhHaYKHkWBOYVl02nFOYA&usqp=CAU",
@@ -753,6 +759,12 @@
     {
       "name": "动漫秀场",
       "url": "http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "斗鱼 151",
+      "url": "http://epg.112114.xyz/douyu/426517",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
