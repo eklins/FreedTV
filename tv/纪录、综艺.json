@@ -1844,6 +1844,12 @@
       "parse": false
     },
     {
+      "name": "TVB 娱乐 (Hong Kong)",
+      "url": "http://50.7.168.234:8278/tvbxinhe_twn/playlist.m3u8?tid=MC4C5978959159789591&ct=19335&tsum=61c06532d083cffb1592b4c68660f664",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "tvN (Indonesia★576p)",
       "url": "http://45.126.83.51/dr9445/h/h20/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
