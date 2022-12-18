@@ -1082,13 +1082,19 @@
       "parse": false
     },
     {
-      "name": "Sportv 2 (Brazil)",
+      "name": "SporTV (Brazil)",
+      "url": "http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16753",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SporTV 2 (Brazil)",
       "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5263",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Sportv 3 (Brazil)",
+      "name": "SporTV 3 (Brazil)",
       "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5496",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
