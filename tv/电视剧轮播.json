@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
+      "url": "http://epg.112114.xyz/douyu/6582435",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "三国演义 1994",
       "url": "http://epg.112114.xyz/douyu/7459925",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
@@ -505,8 +511,44 @@
       "parse": false
     },
     {
+      "name": "斗鱼 090",
+      "url": "http://epg.112114.xyz/douyu/6785471",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "斗鱼 113",
+      "url": "http://epg.112114.xyz/douyu/5522351",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "斗鱼 117",
       "url": "http://epg.112114.xyz/douyu/338759",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "斗鱼 135",
+      "url": "http://epg.112114.xyz/douyu/7476264",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "斗鱼 136",
+      "url": "http://epg.112114.xyz/douyu/5689514",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "斗鱼 141",
+      "url": "http://epg.112114.xyz/douyu/7623292",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "经典四大名著",
+      "url": "http://epg.112114.xyz/douyu/6861249",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
