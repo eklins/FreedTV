@@ -631,6 +631,12 @@
       "parse": false
     },
     {
+      "name": "TVB（粤语）",
+      "url": "http://epg.112114.xyz/douyu/9701481",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "避风港影院",
       "url": "http://epg.112114.xyz/douyu/9826611",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
