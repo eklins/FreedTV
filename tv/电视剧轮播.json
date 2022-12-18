@@ -40,7 +40,7 @@
       "name": "2 Broke Girls 2011-2017",
       "url": "http://epg.112114.xyz/huya/11342417",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGgG3T1ekIEeQpgxzRQ532cG0A0E_RoIFykA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "90210 Beverly Hills 1990-2000",
@@ -316,13 +316,13 @@
       "name": "铁梨花 2010",
       "url": "http://epg.112114.xyz/huya/11352910",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ArJiQkmoy8N_Z7S1MWaqzPxuqmBDEZzrpg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "伪装者 2015",
       "url": "http://epg.112114.xyz/huya/11602086",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrCDD97ubdn52y0XRiqWdhy0HYmLC9MeaXg&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "ASTRO Shuang Xing 双星 (Malaysia)",
