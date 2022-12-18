@@ -13,9 +13,9 @@
       "parse": false
     },
     {
-      "name": "新三国 2010",
-      "url": "http://epg.112114.xyz/douyu/276200",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfoCWDswarGIVU7EBrJ_gN0AtNbNcIL8a8g&usqp=CAU",
+      "name": "雍正王朝 1999",
+      "url": "http://epg.112114.xyz/douyu/4944033",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
       "parse": false
     },
     {
@@ -220,6 +220,12 @@
       "name": "朱元璋 2006",
       "url": "http://epg.112114.xyz/douyu/308752",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcU9ndGhf8h1WTPxKgQkw5KmD9kXD6d7LDg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "新三国 2010",
+      "url": "http://epg.112114.xyz/douyu/276200",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfoCWDswarGIVU7EBrJ_gN0AtNbNcIL8a8g&usqp=CAU",
       "parse": false
     },
     {
