@@ -1,7 +1,13 @@
 {
   "data": [
     {
-      "name": "海绵宝宝",
+      "name": "海绵宝宝 ①",
+      "url": "http://epg.112114.xyz/douyu/2250349",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "海绵宝宝 ②",
       "url": "http://epg.112114.xyz/douyu/7528160",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
       "parse": false
@@ -64,6 +70,12 @@
       "name": "Teletubbies 1997-2001",
       "url": "https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0gwb20xHm9l8v_9P507NOi-OAJT3LohHaoQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Tom & Jerry",
+      "url": "http://epg.112114.xyz/douyu/7888428",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0uU_l4TnMXGBxiq7SnvsPef5HKEC4W9S3Q&usqp=CAU",
       "parse": false
     },
     {
@@ -753,6 +765,12 @@
     {
       "name": "动漫 ③",
       "url": "http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "动漫合集",
+      "url": "http://epg.112114.xyz/douyu/7620081",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
