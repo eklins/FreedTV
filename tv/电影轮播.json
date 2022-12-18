@@ -49,7 +49,7 @@
       "parse": false
     },
     {
-      "name": "Action Movies (China)",
+      "name": "Action Movies",
       "url": "http://epg.112114.xyz/douyu/1504768",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -283,6 +283,12 @@
       "parse": false
     },
     {
+      "name": "DC Movies",
+      "url": "https://epg.112114.xyz/huya/11342428",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Decades (WNYW-DT5)",
       "url": "https://v-ny.mybtv.net/live/553.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -301,49 +307,49 @@
       "parse": false
     },
     {
-      "name": "DouBan Top 250 (China)",
+      "name": "DouBan Top 250",
       "url": "http://epg.112114.xyz/douyu/8770422",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 008 (China)",
+      "name": "DouYu 008",
       "url": "http://epg.112114.xyz/douyu/323876",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 035 (China)",
+      "name": "DouYu 035",
       "url": "http://epg.112114.xyz/douyu/248753",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 129 (China)",
+      "name": "DouYu 129",
       "url": "http://epg.112114.xyz/douyu/323876",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 贝爷影厅 ① (China)",
+      "name": "DouYu 贝爷影厅 ①",
       "url": "http://epg.112114.xyz/douyu/252802",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 贝爷影厅 ② (China)",
+      "name": "DouYu 贝爷影厅 ②",
       "url": "http://epg.112114.xyz/douyu/36337",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 可乐电影 (China)",
+      "name": "DouYu 可乐电影",
       "url": "http://epg.112114.xyz/douyu/20415",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "DouYu 麓山迷踪 (China)",
+      "name": "DouYu 麓山迷踪",
       "url": "http://epg.112114.xyz/douyu/4505431",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -613,7 +619,7 @@
       "parse": false
     },
     {
-      "name": "Horror Classic (China)",
+      "name": "Horror Classic",
       "url": "http://epg.112114.xyz/douyu/1165374",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -625,7 +631,13 @@
       "parse": false
     },
     {
-      "name": "Horror Movies 奶虫 (China)",
+      "name": "Horror Movies",
+      "url": "https://epg.112114.xyz/huya/11342428",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Horror Movies 奶虫",
       "url": "http://epg.112114.xyz/douyu/263824",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -889,7 +901,7 @@
       "parse": false
     },
     {
-      "name": "Mutant Movies (China)",
+      "name": "Mutant Movies",
       "url": "http://epg.112114.xyz/douyu/9651304",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -2671,9 +2683,45 @@
       "parse": false
     },
     {
+      "name": "周星驰",
+      "url": "http://epg.112114.xyz/huya/11336587",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYHb0CIIAKXM7730yClboVdyBh4_52y9ntQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "林正英",
       "url": "http://epg.112114.xyz/douyu/218859",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevpbyR423Jajl6MUSac5XOG62gthORIqDkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "许氏三杰",
+      "url": "http://epg.112114.xyz/huya/11602033",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4uadw7nJQDvMX5JjofW9g67dPW0hVyXiYA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "金庸武侠电影 ①",
+      "url": "http://epg.112114.xyz/huya/11342427",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVcTqnsaQaywzhJnNR8mypzeyqA40kNFeUg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "金庸武侠电影 ②",
+      "url": "http://epg.112114.xyz/huya/11342435",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6eIMvG4MP7IAnckZrVMJfMx3XtM6pcFFFSQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "粤语喜剧",
+      "url": "http://epg.112114.xyz/huya/11352894",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "镖行天下系列",
+      "url": "http://epg.112114.xyz/huya/11352969",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
@@ -3033,6 +3081,54 @@
     {
       "name": "浙江影视娱乐",
       "url": "http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "古墓、探险",
+      "url": "http://epg.112114.xyz/huya/11352913",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "搞笑、恐怖",
+      "url": "http://epg.112114.xyz/huya/11601960",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "喜剧",
+      "url": "http://epg.112114.xyz/huya/11352897",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "灾难",
+      "url": "http://epg.112114.xyz/huya/11602075",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "动作",
+      "url": "http://epg.112114.xyz/huya/11602041",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "悬疑",
+      "url": "http://epg.112114.xyz/huya/11342395",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "贺岁电影",
+      "url": "http://epg.112114.xyz/huya/11601986",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港喜剧",
+      "url": "http://epg.112114.xyz/huya/11342423",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
