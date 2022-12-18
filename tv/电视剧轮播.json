@@ -2,14 +2,38 @@
   "data": [
     {
       "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
-      "url": "http://epg.112114.xyz/douyu/6582435",
+      "url": "http://epg.112114.xyz/douyu/1584198",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "三国演义 1994",
       "url": "http://epg.112114.xyz/douyu/7459925",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "新三国 2010",
+      "url": "http://epg.112114.xyz/douyu/276200",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfoCWDswarGIVU7EBrJ_gN0AtNbNcIL8a8g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "康熙王朝2001",
+      "url": "http://epg.112114.xyz/douyu/9650836",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "康熙微服私访记 1997-2003",
+      "url": "http://epg.112114.xyz/douyu/7550220",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "铁齿铜牙纪晓岚 1999-2008",
+      "url": "http://epg.112114.xyz/douyu/9071554",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
       "parse": false
     },
     {
@@ -190,6 +214,42 @@
       "name": "Your Pretty Face Is Going to Hell 2013-2019",
       "url": "https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJRgSlvEDVDpr24RXEr8d0TIoxDhTrgP_i8w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "朱元璋 2006",
+      "url": "http://epg.112114.xyz/douyu/308752",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcU9ndGhf8h1WTPxKgQkw5KmD9kXD6d7LDg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "新水浒传 2011",
+      "url": "http://epg.112114.xyz/douyu/6785471",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCOuB0fxbSjA4vCuu071vPGFwHlpkDsRVfA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "宰相刘罗锅 1996",
+      "url": "http://epg.112114.xyz/douyu/8543072",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPT1DuFORJ95r05kypIYDsAhVkzErK69TlDA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "龙门镖局 2013",
+      "url": "http://epg.112114.xyz/douyu/9650860",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXyJ8tqbSOFyZtZj6IVNzbswJfOGNW-WdQw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "鬼吹灯 2016",
+      "url": "http://epg.112114.xyz/douyu/9292503",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCVJJ5OuadqPUcxHqBrRvQ4S3irFj17ahmmw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "庆余年2019",
+      "url": "http://epg.112114.xyz/douyu/7489563",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MWbCT00LROfbtH-ohRUwlSMZwzgNdekDkg&usqp=CAU",
       "parse": false
     },
     {
@@ -507,6 +567,12 @@
     {
       "name": "东南电视剧（福建）",
       "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "斗鱼 [神探]",
+      "url": "http://epg.112114.xyz/douyu/11342393",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
