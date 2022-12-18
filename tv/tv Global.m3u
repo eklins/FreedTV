@@ -41,6 +41,8 @@ http://45.126.83.51/dr9445/h/h15/index.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 ,🇦🇼Aruba.TV
 https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
+#EXTINF:-1 ,🇺🇳Canal Sony
+http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16700
 #EXTINF:-1 ,🇺🇳CFN TV (720p)
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Fentazy
@@ -59,6 +61,8 @@ https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16749
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
+#EXTINF:-1 ,🇺🇳Space
+http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16750
 #EXTINF:-1 ,🇦🇼Telearuba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
 #EXTINF:-1 ,🇺🇳TNT
