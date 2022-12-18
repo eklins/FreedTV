@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "name": "中国通史 2013",
+      "url": "http://epg.112114.xyz/huya/20985822",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQx8YhflJtJjAUGOnqoMYL85hRPqwAlNfK9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "浅绿的历史盒子",
+      "url": "http://epg.112114.xyz/douyu/8913515",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqG9cuHjhNmxvmAt2q2w2zOb3nnzcAXlrfaA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "冒险雷探长",
+      "url": "http://epg.112114.xyz/douyu/5028934",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YB0ubH8Sc5G57nlyVXWegr70KGrwuog3Fg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "天才衝衝衝 2006",
+      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HRw_8I8206grqxn4_BEQ8TH9eQMPqxyiaQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Beauty and The Geek 2005-2008",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18c138c32460007cc6b46/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaQLSgJokpghDSUhkIub_D3P8nG7NQHGp3g&usqp=CAU",
@@ -37,6 +61,12 @@
       "parse": false
     },
     {
+      "name": "Running Man 2010",
+      "url": "http://epg.112114.xyz/douyu/7298973",
+      "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
+      "parse": false
+    },
+    {
       "name": "Survivor 2000",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuBKBVxd89d9TdPprjGY8aRly1RsqKr_-3A&usqp=CAU",
@@ -58,12 +88,6 @@
       "name": "Total Wipeout 2009",
       "url": "https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3MSrsP2AK0fsXqgQ833p1jhePoimMqm40GA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "天才衝衝衝 2006",
-      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HRw_8I8206grqxn4_BEQ8TH9eQMPqxyiaQ&usqp=CAU",
       "parse": false
     },
     {
@@ -195,6 +219,12 @@
     {
       "name": "北京纪实科教",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "东南亚丛林生活实录",
+      "url": "http://epg.112114.xyz/douyu/9612117",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1310,6 +1340,12 @@
       "parse": false
     },
     {
+      "name": "Nature Documentary",
+      "url": "http://epg.112114.xyz/douyu/4837387",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NewKID (Roku★Korea)",
       "url": "https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1340,6 +1376,12 @@
       "parse": false
     },
     {
+      "name": "Outdoor Adventure",
+      "url": "http://epg.112114.xyz/douyu/454867",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Outdoor America",
       "url": "https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1354,6 +1396,12 @@
     {
       "name": "Outdoor Channel (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52871",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Outdoor Survive 荒野生存",
+      "url": "http://epg.112114.xyz/douyu/1339207",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
