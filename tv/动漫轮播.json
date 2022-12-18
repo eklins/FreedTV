@@ -25,6 +25,12 @@
       "parse": false
     },
     {
+      "name": "幽游白书（日）1992",
+      "url": "http://epg.112114.xyz/douyu/9938431",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfDzubI2r1GMWJGXmHf8sL7xIXm5xyDvgMw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "名侦探柯南 1996",
       "url": "http://epg.112114.xyz/douyu/6484910",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
@@ -818,6 +824,12 @@
     },
     {
       "name": "斗鱼 151",
+      "url": "http://epg.112114.xyz/douyu/426517",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "斗鱼动漫",
       "url": "http://epg.112114.xyz/douyu/426517",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
