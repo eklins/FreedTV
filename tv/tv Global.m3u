@@ -73,6 +73,8 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31278
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 ,🇺🇳SBT
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16749
+#EXTINF:-1 ,🇺🇳Sci-Fi (LostFilm.TV)
+http://w.nasvpn.xyz:8080/live/saya/saya/7773.ts
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Space
@@ -2907,6 +2909,10 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 ,THA★Thairath TV 32 (720p)
 https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 ,THA★true Chinese More
+http://w.nasvpn.xyz:8080/live/saya/saya/13300.ts
+#EXTINF:-1 ,THA★WB TV
+http://w.nasvpn.xyz:8080/live/saya/saya/5213.ts
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤360
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 ,TUR★Africa NTR
