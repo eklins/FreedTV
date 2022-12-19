@@ -20,6 +20,12 @@
       "parse": false
     },
     {
+      "name": "CCTV 风云足球🔇",
+      "url": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
+      "parse": false
+    },
+    {
       "name": "CCTV 高尔夫•网球",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8?$广西cdn",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
