@@ -1580,18 +1580,6 @@
       "parse": false
     },
     {
-      "name": "ROCK Entertainment (Malaysia★576p)",
-      "url": "http://45.126.83.51/dr9445/h/h16/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ROCK Extreme (Malaysia★576p)",
-      "url": "http://45.126.83.51/dr9445/h/h15/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "RT Documentary (Russia)",
       "url": "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
