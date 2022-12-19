@@ -25,6 +25,12 @@
       "parse": false
     },
     {
+      "name": "Horror Movies",
+      "url": "https://epg.112114.xyz/huya/11342428",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Wrestling Woman ① (Japan)",
       "url": "https://epg.112114.xyz/douyu/425809",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
