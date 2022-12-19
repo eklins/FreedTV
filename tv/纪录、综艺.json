@@ -7,24 +7,6 @@
       "parse": false
     },
     {
-      "name": "浅绿的历史盒子",
-      "url": "http://epg.112114.xyz/douyu/8913515",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqG9cuHjhNmxvmAt2q2w2zOb3nnzcAXlrfaA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "冒险雷探长",
-      "url": "http://epg.112114.xyz/douyu/5028934",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YB0ubH8Sc5G57nlyVXWegr70KGrwuog3Fg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "天才衝衝衝 2006",
-      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HRw_8I8206grqxn4_BEQ8TH9eQMPqxyiaQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Beauty and The Geek 2005-2008",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18c138c32460007cc6b46/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaQLSgJokpghDSUhkIub_D3P8nG7NQHGp3g&usqp=CAU",
@@ -88,6 +70,18 @@
       "name": "Total Wipeout 2009",
       "url": "https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3MSrsP2AK0fsXqgQ833p1jhePoimMqm40GA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "天才衝衝衝 2006",
+      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HRw_8I8206grqxn4_BEQ8TH9eQMPqxyiaQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "冒险雷探长 2014",
+      "url": "http://epg.112114.xyz/douyu/5028934",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YB0ubH8Sc5G57nlyVXWegr70KGrwuog3Fg&usqp=CAU",
       "parse": false
     },
     {
@@ -265,6 +259,12 @@
       "parse": false
     },
     {
+      "name": "看鉴历史",
+      "url": "http://epg.112114.xyz/douyu/9498431",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "芒果TV",
       "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -273,6 +273,18 @@
     {
       "name": "美食汇 (576p)",
       "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226702/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "浅绿的历史盒子",
+      "url": "http://epg.112114.xyz/douyu/8913515",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "神秘现象研究调查报告",
+      "url": "http://epg.112114.xyz/douyu/9385184",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
