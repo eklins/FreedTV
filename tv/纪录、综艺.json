@@ -283,12 +283,6 @@
       "parse": false
     },
     {
-      "name": "精彩综艺",
-      "url": "http://111.20.33.70/TVOD/88888893/224/3221226009/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "看鉴历史",
       "url": "http://epg.112114.xyz/douyu/9498431",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
