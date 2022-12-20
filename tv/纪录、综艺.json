@@ -43,7 +43,13 @@
       "parse": false
     },
     {
-      "name": "Running Man 2010",
+      "name": "Running Man（点播）2010",
+      "url": "http://epg.112114.xyz/douyu/131977",
+      "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
+      "parse": false
+    },
+    {
+      "name": "Running Man（轮播）2010",
       "url": "http://epg.112114.xyz/douyu/7298973",
       "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
       "parse": false
