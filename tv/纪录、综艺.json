@@ -349,6 +349,12 @@
       "parse": false
     },
     {
+      "name": "台湾TVBS亚洲台",
+      "url": "https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "成都熊猫繁育研究基地",
       "url": "http://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZEeY5PE5fasqF2ar7Bsps3pKnrXV7EIKMA&usqp=CAU",
