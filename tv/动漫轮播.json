@@ -1,21 +1,27 @@
 {
   "data": [
     {
-      "name": "海绵宝宝 ①",
+      "name": "海绵宝宝 FS1",
       "url": "http://epg.112114.xyz/douyu/2250349",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "海绵宝宝 ②",
+      "name": "海绵宝宝 FS2",
       "url": "https://epg.112114.xyz/huya/11352919",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "海绵宝宝 ③",
+      "name": "海绵宝宝 HS1",
       "url": "http://epg.112114.xyz/douyu/7528160",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "海绵宝宝 HS2",
+      "url": "http://epg.112114.xyz/douyu/8762358",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
       "parse": false
     },
     {
