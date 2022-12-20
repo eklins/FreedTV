@@ -343,6 +343,12 @@
       "parse": false
     },
     {
+      "name": "台湾民视综艺",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "成都熊猫繁育研究基地",
       "url": "http://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZEeY5PE5fasqF2ar7Bsps3pKnrXV7EIKMA&usqp=CAU",
