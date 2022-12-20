@@ -211,7 +211,7 @@
     {
       "name": "NewTV ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/newtv.m3u",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/tv/newtv.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
