@@ -73,15 +73,15 @@
       "parse": false
     },
     {
-      "name": "天才衝衝衝 2006",
-      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HRw_8I8206grqxn4_BEQ8TH9eQMPqxyiaQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "冒险雷探长 2014",
       "url": "http://epg.112114.xyz/douyu/5028934",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YB0ubH8Sc5G57nlyVXWegr70KGrwuog3Fg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "天才衝衝衝 2006",
+      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HRw_8I8206grqxn4_BEQ8TH9eQMPqxyiaQ&usqp=CAU",
       "parse": false
     },
     {
