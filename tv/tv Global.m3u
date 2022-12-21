@@ -2445,6 +2445,8 @@ https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
 #EXTINF:-1 ,PER★Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
+#EXTINF:-1 ,PER★SoriTV [Not 24/7]
+https://cadenasurrtv.com/hls/stream/index.m3u8
 #EXTINF:-1 ,PER★X TV (Chachapoyas)
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
 #EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Philippines.png",Philippines❤CNN Philippines
