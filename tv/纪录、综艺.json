@@ -1508,6 +1508,18 @@
       "parse": false
     },
     {
+      "name": "PBS KET 2",
+      "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PBS KET World",
+      "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "PBS WLIW 21 (WLIW-DT1)",
       "url": "https://v-ny.mybtv.net/live/575.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2062,6 +2074,12 @@
     {
       "name": "World Fishing Network",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52718",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "WPS TV (360p)",
+      "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
