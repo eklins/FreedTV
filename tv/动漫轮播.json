@@ -52,7 +52,7 @@
       "name": "全职猎人（日）1999",
       "url": "http://epg.112114.xyz/douyu/6610883",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnno6AT7_4KZcvK1ewCzZRptfC8zpCwonGA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "海贼王（日）1999",
@@ -814,6 +814,12 @@
       "name": "iHot 幼教",
       "url": "http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014135750294528&channel-id=wasusyt&Contentid=6000000006000180630",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I3300-L.jpg",
+      "parse": false
+    },
+    {
+      "name": "SiTV 动漫秀场",
+      "url": "http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
     },
     {
