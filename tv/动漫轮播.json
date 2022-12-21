@@ -1,38 +1,26 @@
 {
   "data": [
     {
-      "name": "海绵宝宝 FS1",
+      "name": "海绵宝宝 ①",
       "url": "http://epg.112114.xyz/douyu/2250349",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "海绵宝宝 FS2",
-      "url": "https://epg.112114.xyz/huya/11352919",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "海绵宝宝 HS1",
+      "name": "海绵宝宝 ②",
       "url": "http://epg.112114.xyz/douyu/7528160",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
       "parse": false
     },
     {
-      "name": "海绵宝宝 HS2",
+      "name": "海绵宝宝 ③",
       "url": "http://epg.112114.xyz/douyu/8762358",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4haP2-Asg8a544pqQxwsE5umyfdLA0UJ7Q&usqp=CAU",
       "parse": false
     },
     {
-      "name": "哆啦A梦 ①",
+      "name": "哆啦A梦",
       "url": "http://epg.112114.xyz/douyu/9445279",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JDOcmPcc3Byrj8amfEnk87lWAyKdCD4Seg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "哆啦A梦 ②",
-      "url": "https://epg.112114.xyz/huya/11601963",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JDOcmPcc3Byrj8amfEnk87lWAyKdCD4Seg&usqp=CAU",
       "parse": false
     },
