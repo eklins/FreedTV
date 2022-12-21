@@ -1405,6 +1405,12 @@
       "parse": true
     },
     {
+      "name": "海绵宝宝",
+      "url": "https://epg.112114.xyz/huya/11352919",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "海绵宝宝①",
       "url": "https://m.douyu.com/3949681",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
@@ -1445,6 +1451,12 @@
       "url": "http://zzy789.xyz/bili.php?id=655291",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQth-oj2MMWq8RuU-u-ZNLBW7DueHHA3Xtgxw&usqp=CAU",
       "parse": true
+    },
+    {
+      "name": "哆啦A梦 ②",
+      "url": "https://epg.112114.xyz/huya/11601963",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JDOcmPcc3Byrj8amfEnk87lWAyKdCD4Seg&usqp=CAU",
+      "parse": false
     },
     {
       "name": "哆啦A梦",
