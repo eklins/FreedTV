@@ -1095,6 +1095,8 @@ https://v-ny.mybtv.net/live/627.m3u8?env=prd&uid=-1&x=1
 https://ion-plus.samsung.wurl.com/playlist.m3u8
 #EXTINF:-1 ,It's Supernatural! Network
 https://isntv.mmdlive.lldns.net/isntv/f79b65204e7141c6a5cc74e63cf0dae5/chunklist_b3192000.m3u8
+#EXTINF:-1 ,ITV Patagonia
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
 #EXTINF:-1 ,JBS (404p) [Not 24/7]
 https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 ,Jewelry Television (720p)
