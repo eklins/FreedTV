@@ -140,12 +140,6 @@
       "parse": false
     },
     {
-      "name": "Marvel",
-      "url": "http://epg.112114.xyz/douyu/6140589",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Movie Plus (Japan★540p)",
       "url": "http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
