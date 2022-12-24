@@ -644,7 +644,7 @@
     },
     {
       "name": "Classic Art Showcase",
-      "url": "https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master.m3u8",
+      "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
