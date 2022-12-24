@@ -2150,7 +2150,7 @@
     },
     {
       "name": "澳视资讯 CH05",
-      "url": "http://103.233.191.132:1935/ch5/info_ch5.live/playlist.m3u8",
+      "url": "http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
