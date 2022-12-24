@@ -79,6 +79,12 @@
       "parse": false
     },
     {
+      "name": "AMP",
+      "url": "https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamb/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "arabica (Lebanon)",
       "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
