@@ -2150,6 +2150,12 @@
       "parse": false
     },
     {
+      "name": "AS Channel 5",
+      "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AS Infomercials",
       "url": "https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
@@ -2164,6 +2170,12 @@
     {
       "name": "AS The Eric Andre Show",
       "url": "https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AS Williams Stream",
+      "url": "http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3clRuB3Mo45qxercFLpCuHDruEQl0JQvw&usqp=CAU",
       "parse": false
     },
