@@ -31,6 +31,12 @@
       "parse": false
     },
     {
+      "name": "澳门资讯",
+      "url": "http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxduHtwR2klQsWUKxwyyDuZ8utKUQmJiZqg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港Now直播台",
       "url": "http://livetv.dnsfor.me:80/channel.3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIg00bYuU-iKxdD8mBlCPfe1VSq3IxjH5urw&usqp=CAU",
