@@ -355,14 +355,8 @@
       "parse": false
     },
     {
-      "name": "Newsy",
-      "url": "https://v-ny.mybtv.net/live/609.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbS8yzAKs7OgjBaIfVMO0Va260uj50mm5kqw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Newsy Top Stories",
-      "url": "https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8",
+      "url": "https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbS8yzAKs7OgjBaIfVMO0Va260uj50mm5kqw&usqp=CAU",
       "parse": false
     },
