@@ -19,21 +19,21 @@
       "parse": false
     },
     {
-      "name": "凤凰卫视中文台",
+      "name": "澳门资讯",
+      "url": "http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxduHtwR2klQsWUKxwyyDuZ8utKUQmJiZqg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港凤凰卫视中文台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg",
       "parse": false
     },
     {
-      "name": "凤凰卫视资讯台",
+      "name": "香港凤凰卫视资讯台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",
-      "parse": false
-    },
-    {
-      "name": "澳门资讯",
-      "url": "http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxduHtwR2klQsWUKxwyyDuZ8utKUQmJiZqg&usqp=CAU",
       "parse": false
     },
     {
