@@ -462,6 +462,389 @@
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
-
+    {
+      "name": "Travel Channel (US East)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146004",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "truTV (US East)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146005",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Vice (US West)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146010",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Wéo (Picardie★480p) [Not 24/7]",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145816",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "World Fishing Network",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52718",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW (Atlanta★WUPA-69)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142393",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW (Las Vegas★KVCW-33)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW (Sacramento★KMAX-31)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142396",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW 38 (Boston)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142386",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Columbus (WWHO-53)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142390",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Las Vegas",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Nashville (WNAB-58)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142392",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Philly 57 (Philadelphia★WPSG)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Twin Cities (Saint Paul★WUCW-23)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142382",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Discovery Family",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145943",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney Channel (US East)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146675",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney XD (US East)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146684",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FXX",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145956",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "my50",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142395",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nick Junior Channel (US West)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146677",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nick Toons",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146679",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nickelodeon",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146680",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PBS Kids",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146681",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Teen Nick",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146682",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Universal Kids",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146683",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ACC Network ②",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35156",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ESPN (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52642",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ESPN 2 (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52628",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ESPN Deportes (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35059",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ESPN News (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52639",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ESPN U (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52641",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FNTSY Sports Network",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52643",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Sports Arizona Plus (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52649",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Fubo Sports Network",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52670",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "GolTV",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52672",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MavTV (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52674",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MSG (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52679",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MSG Plus (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52678",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MSG2 (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52677",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MSG2 Plus (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52676",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBA TV",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/30855",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBCSN",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52683",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBCSN Chicago plus",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52681",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NESN",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52684",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NESN Boston",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52685",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NFL Network",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52685",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Arizona",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52688",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Bay Area",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52689",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Los Angeles",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52690",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Mountain",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52691",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Network",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52692",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Oregon",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52693",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PAC-12 Washington",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52694",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SNY (SportsNet New York)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52697",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Tennis Channel (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52701",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TyC Sports (Argentina)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52714",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UFC",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52716",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BET Soul",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145926",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Logo",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145976",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MTV Classic (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145980",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MTV Live (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145981",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MTV U (US)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52865",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nick Music",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146678",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Revolt",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145995",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    }
   ]
 }
