@@ -1897,6 +1897,18 @@
       "parse": false
     },
     {
+      "name": "Yuma AZ CH72",
+      "url": "https://yuma-az.secure.footprint.net/egress/bhandler/yumaaz/streama/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Yuma AZ CH73",
+      "url": "https://yuma-az.secure.footprint.net/egress/bhandler/yumaaz/streamb/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "AMC Absolute Reality",
       "url": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
