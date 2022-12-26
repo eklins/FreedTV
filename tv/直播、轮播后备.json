@@ -25,6 +25,18 @@
       "parse": false
     },
     {
+      "name": "PCT (Pacific Coast TV HMB Coastside Channel 27)",
+      "url": "https://pacifica-ca.secure.footprint.net/egress/bhandler/pacificaca/streama/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PCT (Pacific Coast TV MWSD Channel 26)",
+      "url": "https://pacifica-ca.secure.footprint.net/egress/bhandler/pacificaca/streamb/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Newsy Top Stories",
       "url": "https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbS8yzAKs7OgjBaIfVMO0Va260uj50mm5kqw&usqp=CAU",
