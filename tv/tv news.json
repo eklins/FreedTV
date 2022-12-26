@@ -230,19 +230,13 @@
     },
     {
       "name": "CNBC",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52819",
+      "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR01Lo6sznPIZeJs_hVhTcQWwyBZKXJhCe3w&usqp=CAU",
       "parse": false
     },
     {
       "name": "CNBC Africa (480p) [Not 24/7]",
       "url": "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShCqoPVXQPFgZ4gDSY1G-XMPmgZg6-SKZ_Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CNBC Europe",
-      "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShCqoPVXQPFgZ4gDSY1G-XMPmgZg6-SKZ_Q&usqp=CAU",
       "parse": false
     },
@@ -268,18 +262,6 @@
       "name": "Euronews (France)",
       "url": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://images-na.ssl-images-amazon.com/images/I/61-5K6QDrnL.png",
-      "parse": false
-    },
-    {
-      "name": "FOX Business",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52832",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_pozhWWXQPlCEqREfUBry_weCSbofgRbcpg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX News",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52833",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6rCH-5bbqvrxS6cx6JxG0QJafh0jHan7oQ&usqp=CAU",
       "parse": false
     },
     {
@@ -313,12 +295,6 @@
       "parse": false
     },
     {
-      "name": "MSNBC",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52861",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHg5r1R9ZzAX388OdSNCcLBb4LstUV1ONfQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NBC News Now",
       "url": "http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJrgDEpY9IQryUMSTVFXuT4_tqN9TvJ7hOg&usqp=CAU",
@@ -340,12 +316,6 @@
       "name": "Newsmax",
       "url": "https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8",
       "pic": "https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s900-c-k-c0x00ffffff-no-rj",
-      "parse": false
-    },
-    {
-      "name": "NewsNation (WGN)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142370",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmf3o-AMhbMM8cDew2jkcHLyAT0mTuEou7iQ&usqp=CAU",
       "parse": false
     },
     {
