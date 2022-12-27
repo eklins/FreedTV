@@ -7,6 +7,10 @@ https://tvp22.sky4k.top/index2.php
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 ,香港有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV 八度空间
+http://w.nasvpn.xyz:8080/live/saya/saya/6.ts
+#EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+http://w.nasvpn.xyz:8080/live/saya/saya/5149.ts
 #EXTINF:-1 ,AXN
 http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1 ,欧美影院
