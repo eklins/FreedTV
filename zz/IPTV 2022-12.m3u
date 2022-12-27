@@ -7585,3 +7585,20 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="芒果独播" tvg-name="芒果独播" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="数字",芒果独播
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
+#EXTINF:-1 ,♦26/12 港台直播源
+#EXTINF:-1 ,翡翠台
+http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
+#EXTINF:-1 ,J2
+http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
+#EXTINF:-1 ,纬来日本
+http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
+#EXTINF:-1 ,ViuTV
+http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
+#EXTINF:-1 ,香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,HBO Hits
+http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
+#EXTINF:-1 ,CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+#EXTINF:-1 ,NBC news
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8
