@@ -331,6 +331,12 @@
       "parse": false
     },
     {
+      "name": "火线三兄弟 2013",
+      "url": "http://epg.112114.xyz/douyu/9176009",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrZzw8idh22tSMkUoUZnSbnor5kpLuB7Bow&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "伪装者 2015",
       "url": "http://epg.112114.xyz/huya/11602086",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrCDD97ubdn52y0XRiqWdhy0HYmLC9MeaXg&usqp=CAU",
@@ -687,6 +693,12 @@
     {
       "name": "湖南电视剧",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "经典电视剧",
+      "url": "http://epg.112114.xyz/douyu/7752759",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
