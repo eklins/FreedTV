@@ -403,24 +403,6 @@
       "parse": false
     },
     {
-      "name": "38",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145861",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "A&E",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145912",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ABC Craft Stone",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145812",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Action (KCKS-LD4)",
       "url": "https://cdn.igocast.com/channel4_hls/channel4_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -475,12 +457,6 @@
       "parse": false
     },
     {
-      "name": "American Heroes Channel",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145916",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "amp",
       "url": "https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamd/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -489,12 +465,6 @@
     {
       "name": "Animal Planet (Taiwan)",
       "url": "http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Animal Planet (US East)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145917",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -511,20 +481,8 @@
       "parse": false
     },
     {
-      "name": "Aspire",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145919",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "ATD HD",
       "url": "http://46.99.146.236/0.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AWE",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145920",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -553,12 +511,6 @@
       "parse": false
     },
     {
-      "name": "Beach TV (Myrtle Beach Grand Strand)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145860",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Bite",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-bitenz-samsungnz/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -567,18 +519,6 @@
     {
       "name": "bon appétit",
       "url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Box Nation (UK)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145863",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "bravo",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145929",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -661,12 +601,6 @@
       "parse": false
     },
     {
-      "name": "Cooking Channel",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145933",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cooking Panda",
       "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -697,20 +631,8 @@
       "parse": false
     },
     {
-      "name": "Crime Investigation (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145971",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cut Up N Cook",
       "url": "https://simultv.s.llnwi.net/o059/CutUpNCook/interlink.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Dabl",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145939",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -757,20 +679,8 @@
       "parse": false
     },
     {
-      "name": "Destination America",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145941",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Discovery (Taiwan)",
       "url": "http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery (US West)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145942",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -781,26 +691,8 @@
       "parse": false
     },
     {
-      "name": "Discovery Life (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145944",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Motor Trend (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145946",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Discovery Science (Taiwan)",
       "url": "http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Science (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145945",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -813,12 +705,6 @@
     {
       "name": "Docurama",
       "url": "https://docurama-tcl.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Drew",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145824",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -973,20 +859,8 @@
       "parse": false
     },
     {
-      "name": "Food Network (US East)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145951",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Food Planet (Taiwan)",
       "url": "http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX 54 WXTX (External Ottera)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/135538",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -999,12 +873,6 @@
     {
       "name": "Fun Roads (404p)",
       "url": "http://104.143.4.5:2080/funroads.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "fyi,",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52842",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1075,12 +943,6 @@
       "parse": false
     },
     {
-      "name": "HGTV (US East)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145966",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "HGTV Asia (Indonesia)",
       "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16584.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1135,12 +997,6 @@
       "parse": false
     },
     {
-      "name": "Investigation Discovery (US East)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145971",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "InWild (UK)",
       "url": "https://inwild-samsung-uk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1179,12 +1035,6 @@
     {
       "name": "Judge Karen's Court",
       "url": "https://cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Justice Central",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145973",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1327,12 +1177,6 @@
       "parse": false
     },
     {
-      "name": "Mad Dog and Merrill (540p)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145948",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Made In Hollywood (Australia)",
       "url": "https://connection3-ent-au.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1359,12 +1203,6 @@
     {
       "name": "Manoto TV",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145978",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1411,20 +1249,8 @@
       "parse": false
     },
     {
-      "name": "National Geographic (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145983",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "National Geographic Wild (Taiwan)",
       "url": "http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "National Geographic Wild (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145984",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1495,12 +1321,6 @@
       "parse": false
     },
     {
-      "name": "Outdoor Channel (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52871",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Outdoor Survive 荒野生存",
       "url": "http://epg.112114.xyz/douyu/1339207",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1509,18 +1329,6 @@
     {
       "name": "Outside TV",
       "url": "https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "OWN (Oprah Winfrey Network)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145986",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Oxygen True Crime",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145987",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1609,12 +1417,6 @@
       "parse": false
     },
     {
-      "name": "Pursuit Channel",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52878",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Radical Docs (Netherlands)",
       "url": "https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1681,12 +1483,6 @@
       "parse": false
     },
     {
-      "name": "RFD-TV",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52882",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "RT Documentary (Russia)",
       "url": "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1735,12 +1531,6 @@
       "parse": false
     },
     {
-      "name": "Smithsonian Channel (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145996",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Space Channel (Syria)",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=565",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1749,12 +1539,6 @@
     {
       "name": "Spark TV",
       "url": "https://sparktv-samsunguk.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sportsman",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52696",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1927,20 +1711,8 @@
       "parse": false
     },
     {
-      "name": "TLC (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146002",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Tranquil Thunderstorms",
       "url": "https://a.jsrdn.com/broadcast/18b42f9aef/+0000/c.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Travel Channel (US East)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146004",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2011,12 +1783,6 @@
       "parse": false
     },
     {
-      "name": "truTV (US East)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146005",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "tv7 (France★Persian Entertainment)",
       "url": "http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2065,20 +1831,8 @@
       "parse": false
     },
     {
-      "name": "Vice (US West)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146010",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Waterbear (Netherlands)",
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Wéo (Picardie★480p) [Not 24/7]",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145816",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2115,12 +1869,6 @@
     {
       "name": "World Fashion Channel",
       "url": "https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "World Fishing Network",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52718",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
