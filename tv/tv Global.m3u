@@ -1097,8 +1097,10 @@ http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 ,GRC★Corfu TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 ,GRC★Diavata TV
+#EXTINF:-1 ,GRC★Diavata TV (720p)
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+#EXTINF:-1 ,GRC★Dipso TV (720p) [Not 24/7]
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 ,GRC★Ellas TV
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 ,GRC★Ena Channel
@@ -1133,6 +1135,8 @@ http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 ,GRC★Mesogeios TV (432p)
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+#EXTINF:-1 ,GRC★Μεσσάτιδα TV (Messatida TV★450p) [Not 24/7]
+https://vod.streams.ovh:3037/stream/play.m3u8
 #EXTINF:-1 ,GRC★MGR TV
 https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 ,GRC★NEA
@@ -1147,6 +1151,8 @@ https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 ,GRC★SKAÏ
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
+#EXTINF:-1 ,GRC★Smile TV (360p)
+https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 ,GRC★Star
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 ,GRC★Star BUP
