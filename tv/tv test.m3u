@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,?env=prd&uid=-1&x=1
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115466?env=prd&uid=-1&x=1
-#EXTINF:-1 ,?virtualDomain=yinhe.live_hls.zte.com
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115466?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,?$广西cdn
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115466?$广西cdn
 #EXTINF:-1 ,无线新闻
 https://tvp22.sky4k.top/index1.php
 #EXTINF:-1 ,无线财经
@@ -15,6 +9,12 @@ https://api.leonardpark.dev/live/icable/110
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 ,Action
 http://cineapp.org:8000/Fernando/Fernando/9711
+#EXTINF:-1 ,?env=prd&uid=-1&x=1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115466?env=prd&uid=-1&x=1
+#EXTINF:-1 ,?virtualDomain=yinhe.live_hls.zte.com
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115466?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,?$广西cdn
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115466?$广西cdn
 #EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV 八度空间
 http://w.nasvpn.xyz:8080/live/saya/saya/6.ts
 #EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
