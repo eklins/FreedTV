@@ -32,14 +32,26 @@
       "parse": false
     },
     {
+      "name": "Pop (180p)",
+      "url": "http://n1.klowdtv.net/live2/pop_180p/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Animax (Indonesia)",
       "url": "http://45.126.83.51/dr9445/h/h144/01.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "AXN (Indonesia)",
+      "name": "AXN (Indonesia) 45.126.83.51",
       "url": "http://45.126.83.51/dr9445/h/h141/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AXN (Indonesia) 210.210.155.35:80",
+      "url": "http://210.210.155.35:80/dr9445/h/h141/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
