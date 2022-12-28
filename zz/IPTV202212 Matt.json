@@ -259,6 +259,30 @@
       "parse": false
     },
     {
+      "name": "The CW (Atlanta★WUPA-69)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142393",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW (Las Vegas★KVCW-33)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW (Sacramento★KMAX-31)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142396",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW 38 (Boston)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142386",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "The CW Columbus (WWHO-53)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142390",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
@@ -267,6 +291,24 @@
     {
       "name": "The CW Las Vegas",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Nashville (WNAB-58)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142392",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Philly 57 (Philadelphia★WPSG)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The CW Twin Cities (Saint Paul★WUCW-23)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142382",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
       "parse": false
     },
@@ -520,60 +562,6 @@
       "name": "World Fishing Network",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52718",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The CW (Atlanta★WUPA-69)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142393",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The CW (Las Vegas★KVCW-33)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The CW (Sacramento★KMAX-31)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142396",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The CW 38 (Boston)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142386",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The CW Columbus (WWHO-53)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142390",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The CW Las Vegas",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The CW Nashville (WNAB-58)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142392",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The CW Philly 57 (Philadelphia★WPSG)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The CW Twin Cities (Saint Paul★WUCW-23)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142382",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9P-BW5pvmEVs16lIgELrQbTp5Yj6IwAEpg&usqp=CAU",
       "parse": false
     },
     {
