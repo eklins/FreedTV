@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/240px-Flag_of_Cambodia.svg.png",Cambodia♥Bayon TV (360p)
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/120px-Flag_of_Cambodia.svg.png",Cambodia♥Bayon TV (360p)
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:-1 ,无线新闻
 https://tvp22.sky4k.top/index1.php
 #EXTINF:-1 ,无线财经
