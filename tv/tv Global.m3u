@@ -61,8 +61,6 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg",WWE Network
 http://w.nasvpn.xyz:8080/live/saya/saya/5337.ts
-#EXTINF:-1 ,🇦🇼Aruba.TV
-https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
 #EXTINF:-1 ,🇺🇳Anime TV (480p)
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 ,🇺🇳art
@@ -125,13 +123,13 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52891
 http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Yaren TV
 https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",Afghanistan❤ATN International
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Afghanistan_%282004%E2%80%932021%29.svg/240px-Flag_of_Afghanistan_%282004%E2%80%932021%29.svg.png",Afghanistan♥ATN International
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 ,AFG★Solh TV
 http://51.210.199.42/hls/stream.m3u8
 #EXTINF:-1 ,AFG★WATAN E MAA TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Albania.png",Albania❤7 HD
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/240px-Flag_of_Albania.svg.png",Albania♥7 HD
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 #EXTINF:-1 ,ALB★ALB Dreams (720p)
 http://live.albavision.net:1123/live/albdreams.m3u8
@@ -149,9 +147,9 @@ http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 ,ALB★TV 7 (540p) [Not 24/7]
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Andorra.png",Andorra❤ATV (720p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/240px-Flag_of_Andorra.svg.png",Andorra♥ATV (720p)
 https://videos.rtva.ad/live/rtva/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Argentina.png",Argentina❤5TV (Corrientes)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/240px-Flag_of_Argentina.svg.png",Argentina♥5TV (Corrientes)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 ,ARG★13Max Televisión (720p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
@@ -187,7 +185,7 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 https://panel.dattalive.com/8106/8106/playlist.m3u8
 #EXTINF:-1 ,ARG★X24
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Armenia.png",Armenia❤5TV-րդ ալիք (480p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/240px-Flag_of_Armenia.svg.png",Armenia♥5TV-րդ ալիք (480p)
 http://ott-cdn.ucom.am/s6/index.m3u8
 #EXTINF:-1 ,ARM★ATV (480p)
 http://ott-cdn.ucom.am/s8/index.m3u8
@@ -215,9 +213,9 @@ http://ott-cdn.ucom.am/s13/index.m3u8
 http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 ,ARM★Town Townik (Տուն Թունիկ★480p)
 http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm1QNHA9M26N9YVVNzELKV8i7A-_af0Fkp_A&usqp=CAU",Aruba❤Aruba TV (1080p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/240px-Flag_of_Aruba.svg.png",Aruba♥Aruba TV (1080p) [Not 24/7]
 https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Australia.png",Australia❤ABC
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/240px-Flag_of_Australia_%28converted%29.svg.png",Australia♥ABC
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8221df52788a423c91b717158aadaf25/index.m3u8?hdnea=st=1659860737~exp=1659861637~acl=/*~hmac=d8a5c191162d8c01cdd01a3bb577e7a5f390d10db2a077ea75a89ce5d39f8e2f
 #EXTINF:-1 ,AUS★ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -301,7 +299,7 @@ https://alliantcontent-truecrimenow-3-au.samsung.wurl.tv/playlist.m3u8
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,AUS★Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Austria.png",Austria❤FS1 (Salzburg)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/240px-Flag_of_Austria.svg.png",Austria♥FS1 (Salzburg)
 https://stream.fs1.tv/hls/webstream.m3u8
 #EXTINF:-1 ,AUT★OE24
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
@@ -333,7 +331,7 @@ https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
 https://alliantcontent-truecrimenow-3-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,AUT★W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Azerbaijan.png",Azerbaijan❤Alvin Channel TV (360p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/240px-Flag_of_Azerbaijan.svg.png",Azerbaijan♥Alvin Channel TV (360p) [Not 24/7]
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 ,AZE★ELTV
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
@@ -341,19 +339,19 @@ http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 ,AZE★Muğan TV (1080p) [Not 24/7]
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bahamas.png",Bahamas❤Island Luck TV (720p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/240px-Flag_of_the_Bahamas.svg.png",Bahamas♥Island Luck TV (720p)
 https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/chunklist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bahrain.png",Bahrain❤Bahrain International (720p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/240px-Flag_of_Bahrain.svg.png",Bahrain♥Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
 #EXTINF:-1 ,BHR★Bahrain TV
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+TV_all/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bangladesh.png",Bangladesh❤Independent TV (1080p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/240px-Flag_of_Bangladesh.svg.png",Bangladesh♥Independent TV (1080p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 ,BGD★NTV Europe (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Barbados.png",Barbados❤CBC TV8 (1080p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/240px-Flag_of_Barbados.svg.png",Barbados♥CBC TV8 (1080p) [Not 24/7]
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belarus.png",Belarus❤1Mus
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/240px-Flag_of_Belarus.svg.png",Belarus♥1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 ,BLR★Belros
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
@@ -369,7 +367,7 @@ https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 http://lova.me/hls/hithd.m3u8
 #EXTINF:-1 ,BLR★Vitebsk Telekanal
 https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belgium.png",Belgium❤BX1
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/240px-Flag_of_Belgium.svg.png",Belgium♥BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 ,BEL★City Music TV (720p)
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
@@ -385,13 +383,13 @@ https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.
 https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,BEL★RTL-Be
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Belize.png",Belize❤Channel 7
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/240px-Flag_of_Belize.svg.png",Belize♥Channel 7
 https://kalends.anl.bz/localchannels/channel7.stream/playlist.m3u8
 #EXTINF:-1 ,BLZ★Krem TV
 https://kalends.anl.bz/localchannels/kremtel.stream/playlist.m3u8
 #EXTINF:-1 ,BLZ★Love Television
 https://kalends.anl.bz/localchannels/lovetel.stream/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bolivia.png",Bolivia❤Abya Yala TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/240px-Flag_of_Bolivia_%28state%29.svg.png",Bolivia♥Abya Yala TV
 https://5fc584f3f19c9.streamlock.net/televisionhd/videotelevisionhd/chunklist_w47361468.m3u8
 #EXTINF:-1 ,BOL★Alegria TV
 https://593b04c4c5670.streamlock.net/8192/8192/chunklist_w349536411.m3u8
@@ -403,11 +401,11 @@ https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 ,BOL★TV OFF travel
 https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bosnia-Herzegovina.png",Bosnia and Herzegovina❤B1 TV (1080p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/240px-Flag_of_Bosnia_and_Herzegovina.svg.png",Bosnia and Herzegovina♥B1 TV (1080p) [Not 24/7]
 http://proxy.bihnet.net:88/live/b1tv.m3u8
 #EXTINF:-1 ,BIH★Glas Drine
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Brazil.png",Brazil❤AgroBrasil TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/240px-Flag_of_Brazil.svg.png",Brazil♥AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 ,BRA★All Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
@@ -505,19 +503,17 @@ https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 ,BRA★TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Brunei.png",Brunei♥RTB Aneka
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/240px-Flag_of_Brunei.svg.png",Brunei♥RTB Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 ,BRN★RTB Go
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Bulgaria.png",Bulgaria♥100% Auto Moto TV (406p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/240px-Flag_of_Bulgaria.svg.png",Bulgaria♥100% Auto Moto TV (406p) [Not 24/7]
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 ,BGR★Code Fashion
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 ,BGR★Light Channel (480p) [Not 24/7]
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cabo-Verde.png",Cabo Verde❤TCSM TV
-https://stream.internet.one:443/RadioCaboVerde/video.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cambodia.png",Cambodia❤Bayon TV (360p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/240px-Flag_of_Cambodia.svg.png",Cambodia♥Bayon TV (360p)
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:-1 ,KHM★Fresh News
 http://167.99.65.12:1935/live/myStream/playlist.m3u8
@@ -529,11 +525,11 @@ http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 http://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 ,KHM★TVK Camboya
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cameroon.png",Cameroon❤My TV Channel (French★720p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/240px-Flag_of_Cameroon.svg.png",Cameroon♥My TV Channel (French★720p) [Not 24/7]
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 ,CMR★Play TV (720p) [Not 24/7]
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png",Canada❤Amazing Discoveries (720p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/240px-Flag_of_Canada_%28Pantone%29.svg.png",Canada♥Amazing Discoveries (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 ,CAN★AZ Star (Persian)
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
@@ -619,7 +615,9 @@ http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,CAN★World Poker Tour
 https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Chile.png",Chile❤Arab TV (Spanish)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/240px-Flag_of_Cape_Verde.svg.png",Cape Verde♥TCSM TV
+https://stream.internet.one:443/RadioCaboVerde/video.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/240px-Flag_of_Chile.svg.png",Chile♥Arab TV (Spanish)
 https://livefocamundo.com:8081/arabtv/playlist.m3u8
 #EXTINF:-1 ,CHL★Campo Abierto TV
 https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8
@@ -683,7 +681,7 @@ https://s2.tvdatta.com:3849/hybrid/play.m3u8
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 #EXTINF:-1 ,CHL★Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Colombia.png",Colombia❤Canal Capital
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/240px-Flag_of_Colombia.svg.png",Colombia♥Canal Capital
 https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 #EXTINF:-1 ,COL★CNC Monteria
 https://cloud28.vsgtech.co:3932/live/cncmonterialive.m3u8
@@ -695,7 +693,7 @@ https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 ,COL★TV Peñol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/chunklist_w500190715.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Costa-Rica.png",Costa Rica❤Mora TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/240px-Flag_of_Costa_Rica.svg.png",Costa Rica♥Mora TV
 https://stmv1.zcastbr.com/moratv1/moratv1/chunklist_w1089625041.m3u8
 #EXTINF:-1 ,CRI★MZ Sports
 https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
@@ -711,7 +709,7 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,CRI★VM Latino (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Croatia.png",Croatia❤HRT 1
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/240px-Flag_of_Croatia.svg.png",Croatia♥HRT 1
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1 ,HRV★HRT 2
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
@@ -723,7 +721,7 @@ http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8
 #EXTINF:-1 ,HRV★RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCfL-f_apw6pz4hQ0Cb8J2ydJ7BcdrMux2Ew&usqp=CAU",Curacao❤Bonce TV (480p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/240px-Flag_of_Cura%C3%A7ao.svg.png",Curaçao♥Bonce TV (480p) [Not 24/7]
 https://seswa.bonce.tv/hls/bonceswa.m3u8
 #EXTINF:-1 ,CUW★Nos Païs (720p) [Not 24/7]
 http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
@@ -731,7 +729,7 @@ http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 https://streannlivecariflix.cachefly.net/cariflix1/cariflix1/playlist.m3u8
 #EXTINF:-1 ,CUW★VAM Vid's & More
 https://cur.watch/api/get_stream/vam/streann/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cyprus.png",Cyprus❤Alfa Sport (1080p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/240px-Flag_of_Cyprus.svg.png",Cyprus♥Alfa Sport (1080p) [Not 24/7]
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 ,CYP★Cinema Time (34100 TV)
 https://s1.cystream.net/live/34100/playlist.m3u8
@@ -743,7 +741,7 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 ,CYP★Smile
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Czech-Republic.png",Czech❤CNN Prima News
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/240px-Flag_of_the_Czech_Republic.svg.png",Czech♥CNN Prima News
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 ,CZE★JOJ Family
 https://live.cdn.joj.sk/live/hls/family-540.m3u8
@@ -757,31 +755,7 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w389667105_b750000.m3u8
 #EXTINF:-1 ,CZE★Šlágr Premium
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Dominican-Republic.png",Dominican Republic❤amè 47
-https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w2087392373.m3u8
-#EXTINF:-1 ,DOM★Boreal Television
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-#EXTINF:-1 ,DOM★Caribbean Traveling Network
-https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w239411889.m3u8
-#EXTINF:-1 ,DOM★Citrico TV
-https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8
-#EXTINF:-1 ,DOM★GH TV
-https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
-#EXTINF:-1 ,DOM★Hilando Fino TV
-https://pop-hls.iptv-global.net/loadbalancer/hilandofino.m3u8
-#EXTINF:-1 ,DOM★iUtv (Imagen Universal TV)
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 ,DOM★Mision ELTV
-https://tunzilla.com/http://abielito.ddns.net:8080/live/misioneltv/index.m3u8
-#EXTINF:-1 ,DOM★Mun2TV
-https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
-#EXTINF:-1 ,DOM★Romana TV Canal 42
-https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
-#EXTINF:-1 ,DOM★San Isidro TV
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-#EXTINF:-1 ,DOM★TV Plata
-https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1835589535.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Denmark.png",Denmark❤Africa News (English)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/240px-Flag_of_Denmark.svg.png",Denmark♥Africa News (English)
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,DNK★Duck TV (720p)
 https://mmm-ducktv-4-dk.samsung.wurl.tv/playlist.m3u8
@@ -821,7 +795,31 @@ https://rakuten-guardian-1-dk.samsung.wurl.tv/playlist.m3u8
 https://live.tv2bornholm.dk/stream/live/playlist.m3u8
 #EXTINF:-1 ,DNK★TV2 Fyn
 https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ecuador.png",Ecuador❤7 Noticias
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/240px-Flag_of_the_Dominican_Republic.svg.png",Dominican Republic♥amè 47
+https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w2087392373.m3u8
+#EXTINF:-1 ,DOM★Boreal Television
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 ,DOM★Caribbean Traveling Network
+https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w239411889.m3u8
+#EXTINF:-1 ,DOM★Citrico TV
+https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8
+#EXTINF:-1 ,DOM★GH TV
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+#EXTINF:-1 ,DOM★Hilando Fino TV
+https://pop-hls.iptv-global.net/loadbalancer/hilandofino.m3u8
+#EXTINF:-1 ,DOM★iUtv (Imagen Universal TV)
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 ,DOM★Mision ELTV
+https://tunzilla.com/http://abielito.ddns.net:8080/live/misioneltv/index.m3u8
+#EXTINF:-1 ,DOM★Mun2TV
+https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+#EXTINF:-1 ,DOM★Romana TV Canal 42
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 ,DOM★San Isidro TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:-1 ,DOM★TV Plata
+https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1835589535.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/240px-Flag_of_Ecuador.svg.png",Ecuador♥7 Noticias
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,ECU★101 Tele Antequera
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
@@ -829,7 +827,7 @@ https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-1 ,ECU★TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Egypt.png",Egypt❤LBC (1080)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/240px-Flag_of_Egypt.svg.png",Egypt♥LBC (1080)
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,EGY★Rotana Cinema (1080)
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -843,9 +841,11 @@ https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,EGY★Watan TV (1080p)
 https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Estonia.png",Estonia❤El Toro TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/240px-Flag_of_El_Salvador.svg.png",El Salvador♥WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/240px-Flag_of_Estonia.svg.png",Estonia♥El Toro TV
 https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ethiopia.png",Ethiopia❤Addis TV (Amharic)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/240px-Flag_of_Ethiopia.svg.png",Ethiopia♥Addis TV (Amharic)
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 #EXTINF:-1 ,ETH★ETV Entertainment (ኢቲቪ መዝናኛ)
 https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv-ent_1.m3u8
@@ -853,9 +853,9 @@ https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv-ent_1.m3u8
 https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/nbc_eth-1.m3u8
 #EXTINF:-1 ,ETH★Prime Media
 https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/prime-media_1.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Fiji.png",Fiji❤Fiji TV (720p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/240px-Flag_of_Fiji.svg.png",Fiji♥Fiji TV (720p) [Not 24/7]
 https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Finland.png",Finland❤Alfa TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/240px-Flag_of_Finland.svg.png",Finland♥Alfa TV
 https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
 #EXTINF:-1 ,FIN★Duck TV
 https://mmm-ducktv-4-fi.samsung.wurl.com/manifest/playlist.m3u8
@@ -893,7 +893,7 @@ https://rakuten-guardian-1-fi.samsung.wurl.tv/playlist.m3u8
 https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,FIN★Taevas TV7 (720p)
 https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",France❤Africa News Français
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/240px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png",France♥Africa News Français
 https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,FRA★BBC Doctor Who 2009-?
 https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
@@ -981,9 +981,9 @@ https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 https://live.tvradio-pitchoun.fr/hls/live.m3u8
 #EXTINF:-1 ,FRA★Wild Side
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png",French Polynesia❤TNTV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/240px-Flag_of_French_Polynesia.svg.png",French Polynesia♥TNTV
 https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Georgia.png",Georgia❤1TV (240p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/240px-Flag_of_Georgia.svg.png",Georgia♥1TV (240p)
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 ,GEO★2TV (720p) [Not 24/7]
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
@@ -993,7 +993,7 @@ https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
 https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,GEO★Palitra News (480p) [Not 24/7]
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Germany.png",Germany❤1 HD (Das Erste)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/240px-Flag_of_Germany.svg.png",Germany♥1 HD (Das Erste)
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 ,DEU★123 TV
 http://123tv-mx1.flex-cdn.net/index.m3u8
@@ -1087,9 +1087,9 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,DEU★ZWEI2 Music
 https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC5zOk5ADwyrI7-BGFpmO4U2pRzZg-S9tP2w&usqp=CAU",Gibraltar♥GBC TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/240px-Flag_of_Gibraltar.svg.png",Gibraltar♥GBC TV
 https://player-api.new.livestream.com/accounts/14143407/events/9828641/broadcasts/233548882.secure.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Greece.png",Greece❤alert
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/240px-Flag_of_Greece.svg.png",Greece♥alert
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 ,GRC★Alfa Dramas
 https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
@@ -1183,7 +1183,7 @@ https://live.fm100.gr/hls/tv100/index.m3u8
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 ,GRC★Zerouno TV (720p)
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Guatemala.png",Guatemala❤Canal 3
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/240px-Flag_of_Guatemala.svg.png",Guatemala♥Canal 3
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
 #EXTINF:-1 ,GTM★Canal 7 Televisiete (Sport)
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
@@ -1203,13 +1203,13 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
 #EXTINF:-1 ,GTM★Visión TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Haiti.png",Haiti❤Kajou TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/240px-Flag_of_Haiti.svg.png",Haiti♥Kajou TV
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 ,HTI★Radio Télé 4VEH
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 #EXTINF:-1 ,HTI★TV Panou
 http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Honduras.png",Honduras❤Activa TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/240px-Flag_of_Honduras.svg.png",Honduras♥Activa TV
 https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/chunklist_w336986461.m3u8
 #EXTINF:-1 ,HND★Alfa & Omega Visión
 https://srv.panelcast.net/aovision/aovision/playlist.m3u8
@@ -1235,7 +1235,7 @@ https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/playlist.m3u8
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 ,HND★Thunder Sports
 https://emisoras.hn:8081/tsh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbkU0-6_hoIOmcd4PNdC5DaLqA8OLzu2Il6QfsKjpOujqC8OLb&s",Hong Kong❤RTHK Radio 1
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/240px-Flag_of_Hong_Kong.svg.png",Hong Kong♥RTHK Radio 1
 https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
 #EXTINF:-1 ,HKG★RTHK Radio 2
 https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
@@ -1245,7 +1245,7 @@ https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
 #EXTINF:-1 ,HKG★RTHK Radio 6：香港之声
 http://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Hungary.png",Hungary❤ATV (360p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/240px-Flag_of_Hungary.svg.png",Hungary♥ATV (360p) [Not 24/7]
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 ,HUN★Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
@@ -1271,9 +1271,9 @@ https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 #EXTINF:-1 ,HUN★TV7 Bekescsaba
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iceland.png",Iceland❤N4
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/240px-Flag_of_Iceland.svg.png",Iceland♥N4
 https://live.tv.c.is/n4/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-India.png",India❤B4U Kadak
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/240px-Flag_of_India.svg.png",India♥B4U Kadak
 https://pull-3187.5centscdn.com/vizjsj1apjkea3/smil:B4U_Kadak.smil/playlist.m3u8
 #EXTINF:-1 ,IND★Boogle Bollywood (1080p) [Not 24/7]
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
@@ -1323,7 +1323,7 @@ https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
 #EXTINF:-1 ,IND★Zee Cinema
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Indonesia.png",Indonesia❤Ainos (576p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/240px-Flag_of_Indonesia.svg.png",Indonesia♥Ainos (576p)
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
 #EXTINF:-1 ,IDN★Animax
 http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
@@ -1423,7 +1423,7 @@ http://45.126.83.51/qwr9ew/s/s105/01.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 ,IDN★U Channel (576p) [Not 24/7]
 http://45.126.83.51/x6bnqe/s/s73/index2.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iran.png",Iran❤AVA Family (720p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/240px-Flag_of_Iran.svg.png",Iran♥AVA Family (720p) [Not 24/7]
 http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 ,IRN★AVA Series (720p)
 http://51.210.199.4/hls/stream.m3u8
@@ -1523,11 +1523,11 @@ http://51.210.199.8/hls/stream.m3u8
 http://51.210.199.9/hls/stream.m3u8
 #EXTINF:-1 ,IRN★Your Time TV (720p) [Not 24/7]
 https://hls.yourtime.live/hls/stream.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Iraq.png",Iraq❤AVA Entertainment (720p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/240px-Flag_of_Iraq.svg.png",Iraq♥AVA Entertainment (720p) [Not 24/7]
 https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8
 #EXTINF:-1 ,IRQ★Dijlah (1080p)
 http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ireland.png",Ireland❤Africa News
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/240px-Flag_of_Ireland.svg.png",Ireland♥Africa News
 https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,IRL★AFV Family
 https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
@@ -1559,11 +1559,11 @@ https://rakuten-spotlight-13-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IRL★TG4
 https://d3d0bkvqxpkoih.cloudfront.net/tg4_vod_3_450_.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Israel.png",Israel❤HOT HBO (Израиль)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/240px-Flag_of_Israel.svg.png",Israel♥HOT HBO (Израиль)
 http://myott.top/stream/DT6QU63K5VX/381.m3u8
 #EXTINF:-1 ,ISR★HOT Zone (Израиль)
 http://myott.top/stream/DT6QU63K5VX/379.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Italy.png",Italy❤12 TV Parma
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/240px-Flag_of_Italy.svg.png",Italy♥12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 ,ITA★51 Radio TV
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
@@ -1767,15 +1767,15 @@ https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Yamato Animation
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Cote-d-Ivoire.png",Ivory Coast❤Business 24 Africa
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/240px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",Ivory Coast♥Business 24 Africa
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8
 #EXTINF:-1 ,CIV★Ivoire Channel (720p)
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 ,CIV★Ntv Afrique (1080p) [Not 24/7]
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Jamaica.png",Jamaica❤Jamaica Online TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/240px-Flag_of_Jamaica.svg.png",Jamaica♥Jamaica Online TV
 https://vse2-sa-all4.secdn.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Japan.png",Japan❤26 歌
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/240px-Flag_of_Japan.svg.png",Japan♥26 歌
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 ,JPN★日テレNEWS24 Ⓢ
 https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
@@ -1845,11 +1845,11 @@ http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
 http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8
 #EXTINF:-1 ,JPN★WOWOW Prime (720p)
 http://cdn.us195.jpnettv.live:1935/jptv/wowprime_720/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Jordan.png",Jordan❤Al Mamlaka TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/240px-Flag_of_Jordan.svg.png",Jordan♥Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 ,JOR★Jordan Satellite Channel
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kazakhstan.png",Kazakhstan❤1 HD Music Television
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/240px-Flag_of_Kazakhstan.svg.png",Kazakhstan♥1 HD Music Television
 https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1 ,KAZ★Atameken Business
 http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
@@ -1871,11 +1871,11 @@ https://sc.id-tv.kz/Kinopremiera_hd.m3u8
 https://sc.id-tv.kz/Kinosemiya_hd.m3u8
 #EXTINF:-1 ,KAZ★Kinosvidanie (Киносвидание) [Not 24/7]
 https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kenya.png",Kenya♥Inooro TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/240px-Flag_of_Kenya.svg.png",Kenya♥Inooro TV
 https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Korea-North.png",Korea (N)❤KCTV (Korean Central Television)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/240px-Flag_of_North_Korea.svg.png",Korea (N)♥KCTV (Korean Central Television)
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Korea-South.png",Korea (S)❤국악방송
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/240px-Flag_of_South_Korea.svg.png",Korea (S)♥국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 ,KOR★한국선거방송（韩国选举广播）
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
@@ -1953,11 +1953,11 @@ http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 ,KOR★YTN Science (270p)
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kosovo.png",Kosovo♥TV Dielli (720p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/240px-Flag_of_Kosovo.svg.png",Kosovo♥TV Dielli (720p)
 http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Kuwait.png",Kuwait❤Al Rai TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/240px-Flag_of_Kuwait.svg.png",Kuwait♥Al Rai TV
 https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Laos.png",Laos❤Champa TV2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/240px-Flag_of_Laos.svg.png",Laos♥Champa TV2
 https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
 #EXTINF:-1 ,LAO★Dao Lane Xang
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
@@ -1965,11 +1965,11 @@ https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
 #EXTINF:-1 ,LAO★Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Latvia.png",Latvia❤Latvijas Radio 3 Klasika (240p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/240px-Flag_of_Latvia.svg.png",Latvia♥Latvijas Radio 3 Klasika (240p)
 https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
 #EXTINF:-1 ,LVA★TVNET (360p)
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Lebanon.png",Lebanon❤Arabica TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/240px-Flag_of_Lebanon.svg.png",Lebanon♥Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 ,LBN★Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
@@ -1977,53 +1977,37 @@ http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 ,LBN★TV Seventeen
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Libya.png",Libya❤218 News
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/240px-Flag_of_Libya.svg.png",Libya♥218 News
 http://95.85.47.43/libya218news/playlist.m3u8
 #EXTINF:-1 ,LBY★Jamahiria TV (480p)
 https://master.starmena-cloud.com/hls/jam.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Liechtenstein.png",Liechtenstein❤Kommu TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/240px-Flag_of_Liechtenstein.svg.png",Liechtenstein♥Kommu TV
 http://31.10.19.12:8066/live/999/0.m3u8
 #EXTINF:-1 ,LIE★Mediashop TV (576p)
 https://mediashop.akamaized.net/hls/live/2032402/Meine_Einkaufswelt/1.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Lithuania.png",Lithuania❤LRT Lituanica
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/240px-Flag_of_Lithuania.svg.png",Lithuania♥LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 ,LTU★M-1 (480p)
 http://m-1.data.lt/m-1/smil:m-1.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Luxembourg.png",Luxembourg❤eldo.TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/240px-Flag_of_Luxembourg.svg.png",Luxembourg♥eldo.TV
 https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/playlist.m3u8
 #EXTINF:-1 ,LUX★Rakuten Documentaries
 https://rakuten-documentaries-15-lu.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,LUX★RTL
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PGbPfPUXCBBAVRvMxhd67wSbJvcrKrwW6A&usqp=CAU",Macao❤澳门微视
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 ,MAC★澳门有线 CH1
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 ,MAC★澳门有线 CH2
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 ,MAC★澳门澳视 CH01
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 ,MAC★澳门 Canal CH02
-http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 ,MAC★澳门卫星 CH03
-http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 ,MAC★澳门体育 CH04
-http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 ,MAC★澳门资讯 CH05
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 ,MAC★澳门综艺 CH06
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-North-Macedonia.png",Macedonia❤Sky Folk TV
-https://skyfolk.mk/live.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Maldives.png",Maldives❤VTV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/240px-Flag_of_Macau.svg.png",Macau♥澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 ,MAC★Lotus Macau 澳门莲花
+https://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/240px-Flag_of_Maldives.svg.png",Maldives♥VTV
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mali.png",Mali❤ORTM 1
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/240px-Flag_of_Mali.svg.png",Mali♥ORTM 1
 http://51.210.1.13:18000/ortm/hls/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Malta.png",Malta❤one
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/240px-Flag_of_Malta.svg.png",Malta♥one
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 ,MLT★Smash TV
 http://s3.smashmalta.com/hls/smash/smash.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mexico.png",Mexico❤AMX Noticias
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/240px-Flag_of_Mexico.svg.png",Mexico♥AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 ,MEX★Bloomberg TV
 https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
@@ -2081,23 +2065,23 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 ,MEX★TVP Obregón (542p)
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Moldova.png",Moldova❤Acasa TV (576p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/240px-Flag_of_Moldova.svg.png",Moldova♥Acasa TV (576p)
 http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:-1 ,MDA★Prime 1 (Молдова)
 http://myott.top/stream/DT6QU63K5VX/335.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Monaco.png",Monaco❤Monaco Info
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/240px-Flag_of_Monaco.svg.png",Monaco♥Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mongolia.png",Mongolia❤MNB World
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/240px-Flag_of_Mongolia.svg.png",Mongolia♥MNB World
 https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:-1 ,MNG★Movie Box
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF:-1 ,MNG★TV9
 https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Montenegro.png",Montenegro❤TVCG 1
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/240px-Flag_of_Montenegro.svg.png",Montenegro♥TVCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:-1 ,MNE★TVCG 2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Morocco.png",Morocco❤2M Monde (360p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/240px-Flag_of_Morocco.svg.png",Morocco♥2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 ,MAR★Al Aoula International (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
@@ -2109,15 +2093,15 @@ https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 ,MAR★Télé Maroc
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Mozambique.png",Mozambique❤TVM (480p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/240px-Flag_of_Mozambique.svg.png",Mozambique♥TVM (480p)
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 ,MOZ★TVM Internacional (480p)
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 ,MOZ★TV Maná Moçambique (576p)
 http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Myanmar.png",Myanmar (Burma)♥mitv (Myanmar International TV)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/240px-Flag_of_Myanmar.svg.png",Myanmar♥mitv (Myanmar International TV)
 https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Netherlands.png",Netherlands❤BR6
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/240px-Flag_of_the_Netherlands.svg.png",Netherlands♥BR6
 https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
 #EXTINF:-1 ,NLD★DeepHouse District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
@@ -2247,7 +2231,7 @@ https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 #EXTINF:-1 ,NLD★Xplore
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-New-Zealand.png",New Zealand❤Action Hollywood Movies
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/240px-Flag_of_New_Zealand.svg.png",New Zealand♥Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 ,NZL★AusBiz
 https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
@@ -2333,19 +2317,21 @@ https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 #EXTINF:-1 ,NZL★Zoo Moo
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Nicaragua.png",Nicaragua❤JBN (Canal 39)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/240px-Flag_of_Nicaragua.svg.png",Nicaragua♥JBN (Canal 39)
 https://inliveserver.com:1936/17510/17510/playlist.m3u8
 #EXTINF:-1 ,NIC★Telenica Canal 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 ,NIC★Vos TV
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Nigeria.png",Nigeria❤Galaxy TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/240px-Flag_of_Nigeria.svg.png",Nigeria♥Galaxy TV
 https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/chunklist.m3u8
 #EXTINF:-1 ,NGA★NTA International
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1 ,NGA★TVC Entertainment
 https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Norway.png",Norway❤Africa News
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/240px-Flag_of_North_Macedonia.svg.png",North Macedonia♥Sky Folk TV
+https://skyfolk.mk/live.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/240px-Flag_of_Norway.svg.png",Norway♥Africa News
 https://rakuten-africanews-1-no.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Bloomberg Quicktake (1080p)
 https://bloomberg-quicktake-1-no.samsung.wurl.com/manifest/playlist.m3u8
@@ -2387,11 +2373,11 @@ https://rakuten-guardian-1-no.samsung.wurl.tv/playlist.m3u8
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 #EXTINF:-1 ,NOR★TV2 Sporten
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Oman.png",Oman❤Oman Sports TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/240px-Flag_of_Oman.svg.png",Oman♥Oman Sports TV
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 ,OMN★Oman TV
 https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Pakistan.png",Pakistan❤ATV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/240px-Flag_of_Pakistan.svg.png",Pakistan♥ATV
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
 #EXTINF:-1 ,PAK★Dunya News (UK Feed)
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
@@ -2399,7 +2385,7 @@ https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 https://streamone.simpaisa.com:8443/pitvlive1/mehran.smil/playlist.m3u8
 #EXTINF:-1 ,PAK★Sindh TV News
 https://streamone.simpaisa.com:8443/pitvlive1/sindhnews.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Palestine.png",Palestine❤Ajyal TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/240px-Flag_of_Palestine.svg.png",Palestine♥Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 ,PSE★Musawa Channel
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
@@ -2409,13 +2395,13 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 ,PSE★Wattan TV
 http://htvmada.mada.ps:8888/wattan/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Panama.png",Panama❤Hosanna Vision
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/240px-Flag_of_Panama.svg.png",Panama♥Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 #EXTINF:-1 ,PAN★RPC
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1 ,PAN★TVMAX
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Paraguay.png",Paraguay❤ABC TV (720p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/240px-Flag_of_Paraguay.svg.png",Paraguay♥ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 ,PRY★Bella Asuncion TV
 https://tvdatta.com:3602/stream/play.m3u8
@@ -2425,7 +2411,7 @@ http://159.203.148.226/live/farra.m3u8
 http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1 ,PRY★Unicanal
 http://45.55.127.106/live/unicanal.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Peru.png",Peru❤Activa TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/240px-Flag_of_Peru.svg.png",Peru♥Activa TV
 https://cloudvideo.servers10.com:8081/8126/index.m3u8
 #EXTINF:-1 ,PER★Andes Televisión (Sicusani)
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
@@ -2495,7 +2481,7 @@ https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/pl
 https://cadenasurrtv.com/hls/stream/index.m3u8
 #EXTINF:-1 ,PER★X TV (Chachapoyas)
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Philippines.png",Philippines❤CNN Philippines
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/240px-Flag_of_the_Philippines.svg.png",Philippines♥CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 ,PHL★Life TV Asia
 https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
@@ -2505,7 +2491,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 ,PHL★TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Poland.png",Poland❤Белсат ТВ
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/240px-Flag_of_Poland.svg.png",Poland♥Белсат ТВ
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 ,POL★dlaCiebie.tv
 http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
@@ -2515,7 +2501,7 @@ https://tvreg.klemit.net/regionalna/stream/index.m3u8
 https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
 #EXTINF:-1 ,POL★TVT Zgorzelec
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Portugal.png",Portugal❤Canal 11
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/240px-Flag_of_Portugal.svg.png",Portugal♥Canal 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1 ,PRT★Canal Parlamento
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
@@ -2551,13 +2537,13 @@ https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #EXTINF:-1 ,PRT★TVI Reality (480p)
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/1200px-Flag_of_Puerto_Rico.svg.png",Puerto Rico❤Pura Palabra
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/240px-Flag_of_Puerto_Rico.svg.png",Puerto Rico♥Pura Palabra
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 #EXTINF:-1 ,PRI★CDM TV
 http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
 #EXTINF:-1 ,PRI★Mas TV
 https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Qatar.png",Qatar❤Al Jazeera Arabic
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/240px-Flag_of_Qatar.svg.png",Qatar♥Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 ,QAT★Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
@@ -2569,7 +2555,7 @@ https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 ,QAT★Qatar TV2
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Romania.png",Romania❤A7TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/240px-Flag_of_Romania.svg.png",Romania♥A7TV
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 #EXTINF:-1 ,ROU★Agro TV
 https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
@@ -2601,7 +2587,7 @@ https://live.realitatea.net/livertmp/plus/playlist.m3u8
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 #EXTINF:-1 ,ROU★TVR International Returned
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1048000.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Russia.png",Russia❤1 HD
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/240px-Flag_of_Russia.svg.png",Russia♥1 HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,RUS★2x2
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
@@ -2713,11 +2699,11 @@ https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,RUS★VIP Serial
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Rwanda.png",Rwanda❤KC2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/240px-Flag_of_Rwanda.svg.png",Rwanda♥KC2
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 ,RWA★RTV Rwanda
 http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Saudi-Arabia.png",Saudi Arabia❤AJYAL
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/240px-Flag_of_Saudi_Arabia.svg.png",Saudi Arabia♥AJYAL
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,SAU★Al Ekhbariya
 https://cllive.itworkscdn.net/ikhbariyalive/token=nva=1652273887~dirs=1~hash=0bac6bee4f3ae6cd056ae/ikhbariya.smil/playlist.m3u8
@@ -2747,15 +2733,13 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 https://cllive.itworkscdn.net/sbclive/token=nva=1652274433~dirs=1~hash=01efbdb91fae0d98a4b99/sbc.smil/playlist.m3u8
 #EXTINF:-1 ,SAU★Thikrayat TV
 https://edge.taghtia.com/sa/3.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/240px-Flag_of_El_Salvador.svg.png",Salvador♥WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Senegal.png",Senegal❤A2i Music
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/240px-Flag_of_Senegal.svg.png",Senegal♥A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 ,SEN★A2i Naija (French) [Not 24/7]
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
 #EXTINF:-1 ,SEN★A2i TV (1080p) [Not 24/7]
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Serbia.png",Serbia❤Djak TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/240px-Flag_of_Serbia.svg.png",Serbia♥Djak TV
 https://srv1.adriatelekom.com/DjakTV/index.m3u8
 #EXTINF:-1 ,SRB★Kurir TV
 https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
@@ -2765,11 +2749,11 @@ https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1 ,SRB★RTV AS
 https://srv1.adriatelekom.com/TVAS/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sierra-Leone.png",Sierra Leone❤AYV (720p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/240px-Flag_of_Sierra_Leone.svg.png",Sierra Leone♥AYV (720p) [Not 24/7]
 https://1219373429.rsc.cdn77.org/live/stream-1/chunklist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Singapore.png",Singapore♥CNA 亚洲新闻台
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/240px-Flag_of_Singapore.svg.png",Singapore♥CNA 亚洲新闻台
 https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Slovakia.png",Slovakia❤JOJ (720p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/240px-Flag_of_Slovakia.svg.png",Slovakia♥JOJ (720p) [Not 24/7]
 https://nn.geo.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 ,SVK★JOJ Family (540p) [Not 24/7]
 https://nn.geo.joj.sk/hls/family-540.m3u8
@@ -2777,29 +2761,15 @@ https://nn.geo.joj.sk/hls/family-540.m3u8
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
 #EXTINF:-1 ,SVK★LocAll (406p)
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Slovenia.png",Slovenia❤Boomerang EMEA
-https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_BOOMERANG_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
-#EXTINF:-1 ,SVN★Cartoon Network
-https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
-#EXTINF:-1 ,SVN★HBO ①
-https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&red
-#EXTINF:-1 ,SVN★HBO ②
-https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redire
-#EXTINF:-1 ,SVN★HBO ③
-https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&re
-#EXTINF:-1 ,SVN★History
-https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
-#EXTINF:-1 ,SVN★Kanal A
-https://streamer01.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&
-#EXTINF:-1 ,SVN★TVDX (486p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/240px-Flag_of_Slovenia.svg.png",Slovenia♥TVDX (486p) [Not 24/7]
 http://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
 #EXTINF:-1 ,SVN★Veseljak
 https://stream.veseljak.tv/hls/stream.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Somalia.png",Somalia❤Saab TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/240px-Flag_of_Somalia.svg.png",Somalia♥Saab TV
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-South-Africa.png",South Africa❤CNBC Africa
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/240px-Flag_of_South_Africa.svg.png",South Africa♥CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Spain.png",Spain❤324
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/240px-Bandera_de_Espa%C3%B1a.svg.png",Spain♥324
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 ,ESP★À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
@@ -2859,18 +2829,20 @@ https://sofytv-samsunges.amagi.tv/playlist.m3u8
 https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★TVE Internacional Asia-Oceania (576p)
 http://45.126.83.51/uq2663/h/h158/index2.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sri-Lanka.png",Sri Lanka❤ITN
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/240px-Flag_of_Sri_Lanka.svg.png",Sri Lanka♥ITN
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 #EXTINF:-1 ,LKA★Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sudan.png",Sudan❤Africa TV1
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/240px-Flag_of_Sudan.svg.png",Sudan♥Africa TV1
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 #EXTINF:-1 ,SDN★Africa TV2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Sweden.png",Sweden❤ATG
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/240px-Flag_of_Sweden.svg.png",Sweden♥ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 ,SWE★Azerbaijan News TV
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1 ,SWE★Epic Drama
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115466
 #EXTINF:-1 ,SWE★Expressen TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
 #EXTINF:-1 ,SWE★FairArmy
@@ -2935,7 +2907,7 @@ https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
 #EXTINF:-1 ,SWE★World Poker Tour
 https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Switzerland.png",Switzerland❤One TV (360p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/240px-Flag_of_Switzerland.svg.png",Switzerland♥One TV (360p)
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 ,CHE★LFM TV (1080p)
 http://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
@@ -2961,7 +2933,7 @@ https://rakuten-tvshows-4-ch.samsung.wurl.tv/playlist.m3u8
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 ,CHE★Tele 1 (German)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Thailand.png",Thailand♥NBT World [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/240px-Flag_of_Thailand.svg.png",Thailand♥NBT World [Not 24/7]
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 ,THA★Thairath TV 32 (720p)
 https://live.thairath.co.th/trtv2/playlist.m3u8
@@ -2969,7 +2941,7 @@ https://live.thairath.co.th/trtv2/playlist.m3u8
 http://w.nasvpn.xyz:8080/live/saya/saya/13300.ts
 #EXTINF:-1 ,THA★WB TV
 http://w.nasvpn.xyz:8080/live/saya/saya/5213.ts
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Turkey.png",Turkey❤360
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/240px-Flag_of_Turkey.svg.png",Turkey♥360
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 ,TUR★Africa NTR
 https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
@@ -3035,7 +3007,7 @@ http://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
 #EXTINF:-1 ,TUR★TV 41
 http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Ukraine.png",Ukraine❤BamBarBia TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/240px-Flag_of_Ukraine.svg.png",Ukraine♥BamBarBia TV
 https://cdn1.live-tv.od.ua:8083/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 ,UKR★Lanet TV (Ланет)
 http://kiev1-cdn.lanet.tv/live/1008.m3u8
@@ -3043,7 +3015,7 @@ http://kiev1-cdn.lanet.tv/live/1008.m3u8
 https://open-cdn.lanet.tv/live/1008.m3u8
 #EXTINF:-1 ,UKR★Suspline Pershyi
 http://88.218.242.235:82/0196/video.m3u8?token=2qm9dRD427
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Arab-Emirates.png",United Arab Emirates❤Abu Dhabi Aloula
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/240px-Flag_of_the_United_Arab_Emirates.svg.png",United Arab Emirates♥Abu Dhabi Aloula
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 ,UAE★Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
@@ -3089,7 +3061,7 @@ https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 ,UAE★Weyyak Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Kingdom.png",United Kingdom❤Arise News
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/240px-Flag_of_the_United_Kingdom.svg.png",United Kingdom♥Arise News
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 ,GBR★BBC News
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
@@ -3335,17 +3307,17 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:-1 ,GBR★Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Uruguay.png",Uruguay❤Latino Kids (360p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/240px-Flag_of_Uruguay.svg.png",Uruguay♥Latino Kids (360p) [Not 24/7]
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 ,URY★Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Uzbekistan.png",Uzbekistan❤FilmTV Kinder (Russian★400p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/240px-Flag_of_Uzbekistan.svg.png",Uzbekistan♥FilmTV Kinder (Russian★400p)
 https://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Venezuela.png",Venezuela❤TeleSUR (1080p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/240px-Flag_of_Venezuela.svg.png",Venezuela♥TeleSUR (1080p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 ,VEN★TeleSUR English (1080p) [Not 24/7]
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 logo="https://www.countries-ofthe-world.com/flags-normal/flag-of-Vietnam.png",Vietnam❤Da Nang TV1
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/240px-Flag_of_Vietnam.svg.png",Vietnam♥Da Nang TV1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 ,VNM★Da Nang TV2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
@@ -3359,4 +3331,3 @@ https://lbs-us1.suprememastertv.com/720p.m3u8
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 ,VNM★V News
 https://16371213858134.vnns.net/ttxvn_abr/playlist.m3u8
-
