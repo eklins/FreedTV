@@ -265,6 +265,24 @@
       "parse": false
     },
     {
+      "name": "Discovery Family",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145943",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney Channel (US East)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146675",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney XD (US East)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146684",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "DreamWorks (Korea★540p)",
       "url": "https://apichvod1.seezntv.com/OTM/10760_L.m3u8?AdaptiveType=HLS&SessionID=5c88a543-33ad-4b9b-a9a1-83710d72ad14",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -279,6 +297,12 @@
     {
       "name": "External Ottera",
       "url": "https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FXX",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145956",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -355,8 +379,38 @@
       "parse": false
     },
     {
+      "name": "my50",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142395",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nick Junior Channel (US West)",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146677",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nick Toons",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146679",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Nickelodeon",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146680",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "OMG Channel (Iran)",
       "url": "http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PBS Kids",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146681",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -421,6 +475,12 @@
       "parse": false
     },
     {
+      "name": "Teen Nick",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146682",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TG",
       "url": "https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -447,6 +507,12 @@
     {
       "name": "Toonami Aftermath West (480p)",
       "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Universal Kids",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146683",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
