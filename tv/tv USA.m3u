@@ -2657,8 +2657,8 @@ https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
 https://v-pi.mybtv.net/live/422.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,True History
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
-#EXTINF:-1 ,True Real (WPPX-DT4★480p)
-https://v-pi.mybtv.net/live/415.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 ,True Real (WPXN-DT6)
+https://v-ny.mybtv.net/live/596.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,TSTV (720p)
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 ,TV Delmarva 14 (W14DK-D1)
