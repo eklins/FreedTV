@@ -239,6 +239,48 @@
       "url": "http://39.135.134.67/000000001000/3000000001000026778/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "BesTV 01",
+      "url": "http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/hdnba1/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 02",
+      "url": "http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/hdnba2/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 03",
+      "url": "http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/hdnba3/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 04",
+      "url": "http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/hdnba4/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 05",
+      "url": "http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 06",
+      "url": "http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/hdnba6/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 07",
+      "url": "http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/hdnba7/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
     }
   ]
 }
