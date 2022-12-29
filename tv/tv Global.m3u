@@ -61,6 +61,8 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg",WWE Network
 http://w.nasvpn.xyz:8080/live/saya/saya/5337.ts
+#EXTINF:-1 ,🇺🇳AMC Low
+http://flysilo.top:8080/live/8031659300659217/8611659300659217/5553.ts
 #EXTINF:-1 ,🇺🇳Anime TV (480p)
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 ,🇺🇳art
