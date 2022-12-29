@@ -1921,6 +1921,12 @@
       "parse": false
     },
     {
+      "name": "SiTV 极速汽车",
+      "url": "http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "SiTV 劲爆体育",
       "url": "http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
