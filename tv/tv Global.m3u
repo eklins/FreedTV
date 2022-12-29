@@ -61,8 +61,6 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg",WWE Network
 http://w.nasvpn.xyz:8080/live/saya/saya/5337.ts
-#EXTINF:-1 ,🇺🇳AMC Low
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5553.ts
 #EXTINF:-1 ,🇺🇳Anime TV (480p)
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 ,🇺🇳art
@@ -85,8 +83,6 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71198
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71201
 #EXTINF:-1 ,🇺🇳FilmBox Family
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115468
-#EXTINF:-1 ,🇺🇳Films 8155
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8155.ts
 #EXTINF:-1 ,🇺🇳Globo
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16730
 #EXTINF:-1 ,🇺🇳HBO 2 (eagleiptv)
