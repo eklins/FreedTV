@@ -2365,12 +2365,6 @@
       "parse": false
     },
     {
-      "name": "TVS Cipher Network (360p)",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "TVS Classic Cinema (240p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-classiccinema/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
@@ -2401,13 +2395,13 @@
       "parse": false
     },
     {
-      "name": "TVS Film Noir Network",
+      "name": "TVS Film Noir",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "TVS Front Page Detective",
+      "name": "TVS Front Page Detective (360p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
@@ -2431,7 +2425,7 @@
       "parse": false
     },
     {
-      "name": "TVS Horror Network (476p)",
+      "name": "TVS Horror (476p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
@@ -2449,13 +2443,13 @@
       "parse": false
     },
     {
-      "name": "TVS Music Network",
+      "name": "TVS Music",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "TVS Mystery",
+      "name": "TVS Mystery (360p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
@@ -2473,19 +2467,13 @@
       "parse": false
     },
     {
-      "name": "TVS Quiz Show Network",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "TVS Tally Ho (360p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "TVS Television Network (480p)",
+      "name": "TVS Television Network (490p)",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
       "parse": false
