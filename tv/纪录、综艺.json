@@ -3235,12 +3235,6 @@
       "parse": false
     },
     {
-      "name": "TVS Quiz Show",
-      "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "TVS Rare Collectibles",
       "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",
