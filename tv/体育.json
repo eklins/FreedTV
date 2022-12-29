@@ -86,6 +86,18 @@
       "parse": false
     },
     {
+      "name": "SiTV 极速汽车",
+      "url": "http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "SiTV 劲爆体育",
+      "url": "http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "SiTV 魅力足球",
       "url": "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
@@ -134,19 +146,19 @@
       "parse": false
     },
     {
-      "name": "极速汽车",
-      "url": "http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "健身操",
       "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227314/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "上海五星体育",
+      "name": "上海五星体育 ①",
+      "url": "http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "上海五星体育 ②",
       "url": "http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
