@@ -3085,6 +3085,12 @@
       "parse": false
     },
     {
+      "name": "RedBox Food 52",
+      "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8WKhpHTZoLYtP6x6QThDEu0Q9nPIE_z7pg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "STIRR AFV",
       "url": "https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71IK54XkrswO7TEKnFKClKiGjmxT4QyG2aA&usqp=CAU",
