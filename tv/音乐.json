@@ -451,6 +451,12 @@
       "parse": false
     },
     {
+      "name": "Music Box Gold (Russia)",
+      "url": "http://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Music City Arts",
       "url": "https://pegstudio.dyndns.tv/live-11/live/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
