@@ -999,6 +999,8 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 ,DEU★a•TV
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 ,DEU★Alex Berlin (1080p) [Not 24/7]
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:-1 ,DEU★Anixe HD Serie
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 ,DEU★Baden TV
