@@ -513,6 +513,8 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 ,BGR★Light Channel (480p) [Not 24/7]
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/240px-Flag_of_Burkina_Faso.svg.png",Burkina Faso♥BF1
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/240px-Flag_of_Cambodia.svg.png",Cambodia♥Bayon TV (360p)
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:-1 ,KHM★Fresh News
