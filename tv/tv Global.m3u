@@ -1971,7 +1971,9 @@ http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 ,KOR★YTN Science (270p)
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/240px-Flag_of_Kosovo.svg.png",Kosovo♥TV Dielli (720p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/240px-Flag_of_Kosovo.svg.png",Kosovo♥RTK 1
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/86
+#EXTINF:-1 ,XXK★TV Dielli (720p)
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/240px-Flag_of_Kuwait.svg.png",Kuwait♥Al Rai TV
 https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
