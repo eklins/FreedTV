@@ -469,42 +469,6 @@
       "parse": false
     },
     {
-      "name": "Film Aksion (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/18",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Film Drame (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/63",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Film Eurofilm (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/62",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Film Komedi (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/66",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Film Max (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/16",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Film Thriller (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/15",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Filma24 Aksion (Albania)",
       "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/541",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -639,18 +603,6 @@
     {
       "name": "Foreign Movies (China)",
       "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX Life",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/68",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX Movies",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/69",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1057,12 +1009,6 @@
       "parse": false
     },
     {
-      "name": "Mediaset Italia 2 (Canada)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/121",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MeTV NY (WJLP-DT1)",
       "url": "https://v-ny.mybtv.net/live/637.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1375,12 +1321,6 @@
       "parse": false
     },
     {
-      "name": "Smile (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/41",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Sofy TV (UK)",
       "url": "https://sofytv-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1401,12 +1341,6 @@
     {
       "name": "Start TV (WCBS-DT2)",
       "url": "https://v-ny.mybtv.net/live/546.m3u8?env=prd&uid=-1&x=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Stinet (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1503,36 +1437,6 @@
     {
       "name": "Toonami Aftermath Movies (540p)",
       "url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Tring Action (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/48",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Tring Comedy (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/49",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Tring Fantasy (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/50",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Tring Life (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/52",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Tring Super (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/56",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
