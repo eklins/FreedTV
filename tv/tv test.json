@@ -13,7 +13,6 @@
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": true
     },
-    {
       "name": "Explorer Shkence (Albania)",
       "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/20",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -28,6 +27,12 @@
     {
       "name": "Film Family (Albania)",
       "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/19",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "GOLD (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/64",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -121,6 +126,7 @@
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
     },
+    {
     {
       "name": "4U Classic TV (480p)",
       "url": "https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8",
