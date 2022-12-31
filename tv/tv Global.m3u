@@ -2781,6 +2781,8 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 ,ESP★betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 ,ESP★Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 ,ESP★DTV Play (Deporte Total)
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 ,ESP★EiTB ①
