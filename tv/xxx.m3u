@@ -127,6 +127,8 @@ http://195.154.185.179/xx_venus_tv/index.m3u8
 http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Playboy TV (Korea)
 https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
+#EXTINF:-1 ,Private
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/149
 #EXTINF:-1 ,RedLight HD (Netherlands)
 http://w4.12all.tv:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 ,Redlight HD (Private TV1)
@@ -147,6 +149,8 @@ http://stream.visit-x.tv/vxtv/live/chunklist_w1769846509.m3u8
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 ,VISIT-X TV Playlist
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 ,VIVID Red
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/150
 #EXTINF:-1 ,新麻豆傳媒0.1
 https://video2.51daao.com/btt1/2021/04/20210421/vTcVOAWe/index.m3u8
 #EXTINF:-1 ,新麻豆傳媒0.2
