@@ -131,7 +131,7 @@ http://51.210.199.42/hls/stream.m3u8
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/240px-Flag_of_Albania.svg.png",Albania♥7 HD
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
-#EXTINF:-1 ,ALB★ABC Lajme
+#EXTINF:-1 ,ALB★ABC News (Lajme)
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/26
 #EXTINF:-1 ,ALB★ALB Dreams (720p)
 http://live.albavision.net:1123/live/albdreams.m3u8
@@ -139,6 +139,8 @@ http://live.albavision.net:1123/live/albdreams.m3u8
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 ,ALB★ALPO (720p) [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 ,ALB★Fax News
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/29
 #EXTINF:-1 ,ALB★Korça＋ [Not 24/7]
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1 ,ALB★News 24 (392p) [Not 24/7]
