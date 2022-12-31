@@ -224,6 +224,18 @@
       "parse": false
     },
     {
+      "name": "4U Bluegrass Music (480p)",
+      "url": "https://rebroadcast.mytvtogo.net/mytvtogo/blugrassmusic/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "4U Street Music (480p)",
+      "url": "https://rebroadcast.mytvtogo.net/mytvtogo/streetmusic/chunks.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ABC News (US)",
       "url": "http://140.238.155.232:9000/jmsytb.m3u8?c=1",
       "pic": "https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg",
@@ -311,6 +323,12 @@
       "name": "上海五星体育 207",
       "url": "http://183.207.255.207/live/program/live/ssty/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "4U Action Sports (480p)",
+      "url": "https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
