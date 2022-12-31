@@ -409,6 +409,54 @@
       "parse": false
     },
     {
+      "name": "Falcon Cinema 542 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/542",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Falcon Cinema 543 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/543",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Falcon Cinema 544 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/544",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Falcon Cinema 545 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/545",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Falcon Cinema 546 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/546",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Falcon Cinema 547 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/547",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Falcon Horror 548 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/548",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Falcon Horror 549 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/549",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Fave TV (WCBS-DT4)",
       "url": "https://v-ny.mybtv.net/live/648.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -417,6 +465,12 @@
     {
       "name": "Ficom Channel (Indonesia) [Not 24/7]",
       "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Filma24 Aksion (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/541",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
