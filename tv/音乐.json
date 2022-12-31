@@ -787,6 +787,12 @@
       "parse": false
     },
     {
+      "name": "Radio Zeta (Italy)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/170",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "RBD TV (Argentina)",
       "url": "https://59537faa0729a.streamlock.net/rbdvideo/rbdvideo/chunklist_w1014102205.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
