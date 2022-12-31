@@ -74,8 +74,26 @@
       "parse": false
     },
     {
+      "name": "4U Classic TV (480p)",
+      "url": "https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "4U Movee (480p)",
+      "url": "https://broadcast.mytvtogo.net/movee4u/movee4u/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "4U Sci-Fi (480p)",
       "url": "https://rebroadcast.mytvtogo.net/mytvtogo/SciFiTV4u/chunks.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "4U Western (480p)",
+      "url": "https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
