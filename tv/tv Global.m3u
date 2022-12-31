@@ -1001,7 +1001,7 @@ http://123tv-mx1.flex-cdn.net/index.m3u8
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 ,DEU★Alex Berlin (1080p) [Not 24/7]
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:-1 ,DEU★Anixe HD Serie
+#EXTINF:-1 ,DEU★Anixe HD Serie (360p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 ,DEU★Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
@@ -3009,6 +3009,8 @@ http://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
 #EXTINF:-1 ,TUR★TV 41
 http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/240px-Flag_of_Uganda.svg.png",Uganda♥Ark World TV (576p)
+https://arktelevision.org/hlslive/test/test.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/240px-Flag_of_Ukraine.svg.png",Ukraine♥BamBarBia TV
 https://cdn1.live-tv.od.ua:8083/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 ,UKR★Lanet TV (Ланет)
