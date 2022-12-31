@@ -1003,6 +1003,18 @@
       "parse": false
     },
     {
+      "name": "Sport 2 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/5",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sport News (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/4",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sports Grid (UK)",
       "url": "https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1065,6 +1077,24 @@
     {
       "name": "Strongman Champions League (Netherlands)",
       "url": "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Super Sport 6 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/6",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Super Sport 7 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/7",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Super Sport 8 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
