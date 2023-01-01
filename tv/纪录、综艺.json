@@ -1825,6 +1825,12 @@
       "parse": false
     },
     {
+      "name": "Strongman Champions League (Sweden)",
+      "url": "https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Supreme Master TV",
       "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
