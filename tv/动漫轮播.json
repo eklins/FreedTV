@@ -283,12 +283,6 @@
       "parse": false
     },
     {
-      "name": "DreamWorks (Korea★540p)",
-      "url": "https://apichvod1.seezntv.com/OTM/10760_L.m3u8?AdaptiveType=HLS&SessionID=5c88a543-33ad-4b9b-a9a1-83710d72ad14",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "EBC YoYo (Taiwan)",
       "url": "http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
