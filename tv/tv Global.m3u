@@ -1049,6 +1049,8 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1 ,DEU★NDR Fernsehen International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 ,DEU★Oeins
+https://www.oeins.de/live/studio.m3u8
 #EXTINF:-1 ,DEU★ONE1 Music
 https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
 #EXTINF:-1 ,DEU★Pluto Doctor Who 2005-?
