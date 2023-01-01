@@ -49,12 +49,6 @@
       "parse": false
     },
     {
-      "name": "ALB Music (Albania)",
-      "url": "http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "AlbKanale Music TV (Albania)",
       "url": "https://albportal.net/albkanalemusic.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -93,12 +87,6 @@
     {
       "name": "B1 TV (Bosnia and Herzegovina) [Not 24/7]",
       "url": "http://proxy.bihnet.net:88/live/b1tv.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BBF Music TV (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/27",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -289,12 +277,6 @@
       "parse": false
     },
     {
-      "name": "Folk Plus (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/30",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Fox TV (Greece)",
       "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -397,12 +379,6 @@
       "parse": false
     },
     {
-      "name": "Klan Music (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/83",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "KMTV Now (Korea)",
       "url": "https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -429,12 +405,6 @@
     {
       "name": "M2 (Ukraine)",
       "url": "http://live.m2.tv/hls3/stream.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Melody TV (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/13",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -531,12 +501,6 @@
     {
       "name": "Music TV (Taiwan)",
       "url": "http://198.16.64.10:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "My Music (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/71",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
