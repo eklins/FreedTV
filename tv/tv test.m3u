@@ -7,18 +7,18 @@ https://tvp22.sky4k.top/index2.php
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 ,香港有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 ,Action
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/509
-#EXTINF:-1 ,Arena Sport
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/382
 #EXTINF:-1 ,Arena Sport 5
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/378
-#EXTINF:-1 ,beIN Sports 1
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/387
+#EXTINF:-1 ,beIN Sports 3
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/389
+#EXTINF:-1 ,beIN Sports 10
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/396
 #EXTINF:-1 ,M6 Music
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/574
 #EXTINF:-1 ,MTV Kosova
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/630
+#EXTINF:-1 ,SYFY
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/517
 #EXTINF:-1 ,TELE one
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/604
 #EXTINF:-1 ,TELE one 1
@@ -35,11 +35,21 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/610
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/611
 #EXTINF:-1 ,TELE one Film Crime
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/612
+#EXTINF:-1 ,TELE one Film Drame
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/616
 #EXTINF:-1 ,TELE one Gold Collection
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/613
+#EXTINF:-1 ,Top Crime
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/181
 #EXTINF:-1 ,Tring Festa
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/260
-#EXTINF:-1 ,Action (Fernando)
+#EXTINF:-1 ,Universal
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/521
+#EXTINF:-1 ,VOX
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/522
+#EXTINF:-1 ,WB TV Comedy
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/518
+#EXTINF:-1 ,Action
 http://cineapp.org:8000/Fernando/Fernando/9711
 #EXTINF:-1 ,?env=prd&uid=-1&x=1
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115466?env=prd&uid=-1&x=1
