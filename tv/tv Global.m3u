@@ -2711,6 +2711,8 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1 ,RUS★Pervyy Pskovskiy (Первый Псковский)
 http://194.190.78.91/pskov/rewind-10800.m3u8
+#EXTINF:-1 ,RUS★Pervyy Tulskiy (Первый Тульский)
+http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 #EXTINF:-1 ,RUS★РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 ,RUS★Ростов папа (Rostov papa)
@@ -2723,6 +2725,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://serv30.vintera.tv/sochi/sochi24/playlist.m3u8
 #EXTINF:-1 ,RUS★Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 ,RUS★Spas Cnas
+http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 ,RUS★THT
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:-1 ,RUS★TV BRICS (Chinese)
