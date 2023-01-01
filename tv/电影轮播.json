@@ -283,6 +283,12 @@
       "parse": false
     },
     {
+      "name": "Dark Gold (Switzerland)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/626",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Dark Matter TV",
       "url": "https://dmtv-plex.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1009,6 +1015,12 @@
       "parse": false
     },
     {
+      "name": "Mediaset Top Crime (Italy)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/181",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MeTV NY (WJLP-DT1)",
       "url": "https://v-ny.mybtv.net/live/637.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1371,6 +1383,84 @@
     {
       "name": "Teen Nick",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146682",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Tele One Aksion (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/610",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Tele One Aksion (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/610",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Tele One Aventure (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/611",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Tele One Epik Film (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/617",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Tele One Film Crime (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/612",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Tele One Film Drame (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/616",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Tele One Film Fantazi (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/614",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Tele One Gold Collection (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/613",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TELEone 604 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/604",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TELEone 605 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/605",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TELEone 606 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/606",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TELEone 607 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/607",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TELEone 608 (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/608",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
