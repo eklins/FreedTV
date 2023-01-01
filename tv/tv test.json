@@ -139,6 +139,12 @@
       "parse": false
     },
     {
+      "name": "E+ Broadband. (UK)",
+      "url": "https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Epic Drama (Sweden) load n stop",
       "url": "http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115466",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -315,6 +321,12 @@
     {
       "name": "FOX Movies",
       "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/69",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Junior (Albania)",
+      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/14",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
