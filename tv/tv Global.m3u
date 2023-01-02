@@ -99,10 +99,6 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173549.ts
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115467
 #EXTINF:-1 ,🇺🇳Fentazy
 http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 ,🇺🇳film ACTION
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71198
-#EXTINF:-1 ,🇺🇳film DRAMA
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71201
 #EXTINF:-1 ,🇺🇳FilmBox Family
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115468
 #EXTINF:-1 ,🇺🇳Galabox Avatar
@@ -2243,6 +2239,14 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★Feel Good TV
 https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
+#EXTINF:-1 ,NLD★Film1 Action
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71198
+#EXTINF:-1 ,NLD★Film1 Drama
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71201
+#EXTINF:-1 ,NLD★Film1 Family
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129955.ts
+#EXTINF:-1 ,NLD★Film1 Premiere
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129929.ts
 #EXTINF:-1 ,NLD★Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,NLD★FITE
