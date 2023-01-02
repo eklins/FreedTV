@@ -1819,6 +1819,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 ,ITA★Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 ,ITA★Sky Primafila 01
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156645.ts
 #EXTINF:-1 ,ITA★Sky Primafila 02
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156638.ts
 #EXTINF:-1 ,ITA★Sky Primafila 03
@@ -1831,9 +1833,9 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156642.ts
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156641.ts
 #EXTINF:-1 ,ITA★Sky Primafila 07
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156639.ts
-#EXTINF:-1 ,ITA★Sky Primafila 08★156643
+#EXTINF:-1 ,ITA★Sky Primafila 08
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156643.ts
-#EXTINF:-1 ,ITA★Sky Primafila 08★156644
+#EXTINF:-1 ,ITA★Sky Primafila 09
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156644.ts
 #EXTINF:-1 ,ITA★Sky Primafila 10
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156637.ts
@@ -2236,10 +2238,10 @@ https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlis
 #EXTINF:-1 ,NLD★Film1 Action
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71198
 #EXTINF:-1 ,NLD★Film1 Drama
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71201
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129930.ts
 #EXTINF:-1 ,NLD★Film1 Family
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129955.ts
-#EXTINF:-1 ,NLD★Film1 Premiere
+#EXTINF:-1 ,NLD★Film1 Premiere🔇
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129929.ts
 #EXTINF:-1 ,NLD★Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
