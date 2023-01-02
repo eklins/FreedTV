@@ -319,12 +319,6 @@
       "parse": false
     },
     {
-      "name": "IN TV (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/70",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Italianissimo (Venezuela)",
       "url": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -411,12 +405,6 @@
     {
       "name": "M2 (Ukraine)",
       "url": "http://live.m2.tv/hls3/stream.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "M6 Music (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/574",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -733,12 +721,6 @@
       "parse": false
     },
     {
-      "name": "Radio Italia Trend",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/194",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Radio Javan (RJTV)",
       "url": "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -759,12 +741,6 @@
     {
       "name": "Radio Studio Delta TV (Italy)",
       "url": "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Radio Zeta (Italy)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/170",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -945,12 +921,6 @@
     {
       "name": "Spirit TV (720p) [Not 24/7]",
       "url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Stingray Holiday Hits (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/619",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
