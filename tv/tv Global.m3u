@@ -1195,6 +1195,8 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 ,GRC★NRG 91
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:-1 ,GRC★one Channel
+https://streaming.onetv.gr/show/onetv_src/index.m3u8
 #EXTINF:-1 ,GRC★Open Beyond HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 ,GRC★SKAÏ
