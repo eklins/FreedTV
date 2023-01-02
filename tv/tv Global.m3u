@@ -73,10 +73,16 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16700
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Cine Frisson (French)
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173535.ts
+#EXTINF:-1 ,🇺🇳Cine Gold Comedy
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173548.ts
 #EXTINF:-1 ,🇺🇳Cine Gold Crime
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173547.ts
 #EXTINF:-1 ,🇺🇳Cine Gold Drama
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173546.ts
+#EXTINF:-1 ,🇺🇳Cine Gold Family
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173545.ts
+#EXTINF:-1 ,🇺🇳Cine Gold Horror
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173528.ts
 #EXTINF:-1 ,🇺🇳Cine Gold War
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173542.ts
 #EXTINF:-1 ,🇺🇳Cine Star (TCM Cinema)
@@ -133,6 +139,8 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173496.ts
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173497.ts
 #EXTINF:-1 ,🇺🇳IPTV-SciFi
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173498.ts
+#EXTINF:-1 ,🇺🇳Kabel eins Doku
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47786.ts
 #EXTINF:-1 ,🇺🇳MaAX Kino 1
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173510.ts
 #EXTINF:-1 ,🇺🇳MaAX Kino 2
@@ -167,6 +175,8 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16749
 http://w.nasvpn.xyz:8080/live/saya/saya/7773.ts
 #EXTINF:-1 ,🇺🇳Serie Club
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47787.ts
+#EXTINF:-1 ,🇺🇳Sky Atlantic Maratona
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172886.ts
 #EXTINF:-1 ,🇺🇳Sky Cinema 1+
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173479.ts
 #EXTINF:-1 ,🇺🇳Sky Cinema Drama
@@ -1143,6 +1153,12 @@ https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
 #EXTINF:-1 ,DEU★RFH
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 ,DEU★RTL Crime
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47863.ts
+#EXTINF:-1 ,DEU★RTL Nitro
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47736.ts
+#EXTINF:-1 ,DEU★RTL Super
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156658.ts
 #EXTINF:-1 ,DEU★Santhora Short Film TV (Tamil★Köln)
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1 ,DEU★Sky Select Premiere
@@ -1757,6 +1773,8 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156562.ts
 #EXTINF:-1 ,ITA★Rai 5
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156563.ts
+#EXTINF:-1 ,ITA★Rai Gulp
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156564.ts
 #EXTINF:-1 ,ITA★Rai Italia Asia
 http://45.126.83.51/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 ,ITA★Rai Movie
@@ -1827,6 +1845,8 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156639.ts
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156643.ts
 #EXTINF:-1 ,ITA★Sky Primafila 08★156644
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156644.ts
+#EXTINF:-1 ,ITA★Sky Primafila 10
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156637.ts
 #EXTINF:-1 ,ITA★Sofy TV
 https://sofytv-samsungit.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,ITA★Sophia TV
