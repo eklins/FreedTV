@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,无线新闻
+#EXTINF:-1 user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",无线新闻
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://tvp22.sky4k.top/index1.php
 #EXTINF:-1 ,无线财经
 https://tvp22.sky4k.top/index2.php
@@ -9,7 +10,8 @@ https://api.leonardpark.dev/live/icable/110
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 ,Golf+
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/401
-#EXTINF:-1 ,Tele One
+#EXTINF:-1 user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Tele One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/615
 #EXTINF:-1 ,The Movies
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52141
