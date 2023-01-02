@@ -307,8 +307,20 @@
       "parse": false
     },
     {
+      "name": "军武直播",
+      "url": "http://epg.112114.xyz/douyu/227670",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "看鉴历史",
       "url": "http://epg.112114.xyz/douyu/9498431",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "辽宁卫视综艺汇",
+      "url": "http://epg.112114.xyz/douyu/9403779",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -356,7 +368,7 @@
     },
     {
       "name": "易中天品三国",
-      "url": "http://epg.112114.xyz/huya/11602032",
+      "url": "http://epg.112114.xyz/huya/2320076",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -381,6 +393,12 @@
     {
       "name": "台湾八大综合台",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾国防时报",
+      "url": "http://epg.112114.xyz/douyu/9680887",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
