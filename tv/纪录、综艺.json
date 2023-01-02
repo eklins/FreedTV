@@ -505,6 +505,30 @@
       "parse": false
     },
     {
+      "name": "amp Arts",
+      "url": "https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamb/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "amp C",
+      "url": "https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamc/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "amp FSTV",
+      "url": "https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streama/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "amp Zoom",
+      "url": "https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streame/manifest.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Anexión TV Canal 36 (Costa Rica)",
       "url": "https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
