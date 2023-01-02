@@ -8,14 +8,12 @@ https://tvp22.sky4k.top/index2.php
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 ,香港有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 ,Golf+
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/401
 #EXTINF:-1 user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Tele One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/615
-#EXTINF:-1 ,The Movies
+#EXTINF:-1 ,The Movies (streamplayapptv.xyz:8080/Liandragraca) play n stop
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52141
-#EXTINF:-1 ,Action
+#EXTINF:-1 ,Action (cineapp.org:8000/Fernando)
 http://cineapp.org:8000/Fernando/Fernando/9711
 #EXTINF:-1 ,?env=prd&uid=-1&x=1
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115466?env=prd&uid=-1&x=1
