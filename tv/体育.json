@@ -301,42 +301,6 @@
       "parse": false
     },
     {
-      "name": "Arena 1 Premium (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/375",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Arena Sport 1 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/386",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Arena Sport 2★383 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/383",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Arena Sport 2★384 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/384",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Arena Sport 3 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/382",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Arena Sport 5 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/378",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Arryadia (Morocco)",
       "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -391,60 +355,6 @@
       "parse": false
     },
     {
-      "name": "beIN Sports 2 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/388",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 3 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/389",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 5 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/391",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 6★387 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/387",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 6★392 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/392",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 7 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/393",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 8 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/394",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 9 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/395",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "beIN Sports 10 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/396",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "beIN Sports 2 (Taiwan)",
       "url": "http://198.16.64.10:8278/Bein2hd/playlist.m3u8?tid=MD5D6186771861867718&ct=19225&tsum=7c0ab40062586283b22934ea37318203",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -471,12 +381,6 @@
     {
       "name": "CF97 Soccer Live",
       "url": "https://d1sp4cpu5on4l7.cloudfront.net/out/v1/ec82e0a9c5564fb497366186c09052e5/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "City TV🔇",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/139",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -657,12 +561,6 @@
     {
       "name": "Fubo Sports Network",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52670",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Golf+ (France)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/401",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1033,12 +931,6 @@
       "parse": false
     },
     {
-      "name": "RTSH Sport (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/199",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "RTV San Marino Sport (Italy)",
       "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1069,30 +961,6 @@
       "parse": false
     },
     {
-      "name": "SK1 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/376",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SK4 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/373",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SK5 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/372",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SK6 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/371",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Ski TV",
       "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1119,12 +987,6 @@
     {
       "name": "SNY (SportsNet New York)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52697",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sport News🔇 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/4",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1201,30 +1063,6 @@
       "parse": false
     },
     {
-      "name": "SuperSport 6 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/6",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SuperSport 7 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/7",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SuperSport 8 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SuperSport Kosova 2🔇 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/5",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Swerve Sports",
       "url": "https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1275,24 +1113,6 @@
     {
       "name": "Trace Sport Stars (New Zealand)",
       "url": "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Tring Sport 1🔇 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/42",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Tring Sport 2🔇 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/43",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Tring Sport News🔇 (Albania)",
-      "url": "http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/55",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
