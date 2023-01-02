@@ -403,6 +403,12 @@
       "parse": false
     },
     {
+      "name": "La Voz de Tucuman (Argentina)",
+      "url": "https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "M2 (Ukraine)",
       "url": "http://live.m2.tv/hls3/stream.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
