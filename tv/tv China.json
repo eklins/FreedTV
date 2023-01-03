@@ -535,6 +535,18 @@
       "parse": false
     },
     {
+      "name": "德阳文旅科教",
+      "url": "http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "德阳新闻综合",
+      "url": "http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "东兰",
       "url": "https://cdn.gdlive.gdmain.com/live/53x8ama5.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
