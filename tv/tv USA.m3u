@@ -1475,6 +1475,8 @@ https://pac12-samsungus.amagi.tv/playlist.m3u8
 https://pacifica-ca.secure.footprint.net/egress/bhandler/pacificaca/streama/manifest.m3u8
 #EXTINF:-1 ,Pacific Coast TV MWSD Channel 26 (720p)
 https://pacifica-ca.secure.footprint.net/egress/bhandler/pacificaca/streamb/manifest.m3u8
+#EXTINF:-1 ,Palm Springs Community Television (720p)
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145824
 #EXTINF:-1 ,Party Tyme Karaoke (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
 #EXTINF:-1 ,Pattrn (720p)
