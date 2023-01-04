@@ -2677,6 +2677,36 @@
       "parse": false
     },
     {
+      "name": "芒果独播",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果好看（IPTV）",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099174/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果华语",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果乐活",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000154081/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果热剧（IPTV）",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099232/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NewTV 爱情喜剧",
       "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8?$广西cdn",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
@@ -3025,6 +3055,12 @@
       "parse": false
     },
     {
+      "name": "金色夕阳",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196971/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "经典功夫台",
       "url": "https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -3057,18 +3093,6 @@
     {
       "name": "溧水影视娱乐",
       "url": "http://live.lsrmw.cn/ysyl/sd/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "芒果独播",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "芒果华语",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -3213,6 +3237,12 @@
     {
       "name": "长城精品",
       "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "长沙影视频道",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000030/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
