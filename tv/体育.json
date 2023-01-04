@@ -817,6 +817,12 @@
       "parse": false
     },
     {
+      "name": "NFL Podcast",
+      "url": "https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Now Sports Prime (HK)",
       "url": "http://livetv.dnsfor.me:80/channel.12.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
