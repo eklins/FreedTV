@@ -25,6 +25,12 @@
       "parse": false
     },
     {
+      "name": "PBS WLIW 21 (WLIW-DT1)",
+      "url": "https://v-ny.mybtv.net/live/575.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "PBS Kids (WNET-DT2)",
       "url": "https://v-ny.mybtv.net/live/568.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
