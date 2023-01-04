@@ -25,6 +25,12 @@
       "parse": false
     },
     {
+      "name": "PBS Kids (WNET-DT2)",
+      "url": "https://v-ny.mybtv.net/live/568.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MIGU Global",
       "url": "http://gslb.cdn.hk.chinamobile.com:80/live/d172754e7b0f4ec5969b5dec6fe5e37b/74ef089a0ca147ec8e1a7d9f8151d88b-1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
