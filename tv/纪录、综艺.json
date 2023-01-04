@@ -189,31 +189,31 @@
     {
       "name": "芒果互娱（IPTV）",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196970/main.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "芒果精选",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196968/main.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "芒果汽车",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196967/main.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "芒果热播（IPTV乐淘）",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "芒果综艺",
       "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
       "parse": false
     },
     {
