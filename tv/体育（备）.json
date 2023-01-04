@@ -283,6 +283,30 @@
       "parse": false
     },
     {
+      "name": "直播 01",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028056/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxxjNVKxhUX2aTHfyGvaxbyGVOHHyW3TCfng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "直播 02",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285865/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxxjNVKxhUX2aTHfyGvaxbyGVOHHyW3TCfng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "直播 03",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285866/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxxjNVKxhUX2aTHfyGvaxbyGVOHHyW3TCfng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "直播 04",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285875/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxxjNVKxhUX2aTHfyGvaxbyGVOHHyW3TCfng&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "viaplay 01 (Netherlands)",
       "url": "http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172952.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxLs8PIrkCHrC_8WEm9vEsZTDchNwILBQ-Q&usqp=CAU",
