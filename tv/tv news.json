@@ -19,12 +19,6 @@
       "parse": false
     },
     {
-      "name": "澳门资讯",
-      "url": "http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxduHtwR2klQsWUKxwyyDuZ8utKUQmJiZqg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "香港凤凰卫视中文台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg",
@@ -544,12 +538,6 @@
       "name": "台湾三立iNEWS",
       "url": "https://www.chaojidianshi.net/extension/26.xhtml",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾三立LIVE新闻",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EB4g7wecgTI",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMh1EsJTYZAzeuAhRHVejml2s3UKMYgAOiA&usqp=CAU",
       "parse": true
     },
     {
