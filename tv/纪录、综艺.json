@@ -187,6 +187,36 @@
       "parse": false
     },
     {
+      "name": "芒果互娱（IPTV）",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196970/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果精选",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196968/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果汽车",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196967/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果热播（IPTV乐淘）",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "芒果综艺",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NewTV 超级综艺",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
@@ -255,6 +285,12 @@
     {
       "name": "果库科幻所长",
       "url": "http://epg.112114.xyz/douyu/9383318",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "好吃厨房",
+      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000032/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -333,12 +369,6 @@
     {
       "name": "龙视欢乐英雄转",
       "url": "http://epg.112114.xyz/douyu/9374836",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "芒果综艺",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
