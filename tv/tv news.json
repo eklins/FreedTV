@@ -551,18 +551,6 @@
       "url": "http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371",
       "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
       "parse": false
-    },
-    {
-      "name": "香港无线新闻台",
-      "url": "https://www.chaojidianshi.net/extension/73.xhtml",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
-      "parse": true
-    },
-    {
-      "name": "香港无线财经•资讯台",
-      "url": "https://www.chaojidianshi.net/extension/79.xhtml",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
     }
   ]
 }
