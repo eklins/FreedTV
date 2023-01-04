@@ -25,18 +25,6 @@
       "parse": false
     },
     {
-      "name": "芒果独播",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "芒果好看（IPTV）",
-      "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099174/main.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn0e02w9psWSGWM_oe1306aSYb0dBZZAXXg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Crime Investigation (Netherlands)",
       "url": "http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129927.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
