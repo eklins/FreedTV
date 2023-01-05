@@ -61,6 +61,12 @@
       "parse": false
     },
     {
+      "name": "香港无线财经•资讯台",
+      "url": "http://120.84.96.126:808/hls/86/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
+      "parse": false
+    },
+    {
       "name": "香港国际财经台 HKIBC",
       "url": "http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8I0ZPWACRx9egWfTzOeaSpkP03A7Armnzg&usqp=CAU",
