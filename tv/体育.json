@@ -163,6 +163,12 @@
       "parse": false
     },
     {
+      "name": "台湾博斯高球I",
+      "url": "http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "台湾博斯高球II",
       "url": "http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -183,6 +189,12 @@
     {
       "name": "台湾博斯无限",
       "url": "http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾博斯运动I",
+      "url": "http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -555,6 +567,12 @@
     {
       "name": "Fubo Sports Network",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52670",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "GinX E Sports TV",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
