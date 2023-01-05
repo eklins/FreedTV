@@ -176,7 +176,13 @@
     },
     {
       "name": "台湾博斯网球",
-      "url": "http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77",
+      "url": "http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾博斯无限",
+      "url": "http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
