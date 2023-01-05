@@ -2569,6 +2569,30 @@
       "parse": false
     },
     {
+      "name": "BesTV 独播 ①",
+      "url": "https://bp-caster.bestv.com.cn/946/3/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 独播 ②",
+      "url": "https://bp-caster.bestv.com.cn/955/3/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 独播 ③",
+      "url": "https://bp-caster.bestv.com.cn/940/3/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BesTV 独播 ④",
+      "url": "https://bp-caster.bestv.com.cn/944/3/video.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "iHOT 谍战",
       "url": "http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221015131206309318&channel-id=wasusyt&Contentid=6000000006000070630",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J4330-L.jpg",
