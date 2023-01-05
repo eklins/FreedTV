@@ -13,9 +13,9 @@
       "parse": true
     },
     {
-      "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
-      "url": "http://epg.112114.xyz/douyu/6582435",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
+      "name": "香港无线财经•资讯台",
+      "url": "http://120.84.96.126:808/hls/86/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": false
     },
     {
@@ -27,6 +27,12 @@
     {
       "name": "Sci-Fi & Action 035",
       "url": "http://epg.112114.xyz/douyu/248753",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVB Pearl 明珠台 (Hong Kong)",
+      "url": "http://120.84.96.126:808/hls/26/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
