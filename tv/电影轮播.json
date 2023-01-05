@@ -91,12 +91,6 @@
       "parse": false
     },
     {
-      "name": "BBC First (Netherlands)",
-      "url": "http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129957.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "BET",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145923",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -111,30 +105,6 @@
     {
       "name": "Bloody Disgusting",
       "url": "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BLuBOX 1 (Netherlands)",
-      "url": "http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172967.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BLuBOX 2 (Netherlands)",
-      "url": "http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172968.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BLuBOX 3 (Netherlands)",
-      "url": "http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172969.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BLuBOX 4 (Netherlands)",
-      "url": "http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172970.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -441,18 +411,6 @@
     {
       "name": "Ficom Channel (Indonesia) [Not 24/7]",
       "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Film1 Drama (Netherlands)",
-      "url": "http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129930.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Film1 Family (Netherlands)",
-      "url": "http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129955.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1035,12 +993,6 @@
     {
       "name": "Ovation",
       "url": "http://vcnovation.teleosmedia.com/stream/ovation/ovationtv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Paramount Network (Netherlands)",
-      "url": "http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129917.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
