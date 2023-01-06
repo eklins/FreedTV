@@ -1317,6 +1317,8 @@ https://content.uplynk.com/channel/52ce3d9af00349cda5f8151aefc7e552.m3u8
 https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8
 #EXTINF:-1 ,NBC LX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 ,NBS News
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145879
 #EXTINF:-1 ,NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 ,NBC News West 9 Midland-Odessa TX (KWES★1080p)
