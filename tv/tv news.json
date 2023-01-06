@@ -259,12 +259,6 @@
       "parse": false
     },
     {
-      "name": "ET Now (India)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSke6ylN_51Wq_vZ5pw5LpCE54LM1x7kJuH4Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Euronews (France)",
       "url": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9l9XznkKEKKDPC58NZAkvqOpclUl4a472rQ&usqp=CAU",
