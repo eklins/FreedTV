@@ -1277,6 +1277,10 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 ,NBC 2 Buffalo NY (WGRZ★1080p)
 https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
+#EXTINF:-1 ,NBC 3 Sacramento CA (KCRA-DT1★720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
+#EXTINF:-1 ,NBC 3 Salinas CA (KSBW-DT1★720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
 #EXTINF:-1 ,NBC 4 (WNBC-DT1★1080p) [Not 24/7]
 https://v-ny.mybtv.net/live/548.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 ,NBC 5 Cincinnati OH (WLWT★720p) [Not 24/7]
@@ -1409,10 +1413,6 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
 #EXTINF:-1 ,News Portland ME (WMTW-TV★720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8
-#EXTINF:-1 ,News Sacramento CA (KCRA-TV★720p) [Not 24/7]
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
-#EXTINF:-1 ,News Salinas CA (KSBW-TV★720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
 #EXTINF:-1 ,News San Louis Obispo CA (KSBY★720p)
 https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
 #EXTINF:-1 ,News Savannah GA (WJCL-TV★720p)
