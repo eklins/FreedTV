@@ -1309,12 +1309,6 @@
       "parse": false
     },
     {
-      "name": "HGTV Asia (Indonesia)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/16584.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "HGTV Asia (Taiwan)",
       "url": "http://198.16.64.10:8278/HGTV/playlist.m3u8?tid=MA6A4582634045826340&ct=19225&tsum=cc71b142aa9f87185b6496fc6c7724ba",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1563,12 +1557,6 @@
     {
       "name": "National Assembly TV (Korea)",
       "url": "https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "National Geographic (Malaysia)",
-      "url": "http://w.nasvpn.xyz:8080/live/saya/saya/5765.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
