@@ -290,7 +290,7 @@
     },
     {
       "name": "France 24",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=13",
+      "url": "http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6H9Mj1n4qlKxQCTeo82ftRpflvkxJBBgAjQ&usqp=CAU",
       "parse": false
     },
@@ -476,7 +476,7 @@
     },
     {
       "name": "台湾中天新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=03",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
@@ -524,7 +524,7 @@
     },
     {
       "name": "台湾寰宇新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=22",
+      "url": "http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
       "parse": false
     },
@@ -539,12 +539,6 @@
       "url": "http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGvISk6mJwmdmgZBt8159FRRva5qsa7gpDg&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "台湾三立iNEWS",
-      "url": "https://www.chaojidianshi.net/extension/26.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
-      "parse": true
     },
     {
       "name": "台湾三立财经新闻",
