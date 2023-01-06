@@ -123,6 +123,8 @@ http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
 #EXTINF:-1 ,ALB★Top Estrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 ,ALB★Tring Info
+http://95.107.132.106/out/u/419_1.m3u8
 #EXTINF:-1 ,ALB★TV 7 (540p) [Not 24/7]
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/240px-Flag_of_Andorra.svg.png",Andorra♥ATV (720p)
