@@ -22,9 +22,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Bernama
 http://198.16.64.10:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO BOO
-http://w.nasvpn.xyz:8080/live/saya/saya/173.ts
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Prima
-http://w.nasvpn.xyz:8080/live/saya/saya/176.ts
+http://23.237.10.66:16420
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 1
 http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 3
@@ -39,8 +37,6 @@ http://45.126.83.51/dr9445/h/h14/index.m3u8
 http://45.126.83.51/dr9445/h/h04/index.m3u8
 #EXTINF:-1 logo="https://www.coolstreaming.us/img/ch/ima24238087143.jpg",Maah TV
 http://51.210.199.33/hls/stream.m3u8
-#EXTINF:-1 logo="https://www.ifia.com/wp-content/uploads/2020/05/seo.ngsversion.1565614141405.jpg",National Geographic
-http://w.nasvpn.xyz:8080/live/saya/saya/5765.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-0l7Wwk6Ti1-ogUxr5ftDXsO4gN2RmQ_qA&usqp=CAU",ROCK Action (576p) [Formerly as ROCK Extreme]
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIzgPMYDjGIH2DVqOkbYsLxWbxgpF1ANs0g&usqp=CAU",ROCK Entertainment (576p)
@@ -91,8 +87,6 @@ https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist-1080p.m3u8
 #EXTINF:-1 ,🇺🇳SBT
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16749
-#EXTINF:-1 ,🇺🇳Sci-Fi (LostFilm.TV)
-http://w.nasvpn.xyz:8080/live/saya/saya/7773.ts
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Space
@@ -2945,10 +2939,6 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 ,THA★Thairath TV 32 (720p)
 https://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1 ,THA★true Chinese More
-http://w.nasvpn.xyz:8080/live/saya/saya/13300.ts
-#EXTINF:-1 ,THA★WB TV
-http://w.nasvpn.xyz:8080/live/saya/saya/5213.ts
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/240px-Flag_of_Turkey.svg.png",Turkey♥360
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 ,TUR★Africa NTR
