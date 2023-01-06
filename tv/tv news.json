@@ -21,13 +21,13 @@
     {
       "name": "香港凤凰卫视中文台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg",
+      "pic": "https://img.sinchew.com.my/2020-07/06/b7834eb2-3a07-4c1e-94da-6fa5fd0ddd3b.jpg",
       "parse": false
     },
     {
       "name": "香港凤凰卫视资讯台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpp4JUET7lRmP38E2ezRIs3yIb5646mRecg&usqp=CAU",
       "parse": false
     },
     {
@@ -75,7 +75,7 @@
     {
       "name": "点掌财经",
       "url": "http://cclive.aniu.tv/live/anzb.m3u8",
-      "pic": "https://yt3.ggpht.com/ytc/AKedOLQvmwHHrWYH0CsLglY9aYMbvZwZj2vfbBZVR-tI=s900-c-k-c0x00ffffff-no-rj",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWcVHWbib_SsMA9i6TznmRGwheSayuemnHw&usqp=CAU",
       "parse": false
     },
     {
@@ -93,19 +93,19 @@
     {
       "name": "ABC News (Australia)",
       "url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
-      "pic": "https://mumbrella.com.au/wp-content/uploads/2016/07/ABC-news.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd79b5jGJhAFH7YtFzrAjuLWEhVqOTQIWidQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "ABC News (US)",
       "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-      "pic": "https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjU9IGjjDqYkKMUcKRiNSss2grHqk17uTSpw&usqp=CAU",
       "parse": false
     },
     {
       "name": "Africa News (English)",
       "url": "https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://live.mrf.io/mstore/21612f2/8d0e01c7fa6e5e22a5d1b91c6525ef4da5d0c04e/icon.png?width=144&height=144",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYk3_W-uU_XlcwUGBoUkdolFlOcHG-wr3SQ&usqp=CAU",
       "parse": false
     },
     {
@@ -207,19 +207,19 @@
     {
       "name": "CGTN News",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2019/0801/2bc42b992ea918b8649261476ad427b9.png",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxZ3RixyVvFdCNg0Btma-aTxppRlM8MVIzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Cheddar News",
       "url": "https://cheddar.roku.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/128.png",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSdpxUlcvLODq6AcjnpfWlzmabDfJ5z8McA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CNA 亚洲新闻台 (Singapore)",
       "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
-      "pic": "https://onecms-res.cloudinary.com/image/upload/v1628577495/mediacorp/cna/image/2021-08/cna-logo-data.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6maEnLaVhS40WXq6GbaeDmoAmKAW3UYNusw&usqp=CAU",
       "parse": false
     },
     {
@@ -255,13 +255,19 @@
     {
       "name": "DW (Germany)",
       "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
-      "pic": "https://s3.spbtv.com/spbtv-world-production/50577931455a0d496a75_512x512c.png",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJlMEGy8RyOAyUkPteM0L0p26jaQ5oPbkvA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ET Now (India)",
+      "url": "https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSke6ylN_51Wq_vZ5pw5LpCE54LM1x7kJuH4Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "Euronews (France)",
       "url": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://images-na.ssl-images-amazon.com/images/I/61-5K6QDrnL.png",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9l9XznkKEKKDPC58NZAkvqOpclUl4a472rQ&usqp=CAU",
       "parse": false
     },
     {
@@ -333,13 +339,13 @@
     {
       "name": "News 12 New York",
       "url": "https://lnc-news12.tubi.video/index.m3u8",
-      "pic": "https://yt3.ggpht.com/ytc/AKedOLRBf0L188buhIlbd0bVKlCHvAZuvCuRTGTm2VKrRQ=s900-c-k-c0x00ffffff-no-rj",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RMKkhfacNirGiizK-sMACl0GHsFcDGXckA&usqp=CAU",
       "parse": false
     },
     {
       "name": "Newsmax",
       "url": "https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8",
-      "pic": "https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s900-c-k-c0x00ffffff-no-rj",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF-Azs7QVvYxniqcBKz68TUrlOsTEIMfUq9w&usqp=CAU",
       "parse": false
     },
     {
@@ -405,7 +411,7 @@
     {
       "name": "RT News (Russia)",
       "url": "https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8",
-      "pic": "https://static.wikia.nocookie.net/logopedia/images/6/6c/RussiaToday-logo.jpg/revision/latest/scale-to-width-down/200?cb=20150103194351",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj5ZIIFOF3kSZo3BCKgG5TjmERoQZhjjtaA&usqp=CAU",
       "parse": false
     },
     {
@@ -447,7 +453,7 @@
     {
       "name": "UN Web TV",
       "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8",
-      "pic": "https://pic.baike.soso.com/ugc/baikepic2/19426/20180813201649-420903712_jpeg_427_284_24385.jpg/0",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwAHX49b-bv9DG0LxuddKjhbfMej2yTWuow&usqp=CAU",
       "parse": false
     },
     {
@@ -489,7 +495,7 @@
     {
       "name": "台湾东森新闻",
       "url": "http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3",
-      "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSeltIT1EVJAcXzstrQnjajWsrDUJj64FlQ&usqp=CAU",
       "parse": false
     },
     {
