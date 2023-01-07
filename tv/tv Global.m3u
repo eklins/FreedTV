@@ -1129,6 +1129,8 @@ http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2091
 #EXTINF:-1 ,DEU★Sophia TV
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
+#EXTINF:-1 ,DEU★Super RTL Primetime
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/896
 #EXTINF:-1 ,DEU★teltOwkanal
 https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8
 #EXTINF:-1 ,DEU★Tide
