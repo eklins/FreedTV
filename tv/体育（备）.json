@@ -263,6 +263,60 @@
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285875/main.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMhbLo4Bnfs2fY1QtZTP2oC8TI4V6PVqo_Q&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "Sky Sport 02 (Germany)",
+      "url": "http",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 02 (Germany)",
+      "url": "http",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 02 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/72238",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 03 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/32708",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 04 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/13497",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 05 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/31445",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 06 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2133",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 07 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4489",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sport 08 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/147341",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uV1eLr0BjzpkjsEqSxv6Hy6CT_WyPEy9Q&usqp=CAU",
+      "parse": false
     }
   ]
 }
