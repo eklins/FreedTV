@@ -23,8 +23,10 @@ http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Bernama
 http://198.16.64.10:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO BOO
-http://23.237.10.66:16420
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Cricket
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157565
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Ria
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158347
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 1
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 3
@@ -77,6 +79,10 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31465
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31460
 #EXTINF:-1 ,🇺🇳HBO Signature (xcui)
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31473
+#EXTINF:-1 ,🇺🇳KinoBox 5
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283301
+#EXTINF:-1 ,🇺🇳m.HD
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1967
 #EXTINF:-1 ,🇺🇳MaAX2 Select
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279250
 #EXTINF:-1 ,🇺🇳MaAX4 Select
@@ -95,6 +101,10 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-1080p.m3u8
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2103
 #EXTINF:-1 ,🇺🇳SBT
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16749
+#EXTINF:-1 ,🇺🇳Sky Cinema +24
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281887
+#EXTINF:-1 ,🇺🇳Sky Cinema Family
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/91120
 #EXTINF:-1 ,🇺🇳Sky Flix
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283264
 #EXTINF:-1 ,🇺🇳Sky Select 2
@@ -103,8 +113,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2139
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Space
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16750
-#EXTINF:-1 ,🇦🇼Telearuba
-http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
 #EXTINF:-1 ,🇺🇳TNT
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16760
 #EXTINF:-1 ,🇺🇳TNT Series
@@ -113,6 +121,8 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16761
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52891
 #EXTINF:-1 ,🇺🇳VIP Comedy
 http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,🇺🇳WB TV Comedy
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281763
 #EXTINF:-1 ,🇺🇳WB TV Film
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2087
 #EXTINF:-1 ,🇺🇳WB TV Serie
@@ -211,6 +221,8 @@ http://ott-cdn.ucom.am/s66/index.m3u8
 http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/240px-Flag_of_Aruba.svg.png",Aruba♥Aruba TV (1080p) [Not 24/7]
 https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
+#EXTINF:-1 ,ABW★Telearuba
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/240px-Flag_of_Australia_%28converted%29.svg.png",Australia♥ABC
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8221df52788a423c91b717158aadaf25/index.m3u8?hdnea=st=1659860737~exp=1659861637~acl=/*~hmac=d8a5c191162d8c01cdd01a3bb577e7a5f390d10db2a077ea75a89ce5d39f8e2f
 #EXTINF:-1 ,AUS★ABC News
@@ -1017,6 +1029,8 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 ,DEU★BLK TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 ,DEU★Comedy Central
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/83349
 #EXTINF:-1 ,DEU★DW (ENGLISH)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 ,DEU★Euronews
@@ -1089,10 +1103,16 @@ https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
 #EXTINF:-1 ,DEU★RFH
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 ,DEU★RTL Living
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3477
+#EXTINF:-1 ,DEU★RTL Zwei
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/888
 #EXTINF:-1 ,DEU★Santhora Short Film TV (Tamil★Köln)
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1 ,DEU★Sky Atlantic
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291082
+#EXTINF:-1 ,DEU★Sky Cinema Premieren
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4458
 #EXTINF:-1 ,DEU★Sky One
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2088
 #EXTINF:-1 ,DEU★Sofy TV
@@ -2415,6 +2435,8 @@ https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 https://streamone.simpaisa.com:8443/pitvlive1/mehran.smil/playlist.m3u8
 #EXTINF:-1 ,PAK★Sindh TV News
 https://streamone.simpaisa.com:8443/pitvlive1/sindhnews.smil/playlist.m3u8
+#EXTINF:-1 ,PAK★Sky Flix
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283265
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/240px-Flag_of_Palestine.svg.png",Palestine♥Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 ,PSE★Musawa Channel
