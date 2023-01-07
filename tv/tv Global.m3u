@@ -85,8 +85,16 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31278
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 ,🇺🇳Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-1080p.m3u8
+#EXTINF:-1 ,🇺🇳Romance TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1662
 #EXTINF:-1 ,🇺🇳SBT
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16749
+#EXTINF:-1 ,🇺🇳Sky Action 1659
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1659
+#EXTINF:-1 ,🇺🇳Sky Action 120514
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/120514
+#EXTINF:-1 ,🇺🇳Sky Cinema
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1660
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Space
@@ -1011,6 +1019,8 @@ http://media.finest.tv/hls/live.m3u8
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:-1 ,DEU★HR Fernsehen
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 ,DEU★KabelEins Classics
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/10026
 #EXTINF:-1 ,DEU★KulturMD
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 #EXTINF:-1 ,DEU★MDF 1
