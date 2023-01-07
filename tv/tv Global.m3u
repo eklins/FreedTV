@@ -87,6 +87,8 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31465
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31460
 #EXTINF:-1 ,🇺🇳HBO Signature (xcui)
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31473
+#EXTINF:-1 ,🇺🇳MaAX2 Select
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279250
 #EXTINF:-1 ,🇺🇳Megapix
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31278
 #EXTINF:-1 ,🇺🇳Netflix
@@ -1055,6 +1057,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=50&terminate=false&userId=
 #EXTINF:-1 ,DEU★Pluto Sitcom
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767ab2b456c8cf265ce921&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=405&terminate=false&userId=
+#EXTINF:-1 ,DEU★ProSieben
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/887
+#EXTINF:-1 ,DEU★ProSieben Fun
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2079
 #EXTINF:-1 ,DEU★QVC (540p)
 https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 ,DEU★QVC Beauty (540p)
