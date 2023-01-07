@@ -15,6 +15,8 @@ http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=1
 http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO AOD 350
 http://198.16.64.10:8278/Aod350/playlist.m3u8?tid=MB1B2059094520590945&ct=19225&tsum=bcc2ef93d38a7d6692870a50d8754563
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Arena 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157485
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Arena 2
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Awani
@@ -55,6 +57,8 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 ,🇺🇳13th Street
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3498
+#EXTINF:-1 ,🇺🇳acasa•gold
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19913
 #EXTINF:-1 ,🇺🇳Anime TV (480p)
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 ,🇺🇳art
@@ -63,6 +67,8 @@ https://59cba4d34b678.streamlock.net/canlitv/arttv/HasBahCa_w1071760387.m3u8
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/6157
 #EXTINF:-1 ,🇺🇳AXN CO
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115455
+#EXTINF:-1 ,🇺🇳AXN Spin
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9809
 #EXTINF:-1 ,🇺🇳Bollywood
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/67021
 #EXTINF:-1 ,🇺🇳Canal Sony
@@ -103,6 +109,8 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158540
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 ,🇺🇳Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-1080p.m3u8
+#EXTINF:-1 ,🇺🇳RTL Crime
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2103
 #EXTINF:-1 ,🇺🇳S*Y ONE
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4421
 #EXTINF:-1 ,🇺🇳SBT
@@ -111,6 +119,10 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16749
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291082
 #EXTINF:-1 ,🇺🇳Sky Flix
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283264
+#EXTINF:-1 ,🇺🇳Sky One
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2088
+#EXTINF:-1 ,🇺🇳Sky Select 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2139
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Space
