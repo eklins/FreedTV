@@ -445,6 +445,12 @@
       "parse": false
     },
     {
+      "name": "DIGI Sport 3 (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2243",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "DirecTV Sports (480p)",
       "url": "http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -477,6 +483,12 @@
     {
       "name": "EDGE Sport (US)",
       "url": "https://edgesport-samsungus.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Eleven 1 (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/36420",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -523,9 +535,15 @@
       "parse": false
     },
     {
-      "name": "Eurosport1 (Netherlands)",
+      "name": "Eurosport 1 (Netherlands)",
       "url": "http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159559",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Eurosport 1 (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/412",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
@@ -877,6 +895,12 @@
       "parse": false
     },
     {
+      "name": "NOVA Sports 1 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12844",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Now Sports Prime (HK)",
       "url": "http://livetv.dnsfor.me:80/channel.12.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -891,6 +915,12 @@
     {
       "name": "One Golf",
       "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Orange Sport 3 (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12729",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -955,6 +985,18 @@
       "parse": false
     },
     {
+      "name": "Play Sports 2 (Belgium)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/47438",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Play Sports 3 (Belgium)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/276473",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Players TV (Canada)",
       "url": "https://playerstv-vizio.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -963,6 +1005,12 @@
     {
       "name": "PRO•Arena (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5748",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Racing TV (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/731",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1033,6 +1081,12 @@
       "parse": false
     },
     {
+      "name": "Sky Sports (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283053",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sky Sports Arena (Taiwan)",
       "url": "http://198.16.64.10:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1045,8 +1099,32 @@
       "parse": false
     },
     {
-      "name": "Sky Sports F1",
+      "name": "Sky Sports F1 (Taiwan)",
       "url": "http://198.16.64.10:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sports F1 (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/265",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sports Golf (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/264",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sports Mix (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281849",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Sports Premier League (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/263",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
