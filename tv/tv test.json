@@ -19,6 +19,18 @@
       "parse": false
     },
     {
+      "name": "Animal Planet (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9839",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AXN (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2234",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BBC Earth (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19910",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -27,6 +39,18 @@
     {
       "name": "blue Sport 1 (Switzerland)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2815",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BT Sport 1 (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/270",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CBS Reality (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9810",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -79,7 +103,25 @@
       "parse": false
     },
     {
+      "name": "PRO Cinema (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/6150",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ProSieben Fun (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2079",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Servus TV (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/120872",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Showcase (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/120872",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -93,6 +135,12 @@
     {
       "name": "Sky Sport 1 (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/202100",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sport 3",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4269",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -111,6 +159,12 @@
     {
       "name": "WB TV",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157550",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "WB TV (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2256",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
