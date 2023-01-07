@@ -229,6 +229,12 @@
       "parse": false
     },
     {
+      "name": "Cinemax 2 (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291103",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cinevault 80s",
       "url": "https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -295,7 +301,13 @@
       "parse": false
     },
     {
-      "name": "Crime+Investigation",
+      "name": "Crime+Investigation (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/57964",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Crime+Investigation (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145938",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -459,6 +471,24 @@
     {
       "name": "FilmBox (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/67031",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmBox Extra (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/67029",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmBox Family (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9822",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FilmBox Stars (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291173",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1015,6 +1045,12 @@
       "parse": false
     },
     {
+      "name": "Netflix Horror (Pakistan)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/77713",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "netmax TV (Greece) [Not 24/7]",
       "url": "http://live.netmaxtv.com:8080/live/live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1023,6 +1059,36 @@
     {
       "name": "NETV Toronto (Canada★Greek) [Not 24/7]",
       "url": "https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Cinema 2 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12819",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Cinema 3 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/74188",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Cinema 4 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/50470",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere ① (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/39",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere ② (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/151625",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1089,6 +1155,12 @@
     {
       "name": "PrimeTime Drama",
       "url": "https://simultv.s.llnwi.net/o054/PrimeTimeDrama/interlink.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PRO•TV (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4229",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1171,8 +1243,38 @@
       "parse": false
     },
     {
+      "name": "Sky Cinema Premiere (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1085",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sky Cinema Thriller (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1082",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Flix Box.Office ① (Pakistan)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283263",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Flix Box.Office ② (Pakistan)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283267",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Flix Box.Office ③ (Pakistan)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283268",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Flix Movies (Pakistan)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283266",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1383,6 +1485,12 @@
     {
       "name": "AMC East",
       "url": "https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AMC Romania",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/14854",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
     },
