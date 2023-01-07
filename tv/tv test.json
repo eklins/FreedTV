@@ -13,6 +13,36 @@
       "parse": true
     },
     {
+      "name": "BBC Earth (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19910",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Digi Animal World (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2238",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Epic Drama (Sweden)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19918",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Film Cafe (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4223",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Film Now (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2239",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sky Greats",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1087",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -27,6 +57,12 @@
     {
       "name": "Viasat Nature (Russia)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296239",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "WB TV",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157550",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
