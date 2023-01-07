@@ -24,7 +24,7 @@ http://198.16.64.10:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO BOO
 http://23.237.10.66:16420
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 1
-http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 3
 http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO TLC
@@ -53,12 +53,18 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 ,🇺🇳13th Street
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3498
 #EXTINF:-1 ,🇺🇳Anime TV (480p)
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 ,🇺🇳art
 https://59cba4d34b678.streamlock.net/canlitv/arttv/HasBahCa_w1071760387.m3u8
+#EXTINF:-1 ,🇺🇳AXN Black
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/6157
 #EXTINF:-1 ,🇺🇳AXN CO
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115455
+#EXTINF:-1 ,🇺🇳Bollywood
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/67021
 #EXTINF:-1 ,🇺🇳Canal Sony
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16700
 #EXTINF:-1 ,🇺🇳CFN TV (720p)
@@ -83,6 +89,8 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31460
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31473
 #EXTINF:-1 ,🇺🇳Megapix
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31278
+#EXTINF:-1 ,🇺🇳Netflix
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158540
 #EXTINF:-1 ,🇺🇳ONTV
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 ,🇺🇳PRO Cinema
@@ -107,6 +115,8 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16761
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52891
 #EXTINF:-1 ,🇺🇳VIP Comedy
 http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,🇺🇳WB TV Serie
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1655
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Afghanistan_%282004%E2%80%932021%29.svg/240px-Flag_of_Afghanistan_%282004%E2%80%932021%29.svg.png",Afghanistan♥ATN International
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 ,AFG★Solh TV
@@ -2929,7 +2939,7 @@ https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
 #EXTINF:-1 ,SWE★World Poker Tour
 https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/240px-Flag_of_Switzerland.svg.png",Switzerland♥Blue Zoom D (GERMAN)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/240px-Flag_of_Switzerland.svg.png",Switzerland♥blue Zoom D (GERMAN)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/52435
 #EXTINF:-1 ,CHE★LFM TV (1080p)
 http://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
