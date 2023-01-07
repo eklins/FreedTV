@@ -85,16 +85,8 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31278
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 ,🇺🇳Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-1080p.m3u8
-#EXTINF:-1 ,🇺🇳Romance TV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1662
 #EXTINF:-1 ,🇺🇳SBT
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16749
-#EXTINF:-1 ,🇺🇳Sky Action 1659
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1659
-#EXTINF:-1 ,🇺🇳Sky Action 120514
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/120514
-#EXTINF:-1 ,🇺🇳Sky Cinema
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1660
 #EXTINF:-1 ,🇺🇳Slimo (540p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Space
@@ -2509,6 +2501,8 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-telerad
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 ,POL★dlaCiebie.tv
 http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
+#EXTINF:-1 ,POL★Romance TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1662
 #EXTINF:-1 ,POL★TV Regionalna (Lubin)
 https://tvreg.klemit.net/regionalna/stream/index.m3u8
 #EXTINF:-1 ,POL★TV Republika
