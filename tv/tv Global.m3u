@@ -83,6 +83,8 @@ http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31473
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31278
 #EXTINF:-1 ,🇺🇳ONTV
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
+#EXTINF:-1 ,🇺🇳PRO Cinema
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/6150
 #EXTINF:-1 ,🇺🇳Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-1080p.m3u8
 #EXTINF:-1 ,🇺🇳SBT
@@ -159,7 +161,7 @@ https://streamlov.alsolnet.com/misionescuatro/live/chunklist_w1666960613.m3u8
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 ,ARG★RBD TV
 https://59537faa0729a.streamlock.net/rbdvideo/rbdvideo/chunklist_w1014102205.m3u8
-#EXTINF:-1 ,ARG★Tierra Mía TV (Spanish)
+#EXTINF:-1 ,ARG★Tierra Mía TV (SPANISH)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 ,ARG★TV MAX CBA
 https://panel.dattalive.com/8106/8106/playlist.m3u8
@@ -419,7 +421,7 @@ https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16704
 #EXTINF:-1 ,BRA★Eva Retro (Corporación Eva★480p) [Not 24/7]
 https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
-#EXTINF:-1 ,BRA★Ghost TV (Portuguese)
+#EXTINF:-1 ,BRA★Ghost TV (PORTUGUESE)
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 ,BRA★Gospel Movie Television
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
@@ -429,35 +431,35 @@ https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,BRA★Pascoal
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 ,BRA★Pluto BET Being Mary Jane (Portuguese)
+#EXTINF:-1 ,BRA★Pluto BET Being Mary Jane (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Cine Clássicos (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Cine Clássicos (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Cine Comédia (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Cine Comédia (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Cine Drama (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Cine Drama (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Entertainment (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Entertainment (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Cine Família (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Cine Família (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Cine Romance (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Cine Romance (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Cine Sucessos (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Cine Sucessos (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Cine Terror (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Cine Terror (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Filmes Ação (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Filmes Ação (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Filmes Nacionais (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Filmes Nacionais (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Filmes Suspense (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Filmes Suspense (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Jeannie é um Gênio (Portuguese) 1965-1970
+#EXTINF:-1 ,BRA★Pluto Jeannie é um Gênio (PORTUGUESE) 1965-1970
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 ,BRA★Pluto MTV Are You The One?
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 ,BRA★Pluto Suspense (Portuguese)
+#EXTINF:-1 ,BRA★Pluto Suspense (PORTUGUESE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 ,BRA★RBC
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
@@ -469,7 +471,7 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 https://stmv1.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 ,BRA★Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,BRA★Tele Cine Action (Portuguese)
+#EXTINF:-1 ,BRA★Tele Cine Action (PORTUGUESE)
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 ,BRA★TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
@@ -513,7 +515,7 @@ http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 http://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 ,KHM★TVK Camboya
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/240px-Flag_of_Cameroon.svg.png",Cameroon♥My TV Channel (French★720p) [Not 24/7]
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/240px-Flag_of_Cameroon.svg.png",Cameroon♥My TV Channel (FRENCH★720p) [Not 24/7]
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 ,CMR★Play TV (720p) [Not 24/7]
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
@@ -605,7 +607,7 @@ https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/240px-Flag_of_Cape_Verde.svg.png",Cape Verde♥TCSM TV
 https://stream.internet.one:443/RadioCaboVerde/video.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/240px-Flag_of_Chile.svg.png",Chile♥Arab TV (Spanish)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/240px-Flag_of_Chile.svg.png",Chile♥Arab TV (SPANISH)
 https://livefocamundo.com:8081/arabtv/playlist.m3u8
 #EXTINF:-1 ,CHL★Campo Abierto TV
 https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8
@@ -743,11 +745,11 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w389667105_b750000.m3u8
 #EXTINF:-1 ,CZE★Šlágr Premium
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/240px-Flag_of_Denmark.svg.png",Denmark♥Africa News (English)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/240px-Flag_of_Denmark.svg.png",Denmark♥Africa News (ENGLISH)
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,DNK★Duck TV (720p)
 https://mmm-ducktv-4-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,DNK★Euronews (English)
+#EXTINF:-1 ,DNK★Euronews (ENGLISH)
 https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,DNK★Kanal Hovedstaden
 https://59b954022ec35.streamlock.net/liveTV2/smil:liveTVstream2.transcoder.smil/playlist.m3u8
@@ -893,7 +895,7 @@ https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
 #EXTINF:-1 ,FRA★BFM TV
 https://stream-12.dc3.dailymotion.com/sec (4cextmXq8crpVEOecERE_nfQtElgJGfsNlPA-v73dgqudFvhUZJDmEJ4PbXtpWP_)/dm/3/xgz4t1/d/live-4.m3u8#cell=lcore
-#EXTINF:-1 ,FRA★Euronews (English)
+#EXTINF:-1 ,FRA★Euronews (ENGLISH)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 ,FRA★FashionTV Asia
 https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
@@ -1001,7 +1003,7 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 ,DEU★BLK TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
-#EXTINF:-1 ,DEU★DW (English)
+#EXTINF:-1 ,DEU★DW (ENGLISH)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 ,DEU★Euronews
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -1285,7 +1287,7 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
 #EXTINF:-1 ,IND★Dreamz (576p) [Not 24/7]
 http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
-#EXTINF:-1 ,IND★Filmstream (English)
+#EXTINF:-1 ,IND★Filmstream (ENGLISH)
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IND★Inshort
 https://inshort-samsungindia.amagi.tv/playlist.m3u8
@@ -1505,9 +1507,9 @@ http://51.210.199.16/hls/stream.m3u8
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 ,IRN★PMC Royale (720p) [Not 24/7]
 http://51.210.199.29/hls/stream.m3u8
-#EXTINF:-1 ,IRN★Press TV (English)
+#EXTINF:-1 ,IRN★Press TV (ENGLISH)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-#EXTINF:-1 ,IRN★Press TV (French)
+#EXTINF:-1 ,IRN★Press TV (FRENCH)
 https://live.presstv.ir/live/presstvfr/index.m3u8
 #EXTINF:-1 ,IRN★Sepanj TV
 http://51.210.199.30/hls/stream.m3u8
@@ -2695,11 +2697,11 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 ,RUS★THT
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:-1 ,RUS★TV BRICS (Chinese)
+#EXTINF:-1 ,RUS★TV BRICS [Chinese Subtitles]
 https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-#EXTINF:-1 ,RUS★TV BRICS (English)
+#EXTINF:-1 ,RUS★TV BRICS [English Subtitles❳
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:-1 ,RUS★TV BRICS (Russian)
+#EXTINF:-1 ,RUS★TV BRICS (RUSSIAN)
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 ,RUS★VHS 90s (Кинозал)
 https://v2.catcast.tv/content/37925/index.m3u8
@@ -2747,7 +2749,7 @@ https://cllive.itworkscdn.net/sbclive/token=nva=1652274433~dirs=1~hash=01efbdb91
 https://edge.taghtia.com/sa/3.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/240px-Flag_of_Senegal.svg.png",Senegal♥A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:-1 ,SEN★A2i Naija (French) [Not 24/7]
+#EXTINF:-1 ,SEN★A2i Naija (FRENCH) [Not 24/7]
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
 #EXTINF:-1 ,SEN★A2i TV (1080p) [Not 24/7]
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
@@ -2923,12 +2925,14 @@ https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
 #EXTINF:-1 ,SWE★World Poker Tour
 https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/240px-Flag_of_Switzerland.svg.png",Switzerland♥One TV (360p)
-https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/240px-Flag_of_Switzerland.svg.png",Switzerland♥Blue Zoom D (GERMAN)
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/52435
 #EXTINF:-1 ,CHE★LFM TV (1080p)
 http://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
 #EXTINF:-1 ,CHE★My Cinema Europe (576p) [Indonesian Subtitle]
 http://45.126.83.51/uq2663/h/h18/index.m3u8
+#EXTINF:-1 ,CHE★One TV (360p)
+https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 ,CHE★Pluto Movies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true
 #EXTINF:-1 ,CHE★Pluto Movies+
@@ -2947,7 +2951,7 @@ https://rakuten-spotlight-4-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-4-ch.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CHE★Rouge TV
 https://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 ,CHE★Tele 1 (German)
+#EXTINF:-1 ,CHE★Tele 1 (GERMAN)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/240px-Flag_of_Thailand.svg.png",Thailand♥NBT World [Not 24/7]
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
@@ -3325,7 +3329,7 @@ https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 ,URY★Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/240px-Flag_of_Uzbekistan.svg.png",Uzbekistan♥FilmTV Kinder (Russian★400p)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/240px-Flag_of_Uzbekistan.svg.png",Uzbekistan♥FilmTV Kinder (RUSSIAN★400p)
 https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/240px-Flag_of_Venezuela.svg.png",Venezuela♥TeleSUR (1080p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
