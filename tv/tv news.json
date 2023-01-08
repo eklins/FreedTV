@@ -32,13 +32,13 @@
     },
     {
       "name": "香港有线新闻台",
-      "url": "http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8",
+      "url": "https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港有线财经资讯台",
-      "url": "http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8",
+      "url": "https://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2KtzyAbZDyX7rNNKoDVHVZ2JCtfTupWfafw&usqp=CAU",
       "parse": false
     },
@@ -50,7 +50,7 @@
     },
     {
       "name": "香港无线财经•资讯台",
-      "url": "http://120.84.96.126:808/hls/86/index.m3u8",
+      "url": "https://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
       "parse": false
     },
