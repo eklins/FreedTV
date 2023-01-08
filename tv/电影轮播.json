@@ -121,6 +121,18 @@
       "parse": false
     },
     {
+      "name": "BBC One (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BBC One North West (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296927",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BET",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145923",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -289,6 +301,12 @@
       "parse": false
     },
     {
+      "name": "Cosmote Cinema 2 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291105",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cowboy Theater",
       "url": "https://simultv.s.llnwi.net/o060/CowboyTheater/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -415,7 +433,13 @@
       "parse": false
     },
     {
-      "name": "E!",
+      "name": "E! (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19925",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "E! (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52829",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -751,6 +775,18 @@
       "parse": false
     },
     {
+      "name": "itv2 (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/690",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "itv3 (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/703",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "itv4 (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/691",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1045,6 +1081,12 @@
       "parse": false
     },
     {
+      "name": "Netflix Comedy (UAE)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/43836",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Netflix Drama (UAE)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/85555",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1087,14 +1129,62 @@
       "parse": false
     },
     {
-      "name": "NOVA Premiere ① (Greece)",
+      "name": "NOVA Premiere 01 (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/39",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "NOVA Premiere ② (Greece)",
+      "name": "NOVA Premiere 02 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/45",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere 03 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/81460",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere 04 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90629",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere 05 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146538",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere 06 (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/151625",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere 07 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198413",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere 08 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198414",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere 09 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266429",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere 10 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291106",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1161,6 +1251,12 @@
     {
       "name": "PrimeTime Drama",
       "url": "https://simultv.s.llnwi.net/o054/PrimeTimeDrama/interlink.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PRO•Cinema (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/6150",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1239,6 +1335,12 @@
     {
       "name": "Shout! Factory TV",
       "url": "https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Cinema Family (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/727",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1335,6 +1437,12 @@
     {
       "name": "TCM",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52886",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TCM Movies",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4711",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
