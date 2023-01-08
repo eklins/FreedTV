@@ -31,32 +31,14 @@
       "parse": false
     },
     {
-      "name": "香港Now直播台",
-      "url": "http://livetv.dnsfor.me:80/channel.3.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIg00bYuU-iKxdD8mBlCPfe1VSq3IxjH5urw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "香港Now新闻台",
-      "url": "http://livetv.dnsfor.me:80/channel.4.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToCpmCkU23XAMFnNBAS8bXTbOk1p3Ow6zFw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "香港Now财经台",
-      "url": "http://livetv.dnsfor.me:80/channel.8.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-bSmsQT6Lfvg-W-zcvdmbVTnGt3EATNFkZg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "香港有线新闻台",
-      "url": "http://livetv.dnsfor.me:80/channel.5.m3u8",
+      "url": "http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港有线财经资讯台",
-      "url": "http://livetv.dnsfor.me:80/channel.6.m3u8",
+      "url": "http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2KtzyAbZDyX7rNNKoDVHVZ2JCtfTupWfafw&usqp=CAU",
       "parse": false
     },
