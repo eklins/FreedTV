@@ -259,6 +259,12 @@
       "parse": false
     },
     {
+      "name": "Elektrika TV (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163081",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Ellas TV",
       "url": "http://ellastv.gotdns.com:88/freetv/promo/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
