@@ -326,13 +326,25 @@
     },
     {
       "name": "ASTRO Supersport 1 (Malaysia)",
-      "url": "http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ASTRO Supersport 2 (Malaysia)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157556",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "ASTRO Supersport 3 (Malaysia)",
-      "url": "http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157557",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ASTRO Supersport 4 (Malaysia)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157558",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
