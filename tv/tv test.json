@@ -67,6 +67,12 @@
       "parse": false
     },
     {
+      "name": "beIN Sports",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157561",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "C itv (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1548",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -175,7 +181,13 @@
       "parse": false
     },
     {
-      "name": "Great! Romance (UK)",
+      "name": "Great! Romance ① (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/285334",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Great! Romance ② (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/286775",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -183,6 +195,12 @@
     {
       "name": "Investigation Discovery (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9813",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "History (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282756",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
