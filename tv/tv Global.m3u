@@ -1957,6 +1957,8 @@ http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 ,KOR★K-Pop
 http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1 ,KOR★KBS 1
+https://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
 #EXTINF:-1 ,KOR★KBS World
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 ,KOR★KCTV 광주 CH05
@@ -1991,13 +1993,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=612
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=623
 #EXTINF:-1 ,KOR★NewKID ③
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-#EXTINF:-1 ,KOR★SBS 淸州 (CJB 청주방송)
+#EXTINF:-1 ,KOR★SBS
+https://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
+#EXTINF:-1 ,KOR★SBS CJB (淸州 청주방송)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 ,KOR★SBS 光州 (KBC 광주방송)
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 ,KOR★SBS JIBS
+#EXTINF:-1 ,KOR★SBS JIBS (济州 제주방송)
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 ,KOR★SBS KNN
+#EXTINF:-1 ,KOR★SBS KBC (光州 광주방송)
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 ,KOR★SBS KNN (釜山 주식회사)
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 #EXTINF:-1 ,KOR★TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
