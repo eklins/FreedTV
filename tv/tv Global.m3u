@@ -30,7 +30,7 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158347
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 1
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 3
-http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157557
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO TLC
 http://198.16.64.10:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",Celestial Classic Movies 天映经典频道 (576p)
@@ -91,8 +91,10 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/278609
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/148176
 #EXTINF:-1 ,🇺🇳Megapix
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31278
-#EXTINF:-1 ,🇺🇳Netflix
+#EXTINF:-1 ,🇺🇳Netflix فيلم [Arabic Subtitles]
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158540
+#EXTINF:-1 ,🇺🇳Netflix Arabic 2 [Arabic Subtitles]
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158541
 #EXTINF:-1 ,🇺🇳ONTV
 https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 ,🇺🇳Retro Cartoon
