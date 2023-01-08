@@ -127,6 +127,12 @@
       "parse": false
     },
     {
+      "name": "Crime+Investigation (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/734",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "DIGI 4K (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90750",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -193,6 +199,12 @@
       "parse": false
     },
     {
+      "name": "Love Nature 4K",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/78665",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MAD Greekz (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163155",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -248,30 +260,36 @@
     },
     {
       "name": "NOVA Premiere ③ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90629",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/45",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "NOVA Premiere ④ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198413",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90629",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "NOVA Premiere ⑤ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198414",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198413",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "NOVA Premiere ⑥ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266429",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198414",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "NOVA Premiere ⑦ (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266429",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere ⑧ (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291106",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
