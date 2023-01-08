@@ -1051,6 +1051,12 @@
       "parse": false
     },
     {
+      "name": "DIGI World (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2244",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Discovery (Taiwan)",
       "url": "https://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1077,6 +1083,12 @@
     {
       "name": "Discovery Motor Trend (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145946",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Discovery Science (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12026",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1405,8 +1417,20 @@
       "parse": false
     },
     {
+      "name": "History (Croatia)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1601",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "History (Taiwan)",
       "url": "http://198.16.64.10:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=19225&tsum=7c5458c8f917c8d0b182fb436f66e64f&redirect=true",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "History (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282756",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1449,6 +1473,12 @@
     {
       "name": "Insight TV (Canada)",
       "url": "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Investigation Discovery (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9813",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1597,6 +1627,12 @@
       "parse": false
     },
     {
+      "name": "Medíka TV (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/147311",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MTV",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145978",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1665,6 +1701,12 @@
     {
       "name": "Nature Documentary",
       "url": "http://epg.112114.xyz/douyu/4837387",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Netflix",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/85549",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2077,6 +2119,12 @@
       "parse": false
     },
     {
+      "name": "stv (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/192776",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Supreme Master TV",
       "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2235,6 +2283,12 @@
     {
       "name": "TLC (Malaysia)",
       "url": "http://198.16.64.10:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TLC (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12030",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
