@@ -181,6 +181,12 @@
       "parse": false
     },
     {
+      "name": "Investigation Discovery (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9813",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "itv Sport (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/192776",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -266,30 +272,36 @@
     },
     {
       "name": "NOVA Premiere ④ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90629",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/81460",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "NOVA Premiere ⑤ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198413",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90629",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "NOVA Premiere ⑥ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198414",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198413",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "NOVA Premiere ⑦ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266429",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198414",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "NOVA Premiere ⑧ (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266429",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere ⑨ (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291106",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
