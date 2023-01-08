@@ -511,6 +511,30 @@
       "parse": false
     },
     {
+      "name": "香港Now直播台",
+      "url": "http://livetv.dnsfor.me:80/channel.3.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIg00bYuU-iKxdD8mBlCPfe1VSq3IxjH5urw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港Now新闻台",
+      "url": "http://livetv.dnsfor.me:80/channel.4.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToCpmCkU23XAMFnNBAS8bXTbOk1p3Ow6zFw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港Now财经台",
+      "url": "http://livetv.dnsfor.me:80/channel.8.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-bSmsQT6Lfvg-W-zcvdmbVTnGt3EATNFkZg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港Now Sports Prime",
+      "url": "http://livetv.dnsfor.me:80/channel.12.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7MaSqLGLTXYSUsb3JJjES8LZHDFF2V4B5g&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港有线新闻台",
       "url": "http://livetv.dnsfor.me:80/channel.5.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
@@ -520,6 +544,12 @@
       "name": "香港有线财经资讯台",
       "url": "http://livetv.dnsfor.me:80/channel.6.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2KtzyAbZDyX7rNNKoDVHVZ2JCtfTupWfafw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港有线综合娱乐台",
+      "url": "http://livetv.dnsfor.me:80/channel.7.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGPkIqaq1FmLAl_nM_miTFahvGLStPtf3Gw&usqp=CAU",
       "parse": false
     },
     {
