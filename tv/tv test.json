@@ -61,8 +61,20 @@
       "parse": false
     },
     {
+      "name": "BBC One North West (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296927",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "C itv (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1548",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cartoonito (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1546",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -121,6 +133,18 @@
       "parse": false
     },
     {
+      "name": "DIGI Sport 4 (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4219",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DIGI World (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2244",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Discovery",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/24963",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -139,8 +163,20 @@
       "parse": false
     },
     {
+      "name": "Food Network (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19900",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Great! Romance (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/286775",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "itv Sport (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/192776",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -153,6 +189,12 @@
     {
       "name": "itv3 (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/703",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MAD Greekz (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163155",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -187,6 +229,12 @@
       "parse": false
     },
     {
+      "name": "MySports (Switzerland)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280169",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Netflix",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/85549",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -206,18 +254,24 @@
     },
     {
       "name": "NOVA Premiere ④ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198414",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198413",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "NOVA Premiere ⑤ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266429",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198414",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "NOVA Premiere ⑥ (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266429",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere ⑦ (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291106",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -253,14 +307,20 @@
       "parse": false
     },
     {
+      "name": "Sky Sports Mix (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/261",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sky Sports Racing (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163132",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Sport",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157558",
+      "name": "Sport Digital (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3509",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
