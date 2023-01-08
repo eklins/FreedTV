@@ -29,8 +29,12 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157565
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158347
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 1
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157556
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 3
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157557
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 4
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157558
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO TLC
 http://198.16.64.10:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",Celestial Classic Movies 天映经典频道 (576p)
@@ -401,6 +405,8 @@ https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.
 https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,BEL★RTL-Be
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 ,BEL★Télé MB
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/172448
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/240px-Flag_of_Belize.svg.png",Belize♥Channel 7
 https://kalends.anl.bz/localchannels/channel7.stream/playlist.m3u8
 #EXTINF:-1 ,BLZ★Krem TV
@@ -1035,6 +1041,8 @@ http://123tv-mx1.flex-cdn.net/index.m3u8
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 ,DEU★Alex Berlin (1080p) [Not 24/7]
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 ,DEU★Allgäu TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/18445
 #EXTINF:-1 ,DEU★Anixe HD Serie (360p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 ,DEU★Baden TV
@@ -1135,6 +1143,10 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291082
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281887
 #EXTINF:-1 ,DEU★Sky Cinema Action
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2119
+#EXTINF:-1 ,DEU★Sky Cinema Classic ①
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2120
+#EXTINF:-1 ,DEU★Sky Cinema Classic ②
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/91126
 #EXTINF:-1 ,DEU★Sky Cinema Comedy ①
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2138
 #EXTINF:-1 ,DEU★Sky Cinema Comedy ②
@@ -1149,6 +1161,8 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281886
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2116
 #EXTINF:-1 ,DEU★Sky Cinema Premieren
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4458
+#EXTINF:-1 ,DEU★Sky Cinema Special
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/91116
 #EXTINF:-1 ,DEU★Sky One
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2088
 #EXTINF:-1 ,DEU★Sofy TV
