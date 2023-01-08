@@ -57,6 +57,10 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 ,🇺🇳407
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/407
+#EXTINF:-1 ,🇺🇳279799
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279799
 #EXTINF:-1 ,🇺🇳acasǎ•gold
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19913
 #EXTINF:-1 ,🇺🇳Anime TV (480p)
@@ -65,6 +69,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/arttv/HasBahCa_w1071760387.m3u8
 #EXTINF:-1 ,🇺🇳Canal Sony
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16700
+#EXTINF:-1 ,🇺🇳CDM International
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/7012
 #EXTINF:-1 ,🇺🇳CFN TV (720p)
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Cinemax
@@ -103,14 +109,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-1080p.m3u8
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2103
 #EXTINF:-1 ,🇺🇳SBT
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16749
-#EXTINF:-1 ,🇺🇳Sky Cinema +24
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281887
-#EXTINF:-1 ,🇺🇳Sky Cinema Family
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/91120
-#EXTINF:-1 ,🇺🇳Sky Cinema Fun
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281886
-#EXTINF:-1 ,🇺🇳Sky Cinema Hits
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2116
 #EXTINF:-1 ,🇺🇳Sky Flix
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283264
 #EXTINF:-1 ,🇺🇳Sky Select 2
@@ -119,12 +117,14 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2139
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
 #EXTINF:-1 ,🇺🇳Space
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16750
+#EXTINF:-1 ,🇺🇳Start
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/295279
 #EXTINF:-1 ,🇺🇳TNT
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16760
 #EXTINF:-1 ,🇺🇳TNT Series
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16761
-#EXTINF:-1 ,🇺🇳UNAM Transmedia/OK Weinstrasse Landau
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279799
+#EXTINF:-1 ,🇺🇳Universal TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1654
 #EXTINF:-1 ,🇺🇳Univision
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52891
 #EXTINF:-1 ,🇺🇳VIP Comedy
@@ -1027,6 +1027,8 @@ https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8
 https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/240px-Flag_of_Germany.svg.png",Germany♥1 HD (Das Erste)
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 ,DEU★13th Street
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2114
 #EXTINF:-1 ,DEU★123 TV
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 ,DEU★a•TV
@@ -1061,6 +1063,8 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 ,DEU★Oeins
 https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1 ,DEU★one
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5185
 #EXTINF:-1 ,DEU★ONE1 Music
 https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
 #EXTINF:-1 ,DEU★Pluto Doctor Who 2005-?
@@ -1127,6 +1131,22 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2121
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2412
 #EXTINF:-1 ,DEU★Sky Atlantic
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291082
+#EXTINF:-1 ,DEU★Sky Cinema +24
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281887
+#EXTINF:-1 ,DEU★Sky Cinema Action
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2119
+#EXTINF:-1 ,DEU★Sky Cinema Comedy ①
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2138
+#EXTINF:-1 ,DEU★Sky Cinema Comedy ②
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4461
+#EXTINF:-1 ,DEU★Sky Cinema Family ①
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2118
+#EXTINF:-1 ,DEU★Sky Cinema Family ②
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/91120
+#EXTINF:-1 ,DEU★Sky Cinema Fun
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281886
+#EXTINF:-1 ,DEU★Sky Cinema Hits
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2116
 #EXTINF:-1 ,DEU★Sky Cinema Premieren
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4458
 #EXTINF:-1 ,DEU★Sky One
@@ -2649,6 +2669,8 @@ http://46.4.14.12:9999/btvsvlive/playlist.m3u8
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1 ,ROU★Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 ,ROU★Euronews
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296362
 #EXTINF:-1 ,ROU★Intermedia TV
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
 #EXTINF:-1 ,ROU★Naşul TV
