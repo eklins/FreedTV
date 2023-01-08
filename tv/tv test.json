@@ -49,8 +49,26 @@
       "parse": false
     },
     {
+      "name": "Auto Motor Sport Channel",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2385",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BBC 3 (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291219",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "C itv (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1548",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cosmote Cinema 2 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291105",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -103,6 +121,12 @@
       "parse": false
     },
     {
+      "name": "Great! Romance (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/286775",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "itv2 (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/690",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -115,6 +139,12 @@
       "parse": false
     },
     {
+      "name": "Magenta Sport 07 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281749",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Magenta Sport 09 (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290692",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -123,6 +153,48 @@
     {
       "name": "Magenta Sport 11 (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19925",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Magenta Sport 13 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/295569",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Magic (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280282",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Netflix",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/85549",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Netflix Comedy [Arabic Subtitles]",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/43836",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Premiere ③ (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291106",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Sports Start (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/295161",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Premier Sports 1",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1097",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
