@@ -601,6 +601,12 @@
       "parse": false
     },
     {
+      "name": "Eurosport 1",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/138",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Eurosport 1 (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4221",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -913,6 +919,12 @@
       "parse": false
     },
     {
+      "name": "MS Sport",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290686",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MSG (US)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52679",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1017,6 +1029,12 @@
     {
       "name": "NOVA Sports Start (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/295161",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "OFTV Offenbach (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/286556",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1225,6 +1243,12 @@
       "parse": false
     },
     {
+      "name": "Sky Sports F1 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174563",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sky Sports F1 (Taiwan)",
       "url": "http://198.16.64.10:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1363,6 +1387,12 @@
       "parse": false
     },
     {
+      "name": "STV 30 (Croatia)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/284674",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Super Tennis",
       "url": "https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1471,6 +1501,12 @@
       "parse": false
     },
     {
+      "name": "viaplay Xtra (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/37876",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "VSiN",
       "url": "https://stream.rcncdn.com/live/vsinproxy.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1485,6 +1521,12 @@
     {
       "name": "World Poker Tour (Netherlands)",
       "url": "https://wpt-theworldpokertour-1-nl.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Ziggo Sport Select (Netherlands)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/851",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
