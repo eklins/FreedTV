@@ -1213,6 +1213,8 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 #EXTINF:-1 ,GRC★Best [Not 24/7]
 https://stream.net7.gr/hls/best/index.m3u8
+#EXTINF:-1 ,GRC★Blue Sky (360p) [Not 24/7]
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/95371
 #EXTINF:-1 ,GRC★Canali TV
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 ,GRC★Channel 9
