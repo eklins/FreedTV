@@ -49,6 +49,18 @@
       "parse": false
     },
     {
+      "name": "Blaze",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4642",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Blue Sky (Greece★360p) [Not 24/7]",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/95371",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Comedy Central (Netherlands)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2451",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -57,6 +69,12 @@
     {
       "name": "Cosmote Cinema 1 (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291104",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cosmote Cinema 2 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291105",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -97,13 +115,31 @@
       "parse": false
     },
     {
+      "name": "Investigation Discovery (Netherlands)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2471",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Jukebox (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12613",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MUSIC 265254",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/265254",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "MS Sport",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290686",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Movie 151864",
+      "name": "MOVIE 151864",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/151864",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
