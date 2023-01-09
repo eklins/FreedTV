@@ -2785,6 +2785,8 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
 #EXTINF:-1 ,Very Oklahoma (KOCO)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1 ,Very Pittsburg by WTAE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145810
 #EXTINF:-1 ,Vevo Hip Hop (1080p)
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 #EXTINF:-1 ,Vevo Latino (1080p) [Not 24/7]
