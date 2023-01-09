@@ -49,6 +49,12 @@
       "parse": false
     },
     {
+      "name": "a.TV",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/60393",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Blaze",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4642",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -57,6 +63,12 @@
     {
       "name": "Blue Sky (Greece★360p) [Not 24/7]",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/95371",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cinema World (Singapore)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171956",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -91,8 +103,32 @@
       "parse": false
     },
     {
-      "name": "Great! Movies Classic +1",
+      "name": "E! Entertainment (US)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1542",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Eurosport 1",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/138",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "GEO (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266963",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Great! Movies Classic +1 (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291220",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Great!+1 Movies (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/173235",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -187,6 +223,12 @@
       "parse": false
     },
     {
+      "name": "STV 30 (Bosnia & Herzegovina)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/284674",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Techno Warehouse",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/286772",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -195,6 +237,18 @@
     {
       "name": "Trace Vault",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296603",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Viaplay Xtra (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/37876",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Viasat History (Russia)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16398",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
