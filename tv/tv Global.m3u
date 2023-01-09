@@ -67,8 +67,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/407
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2115
 #EXTINF:-1 ,🇺🇳279799
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279799
-#EXTINF:-1 ,🇺🇳acasǎ•gold
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19913
 #EXTINF:-1 ,🇺🇳Anime TV (480p)
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 ,🇺🇳art
@@ -115,6 +113,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-1080p.m3u8
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2103
 #EXTINF:-1 ,🇺🇳SBT
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/16749
+#EXTINF:-1 ,🇺🇳Sky Action
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1659
 #EXTINF:-1 ,🇺🇳Sky Cinema Premieren 24
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/29070
 #EXTINF:-1 ,🇺🇳Sky Cinema Premieren +24
@@ -2681,6 +2681,10 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/240px-Flag_of_Romania.svg.png",Romania♥A7TV
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:-1 ,ROU★acasǎ
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/15265
+#EXTINF:-1 ,ROU★acasǎ•gold
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19913
 #EXTINF:-1 ,ROU★Agro TV
 https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 ,ROU★AHi TV (Kirsehir)
