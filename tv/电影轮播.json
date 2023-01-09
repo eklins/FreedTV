@@ -241,6 +241,12 @@
       "parse": false
     },
     {
+      "name": "Cinema World (Singapore★360p)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171956",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cinemax (Taiwan)",
       "url": "http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -283,6 +289,12 @@
       "parse": false
     },
     {
+      "name": "Comedy Central (Netherlands)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2451",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Comedy Central (UK)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145933",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -321,6 +333,12 @@
     {
       "name": "Crime+Investigation (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/57964",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Crime+Investigation (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2452",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -435,6 +453,12 @@
     {
       "name": "E! Entertainment (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19925",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "E! Entertainment (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1542",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1347,6 +1371,12 @@
     {
       "name": "Sky Cinema Premiere (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1085",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sky Cinema Sci-Fi & Horror (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/725",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
