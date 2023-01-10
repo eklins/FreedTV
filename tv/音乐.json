@@ -25,6 +25,12 @@
       "parse": false
     },
     {
+      "name": "88 Stereo 49.3TVD (Costa Rica)",
+      "url": "http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "A Son de Salsa (720p) [Not 24/7]",
       "url": "https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
