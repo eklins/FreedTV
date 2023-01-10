@@ -2925,6 +2925,10 @@ https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 ,ESP★EiTB ②
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:-1 ,ESP★HBO
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/45085
+#EXTINF:-1 ,ESP★HBO 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/39236
 #EXTINF:-1 ,ESP★MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,ESP★Pluto BBC Drama
