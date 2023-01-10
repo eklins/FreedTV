@@ -15,20 +15,8 @@ https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
 https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
 #EXTINF:-1 ,4U Action Sports (480p)
 https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/playlist.m3u8
-#EXTINF:-1 ,4U Bluegrass Music (480p)
-https://rebroadcast.mytvtogo.net/mytvtogo/blugrassmusic/playlist.m3u8
-#EXTINF:-1 ,4U Classic TV (480p)
-https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
 #EXTINF:-1 ,4U Cooking (480p)
 https://broadcast.mytvtogo.net/cooking4u/cooking4u/playlist.m3u8
-#EXTINF:-1 ,4U Movee (480p)
-https://rebroadcast.mytvtogo.net/mytvtogo/movee4u/chunks.m3u8
-#EXTINF:-1 ,4U Sci-Fi (480p)
-https://rebroadcast.mytvtogo.net/mytvtogo/SciFiTV4u/chunks.m3u8
-#EXTINF:-1 ,4U Street Music (480p)
-https://rebroadcast.mytvtogo.net/mytvtogo/streetmusic/chunks.m3u8
-#EXTINF:-1 ,4U Western (480p)
-https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
 #EXTINF:-1 ,24 Hour Free Movies (720p)
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
 #EXTINF:-1 ,30A Darcizzle Offshore
