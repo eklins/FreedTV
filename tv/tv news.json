@@ -43,21 +43,15 @@
       "parse": false
     },
     {
-      "name": "香港无线新闻台",
-      "url": "http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
+      "name": "香港无线Pearl明珠台",
+      "url": "https://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSXSDYSCPmYB3nyL8VoC2i25ajFtLaR3mVw&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港无线财经•资讯台",
       "url": "https://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": false
-    },
-    {
-      "name": "香港无线Pearl明珠台",
-      "url": "https://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSXSDYSCPmYB3nyL8VoC2i25ajFtLaR3mVw&usqp=CAU",
       "parse": false
     },
     {
