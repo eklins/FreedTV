@@ -1123,6 +1123,12 @@
       "parse": false
     },
     {
+      "name": "NOVA Comedy (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/81460",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NOVA Hellenic (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/39",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1148,30 +1154,18 @@
     },
     {
       "name": "NOVA Premiere ② (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/81460",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NOVA Premiere ③ (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/90629",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "NOVA Premiere ④ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198414",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NOVA Premiere ⑤ (Greece)",
+      "name": "NOVA Premiere ③ (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266429",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "NOVA Premiere ⑥ (Greece)",
+      "name": "NOVA Premiere ④ (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291106",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -1179,6 +1173,12 @@
     {
       "name": "NOVA Sci-Fi (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/151625",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOVA Thriller & Western (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/198414",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
