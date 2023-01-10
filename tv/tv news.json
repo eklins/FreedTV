@@ -55,6 +55,12 @@
       "parse": false
     },
     {
+      "name": "香港无线Pearl明珠台",
+      "url": "https://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSXSDYSCPmYB3nyL8VoC2i25ajFtLaR3mVw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港国际财经台 HKIBC",
       "url": "http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8I0ZPWACRx9egWfTzOeaSpkP03A7Armnzg&usqp=CAU",
