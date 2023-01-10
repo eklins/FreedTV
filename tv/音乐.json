@@ -391,8 +391,14 @@
       "parse": false
     },
     {
-      "name": "Kiss Kiss TV",
+      "name": "Kiss Kiss TV (Italy)",
       "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Kiss TV (Romania)",
+      "url": "https://tv.broadcasting.ro/memfs/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
