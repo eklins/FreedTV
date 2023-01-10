@@ -445,6 +445,12 @@
       "parse": false
     },
     {
+      "name": "Magic TV (Greece)",
+      "url": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Metal TV (Russia) [Not 24/7]",
       "url": "https://v2.catcast.tv/content/33816/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
