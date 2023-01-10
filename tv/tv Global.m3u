@@ -771,8 +771,6 @@ https://streannlivecariflix.cachefly.net/cariflix1/cariflix1/playlist.m3u8
 https://cur.watch/api/get_stream/vam/streann/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/240px-Flag_of_Cyprus.svg.png",Cyprus♥Alfa Sport (1080p) [Not 24/7]
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
-#EXTINF:-1 ,CYP★Cinema Time (34100 TV)
-https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 ,CYP★Faros TV2
 https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 ,CYP★Music Reload (804p)
@@ -1197,7 +1195,9 @@ https://xite-samsung-de.amagi.tv/playlist.m3u8
 https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/240px-Flag_of_Gibraltar.svg.png",Gibraltar♥GBC TV
 https://player-api.new.livestream.com/accounts/14143407/events/9828641/broadcasts/233548882.secure.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/240px-Flag_of_Greece.svg.png",Greece♥alert
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/240px-Flag_of_Greece.svg.png",Greece♥34100 TV (720p)
+https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 ,GRC★alert
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 ,GRC★Alfa Dramas
 https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
