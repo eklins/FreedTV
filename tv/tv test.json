@@ -925,25 +925,25 @@
       "parse": false
     },
     {
-      "name": "BT Sports ①",
+      "name": "BT Sports 1",
       "url": "http://s@185.53.89.12:8081/live/ch1/chunks.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BT Sports ②",
+      "name": "BT Sports 2",
       "url": "http://s@185.53.89.12:8081/live/ch4/chunks.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BT Sports ③",
+      "name": "BT Sports 3",
       "url": "http://93.152.174.144:4000/play/btsport3/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "BT Sport ④ (ESPN)",
+      "name": "BT Sport 4 (ESPN)",
       "url": "http://93.152.174.144:4000/play/btsportespn/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
@@ -957,6 +957,12 @@
     {
       "name": "CorTV (Latin)",
       "url": "https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DirecTV Sports (480p)",
+      "url": "http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
