@@ -19,6 +19,12 @@
       "parse": false
     },
     {
+      "name": "34100 TV (Greece)",
+      "url": "https://s1.cystream.net/live/34100/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Ace (KCKS-LD3★480p)",
       "url": "https://cdn.igocast.com/channel3_hls/channel3_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -201,12 +207,6 @@
     {
       "name": "Cine View (New Zealand)",
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cinema Time (Greece)",
-      "url": "https://s1.cystream.net/live/34100/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
