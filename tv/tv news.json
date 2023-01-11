@@ -85,6 +85,12 @@
       "parse": false
     },
     {
+      "name": "INBM证劵服务",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/jiazheng/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTteSX-OBwfWQX9zzyZ-_5KtMvDUgJmvGHbgA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "ABC News (Australia)",
       "url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd79b5jGJhAFH7YtFzrAjuLWEhVqOTQIWidQ&usqp=CAU",
