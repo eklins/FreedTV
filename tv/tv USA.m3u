@@ -83,6 +83,8 @@ https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
 #EXTINF:-1 ,ABC 8 Davenport IA (WQAD★1080p)
 https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
+#EXTINF:-1 ,ABC 9
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145823
 #EXTINF:-1 ,ABC 9 Kansas City MO (KMBC-TV★720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
 #EXTINF:-1 ,ABC 9 Manchester (New Hampshire★WMUR-TV★720p)
