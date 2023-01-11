@@ -121,33 +121,75 @@
       "parse": false
     },
     {
+      "name": "CCTV 4K超高清",
+      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 第一剧场",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054839774.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 风云剧场",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",
+      "parse": false
+    },
+    {
       "name": "CCTV 高尔夫•网球",
-      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8?$广西cdn",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2014/0603/20140603063333286.jpg",
       "parse": false
     },
     {
       "name": "CCTV 发现之旅",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/faxian/__op/default/__f//index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
       "parse": false
     },
     {
+      "name": "CCTV 风云音乐",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121053553871.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 风云足球",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055021292.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 怀旧剧场",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054949338.jpg",
+      "parse": false
+    },
+    {
       "name": "CCTV 女性时尚",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6FE_v2wtvMu4J7lyFBZUVVvxoE3BswYgPA&usqp=CAU",
       "parse": false
     },
     {
       "name": "CCTV 老故事",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/gushi/__op/default/__f//index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
       "parse": false
     },
     {
-      "name": "CCTV 4K超高清",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2019/0614/561dce02f74278bf3e576d7b12e3e402.jpg",
+      "name": "CCTV 台球",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2014/0407/20140407113005456.jpg",
+      "parse": false
+    },
+    {
+      "name": "CCTV 文化精品",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
       "parse": false
     },
     {
@@ -511,6 +553,60 @@
       "parse": false
     },
     {
+      "name": "重庆科教",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆汽摩",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqcarSD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆少儿",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆社会与法",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆时尚生活",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆文体娱乐",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆新农村",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆新闻",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆影视",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "滁州公共频道",
       "url": "http://live.cztv.cc:85/live/ggpd.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -823,6 +919,12 @@
       "parse": false
     },
     {
+      "name": "湖南先锋兵羽",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/xianfeng/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "湖南娱乐",
       "url": "http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -1045,6 +1147,12 @@
       "parse": false
     },
     {
+      "name": "黔江",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/qianjiang/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "钱江新闻",
       "url": "http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -1059,6 +1167,12 @@
     {
       "name": "青海经视",
       "url": "http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=a7ec5e491648026933",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "荣昌综合",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/rongchangHD/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1189,8 +1303,20 @@
       "parse": false
     },
     {
+      "name": "铜梁综合",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/tongliangzongheHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "万州影视 (576p)",
       "url": "http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "巫溪综合",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/wlzh/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1261,6 +1387,12 @@
       "parse": false
     },
     {
+      "name": "秀山综合",
+      "url": "https://stream.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "徐州•3",
       "url": "http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -1287,6 +1419,12 @@
     {
       "name": "彝良",
       "url": "http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "酉阳综合",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/youyang/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -1507,8 +1645,14 @@
       "parse": false
     },
     {
+      "name": "中华美食",
+      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "中华特产 (1080p)",
-      "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/techan/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": false
     },
@@ -1570,6 +1714,24 @@
       "name": "CGTN Documentary",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0122/472e73d5b683be2296757dbbf3a82dba.png",
+      "parse": false
+    },
+    {
+      "name": "CHC 动作电影",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_LSIJ7BzExR1R9Ymw4l5cg7Yl6sfXmunqw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CHC 高清电影",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8",
+      "pic": "https://www.nettvpro.live/uploads/19/1-1Z406133R5D0.jpg",
+      "parse": false
+    },
+    {
+      "name": "CHC 家庭影院",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1DPXStxZXLfcS9OfWqXEEOoyd04AUu4M9iA&usqp=CAU",
       "parse": false
     },
     {
@@ -1754,13 +1916,13 @@
     },
     {
       "name": "SiTV 欢笑剧场",
-      "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
     },
     {
       "name": "SiTV 法治天地",
-      "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/fazhi/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
     },
@@ -1790,7 +1952,7 @@
     },
     {
       "name": "SiTV 生活时尚 (1080p)",
-      "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/shenghuo/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
     },
