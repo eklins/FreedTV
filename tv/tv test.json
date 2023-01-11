@@ -577,6 +577,12 @@
       "parse": false
     },
     {
+      "name": "Create TV (WLIW-DT2★432p)",
+      "url": "https://v-ny.mybtv.net/live/576.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港Now直播台",
       "url": "http://livetv.dnsfor.me:80/channel.3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIg00bYuU-iKxdD8mBlCPfe1VSq3IxjH5urw&usqp=CAU",
