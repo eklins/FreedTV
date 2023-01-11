@@ -67,15 +67,15 @@
       "parse": false
     },
     {
-      "name": "点掌财经",
-      "url": "http://cclive.aniu.tv/live/anzb.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWcVHWbib_SsMA9i6TznmRGwheSayuemnHw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "第一财经",
       "url": "http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuR5H4Tebef3-p_nUbHxU08Ks5LvlVQ8pZfA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "点掌财经",
+      "url": "http://cclive2.aniu.tv/live/anzb.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWcVHWbib_SsMA9i6TznmRGwheSayuemnHw&usqp=CAU",
       "parse": false
     },
     {
