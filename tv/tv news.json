@@ -61,7 +61,7 @@
       "parse": false
     },
     {
-      "name": "耀才财经",
+      "name": "香港耀才财经",
       "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/0922/2e357e13827907f8b90e628ebdd1d1e3.jpg",
       "parse": false
@@ -82,6 +82,12 @@
       "name": "东方财经•浦东",
       "url": "http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYG1YmQpfseqW6Db0qdvMBcDO52e_PafM6A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "福州财富天下",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/caifu/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiiX62ZfeZxHUON7TZ3nr21o_93g3AksISNg&usqp=CAU",
       "parse": false
     },
     {
