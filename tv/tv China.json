@@ -2059,10 +2059,22 @@
       "parse": true
     },
     {
+      "name": "香港无线Pearl明珠台",
+      "url": "https://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWT_eB_zmcynPDS2n1TgjiWLhZXFSS52DUjQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "香港无线财经•资讯台",
-      "url": "https://www.chaojidianshi.net/extension/79.xhtml",
+      "url": "https://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
+      "parse": false
+    },
+    {
+      "name": "香港耀才财经台 BSTV",
+      "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2016/0922/2e357e13827907f8b90e628ebdd1d1e3.jpg",
+      "parse": false
     },
     {
       "name": "香港有线新闻台",
@@ -2090,7 +2102,7 @@
     },
     {
       "name": "点掌财经",
-      "url": "http://cclive.aniu.tv/live/anzb.m3u8",
+      "url": "http://cclive2.aniu.tv/live/anzb.m3u8",
       "pic": "https://yt3.ggpht.com/ytc/AKedOLQvmwHHrWYH0CsLglY9aYMbvZwZj2vfbBZVR-tI=s900-c-k-c0x00ffffff-no-rj",
       "parse": false
     },
@@ -2098,12 +2110,6 @@
       "name": "东方财经•浦东",
       "url": "http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYG1YmQpfseqW6Db0qdvMBcDO52e_PafM6A&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "耀才财经",
-      "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2016/0922/2e357e13827907f8b90e628ebdd1d1e3.jpg",
       "parse": false
     },
     {
