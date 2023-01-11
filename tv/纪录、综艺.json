@@ -122,74 +122,32 @@
     },
     {
       "name": "CCTV 发现之旅",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/faxian/__op/default/__f//index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121055124960.jpg",
       "parse": false
     },
     {
+      "name": "CCTV 风云音乐",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121053553871.jpg",
+      "parse": false
+    },
+    {
       "name": "CCTV 老故事",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/gushi/__op/default/__f//index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2017/0120/5e0065ebaa3d24c90f1ae3aae07636b5.gif",
       "parse": false
     },
     {
-      "name": "iHOT 解密",
-      "url": "http://111.11.123.28:6610/000000001000/6000000006000200630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960720221014135726306339&channel-id=wasusyt&Contentid=6000000006000200630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H1090-L.jpg",
+      "name": "CCTV 女性时尚",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6FE_v2wtvMu4J7lyFBZUVVvxoE3BswYgPA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "iHOT 科学",
-      "url": "http://111.11.123.28:6610/000000001000/6000000006000160630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959620221014141038314650&channel-id=wasusyt&Contentid=6000000006000160630",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iHOT 历史",
-      "url": "http://111.11.123.28:6610/000000001000/6000000006000150630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957720221014140909304245&channel-id=wasusyt&Contentid=6000000006000150630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HA20-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "iHOT 猎奇",
-      "url": "http://111.11.123.28:6610/000000001000/6000000006000190630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135801301517&channel-id=wasusyt&Contentid=6000000006000190630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J5500-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "iHOT 旅行",
-      "url": "http://111.11.123.28:6610/000000001000/6000000006000250630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960020221014135646305380&channel-id=wasusyt&Contentid=6000000006000250630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J1040-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "iHOT 美食",
-      "url": "http://111.11.123.28:6610/000000001000/6000000006000120630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957320221014141056297085&channel-id=wasusyt&Contentid=6000000006000120630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251HQ10-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "iHOT 世界",
-      "url": "http://111.11.123.28:6610/000000001000/6000000006000210630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960420221015130011307610&channel-id=wasusyt&Contentid=6000000006000210630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I0500-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "iHOT 时尚",
-      "url": "http://111.11.123.28:6610/000000001000/6000000006000140630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221015130638311630&channel-id=wasusyt&Contentid=6000000006000140630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251H9580-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "iHOT 探索",
-      "url": "http://111.11.123.28:6610/000000001000/6000000006000300630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960920221014141449279879&channel-id=wasusyt&Contentid=6000000006000300630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J6430-L.jpg",
-      "parse": false
-    },
-    {
-      "name": "iHOT 娱乐",
-      "url": "http://111.11.123.28:6610/000000001000/6000000006000130630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960820221015130348305898&channel-id=wasusyt&Contentid=6000000006000130630",
-      "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251J3250-L.jpg",
+      "name": "CCTV 文化精品",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2015/1121/20151121054918671.jpg",
       "parse": false
     },
     {
@@ -253,8 +211,8 @@
       "parse": false
     },
     {
-      "name": "SiTV 生活时尚 (1080p)",
-      "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8",
+      "name": "SiTV 生活时尚",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/shenghuo/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
       "parse": false
     },
@@ -273,6 +231,30 @@
     {
       "name": "北京文艺",
       "url": "http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆科教",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆汽摩",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqcarSD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆时尚生活",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "重庆文体娱乐",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -337,6 +319,12 @@
       "parse": false
     },
     {
+      "name": "环球旅游",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/huanqiulvyou/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "纪录经典时刻",
       "url": "http://epg.112114.xyz/douyu/3485629",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -391,8 +379,20 @@
       "parse": false
     },
     {
+      "name": "摄影频道",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f//index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "神秘现象研究调查报告",
       "url": "http://epg.112114.xyz/douyu/9385184",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "收藏天下",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/soucang/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -423,6 +423,12 @@
     {
       "name": "中华美食",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "中华特产",
+      "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/techan/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
