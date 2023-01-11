@@ -781,26 +781,32 @@
       "parse": false
     },
     {
+      "name": "itv1 (UK)",
+      "url": "http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITV001/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "itv2 (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/690",
+      "url": "http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/mono.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "itv3 (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/703",
+      "url": "http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITV3/tracks-v1a1/mono.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "itv4 (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/691",
+      "url": "http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITV4/tracks-v1a1/mono.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "itvBe (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1560",
+      "url": "http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-ITVBE/tracks-v1a1/mono.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
