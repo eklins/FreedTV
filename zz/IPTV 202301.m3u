@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 ,♦02/01 湖南IPV6直播源
 #EXTINF:-1 ,湖南卫视高清
@@ -526,81 +527,381 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296657
 #EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/a0d27a2b4a250818b2cc634aaca74340.jpg" group-title="Iran",IR: Persiana Sports
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/287468
 #EXTINF:-1 ,♦07/01 台湾直播源
-#EXTINF:-1,翡翠台
+#EXTINF:-1 ,翡翠台
 http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
-#EXTINF:-1,华丽翡翠台
+#EXTINF:-1 ,华丽翡翠台
 http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
-#EXTINF:-1,明珠台
+#EXTINF:-1 ,明珠台
 http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
-#EXTINF:-1,无线财经
+#EXTINF:-1 ,无线财经
 http://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8
-#EXTINF:-1,有线新闻台
+#EXTINF:-1 ,有线新闻台
 http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-#EXTINF:-1,有线财经台
+#EXTINF:-1 ,有线财经台
 http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
-#EXTINF:-1,有线直播台
+#EXTINF:-1 ,有线直播台
 http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
-#EXTINF:-1,美亚电影台
+#EXTINF:-1 ,美亚电影台
 http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-#EXTINF:-1,纬来戏剧台
+#EXTINF:-1 ,纬来戏剧台
 http://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
-#EXTINF:-1,纬来电影台
+#EXTINF:-1 ,纬来电影台
 http://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
-#EXTINF:-1,莲花电影台
+#EXTINF:-1 ,莲花电影台
 http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
-#EXTINF:-1,好莱坞电影
+#EXTINF:-1 ,好莱坞电影
 http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 ,HBO HD
 http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
-#EXTINF:-1,HBO家庭影院
+#EXTINF:-1 ,HBO家庭影院
 http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
-#EXTINF:-1,HBO原创电影
+#EXTINF:-1 ,HBO原创电影
 http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
-#EXTINF:-1,HBO强档影院
+#EXTINF:-1 ,HBO强档影院
 http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
-#EXTINF:-1,探索频道HD
+#EXTINF:-1 ,探索频道HD
 http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
-#EXTINF:-1,KBS1 HD
+#EXTINF:-1 ,KBS1 HD
 http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
-#EXTINF:-1,MBC HD
+#EXTINF:-1 ,MBC HD
 http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
-#EXTINF:-1,SBS HD
+#EXTINF:-1 ,SBS HD
 http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
-#EXTINF:-1,TVBS新闻台
+#EXTINF:-1 ,TVBS新闻台
 https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-#EXTINF:-1,TVBS亚洲台
+#EXTINF:-1 ,TVBS亚洲台
 https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-#EXTINF:-1,莲花电影台
+#EXTINF:-1 ,莲花电影台
 https://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
-#EXTINF:-1,有线新闻台
+#EXTINF:-1 ,有线新闻台
 https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-#EXTINF:-1,中天娱乐台
+#EXTINF:-1 ,中天娱乐台
 https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
-#EXTINF:-1,中天综合台
+#EXTINF:-1 ,中天综合台
 https://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
-#EXTINF:-1,中天新闻台
+#EXTINF:-1 ,中天新闻台
 https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 ,AXN
 https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
-#EXTINF:-1,CINEMAX
+#EXTINF:-1 ,CINEMAX
 https://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
-#EXTINF:-1,寰宇新闻台
+#EXTINF:-1 ,寰宇新闻台
 https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
-#EXTINF:-1,纬来戏剧台
+#EXTINF:-1 ,纬来戏剧台
 https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
-#EXTINF:-1,龙祥电影台
+#EXTINF:-1 ,龙祥电影台
 https://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
-#EXTINF:-1,天映电影台
+#EXTINF:-1 ,天映电影台
 https://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
-#EXTINF:-1,东森洋片台
+#EXTINF:-1 ,东森洋片台
 https://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
-#EXTINF:-1,东森电影台
+#EXTINF:-1 ,东森电影台
 https://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
-#EXTINF:-1,好莱坞电影
+#EXTINF:-1 ,好莱坞电影
 https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
-#EXTINF:-1,TW美亚电影
+#EXTINF:-1 ,TW美亚电影
 https://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-#EXTINF:-1,Boo驚悚台
+#EXTINF:-1 ,Boo驚悚台
 https://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
-#EXTINF:-1,Asia N
+#EXTINF:-1 ,Asia N
 https://pull-l3-cny.douyincdn.com/live/2ce10c5078ec753f8f50f4c3897e8f76.m3u8
+#EXTINF:-1 ,♦08/01 香港直播源
+#EXTINF:-1 ,华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 ,翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 ,翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 ,翡翠台.备用
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 ,J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 ,J2
+http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
+#EXTINF:-1 ,VIUTV
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1 ,明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 ,明珠台
+http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8?blog.ntnas.top
+#EXTINF:-1 ,CCTV4K
+http://r.jdshipin.com/krMB5
+#EXTINF:-1 ,峨眉电影
+http://r.jdshipin.com/XIjta
+#EXTINF:-1 ,峨眉电影
+http://r.jdshipin.com/vFgDS
+#EXTINF:-1 ,广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1 ,4K超高清电影
+http://r.jdshipin.com/5DWJk
+#EXTINF:-1 ,4K超高清电影
+http://r.jdshipin.com/B7sfp
+#EXTINF:-1 ,CBN风尚生活
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 ,CBN每日影院
+http://r.jdshipin.com/sE5vO
+#EXTINF:-1 ,CBN幸福剧场
+http://r.jdshipin.com/OeHMu
+#EXTINF:-1 ,CBN幸福娱乐
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1 ,♦09/01 重庆有线直播源
+#EXTINF:-1 ,CCTV1
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV2
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV3
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV4
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV5
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV6
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV7
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV8
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV9
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV10
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV11
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV12
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV13
+http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV14
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV15
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV16
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV17
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV4K
+http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
+#EXTINF:-1 ,欢笑剧场4K
+http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CCTV16_4K
+http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,北京卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,上海卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,天津卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,四川卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,重庆卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,云南卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,河北卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,江西卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,海南卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,东南卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,广西卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/neimengkuSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,广东卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,河南卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,山西卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,兵团卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
+#EXTINF:-1 ,北京卡酷少儿
+http://baidu.live.cqccn.com/__cl/cg:live/__c/bjkakuSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://baidu.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,三沙卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,青海卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,中国天气
+http://baidu.live.cqccn.com/__cl/cg:live/__c/tianqiSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,北京纪实科教
+http://baidu.live.cqccn.com/__cl/cg:live/__c/bjayjsSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,山东教育卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,新疆卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,西藏卫视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CGTN
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cgtnSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CETV-1
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cetv-1SD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CETV-4
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cetv-4SD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,生活时尚
+http://baidu.live.cqccn.com/__cl/cg:live/__c/shenghuo/__op/default/__f//index.m3u8
+#EXTINF:-1 ,百姓健康
+http://baidu.live.cqccn.com/__cl/cg:live/__c/jiankangSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,每日影院
+http://baidu.live.cqccn.com/__cl/cg:live/__c/mryyHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,幸福剧场
+http://baidu.live.cqccn.com/__cl/cg:live/__c/xfjcHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,快乐垂钓
+http://baidu.live.cqccn.com/__cl/cg:live/__c/klcdHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,第一剧场
+http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,都市剧场
+http://baidu.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,动漫秀场
+http://baidu.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,魅力足球
+http://baidu.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,风云剧场
+http://baidu.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,求索纪录
+http://baidu.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,兵器科技
+http://baidu.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,游戏风云
+http://baidu.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CHC电影
+http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,幸福娱乐
+http://baidu.live.cqccn.com/__cl/cg:live/__c/xfylHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,风尚生活
+http://baidu.live.cqccn.com/__cl/cg:live/__c/fsshHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,怀旧剧场
+http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,风云音乐
+http://baidu.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,央视台球
+http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,风云足球
+http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,央视文化精品
+http://baidu.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,高尔夫网球
+http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,早期教育
+http://baidu.live.cqccn.com/__cl/cg:live/__c/zaojiaoHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,东方财*
+http://baidu.live.cqccn.com/__cl/cg:live/__c/dfcj/__op/default/__f//index.m3u8
+#EXTINF:-1 ,证券服务
+http://baidu.live.cqccn.com/__cl/cg:live/__c/jiazheng/__op/default/__f//index.m3u8
+#EXTINF:-1 ,书画
+http://baidu.live.cqccn.com/__cl/cg:live/__c/shuhua/__op/default/__f//index.m3u8
+#EXTINF:-1 ,新动漫
+http://baidu.live.cqccn.com/__cl/cg:live/__c/dongman/__op/default/__f//index.m3u8
+#EXTINF:-1 ,国学频道
+http://baidu.live.cqccn.com/__cl/cg:live/__c/guoxue/__op/default/__f//index.m3u8
+#EXTINF:-1 ,游戏竞技
+http://baidu.live.cqccn.com/__cl/cg:live/__c/youxi/__op/default/__f//index.m3u8
+#EXTINF:-1 ,中华特产
+http://baidu.live.cqccn.com/__cl/cg:live/__c/techan/__op/default/__f//index.m3u8
+#EXTINF:-1 ,极速汽车
+http://baidu.live.cqccn.com/__cl/cg:live/__c/car/__op/default/__f//index.m3u8
+#EXTINF:-1 ,生态环境
+http://baidu.live.cqccn.com/__cl/cg:live/__c/shengtai/__op/default/__f//index.m3u8
+#EXTINF:-1 ,四海钓鱼
+http://baidu.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8
+#EXTINF:-1 ,发现之旅
+http://baidu.live.cqccn.com/__cl/cg:live/__c/faxian/__op/default/__f//index.m3u8
+#EXTINF:-1 ,DOXTV
+http://baidu.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f//index.m3u8
+#EXTINF:-1 ,法治天地
+http://baidu.live.cqccn.com/__cl/cg:live/__c/fazhi/__op/default/__f//index.m3u8
+#EXTINF:-1 ,金色学堂
+http://baidu.live.cqccn.com/__cl/cg:live/__c/jinse/__op/default/__f//index.m3u8
+#EXTINF:-1 ,收藏天下
+http://baidu.live.cqccn.com/__cl/cg:live/__c/soucang/__op/default/__f//index.m3u8
+#EXTINF:-1 ,财富天下
+http://baidu.live.cqccn.com/__cl/cg:live/__c/caifu/__op/default/__f//index.m3u8
+#EXTINF:-1 ,女性时尚
+http://baidu.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
+#EXTINF:-1 ,幸福彩
+http://baidu.live.cqccn.com/__cl/cg:live/__c/qicai/__op/default/__f//index.m3u8
+#EXTINF:-1 ,天元围棋
+http://baidu.live.cqccn.com/__cl/cg:live/__c/weiqi/__op/default/__f//index.m3u8
+#EXTINF:-1 ,先锋乒羽
+http://baidu.live.cqccn.com/__cl/cg:live/__c/xianfeng/__op/default/__f//index.m3u8
+#EXTINF:-1 ,环球旅游
+http://baidu.live.cqccn.com/__cl/cg:live/__c/huanqiulvyou/__op/default/__f//index.m3u8
+#EXTINF:-1 ,老故事
+http://baidu.live.cqccn.com/__cl/cg:live/__c/gushi/__op/default/__f//index.m3u8
+#EXTINF:-1 ,摄影频道
+http://baidu.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f//index.m3u8
+#EXTINF:-1 ,网络棋牌
+http://baidu.live.cqccn.com/__cl/cg:live/__c/qipai/__op/default/__f//index.m3u8
+#EXTINF:-1 ,靓妆
+http://baidu.live.cqccn.com/__cl/cg:live/__c/liang/__op/default/__f//index.m3u8
+#EXTINF:-1 ,重庆新闻
+http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,重庆影视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,重庆社会与法
+http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,重庆时尚生活
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,重庆文体娱乐
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,重庆新农村
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,重庆少儿
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,重庆科教
+http://baidu.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,重庆汽摩
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqcarSD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,爱看导视
+http://baidu.live.cqccn.com/__cl/cg:live/__c/aikanHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,长寿综合
+http://baidu.live.cqccn.com/__cl/cg:live/__c/changshou/__op/default/__f//index.m3u8
+#EXTINF:-1 ,酉阳综合
+http://baidu.live.cqccn.com/__cl/cg:live/__c/youyang/__op/default/__f//index.m3u8
+#EXTINF:-1 ,重广融媒
+http://baidu.live.cqccn.com/__cl/cg:live/__c/cqrongmei/__op/default/__f//index.m3u8
+#EXTINF:-1 ,涪陵
+http://baidu.live.cqccn.com/__cl/cg:live/__c/fulingzh/__op/default/__f//index.m3u8
+#EXTINF:-1 ,黔江
+http://baidu.live.cqccn.com/__cl/cg:live/__c/qianjiang/__op/default/__f//index.m3u8
+#EXTINF:-1 ,江津综合
+http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangjinHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,铜梁综合
+http://baidu.live.cqccn.com/__cl/cg:live/__c/tongliangzongheHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,荣昌综合
+http://baidu.live.cqccn.com/__cl/cg:live/__c/rongchangHD/__op/default/__f//index.m3u8
+#EXTINF:-1 ,巫溪综合
+http://baidu.live.cqccn.com/__cl/cg:live/__c/wlzh/__op/default/__f//index.m3u8
+#EXTINF:-1 ,秀山综合
+http://baidu.live.cqccn.com/__cl/cg:live/__c/xiushan/__op/default/__f//index.m3u8
