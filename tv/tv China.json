@@ -1989,49 +1989,43 @@
     {
       "name": "香港iMode 时尚频道",
       "url": "https://juyunlive.juyun.tv/live/24950198.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CUtJL1_MyXKez9jZSDzI4fk-089DZUgV8OeH7c7b&s",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港RTHK 31",
       "url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8",
-      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港RTHK 32",
       "url": "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCAzyNmOxqNxh5Bl-_nA8fHsbOm7OV_iHWA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "香港TVB J1",
-      "url": "https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港TVB J2",
       "url": "https://j3.lhlh.app/mv.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2016/0922/ec93b4441247781ef3f6d303dd553ed1.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港TVB 翡翠台",
       "url": "http://23.237.10.66:16106",
-      "pic": "https://pic.baike.soso.com/ugc/baikepic2/29741/cut-20190627111118-175179980_jpg_286_229_7658.jpg/300",
-      "parse": false
-    },
-    {
-      "name": "香港凤凰卫视资讯台",
-      "url": "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
     {
       "name": "香港凤凰卫视中文台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2016/0921/aa82904eb024279ca456acad0ffc01ce.jpg",
+      "pic": "https://img.sinchew.com.my/2020-07/06/b7834eb2-3a07-4c1e-94da-6fa5fd0ddd3b.jpg",
+      "parse": false
+    },
+    {
+      "name": "香港凤凰卫视资讯台",
+      "url": "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpp4JUET7lRmP38E2ezRIs3yIb5646mRecg&usqp=CAU",
       "parse": false
     },
     {
