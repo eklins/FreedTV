@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Lotus Macau (.php)
+http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV 八度空间
 http://23.237.10.66:16406
 #EXTINF:-1 user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",无线新闻
