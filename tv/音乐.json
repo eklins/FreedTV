@@ -325,6 +325,12 @@
       "parse": false
     },
     {
+      "name": "H!T Music Channel (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/7008",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Hits",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -489,6 +495,12 @@
     {
       "name": "Mola Hits TV (Spain)",
       "url": "http://ventdelnord.tv:8080/mola/directe.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Mooz Hits (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/81097",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
