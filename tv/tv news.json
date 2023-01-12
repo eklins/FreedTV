@@ -493,12 +493,6 @@
       "parse": false
     },
     {
-      "name": "台湾东森新闻",
-      "url": "http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSeltIT1EVJAcXzstrQnjajWsrDUJj64FlQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾民视新闻",
       "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
@@ -530,32 +524,14 @@
     },
     {
       "name": "台湾寰宇新闻",
-      "url": "https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8",
+      "url": "http://tv.redrainl.site:9500/live.m3u8?c=22",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPgLBC_RFOFb0jQEyQu_o2ogPMrD5k49tnA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾年代新闻",
-      "url": "http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEeI09e9rbaEBTgvCffDkvWwwPiKwlnBUCyw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾非凡新闻",
-      "url": "http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGvISk6mJwmdmgZBt8159FRRva5qsa7gpDg&usqp=CAU",
       "parse": false
     },
     {
       "name": "台湾三立财经新闻",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=51",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyXBEnFoM_2tBFAq79GbvBd97AmvRtjCm9A&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾东森财经新闻",
-      "url": "http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371",
-      "pic": "https://i.ytimg.com/vi/ABn_ccXn_jc/maxresdefault.jpg",
       "parse": false
     }
   ]
