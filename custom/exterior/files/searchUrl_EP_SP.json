@@ -10,6 +10,56 @@
       "detailUrl": ""
     },
     {
+      "id": 1,
+      "name": "18X 芒果",
+      "url": "https://mgzyz1.com/api.php/provide/vod/at/xml/",
+      "cate": "中字,1&&欧美,2&&无码,3&&中国,4&&素人,5&&JAV,6&&动漫,7&&三级,8",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
+      "id": 1,
+      "name": "18X 佳丽",
+      "url": "https://jializyzapi.com/api.php/provide/vod/at/xml",
+      "cate": "❌,20&&中国精品,21&&主播直播,22&&日本无码,23&&日本有码,24&&欧美极品,25&&中文字幕,26&&强奸乱伦,27&&制服黑丝,28&&巨乳美乳,29&&少女萝莉,30&&变态捆绑,31&&三级伦理,32&&成人动漫,36&&自拍偷拍,38&&编辑专用,39&&熟女人妻,40&&AI换脸,41",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "18X 热巴",
+      "url": "http://reba.liuxinxs.com/api.php/provide/vod/at/xml/",
+      "cate": "❌,20&&中文字幕,21&&中国传媒,22&&中国视频,23&&日本有码,24&&日本无码,25&&巨乳美乳,26&&强奸乱伦,27&&成人动漫,29&&欧美激情,30&&站长精选,31&&网曝门,32&&91探花,33&&自拍偷拍,34&&福利姬,35&&主播网红,36",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "18X 水蜜桃",
+      "url": "http://51smt4.xyz/api.php/provide/vod/at/xml",
+      "cate": "❌,22&无码,23&&中文字幕,24&&欧美,25&&日本女优,26&&H动画,30&&中国,35&&人妻熟女,36&&强暴虐待,37&&乱伦小说,38&&校园师生,39&&都市小说,40",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "18X 玉蝴蝶",
+      "url": "https://jindiezy.com/api.php/provide/vod/at/xml",
+      "cate": "❌,20&&视频一区,21&&视频二区,22&&中文字幕,23&&网曝黑料,24&&中国剧情,25&&中国视频,26&&日本有码,27&&日本无码,28&&强奸乱伦,29&&欧美无码,30&&激情动漫,31&&自拍偷拍,32&&小视频,33&&淫荡女优,34&&三级伦理,35&&制服诱惑,36&&中国主播,37",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "18X 乐鱼",
+      "url": "https://www.leyuzyapi.com/inc/api.php",
+      "cate": "国产自拍,1&&日本无码,2&&日本有码,3&&中文字幕,4&&欧美精品,5&&动漫,6&&❌,7&&❌,8&&稀有另类,9",
+      "click": true,
+      "type": "xml",
+      "detailUrl": ""
+    },
+    {
       "id":1,
       "name":"18X 神速",
       "url":"https://api.yinwoapi.com/api.php/provide/vod/from/ywm3u8/at/xml",
