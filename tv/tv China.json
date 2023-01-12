@@ -2023,18 +2023,6 @@
       "parse": false
     },
     {
-      "name": "香港TVB 明珠台",
-      "url": "https://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSXSDYSCPmYB3nyL8VoC2i25ajFtLaR3mVw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "香港ViuTV6",
-      "url": "http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "香港凤凰卫视资讯台",
       "url": "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/1023/3dbd7f69c75486247711623f4720885c.jpg",
@@ -2059,27 +2047,9 @@
       "parse": true
     },
     {
-      "name": "香港无线Pearl明珠台",
-      "url": "https://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWT_eB_zmcynPDS2n1TgjiWLhZXFSS52DUjQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "香港无线财经•资讯台",
-      "url": "https://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": false
-    },
-    {
       "name": "香港耀才财经台 BSTV",
       "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2016/0922/2e357e13827907f8b90e628ebdd1d1e3.jpg",
-      "parse": false
-    },
-    {
-      "name": "香港有线新闻台",
-      "url": "http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
       "parse": false
     },
     {
