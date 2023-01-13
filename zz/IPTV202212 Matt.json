@@ -25,6 +25,12 @@
       "parse": false
     },
     {
+      "name": "NBC News",
+      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145879",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBePssK2ZXoPie5y5frufmVhC_QqWn6ZSUhA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NewsNation (WGN)",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142370",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmf3o-AMhbMM8cDew2jkcHLyAT0mTuEou7iQ&usqp=CAU",
