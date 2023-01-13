@@ -325,6 +325,12 @@
       "parse": false
     },
     {
+      "name": "NTV (Canada)",
+      "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRQuy9ln2ZAP_0n2V4uawR5bPGXxUSHAu2w&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "OAN",
       "url": "http://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJLxHdFg-KXgCdhJFBXaW6ziXZ5MxBk7cS3g&usqp=CAU",
