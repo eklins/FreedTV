@@ -127,12 +127,6 @@
       "parse": false
     },
     {
-      "name": "Beto TV",
-      "url": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Bloody Disgusting",
       "url": "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
