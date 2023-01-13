@@ -109,12 +109,6 @@
       "parse": false
     },
     {
-      "name": "BET Soul",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145926",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Blue Mountain TV",
       "url": "https://1189614805.rsc.cdn77.org/hls/bmt.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -511,12 +505,6 @@
       "parse": false
     },
     {
-      "name": "MTV Classic (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145980",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MTV Hits",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3486",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -525,18 +513,6 @@
     {
       "name": "MTV Hits (Brazil)",
       "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061351",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV Live (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145981",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MTV U (US)",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52865",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -621,12 +597,6 @@
     {
       "name": "ng Radio (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146366",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Nick Music",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146678",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -891,12 +861,6 @@
     {
       "name": "Retro TV (KCKS-LD9)",
       "url": "https://cdn.igocast.com/channel9_hls/channel9_master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Revolt",
-      "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145995",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
