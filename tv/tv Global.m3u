@@ -179,6 +179,8 @@ http://live.topestrada.com/live/topestrada/playlist.m3u8
 http://95.107.132.106/out/u/419_1.m3u8
 #EXTINF:-1 ,ALB★TV 7 (540p) [Not 24/7]
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 ,ALB★Zjarr
+https://mfe01.tring.al/delta/106/out/u/284_1.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/240px-Flag_of_Andorra.svg.png",Andorra♥ATV (720p)
 https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/240px-Flag_of_Argentina.svg.png",Argentina♥5TV (Corrientes)
