@@ -2633,10 +2633,14 @@ https://tvreg.klemit.net/regionalna/stream/index.m3u8
 https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
 #EXTINF:-1 ,POL★TVT Zgorzelec
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/240px-Flag_of_Portugal.svg.png",Portugal♥Canal 11
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/240px-Flag_of_Portugal.svg.png",Portugal♥BIGGS SD
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307587.ts
+#EXTINF:-1 ,PRT★Canal 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1 ,PRT★Canal Parlamento
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:-1 ,PRT★Dizi Chanel SD
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307647.ts
 #EXTINF:-1 ,PRT★Igreja Online
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
 #EXTINF:-1 ,PRT★Kuriakos Cine [Not 24/7]
@@ -2665,10 +2669,8 @@ https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★TV Maná English (1080p)
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
-#EXTINF:-1 ,PRT★TVI (480p)
-https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
-#EXTINF:-1 ,PRT★TVI Reality (480p)
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:-1 ,PRT★TVI Ficção SD
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307553.ts
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/240px-Flag_of_Puerto_Rico.svg.png",Puerto Rico♥Pura Palabra
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 #EXTINF:-1 ,PRI★CDM TV
