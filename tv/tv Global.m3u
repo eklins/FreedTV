@@ -1681,12 +1681,10 @@ https://rakuten-spotlight-13-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,IRL★TG4
 https://d3d0bkvqxpkoih.cloudfront.net/tg4_vod_3_450_.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/240px-Flag_of_Israel.svg.png",Israel♥HOT HBO (Израиль)
-http://myott.top/stream/DT6QU63K5VX/381.m3u8
-#EXTINF:-1 ,ISR★HOT Zone (Израиль)
-http://myott.top/stream/DT6QU63K5VX/379.m3u8
-#EXTINF:-1 ,ISR★i24 News Arabic
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/240px-Flag_of_Israel.svg.png",Israel♥i24 News Arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:-1 ,ISR★Reshet 13 (720p)
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/240px-Flag_of_Italy.svg.png",Italy♥12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 ,ITA★51 Radio TV
@@ -2933,8 +2931,6 @@ https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 ,ESP★EiTB ②
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:-1 ,ESP★HBO
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/45085
 #EXTINF:-1 ,ESP★HBO 2
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/39236
 #EXTINF:-1 ,ESP★MyTime Movie Network
