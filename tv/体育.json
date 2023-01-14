@@ -385,6 +385,12 @@
       "parse": false
     },
     {
+      "name": "Benfica TV (Portugal★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/355693.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Best Cable Sports (Peru)",
       "url": "https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -547,14 +553,38 @@
       "parse": false
     },
     {
-      "name": "Eleven 1 (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/36420",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "name": "ELEVEN 1 (Portugal★SD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307654.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
       "parse": false
     },
     {
-      "name": "ELEVEN 1 (Taiwan)",
-      "url": "http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283",
+      "name": "ELEVEN 2 (Portugal★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/339511.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ELEVEN 3 🔇 (Portugal★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307665.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ELEVEN 4 🔇 (Portugal★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307669.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ELEVEN 6 🔇 (Portugal★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307674.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ELEVEN 1 (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/36420",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -571,8 +601,20 @@
       "parse": false
     },
     {
+      "name": "Eurosport 2 (France)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1555",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Eurosport 1 (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4221",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Eurosport 2 (Germany)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2082",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -583,20 +625,20 @@
       "parse": false
     },
     {
+      "name": "Eurosport 1 🔇 (Portugal★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/339518.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Eurosport 2 🔇 (Portugal★SD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307680.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Eurosport 1 (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/412",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Eurosport 2 (France)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1555",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Eurosport 2 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2082",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -883,6 +925,12 @@
       "parse": false
     },
     {
+      "name": "NBA TV 🔇 (Portugal★HEVC)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364567.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NFL Podcast",
       "url": "https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1132,6 +1180,48 @@
       "name": "Sport Digital (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3509",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sport•TV 1 🔇 (Portugal★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307819.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sport•TV 2 (Portugal★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/359251.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sport•TV 3 (Portugal★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307855.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sport•TV 4 (Portugal★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307856.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sport•TV 5 (Portugal★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/339548.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sport•TV 6 🔇 (Portugal★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307841.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sport•TV+ (Portugal★HEVC)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364562.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
       "parse": false
     },
     {
