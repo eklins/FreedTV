@@ -1751,6 +1751,8 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 #EXTINF:-1 ,ITA★Kiss Kiss TV Napoli
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 ,ITA★La 5 (FHD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306196.ts
 #EXTINF:-1 ,ITA★La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 ,ITA★Mondo TV Kids
@@ -1787,6 +1789,8 @@ http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 ,ITA★Rai 1 (HD)
 http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/273497.ts
+#EXTINF:-1 ,ITA★RAI 2 (HD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/368222.ts
 #EXTINF:-1 ,ITA★Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 ,ITA★RAI 4 (HD)
