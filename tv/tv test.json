@@ -13,24 +13,6 @@
       "parse": true
     },
     {
-      "name": "陕西西部电影",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Comedy Central (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12023",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO (Croatia)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/45085",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "1️⃣",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/843",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -93,6 +75,12 @@
     {
       "name": "C itv (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1548",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Comedy Central (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12023",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -273,6 +261,12 @@
     {
       "name": "Viasat Nature (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2260",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "陕西西部电影",
+      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
