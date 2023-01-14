@@ -1785,10 +1785,12 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
 #EXTINF:-1 ,ITA★Radio Studio Delta TV
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 ,ITA★Rai 1
-http://ott-cdn.ucom.am/s29/04.m3u8
+#EXTINF:-1 ,ITA★Rai 1 (HD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/273497.ts
 #EXTINF:-1 ,ITA★Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 ,ITA★RAI 4 (HD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/258845.ts
 #EXTINF:-1 ,ITA★Rai Italia Asia
 http://45.126.83.51/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 ,ITA★Rai News 24
@@ -2633,7 +2635,7 @@ https://tvreg.klemit.net/regionalna/stream/index.m3u8
 https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
 #EXTINF:-1 ,POL★TVT Zgorzelec
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/240px-Flag_of_Portugal.svg.png",Portugal♥BIGGS SD
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/240px-Flag_of_Portugal.svg.png",Portugal♥BIGGS (SD)
 http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307587.ts
 #EXTINF:-1 ,PRT★Canal 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
@@ -2659,18 +2661,22 @@ https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,PRT★Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,PRT★RTP Açores (SD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/318117.ts
 #EXTINF:-1 ,PRT★RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★RTP Internacional Asia (480p)
 http://45.126.83.51/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 ,PRT★SIC KIDS (HEVC)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364557.ts
 #EXTINF:-1 ,PRT★TV Maná 1 (1080p)
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★TV Maná 2 (1080p)
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
 #EXTINF:-1 ,PRT★TV Maná English (1080p)
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
-#EXTINF:-1 ,PRT★TVI Ficção SD
-http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307553.ts
+#EXTINF:-1 ,PRT★TVI Ficção (FHD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307902.ts
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/240px-Flag_of_Puerto_Rico.svg.png",Puerto Rico♥Pura Palabra
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 #EXTINF:-1 ,PRI★CDM TV
