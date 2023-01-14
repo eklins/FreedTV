@@ -289,10 +289,10 @@
       "webPlus": {}
     },
     {
-      "name": "World 10/01/2023",
+      "name": "PT,IT,PL,DE,AL,RO 10/01/2023",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReztq1stMgnYBZh6nwWI8ZqLGfmKuAdbc0Yg&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/zz/IPTV20230110%20World.txt",
-      "type": "txt",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/zz/IPTV20230110%20PT,IT,PL,DE,AL,RO.m3u",
+      "type": "m3u",
       "subTitle": "",
       "click": true,
       "autoNext": false,
@@ -305,10 +305,10 @@
       "webPlus": {}
     },
     {
-      "name": "PT,IT,PL,DE,AL,RO 10/01/2023",
+      "name": "World 10/01/2023",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReztq1stMgnYBZh6nwWI8ZqLGfmKuAdbc0Yg&usqp=CAU",
-      "webUrl": "https://github.com/eklins/FreedTV/raw/main/zz/IPTV20230110%20PT,IT,PL,DE,AL,RO.txt",
-      "type": "txt",
+      "webUrl": "https://github.com/eklins/FreedTV/raw/main/zz/IPTV20230110%20World.m3u",
+      "type": "m3u",
       "subTitle": "",
       "click": true,
       "autoNext": false,
