@@ -1459,6 +1459,12 @@
       "parse": false
     },
     {
+      "name": "Love Nature (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/78665",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Love Stories TV (Australia)",
       "url": "https://lovestoriestv-lovestoriestv-1-au.samsung.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -2265,6 +2271,12 @@
     {
       "name": "Very Oklahoma (KOCO)",
       "url": "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Viasat History (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2259",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
