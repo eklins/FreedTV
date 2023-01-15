@@ -283,6 +283,12 @@
       "parse": false
     },
     {
+      "name": "Cosmote Cinema 3 (Greece)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291106",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Cowboy Theater",
       "url": "https://simultv.s.llnwi.net/o060/CowboyTheater/interlink.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1155,12 +1161,6 @@
     {
       "name": "NOVA Premiere ② (Greece)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266429",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NOVA Premiere ③ (Greece)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291106",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
