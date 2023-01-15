@@ -973,6 +973,12 @@
       "parse": false
     },
     {
+      "name": "Discovery",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/24963",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Discovery 求索纪录 (China)",
       "url": "http://baidu.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1191,6 +1197,12 @@
     {
       "name": "FNX (WMBQ-LD★432p)",
       "url": "https://v-ny.mybtv.net/live/658.m3u8?env=prd&uid=-1&x=1",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Food Network (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/19900",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
