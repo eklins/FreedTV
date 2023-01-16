@@ -553,8 +553,14 @@
       "parse": false
     },
     {
-      "name": "Mooz Hits (Romania)",
+      "name": "Mooz Dance (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/81097",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Mooz Hits (Romania★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/322866.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -585,6 +591,12 @@
     {
       "name": "MTV Hits (Brazil)",
       "url": "http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061351",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MTV Live (Romania★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/322871.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
