@@ -1669,12 +1669,6 @@
       "parse": false
     },
     {
-      "name": "Rakuten Spotlight (Austria)",
-      "url": "https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Rakuten Spotlight (Denmark)",
       "url": "https://rakuten-spotlight-10-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
@@ -1731,12 +1725,6 @@
     {
       "name": "Rakuten Spotlight (Sweden)",
       "url": "https://rakuten-spotlight-9-eu.rakuten.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Rakuten Spotlight (Switzerland)",
-      "url": "https://rakuten-spotlight-4-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
