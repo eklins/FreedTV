@@ -49,12 +49,6 @@
       "parse": false
     },
     {
-      "name": "BesTV 超级体育",
-      "url": "http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226895/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MIGU",
       "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
