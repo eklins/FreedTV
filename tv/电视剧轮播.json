@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
+      "name": "大秦帝国（裂变、纵横、崛起）2009-2017",
       "url": "http://epg.112114.xyz/douyu/6582435",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
       "parse": false
@@ -241,7 +241,7 @@
       "parse": false
     },
     {
-      "name": "康熙王朝2001",
+      "name": "康熙王朝 2001",
       "url": "http://epg.112114.xyz/douyu/9650836",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
       "parse": false
@@ -337,7 +337,7 @@
       "parse": false
     },
     {
-      "name": "庆余年2019",
+      "name": "庆余年 2019",
       "url": "http://epg.112114.xyz/douyu/7489563",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MWbCT00LROfbtH-ohRUwlSMZwzgNdekDkg&usqp=CAU",
       "parse": false
@@ -373,19 +373,13 @@
       "parse": false
     },
     {
-      "name": "AXN (Taiwan)",
-      "url": "http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "BBC America",
       "url": "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Comedy Channel",
+      "name": "Comedy Channel (UK)",
       "url": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
