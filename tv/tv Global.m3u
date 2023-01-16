@@ -3267,22 +3267,28 @@ https://open-cdn.lanet.tv/live/1008.m3u8
 http://88.218.242.235:82/0196/video.m3u8?token=2qm9dRD427
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/240px-Flag_of_the_United_Arab_Emirates.svg.png",United Arab Emirates♥Abu Dhabi Aloula
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,UAE★Abu Dhabi Drama (HD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/265521.ts
 #EXTINF:-1 ,UAE★Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 ,UAE★CINEMA 2 (HD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/271927.ts
 #EXTINF:-1 ,UAE★Dubai one
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-#EXTINF:-1 ,UAE★Dubai Sports ①
+#EXTINF:-1 ,UAE★Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 ,UAE★Dubai Sports ②
+#EXTINF:-1 ,UAE★Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 ,UAE★Dubai Sports ③
+#EXTINF:-1 ,UAE★Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 ,UAE★Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 ,UAE★MBC 1 North America
+#EXTINF:-1 ,UAE★MBC 1 (North America)
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:-1 ,UAE★MBC 3 EUR
+#EXTINF:-1 ,UAE★MBC 3 (Europe)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 ,UAE★MBC 4 (HD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/291220.ts
 #EXTINF:-1 ,UAE★MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 ,UAE★MBC Bollywood
@@ -3297,6 +3303,14 @@ https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f09
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 ,UAE★National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 ,UAE★OSN Ya Hala (HD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/265632.ts
+#EXTINF:-1 ,UAE★OSN Ya Hala Al Oula (HD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/265630.ts
+#EXTINF:-1 ,UAE★OSN Ya Hala Cinema (HD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/273282.ts
+#EXTINF:-1 ,UAE★Sama Dubai (HD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/265640.ts
 #EXTINF:-1 ,UAE★Takhayl
 https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/shahid-media-prod-channel-assembly-1/index.m3u8
 #EXTINF:-1 ,UAE★Weyyak Action
@@ -3311,6 +3325,8 @@ https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 ,UAE★Weyyak Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 ,UAE★ZEE Aflam (SD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/315219.ts
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/240px-Flag_of_the_United_Kingdom.svg.png",United Kingdom♥Arise News
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 ,GBR★BBC News
