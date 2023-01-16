@@ -2269,6 +2269,12 @@
       "parse": false
     },
     {
+      "name": "Rakuten Huippuelokuvat★Top Movies (Finland)",
+      "url": "https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Rakuten Lone Star (US)",
       "url": "https://lonestar-rakuten.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
@@ -2325,12 +2331,6 @@
     {
       "name": "Rakuten Top Free (UK★PLEX)",
       "url": "https://rakuten-topfree-1-gb.plex.wurl.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Rakuten Top Movies (Finland)",
-      "url": "https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKCNmZAMxYZY5EgVrwfMKgTJwaqbi8yjGbw&usqp=CAU",
       "parse": false
     },
