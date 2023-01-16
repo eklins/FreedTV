@@ -13,12 +13,6 @@
       "parse": true
     },
     {
-      "name": "PRO•Arena (Romania)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5748",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Barça TV (576p)",
       "url": "http://93.152.174.144:4000/play/barcatv/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
