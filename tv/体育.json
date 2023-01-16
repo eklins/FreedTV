@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "name": "MUTV",
+      "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUP3c_iePxWFaqmAUmdS7FZEOakhox31hrzw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Real Madrid TV",
+      "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLkWQ-XnT5-ozoGABaHiSlgVgEUD5t7xdHg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "CCTV-5 体育",
       "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225756/index.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2015/0417/20150417122518526.jpg",
@@ -361,12 +373,6 @@
       "parse": false
     },
     {
-      "name": "Barça TV (576p)",
-      "url": "http://93.152.174.144:4000/play/barcatv/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "beIN La Liga",
       "url": "http://93.152.174.144:4000/play/beinlaliga/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -387,7 +393,7 @@
     {
       "name": "Benfica TV (Portugal★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/355693.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
@@ -555,55 +561,55 @@
     {
       "name": "ELEVEN 1 🔇 (Poland★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/298572.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "ELEVEN 2 🔇 (Poland★HD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/298573.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "ELEVEN 3 🔇 (Poland★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/298574.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "ELEVEN 4 🔇 (Poland★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/298575.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "ELEVEN 1 (Portugal★SD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307654.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "ELEVEN 2 (Portugal★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/339511.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "ELEVEN 3 🔇 (Portugal★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307665.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "ELEVEN 4 🔇 (Portugal★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307669.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "ELEVEN 6 🔇 (Portugal★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307674.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
@@ -669,13 +675,13 @@
     {
       "name": "Eurosport 1 🔇 (Portugal★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/339518.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Eurosport 2 🔇 (Portugal★SD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307680.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
@@ -943,12 +949,6 @@
       "parse": false
     },
     {
-      "name": "MUTV",
-      "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUP3c_iePxWFaqmAUmdS7FZEOakhox31hrzw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MZ Sports (Costa Rica)",
       "url": "https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1078,12 +1078,6 @@
       "name": "Racing TV (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/731",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Real Madrid TV",
-      "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLkWQ-XnT5-ozoGABaHiSlgVgEUD5t7xdHg&usqp=CAU",
       "parse": false
     },
     {
@@ -1245,43 +1239,43 @@
     {
       "name": "Sport•TV 1 🔇 (Portugal★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307819.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Sport•TV 2 (Portugal★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/359251.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Sport•TV 3 (Portugal★HD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307855.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Sport•TV 4 (Portugal★HD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307856.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Sport•TV 5 (Portugal★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/339548.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Sport•TV 6 🔇 (Portugal★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307841.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "Sport•TV+ (Portugal★HEVC)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364562.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
