@@ -901,7 +901,13 @@ https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-1 ,ECU★TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/240px-Flag_of_Egypt.svg.png",Egypt♥LBC (1080)
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/240px-Flag_of_Egypt.svg.png",Egypt♥CBC (SD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/345671.ts
+#EXTINF:-1 ,EGY★CBC Drama (SD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/345669.ts
+#EXTINF:-1 ,EGY★DMC DRAMA (SD)
+http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/345678.ts
+#EXTINF:-1 ,EGY★LBC (1080)
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,EGY★Rotana Cinema (1080)
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
