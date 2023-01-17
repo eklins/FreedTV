@@ -49,13 +49,13 @@
       "parse": false
     },
     {
-      "name": "Running Man（点播）2010",
+      "name": "Running Man 2010（点播）",
       "url": "http://epg.112114.xyz/douyu/131977",
       "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
       "parse": false
     },
     {
-      "name": "Running Man（轮播）2010",
+      "name": "Running Man 2010（轮播）",
       "url": "http://epg.112114.xyz/douyu/7298973",
       "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
       "parse": false
@@ -535,12 +535,6 @@
       "parse": false
     },
     {
-      "name": "台湾TVBS亚洲台",
-      "url": "https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾台视",
       "url": "http://23.237.10.66:16344",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -559,33 +553,15 @@
       "parse": false
     },
     {
-      "name": "台湾中天娱乐",
-      "url": "https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾中天综合",
-      "url": "https://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾猪哥亮歌厅秀",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "成都熊猫繁育研究基地",
+      "name": "成都大熊猫繁育研究基地",
       "url": "http://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZEeY5PE5fasqF2ar7Bsps3pKnrXV7EIKMA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "30A Gone Fishing Offshore",
-      "url": "https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastFishingOffshore30a/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
@@ -807,7 +783,7 @@
     {
       "name": "Business Rockstars",
       "url": "https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8",
-      "pic": "https://biztv.com/wp-content/uploads/2020/06/Shows-BusinessRockstars.jpg",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
@@ -993,12 +969,6 @@
     {
       "name": "Discovery (Portugal★HEVC)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364514.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery (Taiwan)",
-      "url": "https://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1569,13 +1539,13 @@
     {
       "name": "NASA TV",
       "url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8YtOWRGP5NpBd3TLoE3pPQRQgDSAzke_wmA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
       "name": "NASA TV UHD",
       "url": "https://endpnt.com/hls/nasa4k60/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8YtOWRGP5NpBd3TLoE3pPQRQgDSAzke_wmA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
