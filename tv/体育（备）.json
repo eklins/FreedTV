@@ -271,15 +271,27 @@
       "parse": false
     },
     {
-      "name": "BT Sport 6 (UK★HD)",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329029.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Q6_vMChdElIy7esv8vvNUULF9AofaIMRiw&usqp=CAU",
+      "name": "BT Sport 5 (UK★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306401.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Supersport 4 (Albania★FHD)",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366897.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Q6_vMChdElIy7esv8vvNUULF9AofaIMRiw&usqp=CAU",
+      "name": "BT Sport 6 (UK★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306402.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BT Sport 7 (UK★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306403.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BT Sport 8 (UK★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306404.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
       "parse": false
     },
     {
@@ -508,6 +520,12 @@
       "name": "Sky Sport Bundesliga 10 (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4493",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjAm1a80PMvvnnJIpR9n2PhnVitHvTYgg_g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Supersport 4 (Albania★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366897.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Q6_vMChdElIy7esv8vvNUULF9AofaIMRiw&usqp=CAU",
       "parse": false
     }
   ]
