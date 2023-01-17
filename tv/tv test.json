@@ -13,18 +13,6 @@
       "parse": true
     },
     {
-      "name": "OSN Box Office 1 (UAE★HD) CHECK is Box ot same as Hollywood",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/265611.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Barça TV (576p)",
-      "url": "http://93.152.174.144:4000/play/barcatv/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "1️⃣",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/843",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -256,6 +244,12 @@
       "name": "Viasat Nature (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2260",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Barça TV (576p)",
+      "url": "http://93.152.174.144:4000/play/barcatv/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPU4SIR1xj-MVAeI1-uP5i6rYBnpDiEATaw&usqp=CAU",
       "parse": false
     },
     {
