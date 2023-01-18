@@ -835,6 +835,18 @@
       "parse": false
     },
     {
+      "name": "Eurosport 1 (Norway★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/312604.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Eurosport Norge (Norway★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/310104.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Eurosport 1 (Portugal★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/322572.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1807,6 +1819,12 @@
       "parse": false
     },
     {
+      "name": "V Sport Premiere League (Norway★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/310127.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "viaplay EIR Sports 1 (Ireland★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/318543.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1875,6 +1893,18 @@
     {
       "name": "Ziggo Sport Select (Netherlands)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/851",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Ziggo Tennis (Netherlands★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/323073.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Ziggo Voetbal (Netherlands★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/323074.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
