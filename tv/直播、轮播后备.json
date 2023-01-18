@@ -2155,13 +2155,13 @@
       "parse": true
     },
     {
-      "name": "康熙王朝2001",
+      "name": "康熙王朝 2001",
       "url": "https://m.huya.com/11352940",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
       "parse": true
     },
     {
-      "name": "康熙王朝2001",
+      "name": "康熙王朝 2001",
       "url": "https://m.douyu.com/9650836",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
       "parse": true
@@ -2201,6 +2201,18 @@
       "url": "http://zzy789.xyz/bili.php?id=21205932",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
       "parse": true
+    },
+    {
+      "name": "雍正王朝 1999",
+      "url": "http://epg.112114.xyz/huya/11342439",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "雍正王朝 1999",
+      "url": "http://epg.112114.xyz/douyu/4944033",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzelFtbWLZhAl3enlESekpMWaMd_7HWaVtA&usqp=CAU",
+      "parse": false
     },
     {
       "name": "芈月传 2015",
