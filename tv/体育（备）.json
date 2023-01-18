@@ -461,6 +461,18 @@
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366897.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Q6_vMChdElIy7esv8vvNUULF9AofaIMRiw&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "TV2 Sport 1 (Norway★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/310125.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Q6_vMChdElIy7esv8vvNUULF9AofaIMRiw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TV2 Sport 2 (Norway★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/310126.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Q6_vMChdElIy7esv8vvNUULF9AofaIMRiw&usqp=CAU",
+      "parse": false
     }
   ]
 }
