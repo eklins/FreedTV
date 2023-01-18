@@ -487,8 +487,14 @@
       "parse": false
     },
     {
-      "name": "V Sport Premiere League (Norway★FHD)",
+      "name": "V Sport Premiere League 1 (Norway★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/310127.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Q6_vMChdElIy7esv8vvNUULF9AofaIMRiw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "V Sport Premiere League 2 (Norway★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/312607.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Q6_vMChdElIy7esv8vvNUULF9AofaIMRiw&usqp=CAU",
       "parse": false
     },
