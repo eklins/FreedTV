@@ -31,6 +31,18 @@
       "parse": false
     },
     {
+      "name": "100% NL (Netherlands★SD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/323045.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "192 TV (Netherlands★FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/323046.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "A Son de Salsa (720p) [Not 24/7]",
       "url": "https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -523,6 +535,12 @@
       "parse": false
     },
     {
+      "name": "Mezzo (Netherlands★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/279362.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Mezzo (Portugal★SD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/307733.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -591,6 +609,12 @@
     {
       "name": "MTV Live (Romania★FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/339991.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MTV Music 24 (Netherlands★SD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/310222.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -985,74 +1009,8 @@
       "parse": false
     },
     {
-      "name": "Sluhay (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch045pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Aillion (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch149pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Among Your God (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch086pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Christ (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch064pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay EDM (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch091pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Lenadi (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch052pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Live (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch173pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Mova (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch034pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Pop (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch066pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Rap (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch107pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Rock (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch114pub/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sluhay Xtip (Belarus) [Not 24/7]",
-      "url": "https://sluhay.by/live/Ch056pub/index.m3u8",
+      "name": "Slam! (Netherlands★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/310280.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -1207,6 +1165,12 @@
       "parse": false
     },
     {
+      "name": "TV Oranje (Netherlands★HD+ FHD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/310286.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "V Classic TV (Chile)",
       "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
@@ -1251,6 +1215,12 @@
     {
       "name": "VH1",
       "url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "VH1 Classic (Netherlands★SD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/323070.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
       "parse": false
     },
@@ -1396,6 +1366,78 @@
       "name": "Pluto The Story of Beatclub",
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f982c3420de4100070a545e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f982c3420de4100070a545e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=09ab0f67-3401-11eb-a786-0242ac110002&terminate=false&userId=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch045pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay Aillion (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch149pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay Among Your God (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch086pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay Christ (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch064pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay EDM (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch091pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay Lenadi (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch052pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay Live (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch173pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay Mova (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch034pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay Pop (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch066pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay Rap (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch107pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay Rock (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch114pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sluhay Xtip (Belarus) [Not 24/7]",
+      "url": "https://sluhay.by/live/Ch056pub/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWGOOeFXQErKMyLyTEJfsFMYnphLOk0FYng&usqp=CAU",
       "parse": false
     },
     {
