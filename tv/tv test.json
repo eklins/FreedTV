@@ -4801,18 +4801,6 @@
       "parse": false
     },
     {
-      "name": "香港无线新闻台 nettvpro",
-      "url": "https://www.nettvpro.live/m/play.php?aid=3195",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
-      "parse": true
-    },
-    {
-      "name": "无线财经 nettvpro",
-      "url": "https://www.nettvpro.live/m/play.php?aid=4563",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "CBN 每日影院",
       "url": "http://120.253.104.16:808/hls/140/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -5034,7 +5022,6 @@
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
-
     {
       "name": "Channel China (Korea)",
       "url": "https://apichvod19.seezntv.com/OTM/10790_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403",
@@ -5111,48 +5098,6 @@
       "name": "MIGU 4K",
       "url": "http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv9XJizG00INzRQjgqP8MWuxEseHHOrcj7g&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾东森新闻",
-      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcnews.m3u8",
-      "pic": "https://img.isuper.tv/live-tv/ebc-news-live.jpg",
-      "parse": false
-    },
-    {
-      "name": "台湾华视新闻 for40255",
-      "url": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "台湾华视新闻 Github",
-      "url": "https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CYCKR5mv2mzI5FZd_JiLMQ9UFy0IP7vA5w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾mnews•镜新闻",
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0V09ZLB6O33q4yFo0XUGAmAnNxeDbgPvqUA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "大连新闻综合",
-      "url": "http://live.cooltv.top/tv/cutv.php?id=dlxwzh",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVB 星河",
-      "url": "http://104.238.221.63:9138/stream/live/c20114.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVB 明珠台",
-      "url": "http://120.84.96.63:808/hls/26/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
@@ -5246,12 +5191,6 @@
       "parse": false
     },
     {
-      "name": "香港无线新闻台 PRD",
-      "url": "https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
-      "parse": true
-    },
-    {
       "name": "香港无线新闻台",
       "url": "https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
@@ -5270,22 +5209,10 @@
       "parse": false
     },
     {
-      "name": "WION (576p)",
-      "url": "http://210.210.155.37/uq2663/h/h91/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ-GjVvGAtquFlsS-YmzwhIojVinrsZ4Ve8A&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "SYFY (480p)",
       "url": "http://190.61.41.182:8000/play/a2rn/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "🇺🇳HBO",
-      "url": "http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8822",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
     },
     {
       "name": "BBC News",
@@ -5297,48 +5224,6 @@
       "name": "BBC News",
       "url": "http://prox.x86.co.uk/index.php/http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "🇦🇺ABC 90",
-      "url": "https://wuxiezx.com/player/?url=https://c.mjh.nz/101002210221/",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "🇦🇺ABC 90",
-      "url": "https://api.ukubf.com/m3u8/?url=https://c.mjh.nz/101002210221/",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾ELTA影剧",
-      "url": "http://50.7.218.42:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾EYE TV戏剧",
-      "url": "http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "Cartoon Network (Taiwan)",
-      "url": "http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Animax",
-      "url": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Animax (Taiwan)",
-      "url": "http://59.125.122.90:18550/http/192.168.1.9:8078/hls/24/80/ch04.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
@@ -5354,21 +5239,9 @@
       "parse": false
     },
     {
-      "name": "北海新闻",
-      "url": "http://njgdmm-wshls.homecdn.com/live/4e8a2.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "广州影视",
       "url": "https://aplays.gztv.com/sec/yingshi.m3u8?auth_key=1662646364-0-0-dca2b67e1ee00c40940b878a7e3097a5",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BBC World News",
-      "url": "https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWydvEITUDSPECwODd3bwcbdNa4PegZgFRQ&usqp=CAU",
       "parse": false
     },
     {
@@ -5381,24 +5254,6 @@
       "name": "FOX Sports News",
       "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDWpiol50Q-rQUJ9gyxpmlh6sbIWUl_cUwQ&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾JET综合",
-      "url": "http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾MOMO综合台",
-      "url": "http://59.125.122.90:18576/http/192.168.1.9:8081/hls/68/810/ch01.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾东森超视",
-      "url": "http://59.125.122.90:18555/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": false
     },
     {
@@ -5498,7 +5353,7 @@
       "parse": false
     },
     {
-      "name": "Studio Universal",
+      "name": "Studio Universal 190.83",
       "url": "http://190.83.119.67:8000/play/a0q2/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -5564,194 +5419,8 @@
       "parse": false
     },
     {
-      "name": "🇺🇳beIN MOVIES DRAMA",
-      "url": "http://stariptv.org:8080/hamza2022/123456/131988",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇺🇳Disney",
-      "url": "http://mains.services:2086/A.Jones01/1904550/93917",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇺🇳Warner",
-      "url": "http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81789",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "广州影视 T",
-      "url": "http://ai5619227.v2.aihost6.top/daili.php?/GZTV/yingshi",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "广州影视 F",
-      "url": "http://ai5619227.v2.aihost6.top/daili.php?/GZTV/yingshi",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾美亚电影台 F",
-      "url": "http://v3948069e.live.126.net:80/live/2377c02556.flv",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾美亚电影台 T",
-      "url": "http://v3948069e.live.126.net:80/live/2377c02556.flv",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "Channel One",
       "url": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "海峡卫视（福建）",
-      "url": "http://61.219.170.95:18533/http/192.168.1.9:8077/hls/42/80/fjttv.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1-uVko3zu7-bcMeuYihWKrCOd6-nZ_ImSw&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "东风 37",
-      "url": "http://61.219.170.95:18560/.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVB 星河",
-      "url": "http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾中天娱乐",
-      "url": "http://61.219.170.95:18521/.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾Star World",
-      "url": "http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾卫视中文台",
-      "url": "http://61.219.170.95:18522/.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾龙华日韩",
-      "url": "http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾龙华偶像",
-      "url": "http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾龙华电影",
-      "url": "http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾卫视电影台",
-      "url": "http://61.219.170.95:18529/.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾GTV八大综合台",
-      "url": "http://61.219.170.95:18517/.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾GTV八大第1台",
-      "url": "http://61.219.170.95:18539/.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾纬来综合",
-      "url": "http://61.219.170.95:18540/.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾纬来育乐",
-      "url": "http://61.219.170.95:18541/.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾纬来育乐",
-      "url": "http://61.219.170.95:18557/.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾台视HD",
-      "url": "http://61.219.170.95:18543/.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾年代 MUCH",
-      "url": "http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "台湾momo综合台",
-      "url": "http://61.219.170.95:18576/.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "Asia Travel (Taiwan)",
-      "url": "http://61.219.170.95:18568/.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "National Geographic (Taiwan)",
-      "url": "http://61.219.170.95:18501/.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Marvel",
-      "url": "http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "❌ABC Me",
-      "url": "https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/index.m3u8?hdnea=st=1660833296~exp=1660834196~acl=/*~hmac=e8f76806ab8213fe4f6c42b7a21305a97c9e73f65bf231077d14612a1a88ce98",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Hollywood HD (Unknown Country)",
-      "url": "http://streamer.crimea-tv.net/Hollywood_HD/video.m3u8?token=9d3cc59e",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sci-Fi",
-      "url": "http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -5760,18 +5429,6 @@
       "url": "http://190.83.119.67:8000/play/a0s9/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "特辑电影",
-      "url": "http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "周末电影",
-      "url": "http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
     },
     {
       "name": "🇺🇳AXN Black",
@@ -5786,24 +5443,6 @@
       "parse": true
     },
     {
-      "name": "🇺🇳Cinemax ①",
-      "url": "http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69532",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇺🇳Cinemax ②",
-      "url": "http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69623",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "Cinemax (Vietnam) VHLS 5m",
-      "url": "https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "东森",
       "url": "http://61.219.170.95:18555/.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -5816,85 +5455,19 @@
       "parse": false
     },
     {
-      "name": "龙珠（日）",
-      "url": "http://dyscdnali1.douyucdn.cn/live/7190773r0Xv0DDkx.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJ5dREDA5RSGqAMIUKqMdyANSj3qLKNqRUw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "全职猎人 Hunter（日）1999",
-      "url": "http://dyscdnali1.douyucdn.cn/live/6610883rdSnhO6m2.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnno6AT7_4KZcvK1ewCzZRptfC8zpCwonGA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "宝可梦（日）1997",
-      "url": "http://dyscdnali1.douyucdn.cn/live/997925rsBT668jIk.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3iO2XREqy57y9h0-8Uu1lOoTPX2JFEUd3w&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "名侦探柯南1996",
-      "url": "http://dyscdnali1.douyucdn.cn/live/1783144rrjrMyaz4.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "Tom & Jerry",
-      "url": "http://dyscdnali1.douyucdn.cn/live/7888428rFnqIDK1i.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0uU_l4TnMXGBxiq7SnvsPef5HKEC4W9S3Q&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇱🇷Sci-Fi",
-      "url": "http://dyscdnali1.douyucdn.cn/live/4332rHiptPWLitC2.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇱🇷Movies ⑥",
-      "url": "http://dyscdnali1.douyucdn.cn/live/6655271roUlUqdDF.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "The Wall Street Journal Live",
       "url": "https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Bollywood Classic F",
-      "url": "http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Bollywood Classic T",
-      "url": "http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "NFL Network F",
-      "url": "http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15471.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NFL Network T",
-      "url": "http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15471.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "三国演义1994",
+      "name": "三国演义 1994",
       "url": "http://124.223.212.38:83/douyu/7459925",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
       "parse": true
     },
     {
-      "name": "三国演义1994 diyp",
+      "name": "三国演义 1994 diyp",
       "url": "http://diyp.112114.xyz/douyu/7459925",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
       "parse": true
@@ -5936,7 +5509,7 @@
       "parse": true
     },
     {
-      "name": "犬夜叉2000",
+      "name": "犬夜叉 2000",
       "url": "http://zzy789.xyz/bili.php?id=23089518",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oXuMFvRhu0mk_-M_o6nttrfyS2FCOw4iaA&usqp=CAU",
       "parse": true
@@ -5966,48 +5539,6 @@
       "parse": false
     },
     {
-      "name": "Hollywood (Taiwan)",
-      "url": "http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Hollywood (Taiwan)",
-      "url": "http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AXN",
-      "url": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HITS",
-      "url": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "Hits Movies",
-      "url": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "tvN Movies",
-      "url": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "Warner",
-      "url": "https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "黑莓动作电影",
       "url": "http://117.148.179.160/PLTV/88888888/224/3221231565/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -6032,55 +5563,37 @@
       "parse": true
     },
     {
-      "name": "24H Free Movies",
-      "url": "https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Film Box",
       "url": "http://94.230.240.17:8080/film_box/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzZkD9J030tGNfT1CAApXIA-O_RUji3hU5w&usqp=CAU",
       "parse": false
     },
     {
-      "name": "海绵宝宝②",
+      "name": "海绵宝宝 ②",
       "url": "http://124.223.212.38:83/douyu/2250349",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
       "parse": true
     },
     {
-      "name": "海绵宝宝② epg",
+      "name": "海绵宝宝 ② epg",
       "url": "http://epg.112114.xyz/douyu/2250349",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
       "parse": true
     },
     {
-      "name": "香港无线财经•资讯台 mitv",
-      "url": "mitv://ns2.hellotvvod.com:9906/b57938a3640b42f5aa7ffe158616a555",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
-    },
-    {
-      "name": "香港无线财经•资讯台",
-      "url": "https://news.tvb.com/tc/live/85",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
-    },
-    {
-      "name": "粤语片台 mitv",
+      "name": "粤语片台 (mitv://)",
       "url": "mitv://ns2.hellotvvod.com:9906/d2d85aebf4be4b4b8311ae0c598b20bf",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
     {
-      "name": "HBO Asia",
+      "name": "HBO Asia (iptvcat)",
       "url": "https://list.iptvcat.com/my_list/s/a861be3c2059bfa119623a8fe90ade4d.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "HBO Premium",
+      "name": "HBO Premium (iptvcat)",
       "url": "https://list.iptvcat.com/my_list/s/f11edecca3cfe5a5acbcc2be3d11e194.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -6104,18 +5617,6 @@
       "parse": false
     },
     {
-      "name": "ARENA SPORT 1 HD (HR)",
-      "url": "http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD5YeVHnWEm7dfRkporL1dU/ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "香港无线财经•资讯台",
-      "url": "https://news.tvb.com/tc/live/83",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
-    },
-    {
       "name": "Urban Movies",
       "url": "https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -6126,12 +5627,6 @@
       "url": "https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w949993906.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
-    },
-    {
-      "name": "🇱🇷ABC TV",
-      "url": "https://c.mjh.nz/3201026102E1",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
-      "parse": true
     },
     {
       "name": "BBC News",
@@ -6464,48 +5959,6 @@
       "parse": true
     },
     {
-      "name": "CHC高清电影",
-      "url": "http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CHC高清电影",
-      "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CHC高清电影",
-      "url": "rtmp://ivi.bupt.edu.cn:1935/livetv/chchd",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "HBO",
-      "url": "http://218.202.220.2:5000/nn_live.m3u8?id=HBO",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "重案六组",
-      "url": "http://mmitv.top/pltv/yy.php?id=33567888",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "香港无线财经",
-      "url": "http://livetv.dnsfor.me/channel.11.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "香港无线财经 tvfix",
-      "url": "http://live.tvfix.org/play/finance",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "XUMO Action (432p) FilmRise",
       "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr73ageoYl5QbOdX7lx4MvBMWlF7bFoZI__w&usqp=CAU",
@@ -6537,38 +5990,8 @@
       "parse": false
     },
     {
-      "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
-      "url": "https://m.douyu.com/1584198?.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
-      "url": "https://m.douyu.com/1584198?=.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.douyu.com/1584198",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "特辑电视台",
-      "url": "http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "周星驰",
       "url": "http://kuqq.tk/00/huya.php?id=11342412",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "过瘾！这些无限循环电影，烧脑停不下来！ - 北岛的诗",
-      "url": "http://61.241.131.18/tx.rtmp.huya.com/1388457186-1388457186-5963378205766189056-2777037828-10057-A-0-1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
@@ -6585,50 +6008,8 @@
       "parse": false
     },
     {
-      "name": "三国演义1994 epg",
-      "url": "http://epg.112114.xyz/douyu/7459925",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "三国演义1994 epg F",
-      "url": "http://epg.112114.xyz/douyu/7459925",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Star TV",
       "url": "http://96.242.237.206:8000/play/a085/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "Hustler",
-      "url": "http://totv.org/tv-hustler",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "无线财经 YE23",
-      "url": "http://ye23.win/iptv/tvb.php?id=2",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "Dragon Ball",
-      "url": "http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/228361",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "NCIS",
-      "url": "http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/233948",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "NCIS:LA",
-      "url": "http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/233946",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
@@ -6681,64 +6062,10 @@
       "parse": false
     },
     {
-      "name": "TVB 星河频道 T",
-      "url": "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=76&pathid=1",
-      "pic": "https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",
-      "parse": true
-    },
-    {
-      "name": "TVB 星河频道 F",
-      "url": "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=76&pathid=1",
-      "pic": "https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",
-      "parse": false
-    },
-    {
-      "name": "香港无线财经•资讯台",
-      "url": "http://kkmix1.f3322.net:762/hls/ch2/s.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
-    },
-    {
       "name": "CHC 高清电影",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": true
-    },
-    {
-      "name": "香港无线财经•资讯台 livetv T",
-      "url": "http://livetv.dnsfor.me:80/channel.11.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": true
-    },
-    {
-      "name": "香港无线财经•资讯台 livetv F",
-      "url": "http://livetv.dnsfor.me:80/channel.11.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": false
-    },
-    {
-      "name": "香港无线财经资讯台 prd T",
-      "url": "http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "香港无线财经资讯台 prd F",
-      "url": "http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "香港无线财经资讯台 yulin T",
-      "url": "http://111.229.84.232/yulin/tvb.php?id=2",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "香港无线财经资讯台 yulin F",
-      "url": "http://111.229.84.232/yulin/tvb.php?id=2",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
     },
     {
       "name": "大宋提刑官2005",
@@ -6759,70 +6086,22 @@
       "parse": true
     },
     {
-      "name": "TVB星河台",
-      "url": "http://liuy.usa7.20212021.ga/ns.php?id=76",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "熊猫 YouTube",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=MIA8AKVZ0Yk#searching",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "第一财经",
-      "url": "https://m.yicai.com/tv/",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "美亚电影（粤）T",
-      "url": "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=89&pathid=1",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": true
-    },
-    {
-      "name": "美亚电影（粤）F",
-      "url": "https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=89&pathid=1",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "parse": false
-    },
-    {
-      "name": "CCTV-5+ 体育赛事F",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8",
-      "pic": "http://tv.haoqu99.com/d/file/2014/0722/20140722110316660.jpg",
-      "parse": false
-    },
-    {
-      "name": "香港无线财经•资讯台F",
-      "url": "http://50.7.218.42:8278/tvbcaijing_twn/playlist.m3u8?tid=mbc57c85dcc17&ct=18336&tsum=1423657d67e66f6bb156158f2dd60353",
-      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
-      "parse": false
-    },
-    {
-      "name": "海绵宝宝S1-13 (14495324)T",
+      "name": "海绵宝宝 S1-13 (14495324)T",
       "url": "http://zzy789.xyz/bili.php?id=14495324",
       "pic": "https://img.aidotu.com/down/jpg/20200828/325e82163ae5d0c250c9d0bad76e64d6_126728_500_764.jpg",
       "parse": true
     },
     {
-      "name": "海绵宝宝S1-13 (61834)F",
+      "name": "海绵宝宝 S1-13 (61834)F",
       "url": "http://zzy789.xyz/bili.php?id=61834",
       "pic": "https://img.aidotu.com/down/jpg/20200828/325e82163ae5d0c250c9d0bad76e64d6_126728_500_764.jpg",
       "parse": false
     },
     {
-      "name": "❌犬夜叉2000 epg",
+      "name": "犬夜叉 2000",
       "url": "http://epg.112114.xyz/douyu/7422897",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oXuMFvRhu0mk_-M_o6nttrfyS2FCOw4iaA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "❌犬夜叉2000 maomao",
-      "url": "http://maomao.kandiantv.cn/douyu1.php?id=7422897",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oXuMFvRhu0mk_-M_o6nttrfyS2FCOw4iaA&usqp=CAU",
-      "parse": true
+      "parse": false
     },
     {
       "name": "RTM Sukan",
@@ -6930,132 +6209,6 @@
       "name": "AXN (Malaysia)",
       "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54201",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Celestial Classic Movies (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54185",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Celestial Movies (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54217",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cinema World (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54203",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HBO Hits (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54190",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HITS (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54172",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HITS Movies (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54191",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "iQIYI (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54213",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVB Classic 千禧经典台 (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54235",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "tvN Movies (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54237",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Warner Bros TV (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54180",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO Arena (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54189",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO beIN MAX (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54193",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO Cricket (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54242",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO EUROSPORT (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54188",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO FOX Sports ② (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52858",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO Rugby Pass TV (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54163",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO SUPERSPORTS ① (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52859",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO SUPERSPORTS ② (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52860",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO SUPERSPORTS ③ (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52861",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO SUPERSPORTS ④ (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52862",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ASTRO SUPERSPORTS ⑤ (Malaysia)",
-      "url": "http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54250",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
       "parse": false
     },
     {
