@@ -871,24 +871,6 @@
       "parse": false
     },
     {
-      "name": "Horror Movies",
-      "url": "https://epg.112114.xyz/huya/11342428",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Wrestling Woman ① (Japan)",
-      "url": "https://epg.112114.xyz/douyu/425809",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Wrestling Woman ② (Japan)",
-      "url": "https://epg.112114.xyz/huya/11602069",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "fuse 52838",
       "url": "http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52838",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1574,7 +1556,7 @@
     },
     {
       "name": "🇱🇷热血、校园",
-      "url": "https://m.huya.com/11352934",
+      "url": "http://epg.112114.xyz/huya/11352934",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
@@ -1658,13 +1640,13 @@
     },
     {
       "name": "🇱🇷Movies ④",
-      "url": "https://m.huya.com/11336591",
+      "url": "http://epg.112114.xyz/huya/11336591",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
     {
       "name": "🇱🇷Movies ⑤",
-      "url": "https://m.huya.com/11352963",
+      "url": "http://epg.112114.xyz/huya/11352963",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
@@ -1831,18 +1813,6 @@
       "parse": false
     },
     {
-      "name": "Marvel",
-      "url": "http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv?uuid=",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "Marvel",
-      "url": "https://m.douyu.com/6140589",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "The Archive (getpublica)",
       "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74&app_name=plex",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1897,6 +1867,30 @@
       "parse": false
     },
     {
+      "name": "Marvel",
+      "url": "http://epg.112114.xyz/douyu/6140589",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedU3B20d5oT2la4cc-HAo3dvH2liEpkiW7A&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Horror Movies",
+      "url": "http://epg.112114.xyz/huya/11342428",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Wrestling Woman ① (Japan)",
+      "url": "http://epg.112114.xyz/douyu/425809",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Wrestling Woman ② (Japan)",
+      "url": "http://epg.112114.xyz/huya/11602069",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "欧美摔跤",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355465683",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
@@ -1916,7 +1910,7 @@
     },
     {
       "name": "新水浒传 2011",
-      "url": "https://m.douyu.com/6785471",
+      "url": "http://epg.112114.xyz/douyu/6785471",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCOuB0fxbSjA4vCuu071vPGFwHlpkDsRVfA&usqp=CAU",
       "parse": true
     },
@@ -1928,7 +1922,7 @@
     },
     {
       "name": "龙门镖局 2013",
-      "url": "https://m.douyu.com/9650860",
+      "url": "http://epg.112114.xyz/douyu/9650860",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXyJ8tqbSOFyZtZj6IVNzbswJfOGNW-WdQw&usqp=CAU",
       "parse": true
     },
@@ -1952,7 +1946,7 @@
     },
     {
       "name": "鬼吹灯 2016",
-      "url": "https://m.douyu.com/9292503",
+      "url": "http://epg.112114.xyz/douyu/9292503",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCVJJ5OuadqPUcxHqBrRvQ4S3irFj17ahmmw&usqp=CAU",
       "parse": true
     },
@@ -1976,19 +1970,19 @@
     },
     {
       "name": "Nature Documentary",
-      "url": "https://m.douyu.com/4837387",
+      "url": "http://epg.112114.xyz/douyu/4837387",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "Outdoor Adventure ②",
-      "url": "https://m.douyu.com/454867",
+      "url": "http://epg.112114.xyz/douyu/454867",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "Outdoor Survive 荒野生存",
-      "url": "https://m.douyu.com/1339207",
+      "url": "http://epg.112114.xyz/douyu/1339207",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
@@ -2006,19 +2000,19 @@
     },
     {
       "name": "少年包青天2000",
-      "url": "https://m.huya.com/11342393",
+      "url": "http://epg.112114.xyz/huya/11342393",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjARTAshfTUZPlvblKvaLXpDpNZjU0dBRoIQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "少年包青天2000",
-      "url": "https://m.douyu.com/7784862",
+      "url": "http://epg.112114.xyz/douyu/7784862",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjARTAshfTUZPlvblKvaLXpDpNZjU0dBRoIQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "三国演义 1994",
-      "url": "https://m.huya.com/11602081",
+      "url": "http://epg.112114.xyz/huya/11602081",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYJV2U-yAZOuEeOswcyXTNLLGAAm_9Q5A7A&usqp=CAU",
       "parse": true
     },
@@ -2030,7 +2024,7 @@
     },
     {
       "name": "新三国 2010",
-      "url": "https://m.douyu.com/276200",
+      "url": "http://epg.112114.xyz/douyu/276200",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfoCWDswarGIVU7EBrJ_gN0AtNbNcIL8a8g&usqp=CAU",
       "parse": true
     },
@@ -2096,7 +2090,7 @@
     },
     {
       "name": "神机妙算刘伯温 2014",
-      "url": "https://m.huya.com/11336578",
+      "url": "http://epg.112114.xyz/huya/11336578",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nw7o_Ps9Jyqv63oF-KcYz5Gu5BXX_V0vKw&usqp=CAU",
       "parse": true
     },
@@ -2126,19 +2120,19 @@
     },
     {
       "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
-      "url": "https://m.douyu.com/6582435",
+      "url": "http://epg.112114.xyz/douyu/6582435",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
       "parse": true
     },
     {
       "name": "大秦帝国（裂变、纵横、崛起）2009－2017",
-      "url": "https://m.douyu.com/1584198",
+      "url": "http://epg.112114.xyz/douyu/1584198",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9J7RE1ugGnS75z32yrmNmbnaQHsHmBd_N3g&usqp=CAU",
       "parse": true
     },
     {
       "name": "大秦赋 2020",
-      "url": "https://m.huya.com/11352881",
+      "url": "http://epg.112114.xyz/huya/11352881",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
       "parse": true
     },
@@ -2162,25 +2156,25 @@
     },
     {
       "name": "康熙王朝 2001",
-      "url": "https://m.huya.com/11352940",
+      "url": "http://epg.112114.xyz/huya/11352940",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "康熙王朝 2001",
-      "url": "https://m.douyu.com/9650836",
+      "url": "http://epg.112114.xyz/douyu/9650836",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWWZosqSI15t5-Od4qzBlNxzexCdPp4u8GQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "朱元璋 2006",
-      "url": "https://m.douyu.com/308752",
+      "url": "http://epg.112114.xyz/douyu/308752",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcU9ndGhf8h1WTPxKgQkw5KmD9kXD6d7LDg&usqp=CAU",
       "parse": true
     },
     {
       "name": "宰相刘罗锅 1996",
-      "url": "https://m.douyu.com/8543072",
+      "url": "http://epg.112114.xyz/douyu/8543072",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPT1DuFORJ95r05kypIYDsAhVkzErK69TlDA&usqp=CAU",
       "parse": true
     },
@@ -2222,7 +2216,7 @@
     },
     {
       "name": "芈月传 2015",
-      "url": "https://m.huya.com/11352975",
+      "url": "http://epg.112114.xyz/huya/11352975",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCvXm6EBSw9L68tp2BOqOzUsMNNDXmMlA3Q&usqp=CAU",
       "parse": true
     },
@@ -2234,13 +2228,13 @@
     },
     {
       "name": "康熙微服私访记 1997-2003",
-      "url": "https://m.huya.com/11342418",
+      "url": "http://epg.112114.xyz/huya/11342418",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "康熙微服私访记 1997-2003",
-      "url": "https://m.douyu.com/7550220",
+      "url": "http://epg.112114.xyz/douyu/7550220",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrDHULcBtCOVUx3SqNl7lJO8AKtLUqFPTjQ&usqp=CAU",
       "parse": true
     },
@@ -2282,7 +2276,7 @@
     },
     {
       "name": "铁齿铜牙纪晓岚 1999-2008",
-      "url": "https://m.douyu.com/9071554",
+      "url": "http://epg.112114.xyz/douyu/9071554",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uGalOYfEJTwr0WPb0gR4lOEuYcckce_INQ&usqp=CAU",
       "parse": true
     },
@@ -2306,13 +2300,13 @@
     },
     {
       "name": "神医喜来乐2003",
-      "url": "https://m.huya.com/11601978",
+      "url": "http://epg.112114.xyz/huya/11601978",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbO8BBtUEJ1vDonU7BnKMZHVZPabAKvflcQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "庆余年2019",
-      "url": "https://m.douyu.com/7489563",
+      "url": "http://epg.112114.xyz/douyu/7489563",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MWbCT00LROfbtH-ohRUwlSMZwzgNdekDkg&usqp=CAU",
       "parse": true
     },
@@ -2324,13 +2318,13 @@
     },
     {
       "name": "林正英",
-      "url": "https://m.douyu.com/218859",
+      "url": "http://epg.112114.xyz/douyu/218859",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevpbyR423Jajl6MUSac5XOG62gthORIqDkQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "四大名著",
-      "url": "https://m.douyu.com/6861249",
+      "url": "http://epg.112114.xyz/douyu/6861249",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
@@ -2348,19 +2342,19 @@
     },
     {
       "name": "海绵宝宝",
-      "url": "https://epg.112114.xyz/huya/11352919",
+      "url": "http://epg.112114.xyz/huya/11352919",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
       "parse": false
     },
     {
       "name": "海绵宝宝①",
-      "url": "https://m.douyu.com/3949681",
+      "url": "http://epg.112114.xyz/douyu/3949681",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPyYx-lbqx5Oiq2wBDKB0LeBi8pUJNfYNAA&usqp=CAU",
       "parse": true
     },
     {
       "name": "海绵宝宝②",
-      "url": "https://m.douyu.com/2250349",
+      "url": "http://epg.112114.xyz/douyu/2250349",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVua51-HrNbm2jQa8fFiWh1_dbwukJGCT1A&usqp=CAU",
       "parse": true
     },
@@ -2396,7 +2390,7 @@
     },
     {
       "name": "哆啦A梦 ②",
-      "url": "https://epg.112114.xyz/huya/11601963",
+      "url": "http://epg.112114.xyz/huya/11601963",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JDOcmPcc3Byrj8amfEnk87lWAyKdCD4Seg&usqp=CAU",
       "parse": false
     },
@@ -2492,409 +2486,397 @@
     },
     {
       "name": "Popeye",
-      "url": "https://m.douyu.com/7620081",
+      "url": "http://epg.112114.xyz/douyu/7620081",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYoL-MVhntpNazGYFk_eDkrfDtszGBm8SDQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "Tom & Jerry",
-      "url": "https://m.douyu.com/7888428",
+      "url": "http://epg.112114.xyz/douyu/7888428",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0uU_l4TnMXGBxiq7SnvsPef5HKEC4W9S3Q&usqp=CAU",
       "parse": true
     },
     {
       "name": "东南亚丛林生活实录",
-      "url": "https://m.douyu.com/9612117",
+      "url": "http://epg.112114.xyz/douyu/9612117",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "冒险雷探长",
-      "url": "https://m.douyu.com/5028934",
+      "url": "http://epg.112114.xyz/douyu/5028934",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YB0ubH8Sc5G57nlyVXWegr70KGrwuog3Fg&usqp=CAU",
       "parse": true
     },
     {
       "name": "荒野游侠记",
-      "url": "https://m.douyu.com/2259748",
+      "url": "http://epg.112114.xyz/douyu/2259748",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUo6S_wFU7tmHwEEnazKtyuSkff0OG1NKcg&usqp=CAU",
       "parse": true
     },
     {
       "name": "X调查•迷案解读",
-      "url": "https://m.douyu.com/10489378",
+      "url": "http://epg.112114.xyz/douyu/10489378",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "历史揭秘",
-      "url": "https://m.douyu.com/5464884",
+      "url": "http://epg.112114.xyz/douyu/5464884",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
     {
       "name": "名家讲坛",
-      "url": "https://m.douyu.com/5283626",
+      "url": "http://epg.112114.xyz/douyu/5283626",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
     {
       "name": "文物历史•马未都（观复博物馆馆长）",
-      "url": "https://m.douyu.com/4034415",
+      "url": "http://epg.112114.xyz/douyu/4034415",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
     {
       "name": "浅绿的历史盒子",
-      "url": "https://m.douyu.com/8913515",
+      "url": "http://epg.112114.xyz/douyu/8913515",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
     {
       "name": "Running Man 2010",
-      "url": "https://m.douyu.com/7298973",
-      "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
-      "parse": true
-    },
-    {
-      "name": "Running Man 2010",
-      "url": "http://dyscdnali1.douyucdn.cn/live/7298973rf8ZRAH9s.flv?uuid=",
-      "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
-      "parse": true
-    },
-    {
-      "name": "Running Man 2010",
-      "url": "http://dyscdnali1.douyucdn.cn/live/131977rb5GOrl6uS.flv?uuid=",
+      "url": "http://epg.112114.xyz/douyu/7298973",
       "pic": "https://m.media-amazon.com/images/M/MV5BYTU3YjU3NWUtMDk3NS00ZjI4LWExMDEtZWI0ZDJkOGI1MDExXkEyXkFqcGdeQXVyOTU0MjgwMzU@._V1_.jpg",
       "parse": true
     },
     {
       "name": "军武大本营",
-      "url": "https://m.douyu.com/5483801",
+      "url": "http://epg.112114.xyz/douyu/5483801",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzB_l6AIu32ou2adP261rj9uJ6JAXQKeifjw&usqp=CAU",
       "parse": true
     },
     {
       "name": "欧美日韩①",
-      "url": "https://m.douyu.com/36337",
+      "url": "http://epg.112114.xyz/douyu/36337",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "欧美日韩②",
-      "url": "https://m.douyu.com/8770422",
+      "url": "http://epg.112114.xyz/douyu/8770422",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "欧美日韩③",
-      "url": "https://m.douyu.com/5403257",
+      "url": "http://epg.112114.xyz/douyu/5403257",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "粤语电影①",
-      "url": "https://m.douyu.com/6566671",
+      "url": "http://epg.112114.xyz/douyu/6566671",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "粤语电影②",
-      "url": "https://m.douyu.com/5033502",
+      "url": "http://epg.112114.xyz/douyu/5033502",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "粤语电影③",
-      "url": "https://m.douyu.com/1226741",
+      "url": "http://epg.112114.xyz/douyu/1226741",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "粤语电影④",
-      "url": "https://m.douyu.com/2466104",
+      "url": "http://epg.112114.xyz/douyu/2466104",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "粤语电影⑤",
-      "url": "https://m.douyu.com/8603174",
+      "url": "http://epg.112114.xyz/douyu/8603174",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "刘德华②",
-      "url": "https://m.douyu.com/2516864",
+      "url": "http://epg.112114.xyz/douyu/2516864",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4reAWJPRQYaxKDU7Q1OUFkEM1N6G09ASOA&usqp=CAU",
       "parse": true
     },
     {
       "name": "李连杰",
-      "url": "https://m.douyu.com/10395964",
+      "url": "http://epg.112114.xyz/douyu/10395964",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YnpQVyhTIqYBTwki-jogP_fVGVb4NUfrFA&usqp=CAU",
       "parse": true
     },
     {
       "name": "科幻、动作",
-      "url": "https://m.douyu.com/252802",
+      "url": "http://epg.112114.xyz/douyu/252802",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "动作、武侠",
-      "url": "https://m.douyu.com/6763930",
+      "url": "http://epg.112114.xyz/douyu/6763930",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "恐怖、灵异",
-      "url": "https://m.douyu.com/3637726",
+      "url": "http://epg.112114.xyz/douyu/3637726",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "警匪、动作",
-      "url": "https://m.douyu.com/10240510",
+      "url": "http://epg.112114.xyz/douyu/10240510",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "综合电影①",
-      "url": "https://m.douyu.com/431460",
+      "url": "http://epg.112114.xyz/douyu/431460",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
       "name": "综合电影②",
-      "url": "https://m.douyu.com/6537888",
+      "url": "http://epg.112114.xyz/douyu/6537888",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
       "name": "特辑电影",
-      "url": "https://m.douyu.com/3637778",
+      "url": "http://epg.112114.xyz/douyu/3637778",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
       "name": "香港喜剧电影（华）",
-      "url": "https://m.douyu.com/122402",
+      "url": "http://epg.112114.xyz/douyu/122402",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": true
     },
     {
       "name": "香港经典电影（华）",
-      "url": "https://m.douyu.com/85894",
+      "url": "http://epg.112114.xyz/douyu/85894",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t8RIHezXsOyeZOkWLLEFZyiS3hK7AKBx3w&usqp=CAU",
       "parse": true
     },
     {
       "name": "邵氏电影",
-      "url": "https://m.douyu.com/4246519",
+      "url": "http://epg.112114.xyz/douyu/4246519",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
       "parse": true
     },
     {
       "name": "点播剧场①",
-      "url": "https://m.douyu.com/7476264",
+      "url": "http://epg.112114.xyz/douyu/7476264",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "点播剧场②",
-      "url": "https://m.douyu.com/7314294",
+      "url": "http://epg.112114.xyz/douyu/7314294",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "点播剧场③",
-      "url": "https://m.douyu.com/7494871",
+      "url": "http://epg.112114.xyz/douyu/7494871",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "亚视、帝王系列",
-      "url": "https://m.douyu.com/10860758",
+      "url": "http://epg.112114.xyz/douyu/10860758",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "历史剧场",
-      "url": "https://m.douyu.com/8168353",
+      "url": "http://epg.112114.xyz/douyu/8168353",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "盗墓剧场",
-      "url": "https://m.douyu.com/5265983",
+      "url": "http://epg.112114.xyz/douyu/5265983",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "神话、武侠",
-      "url": "https://m.douyu.com/338759",
+      "url": "http://epg.112114.xyz/douyu/338759",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "金庸经典武侠剧②",
-      "url": "https://m.douyu.com/7644931",
+      "url": "http://epg.112114.xyz/douyu/7644931",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVcTqnsaQaywzhJnNR8mypzeyqA40kNFeUg&usqp=CAU",
       "parse": true
     },
     {
       "name": "TVB粤语①",
-      "url": "https://m.douyu.com/9701481",
+      "url": "http://epg.112114.xyz/douyu/9701481",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "TVB粤语②",
-      "url": "https://m.douyu.com/742565",
+      "url": "http://epg.112114.xyz/douyu/742565",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "TVB粤语③",
-      "url": "https://m.douyu.com/8524186",
+      "url": "http://epg.112114.xyz/douyu/8524186",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAmeFEtGRKoce-8EkP6cfxh_IcxginLZSzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "日本女子摔跤②",
-      "url": "https://m.douyu.com/425809",
+      "url": "http://epg.112114.xyz/douyu/425809",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     },
     {
       "name": "犬夜叉2000",
-      "url": "https://m.douyu.com/7422897",
+      "url": "http://epg.112114.xyz/douyu/7422897",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oXuMFvRhu0mk_-M_o6nttrfyS2FCOw4iaA&usqp=CAU",
       "parse": true
     },
     {
       "name": "名侦探柯南1996",
-      "url": "https://m.douyu.com/6484910",
+      "url": "http://epg.112114.xyz/douyu/6484910",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb8SwyQmJnCuZaiqmjTyVwdhk2UUzDeKPOQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "中华小当家 2019",
-      "url": "https://m.douyu.com/8231658",
+      "url": "http://epg.112114.xyz/douyu/8231658",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQth-oj2MMWq8RuU-u-ZNLBW7DueHHA3Xtgxw&usqp=CAU",
       "parse": true
     },
     {
       "name": "宝可梦1997",
-      "url": "https://m.douyu.com/9765742",
+      "url": "http://epg.112114.xyz/douyu/9765742",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3iO2XREqy57y9h0-8Uu1lOoTPX2JFEUd3w&usqp=CAU",
       "parse": true
     },
     {
       "name": "动漫电影（华）",
-      "url": "https://m.douyu.com/6449849",
+      "url": "http://epg.112114.xyz/douyu/6449849",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "天使点播（华）",
-      "url": "https://m.douyu.com/1487654",
+      "url": "http://epg.112114.xyz/douyu/1487654",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
     {
       "name": "圣斗士星矢（日）1986",
-      "url": "https://m.douyu.com/8458270",
+      "url": "http://epg.112114.xyz/douyu/8458270",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAUHtfjARglA_AnwYyvLBZoRNJcDPRAfthkA&usqp=CAU",
       "parse": true
     },
     {
       "name": "幽游白书（日）1992",
-      "url": "https://m.douyu.com/9938431",
+      "url": "http://epg.112114.xyz/douyu/9938431",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfDzubI2r1GMWJGXmHf8sL7xIXm5xyDvgMw&usqp=CAU",
       "parse": true
     },
     {
       "name": "全职猎人（日）1999",
-      "url": "https://m.douyu.com/6610883",
+      "url": "http://epg.112114.xyz/douyu/6610883",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnno6AT7_4KZcvK1ewCzZRptfC8zpCwonGA&usqp=CAU",
       "parse": true
     },
     {
       "name": "此生无悔入夏目（日）",
-      "url": "https://m.douyu.com/10210568",
+      "url": "http://epg.112114.xyz/douyu/10210568",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZe8eaearzdwIQH3-aE_pzsDEIITm5k6mhKA&usqp=CAU",
       "parse": true
     },
     {
       "name": "机动战士高达（日）1979",
-      "url": "https://m.douyu.com/426517",
+      "url": "http://epg.112114.xyz/douyu/426517",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgg6kgaVVLi2dJ9MAFZCIAeseyROwi5ixPw&usqp=CAU",
       "parse": true
     },
     {
       "name": "热血动漫",
-      "url": "https://m.douyu.com/7528160",
+      "url": "http://epg.112114.xyz/douyu/7528160",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "综合动漫①",
-      "url": "https://m.douyu.com/426517",
+      "url": "http://epg.112114.xyz/douyu/426517",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "综合动漫②",
-      "url": "https://m.douyu.com/997925",
+      "url": "http://epg.112114.xyz/douyu/997925",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "经典童年",
-      "url": "https://m.douyu.com/235716",
+      "url": "http://epg.112114.xyz/douyu/235716",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "经典动漫",
-      "url": "https://m.douyu.com/2317390",
+      "url": "http://epg.112114.xyz/douyu/2317390",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "怀旧动漫",
-      "url": "https://m.douyu.com/1174353",
+      "url": "http://epg.112114.xyz/douyu/1174353",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "日本动漫",
-      "url": "https://m.douyu.com/7256376",
+      "url": "http://epg.112114.xyz/douyu/7256376",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
     {
       "name": "动漫电影",
-      "url": "https://m.douyu.com/10395973",
+      "url": "http://epg.112114.xyz/douyu/10395973",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "动漫剧场版",
-      "url": "https://m.douyu.com/8458270",
+      "url": "http://epg.112114.xyz/douyu/8458270",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": true
     },
     {
       "name": "欧美动漫电影",
-      "url": "https://m.douyu.com/7493575",
+      "url": "http://epg.112114.xyz/douyu/7493575",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     },
     {
       "name": "经典欧美动画",
-      "url": "https://m.douyu.com/4540290",
+      "url": "http://epg.112114.xyz/douyu/4540290",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     },
