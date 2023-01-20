@@ -673,14 +673,14 @@
       "parse": false
     },
     {
-      "name": "Pluto Nick Jr. Dora TV",
-      "url": "https://siloh.pluto.tv/lilo/production/Nick/03/master_3.m3u8",
+      "name": "Pluto Nick Jr.",
+      "url": "https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Pluto Nick Jr. Pluto@",
-      "url": "https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8",
+      "name": "Pluto Nick Jr. Dora TV",
+      "url": "https://siloh.pluto.tv/lilo/production/Nick/03/master_3.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
       "parse": false
     },
