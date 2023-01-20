@@ -667,12 +667,6 @@
       "parse": false
     },
     {
-      "name": "Pluto Nick",
-      "url": "https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Pluto Nick Jr.",
       "url": "https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
