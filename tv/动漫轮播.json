@@ -793,6 +793,18 @@
       "parse": false
     },
     {
+      "name": "iQIYI CH53",
+      "url": "http://aliyuncocsouth.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcMYi7EF_hUwJlzMQinyVh3OzQMLE321Z5Q&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "iQIYI CH54",
+      "url": "http://aliyuncocsouth.inter.iqiyi.com/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcMYi7EF_hUwJlzMQinyVh3OzQMLE321Z5Q&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "SiTV 动漫秀场",
       "url": "http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeQOEgyW7kB25W6WylGN1txzJoNIiSxW6qQ&usqp=CAU",
