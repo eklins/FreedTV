@@ -3134,7 +3134,7 @@
     },
     {
       "name": "NewTV 超级电影",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8",
+      "url": "http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -3146,7 +3146,7 @@
     },
     {
       "name": "NewTV 动作电影",
-      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?$广西cdn",
+      "url": "http://39.135.7.4:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
@@ -3170,19 +3170,19 @@
     },
     {
       "name": "NewTV 家庭剧场",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8",
+      "url": "http://39.135.7.4:6610/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "NewTV 精品大剧",
-      "url": "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8",
+      "url": "http://39.135.7.4:6610/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
     {
       "name": "NewTV 惊悚悬疑",
-      "url": "http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225746/index.m3u8?$广西cdn",
+      "url": "http://39.135.7.4:6610/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJT36iVmjzO_exUjPxkdQ8ZPQwDDCblcbx2Q&usqp=CAU",
       "parse": false
     },
