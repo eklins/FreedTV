@@ -49,6 +49,18 @@
       "parse": false
     },
     {
+      "name": "Sony Movies (720p)",
+      "url": "http://n1.klowdtv.net/live1/smc_720p/chunks.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sony Movies (180p)",
+      "url": "http://n1.klowdtv.net/live1/smc_180p/chunks.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Sony Sports Ten 1 (India)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16622",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
