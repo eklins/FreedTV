@@ -229,27 +229,9 @@
       "parse": false
     },
     {
-      "name": "BT Sport 5 (UK★HD)",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306401.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BT Sport 6 (UK★HD)",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306402.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BT Sport 7 (UK★HD)",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306403.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "BT Sport 8 (UK★HD)",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306404.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
+      "name": "beIN Sports Max 9 (France)",
+      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/48931",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUB3t4-8bVFd_h0lJWwGezNndvDsOpBZY9Q&usqp=CAU",
       "parse": false
     },
     {
@@ -304,6 +286,30 @@
       "name": "BesTV 体育 5850",
       "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDoq1TinsCfx1vpH-ZHi_9s0muacXfxbxmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BT Sport 5 (UK★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306401.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BT Sport 6 (UK★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306402.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BT Sport 7 (UK★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306403.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BT Sport 8 (UK★HD)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306404.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpnfBz12C6iqtlptVueXl8RL6Fmvolo3reg&usqp=CAU",
       "parse": false
     },
     {
