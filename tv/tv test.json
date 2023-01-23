@@ -13,96 +13,6 @@
       "parse": true
     },
     {
-      "name": "♦RTL Lounge (Netherlands★HD) Check broadcast language",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/310268.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sony Movies (720p)",
-      "url": "http://n1.klowdtv.net/live1/smc_720p/chunks.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sony Movies (360p)",
-      "url": "http://n1.klowdtv.net/live1/smc_360p/chunks.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sony Movies (180p)",
-      "url": "http://n1.klowdtv.net/live1/smc_180p/chunks.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Aghani (Lebanon)",
-      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/48938",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Disney Channel",
-      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50235",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FEM TV",
-      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50315",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "HWD Hollywood (Portugal)",
-      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/40181",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Kung Fu Theater (Portugal)",
-      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52123",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Madrid Terror (Spain)",
-      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52146",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "National Geography (Portugal)",
-      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51880",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Odisseia (Portugal)",
-      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/40119",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Prime Video (France)",
-      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50248",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "The Movies (Portugal)",
-      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52141",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Travel Channel (Portugal)",
-      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/40139",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "1️⃣",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/843",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -301,6 +211,18 @@
       "parse": false
     },
     {
+      "name": "HWD Hollywood (Portugal)",
+      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/40181",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Kung Fu Theater (Portugal)",
+      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52123",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Liberty Кино ENG (Russia)",
       "url": "http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17060/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -333,6 +255,12 @@
     {
       "name": "Nickelodeon (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281864",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Odisseia (Portugal)",
+      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/40119",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -579,6 +507,18 @@
     {
       "name": "Pop (180p)",
       "url": "http://n1.klowdtv.net/live2/pop_180p/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sony Movies (720p)",
+      "url": "http://n1.klowdtv.net/live1/smc_720p/chunks.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Sony Movies (360p)",
+      "url": "http://n1.klowdtv.net/live1/smc_360p/chunks.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
