@@ -127,6 +127,12 @@
       "parse": false
     },
     {
+      "name": "AXN White (Portugal★HEVC)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364494.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BBC First (Netherlands★4MB+ FHD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/338835.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -277,8 +283,14 @@
       "parse": false
     },
     {
-      "name": "FOX Comedy (Portugal)",
+      "name": "FOX Comedy (Portugal) kuchini",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1465",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Comedy (Portugal) streamplayapptv",
+      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/40159",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -289,14 +301,38 @@
       "parse": false
     },
     {
-      "name": "FOX Crime (Portugal)",
+      "name": "FOX Crime (Portugal) kuchini",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1463",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Crime (Portugal) streamplayapptv 51874",
+      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51874",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Crime (Portugal) streamplayapptv 52111",
+      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52111",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
       "name": "FOX Crime (Portugal★HEVC)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364527.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Life (Portugal)",
+      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52110",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Life (Portugal★HEVC)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364528.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -375,6 +411,18 @@
     {
       "name": "Netflix Horror (UAE★HD)",
       "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/360165.ts",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOS Studios (Portugal)",
+      "url": "http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52106",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NOS Studios (Portugal★HEVC)",
+      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364548.ts",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
