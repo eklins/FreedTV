@@ -109,6 +109,12 @@
       "parse": false
     },
     {
+      "name": "ASTRO Hua Hee 欢喜台 (Malaysia)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Huahee/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "AXN (Taiwan)",
       "url": "http://137.175.36.206/bc.php?playurl=http://50.7.220.74:8278/axn_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -121,14 +127,62 @@
       "parse": true
     },
     {
+      "name": "Celestial Movies 天映频道 (Hong Kong)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Celestial/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Cinemax (Taiwan)",
       "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/cinemax_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
     {
-      "name": "EBC Western (Taiwan)",
+      "name": "EBC Movie 东森电影 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ettvmovie/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "EBC Western 东森洋片 (Taiwan)",
       "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ettvwestern/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "ELTA Movie (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Eye TV Movie (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "FTV 民视 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "FTV One 民视第一台 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Great Wall Elite 长城精品 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/chcfamily/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "GTV Drama 八大戏剧台 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/badadrama/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -140,7 +194,7 @@
     },
     {
       "name": "HBO Family (Taiwan)",
-      "url": "http://137.175.36.206/bc.php?playurl=http://50.7.220.74:8278/fyi_twn/playlist.m3u8",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/fyi_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -163,8 +217,32 @@
       "parse": true
     },
     {
-      "name": "LTV Western (Taiwan)",
+      "name": "LS Time Movie 龙祥时代 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/lungxiangtime_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "LTV Idol 龙华偶像 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/lunghuaidol_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "LTV Movie 龙华戏剧 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "LTV Western 龙华洋片 (Taiwan)",
       "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Mei Ya Movie 美亚电影台 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -173,6 +251,48 @@
       "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/One/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "SET Movie 三立戏剧台 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "TVB Xing He 星河",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "WB TV (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/WarnerTV/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Xing Wei Movie 星卫电影台 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/xingwei_movie/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾东森幼幼",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾靖天卡通台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Animax (Malaysia)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Animax/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
     },
     {
       "name": "Cartoon Network",
@@ -187,15 +307,201 @@
       "parse": true
     },
     {
+      "name": "Nickelodeon (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Nickelodeon/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾八大第1台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/badafirst/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾八大综合",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/badazhonghe/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾东森综合",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾靖天国际台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾民视台湾台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾三立台湾台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/sanlitaiwan/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾三立综合台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾台视",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾TVBS欢乐台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾中视经典",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/zhongshi_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾中天亚洲台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾中天娱乐",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ctient/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "台湾中天综合",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ctizhonghe/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Animal Planet (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Asia Travel (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "ASTRO Xiao Tai Yang 小太阳 (Malaysia)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "BBC Earth (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "BBC Lifestyle (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/bbclifestyle_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Discovery (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Discovery Asia (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Discovery Science (Taiwan)",
       "url": "http://137.175.36.206/bc.php?playurl=http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
     {
-      "name": "ASTRO Arena 802",
-      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Arena2/playlist.m3u8",
+      "name": "Eye TV Travel (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "National Geographic (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "National Geographic Wild (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Natgeowild/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "TLC (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/tlc_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇹🇼东森财经新闻",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "ASTRO Arena 802 (Malaysia)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Arena2/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "beIN Sports 1 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Beinhd/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "beIN Sports 2 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Bein2hd/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "BT Sport 1 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/beeone/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "BT Sport 2 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/beetwo/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "BT Sport 3 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/beethree/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     }
   ]
