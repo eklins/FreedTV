@@ -481,9 +481,9 @@
       "parse": false
     },
     {
-      "name": "台湾三立财经新闻",
+      "name": "台湾三立iNews",
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=51",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyXBEnFoM_2tBFAq79GbvBd97AmvRtjCm9A&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
       "parse": false
     }
   ]
