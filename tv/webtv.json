@@ -2263,6 +2263,12 @@
       "parse": true
     },
     {
+      "name": "ASTRO Arena 802",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Arena2/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "ASTRO Supersport",
       "url": "https://www.chaojidianshi.net/extension/260165317.xhtml",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
