@@ -2,29 +2,53 @@
 #EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV 八度空间
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 欢喜台 (Hua Hee Dai)
-http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
+http://137.175.36.206:8488/test163/123456/13373
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 双星 (Shuang Xing)
 http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 翡翠台 (TVB Jade)
 http://23.237.10.66:16410
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 小太阳 (Xiao Tai Yang)
-http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
+http://137.175.36.206:8488/test163/123456/700
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 星河 (Xing He)
+http://137.175.36.206:8488/test163/123456/696
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO AEC
+http://137.175.36.206:8488/test163/123456/13597
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Animax
 http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO AOD 351
+http://137.175.36.206:8488/test163/123456/13370
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO AOD 352
+http://137.175.36.206:8488/test163/123456/13369
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO AOD 353
+http://137.175.36.206:8488/test163/123456/13368
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO AOD 354
+http://137.175.36.206:8488/test163/123456/13367
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO AOD 355
+http://137.175.36.206:8488/test163/123456/13366
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Arena 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157485
+http://137.175.36.206:8488/test163/123456/13548
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Arena 2
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Aura
+http://137.175.36.206:8488/test163/123456/3949
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Awesome TV
+http://137.175.36.206:8488/test163/123456/13396
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Bernama
 http://198.16.64.10:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Cricket
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157565
+http://137.175.36.206:8488/test163/123456/13573
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Go Shop (Chinese)
+http://137.175.36.206:8488/test163/123456/1823
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO iQIYI
+http://137.175.36.206:8488/test163/123456/13596
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Prima
 http://137.175.36.206:8488/test163/123456/13411
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Ria
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158347
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Rugby Pass
+http://137.175.36.206:8488/test163/123456/687
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 1
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 2
@@ -33,12 +57,16 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157556
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157557
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 4
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157558
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Supersport 5
+http://137.175.36.206:8488/test163/123456/13683
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO TLC
 http://198.16.64.10:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",Celestial Classic Movies 天映经典频道 (576p)
-http://45.126.83.51/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPyrpm--oApjOinvA6i18Ms5hFAgjN1jV7w&usqp=CAU",Celestial Movies 天映频道 (576p)
-http://45.126.83.51/dr9445/h/h14/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO Warna
+http://137.175.36.206:8488/test163/123456/13627
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5My11mEfu9F1VistGDmx0iRqIj328YCWhlw&usqp=CAU",Celestial Classic Movies 天映经典频道
+http://137.175.36.206:8488/test163/123456/693
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPyrpm--oApjOinvA6i18Ms5hFAgjN1jV7w&usqp=CAU",Celestial Movies 天映频道
+http://137.175.36.206:8488/test163/123456/692
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwnSGubDN1ge8MBQARTGACXd5fhPEPtEAljA&usqp=CAU",Cinema World (576p)
 http://45.126.83.51/dr9445/h/h04/index.m3u8
 #EXTINF:-1 logo="https://www.coolstreaming.us/img/ch/ima24238087143.jpg",Maah TV
@@ -57,6 +85,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9_6eKNtMGAjD8J4IKNmuq4D098oCPeTuiw&usqp=CAU",TV9
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",TVS
+http://137.175.36.206:8488/test163/123456/745
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc8meZQ7olnc4ReSQSv0hyIdsoj517-qmUg&usqp=CAU",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 ,🇺🇳407
