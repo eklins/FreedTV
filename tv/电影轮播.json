@@ -163,6 +163,12 @@
       "parse": false
     },
     {
+      "name": "BOO (Malaysia)",
+      "url": "http://137.175.36.206:8488/test163/123456/722",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Bounce (WPXN-DT2)",
       "url": "https://v-ny.mybtv.net/live/581.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -211,8 +217,20 @@
       "parse": false
     },
     {
+      "name": "Celestial Classic Movies 天映经典频道 (Malaysia)",
+      "url": "http://137.175.36.206:8488/test163/123456/693",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Celestial Movies 天映频道 (Indonesia★576p)",
       "url": "http://45.126.83.51/dr9445/h/h14/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Celestial Movies 天映频道 (Malaysia)",
+      "url": "http://137.175.36.206:8488/test163/123456/692",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -285,6 +303,12 @@
     {
       "name": "Classic Reruns TV [Not 24/7]",
       "url": "https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Comedy Central (Malaysia)",
+      "url": "http://137.175.36.206:8488/test163/123456/13572",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -841,6 +865,12 @@
       "parse": false
     },
     {
+      "name": "iQIYI (Malaysia)",
+      "url": "http://137.175.36.206:8488/test163/123456/708",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "itv2 (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/690",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -879,6 +909,12 @@
     {
       "name": "KIX (Indonesia★576p)",
       "url": "http://45.126.83.51/dr9445/h/h07/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "KIX (Malaysia)",
+      "url": "http://137.175.36.206:8488/test163/123456/689",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1255,8 +1291,8 @@
       "parse": false
     },
     {
-      "name": "ONe (Indonesia)",
-      "url": "http://198.16.64.10:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f",
+      "name": "ONe (Malaysia)",
+      "url": "http://137.175.36.206:8488/test163/123456/13599",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -1723,6 +1759,12 @@
       "parse": false
     },
     {
+      "name": "TVB Classic 千禧经典台 (Malaysia)",
+      "url": "http://137.175.36.206:8488/test163/123456/699",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "TVB Jade 翡翠台 (Hong Kong)",
       "url": "http://23.237.10.66:16106",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1731,6 +1773,12 @@
     {
       "name": "TVB Jade 翡翠台 (Malaysia)",
       "url": "http://23.237.10.66:16410",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVB Xing He 星河 (Malaysia)",
+      "url": "http://137.175.36.206:8488/test163/123456/696",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -3771,6 +3819,12 @@
     {
       "name": "台湾八大精彩台",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台湾ELTA综合",
+      "url": "http://137.175.36.206:8488/test163/123456/679",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
