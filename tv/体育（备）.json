@@ -211,6 +211,12 @@
       "parse": false
     },
     {
+      "name": "ASTRO Arena 802 (Malaysia)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Arena2/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRreIQGhzPcRN8NyAHJQGyoX0GO7kO5l5SPJw&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "ASTRO Supersport 1 (Malaysia)",
       "url": "http://137.175.36.206:8488/test163/123456/13552",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
