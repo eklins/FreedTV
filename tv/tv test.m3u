@@ -9,7 +9,10 @@ https://tvp22.sky4k.top/index2.php
 #EXTINF:-1 ,香港有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 ,香港有线财经资讯台
-https://api.leonardpark.dev/live/icable/108
+https://api.leonardpark.dev/live/icable/108#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 欢喜台 (Hua Hee Dai)
+http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB9E_2Xrgq42DMhq_nSMsWiY4wh82f6gtkA&usqp=CAU",ASTRO 小太阳 (Xiao Tai Yang)
+http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
 #EXTINF:-1 ,Lotus Macau (ggiptv.php)
 https://p.ggiptv.com/v/macaulotustv.php
 #EXTINF:-1 ,Lotus Macau (nettvpro.php)
