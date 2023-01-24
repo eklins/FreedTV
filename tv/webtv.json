@@ -73,6 +73,12 @@
       "parse": true
     },
     {
+      "name": "Celestial Classic Movies 天映经典频道 (Hong Kong)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Celestial2/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Cinema Heaven (Korea★540p)",
       "url": "http://mytv.dothome.co.kr/ch/catv/231.php",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
