@@ -469,12 +469,6 @@
       "parse": false
     },
     {
-      "name": "台湾ELTA综合",
-      "url": "http://137.175.36.206:8488/test163/123456/679",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾国防时报",
       "url": "http://epg.112114.xyz/douyu/9680887",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
@@ -561,12 +555,6 @@
     {
       "name": "台湾台视",
       "url": "http://23.237.10.66:16344",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾卫视中文台",
-      "url": "http://137.175.36.206:8488/test163/123456/690",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -2434,12 +2422,6 @@
       "name": "tv7 (France★Persian Entertainment)",
       "url": "http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TVB E-News 娱乐新闻台 (Malaysia)",
-      "url": "http://137.175.36.206:8488/test163/123456/697",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
