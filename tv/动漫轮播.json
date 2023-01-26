@@ -145,12 +145,6 @@
       "parse": false
     },
     {
-      "name": "Tom & Jerry (Albania★HD)",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314674.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFN15bB_XxayGeGA0skchT-cXK0nHLft3Kg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Tom & Jerry (DouYu)",
       "url": "http://epg.112114.xyz/douyu/7888428",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFN15bB_XxayGeGA0skchT-cXK0nHLft3Kg&usqp=CAU",
@@ -265,12 +259,6 @@
       "parse": false
     },
     {
-      "name": "CineBox Animation (UK★FHD)",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367813.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Cocoro",
       "url": "https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -367,12 +355,6 @@
       "parse": false
     },
     {
-      "name": "OSN Kids (UAE★HD)",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/265609.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "PBS Kids",
       "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -409,12 +391,6 @@
       "parse": false
     },
     {
-      "name": "RTSH Femijë (Albania★SD)",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/360703.ts",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "RTV (Indonesia)",
       "url": "http://45.126.83.51/dr9445/h/h10/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -427,8 +403,8 @@
       "parse": false
     },
     {
-      "name": "Sky Flix Anime (UAE★HD)",
-      "url": "http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/360210.ts",
+      "name": "Sky Flix Anime (UAE)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283270",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
