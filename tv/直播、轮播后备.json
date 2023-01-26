@@ -37,6 +37,12 @@
       "parse": false
     },
     {
+      "name": "SYFY (US East)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1068",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "BOO (Malaysia) 722",
       "url": "http://137.175.36.206:8488/test163/123456/722",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -945,12 +951,6 @@
     {
       "name": "TLC (US)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1067",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SYFY (US East)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1068",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
