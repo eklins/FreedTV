@@ -193,12 +193,6 @@
       "parse": true
     },
     {
-      "name": "iQIYI",
-      "url": "https://www.chaojidianshi.net/extension/260164961.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "LS Time Movie 龙祥时代 (Taiwan)",
       "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/lungxiangtime_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -243,12 +237,6 @@
     {
       "name": "Movies ③",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26623173",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "Now Popcorn 爆谷星影台",
-      "url": "https://www.chaojidianshi.net/extension/54.xhtml",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -307,25 +295,7 @@
       "parse": true
     },
     {
-      "name": "TVB Classic 千禧经典台",
-      "url": "https://www.chaojidianshi.net/extension/88.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "TVB Jade 翡翠台",
-      "url": "https://www.chaojidianshi.net/extension/78.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "TVB Pearl 明珠",
-      "url": "https://www.chaojidianshi.net/extension/77.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "TVB Xing He 星河",
+      "name": "TVB Xing He 星河 (Hong Kong)",
       "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
@@ -349,7 +319,7 @@
       "parse": true
     },
     {
-      "name": "WB TV (Taiwan)",
+      "name": "WB TV (Malaysia)",
       "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/WarnerTV/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
@@ -1969,12 +1939,6 @@
       "parse": true
     },
     {
-      "name": "ViuTV (Hong Kong)",
-      "url": "https://www.chaojidianshi.net/extension/94.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "Wilderness Adventure 独闯荒野",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930932",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -2245,38 +2209,8 @@
       "parse": true
     },
     {
-      "name": "🇲🇾8TV 八度空间",
-      "url": "https://www.chaojidianshi.net/extension/260164927.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "🇲🇾NTV7",
       "url": "https://www.chaojidianshi.net/extension/260164926.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇲🇾TV1",
-      "url": "https://www.chaojidianshi.net/extension/260164923.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇲🇾TV2",
-      "url": "https://www.chaojidianshi.net/extension/260164924.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇲🇾TV3",
-      "url": "https://www.chaojidianshi.net/extension/260164925.xhtml",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "🇲🇾TV9",
-      "url": "https://www.chaojidianshi.net/extension/260164928.xhtml",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
