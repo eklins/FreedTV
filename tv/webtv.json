@@ -2341,8 +2341,14 @@
       "parse": true
     },
     {
-      "name": "🇬🇧BBC1",
+      "name": "🇬🇧BBC 1",
       "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/bbc1_antik/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇬🇧BBC 2",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/bbc2_antik/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
