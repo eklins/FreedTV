@@ -67,8 +67,20 @@
       "parse": true
     },
     {
+      "name": "AXN (Malaysia)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/Axn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "AXN (Taiwan)",
-      "url": "http://137.175.36.206/bc.php?playurl=http://50.7.220.74:8278/axn_twn/playlist.m3u8",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/axn_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "BOO (Malaysia)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/Boo/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -93,6 +105,18 @@
     {
       "name": "Comedy",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736861",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Crime+Investigation (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/ci_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "EBC Drama 东森戏剧 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/ettvdrama/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -193,6 +217,24 @@
       "parse": true
     },
     {
+      "name": "iQIYI (China)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/Qiyi/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "itv1 (UK)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/itv1_antik/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "itv2 (UK)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/itv2_antik/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "LS Time Movie 龙祥时代 (Taiwan)",
       "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/lungxiangtime_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -237,6 +279,12 @@
     {
       "name": "Movies ③",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26623173",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Movies Now (India)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/moviesnow_raj/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -291,6 +339,18 @@
     {
       "name": "Suspense & Thriller",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745090",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Thrill (Indonesia)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/Thrill/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "TVB Pearl 明珠 (Hong Kong)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/pearl_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
@@ -1777,6 +1837,12 @@
       "parse": true
     },
     {
+      "name": "&Picture (India)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/Npicture/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Africa",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936145",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -1855,6 +1921,12 @@
       "parse": true
     },
     {
+      "name": "EBC Super 东森超视 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/ettvsuper/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Endangered Species 频危物种",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936141",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -1903,6 +1975,12 @@
       "parse": true
     },
     {
+      "name": "Pick TV (UK)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/picktv_antik/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Seven World's One Planet",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736919",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -1935,6 +2013,12 @@
     {
       "name": "TLC (Taiwan)",
       "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/tlc_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "VIU6 (Taiwan)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/viusix_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": true
     },
@@ -2173,9 +2257,39 @@
       "parse": true
     },
     {
-      "name": "🇮🇲无线新闻台",
+      "name": "🇭🇰无线新闻台",
       "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/inews_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇭🇰无线财经•体育 资讯台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/tvbcaijing_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    }
+    {
+      "name": "🇭🇰J2",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/j2_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇭🇰J5",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/j5_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇭🇰RHK 31",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/rhk31_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇭🇰RHK 32",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/rhk32_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": true
     },
     {
@@ -2215,8 +2329,20 @@
       "parse": true
     },
     {
+      "name": "🇲🇾TV1",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/TV1/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🇹🇼东森财经新闻",
       "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇬🇧BBC1",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/bbc1_antik/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIA1AZuGuZzuW3QQZc0U0WvEZvDr909__pQ&usqp=CAU",
       "parse": true
     },
@@ -2259,6 +2385,18 @@
     {
       "name": "BT Sport 3 (Taiwan)",
       "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/beethree/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "RCTI",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/Rcti/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "Sony Six (India)",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/sonysix_raj/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShZ2GN7oDleZuryVKxX8CVKRoOAs4zArGw&usqp=CAU",
       "parse": true
     },
