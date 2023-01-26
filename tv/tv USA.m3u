@@ -563,10 +563,6 @@ https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
 #EXTINF:-1 ,CBS THV11 Little Rock AR (KTHV★1080p)
 https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
-#EXTINF:-1 ,CBSN ① (WJHG-DT3/WECP-LD1)
-https://playlistserver.aws.syncbak.com/playlist/13353734/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA2MzQ5ODIsImlzcyI6IldMUyIsIm1kNSI6ImMzYWQ0YTdmMmUyYmFiMzg4NjVlYTZmMzkzMzZmYjcxIiwibWlkIjoiMTMzNTM3MzQifQ.pBrv9Z2h1cfbHlkWL_nETTG4BBhH0xgIrj9E4JYs568
-#EXTINF:-1 ,CBSN ② (WJHG-DT3/WECP-LD1)
-https://dai2-playlistserver.aws.syncbak.com/playlist/18625525/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODYyNTUyNSIsImNpZCI6MTc0MjcsInNpZCI6MTU4LCJtZDUiOiI3MDE0OWI3OWMyOTI0MjY5MTQwYmY0MDE0ZDIyMmYyZiIsImlhdCI6MTYxMDQ3NTM1MywiaXNzIjoiU3luY2JhayAoVEcpIn0.fCdAiZnixSUkRT87xgjvXCRVpGGcoD5SLJkENFlEpSo
 #EXTINF:-1 ,CBSN Live Event
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:-1 ,CBTV Now (Brazil Portuguese)
