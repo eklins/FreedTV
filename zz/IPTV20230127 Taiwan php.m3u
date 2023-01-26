@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "name": "🇹🇼东森财经新闻",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMuY5n8oXm6I6ba2PQP-g1T9CvUY2yC72r4w&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇹🇼非凡新闻",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/feifannews_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGvISk6mJwmdmgZBt8159FRRva5qsa7gpDg&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇹🇼年代新闻",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/niandainews_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEeI09e9rbaEBTgvCffDkvWwwPiKwlnBUCyw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇭🇰无线新闻台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/inews_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-zijPOiyUz3fSD9mGYVK8dK0qNaw6tdjMQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "🇭🇰无线财经•体育 资讯台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/tvbcaijing_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdSTMc_SUXzJa3diOZFdhOM0hRMBrQkw8b6Q&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "ASTRO Hua Hee 欢喜台 (Malaysia)",
       "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/Huahee/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
