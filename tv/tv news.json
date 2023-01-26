@@ -487,6 +487,12 @@
       "parse": false
     },
     {
+      "name": "🇹🇼东森财经新闻",
+      "url": "http://137.175.36.206/bc.php?playurl=http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMuY5n8oXm6I6ba2PQP-g1T9CvUY2yC72r4w&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "🇹🇼非凡新闻",
       "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/feifannews_twn/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGvISk6mJwmdmgZBt8159FRRva5qsa7gpDg&usqp=CAU",
