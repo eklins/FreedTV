@@ -903,10 +903,16 @@ https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,EGY★Watan TV (1080p)
 https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/240px-Flag_of_El_Salvador.svg.png",El Salvador♥WOW TV
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/240px-Flag_of_El_Salvador.svg.png",El Salvador♥Canal 12
+https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
+#EXTINF:-1 ,SLV★WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/240px-Flag_of_Estonia.svg.png",Estonia♥El Toro TV
 https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
+#EXTINF:-1 ,EST★ETV
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 ,EST★Life TV (Russian)
+https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/240px-Flag_of_Ethiopia.svg.png",Ethiopia♥Addis TV (Amharic)
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 #EXTINF:-1 ,ETH★ETV Entertainment (ኢቲቪ መዝናኛ)
