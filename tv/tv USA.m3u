@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,UNKNOWN
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145838
 #EXTINF:-1 ,2A Network (720p)
 https://simultv.s.llnwi.net/o062/2ANetwork/interlink.m3u8
 #EXTINF:-1 ,3ABN Dare To Dream Network
@@ -51,8 +49,6 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 ,AABC (KIIO-LD4)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
-#EXTINF:-1 ,ABC 2 Atlanta (WATC-57)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145786
 #EXTINF:-1 ,ABC 2 Baton Rouge LA (WBRZ★720p) [Not 24/7]
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 ,ABC 2 WMAR
@@ -83,8 +79,6 @@ https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
 #EXTINF:-1 ,ABC 8 Davenport IA (WQAD★1080p)
 https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
-#EXTINF:-1 ,ABC 9
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145823
 #EXTINF:-1 ,ABC 9 Kansas City MO (KMBC-TV★720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
 #EXTINF:-1 ,ABC 9 Manchester (New Hampshire★WMUR-TV★720p)
@@ -95,8 +89,6 @@ https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5
 https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
 #EXTINF:-1 ,ABC 11 Louisville KY (WHAS★1080p)
 https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
-#EXTINF:-1 ,ABC 12 WISN (Wisconsin Milwaukee)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145804
 #EXTINF:-1 ,ABC 13 Grand Rapids MI (WZZM★1080p)
 https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
 #EXTINF:-1 ,ABC 13 Las Vegas NV (KTNV★720p)
@@ -937,14 +929,10 @@ https://v-ny.mybtv.net/live/658.m3u8?env=prd&uid=-1&x=1
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,FOX 2 Detroit MI (WJBK★720p) [Not 24/7]
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8
-#EXTINF:-1 ,FOX 2 Now
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/34841
 #EXTINF:-1 ,FOX 2 San Francisco CA (KTVU★720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
 #EXTINF:-1 ,FOX 4 Dallas / Fort Worth TX (KDFW★720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8
-#EXTINF:-1 ,FOX 5
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52834
 #EXTINF:-1 ,FOX 5 Atlanta GA (WAGA-TV★720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
 #EXTINF:-1 ,FOX 5 New York (WNYW-DT1★720p)
@@ -1309,8 +1297,6 @@ https://content.uplynk.com/channel/52ce3d9af00349cda5f8151aefc7e552.m3u8
 https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8
 #EXTINF:-1 ,NBC LX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 ,NBS News
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145879
 #EXTINF:-1 ,NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 ,NBC News West 9 Midland-Odessa TX (KWES★1080p)
@@ -1355,12 +1341,8 @@ https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x
 https://content.uplynk.com/channel/aa92b664ac5941de81cd410803329da2.m3u8
 #EXTINF:-1 ,News 4JAX+
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
-#EXTINF:-1 ,News 12 New Jersey
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52898
 #EXTINF:-1 ,News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
-#EXTINF:-1 ,News 12 The Bronx
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52899
 #EXTINF:-1 ,News Albuquerque NM (KOAT-TV★720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
 #EXTINF:-1 ,News Baltimore MD (WBAL-TV★576p)
@@ -1467,8 +1449,6 @@ https://pac12-samsungus.amagi.tv/playlist.m3u8
 https://pacifica-ca.secure.footprint.net/egress/bhandler/pacificaca/streama/manifest.m3u8
 #EXTINF:-1 ,Pacific Coast TV MWSD Channel 26 (720p)
 https://pacifica-ca.secure.footprint.net/egress/bhandler/pacificaca/streamb/manifest.m3u8
-#EXTINF:-1 ,Palm Springs Community Television (720p)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145824
 #EXTINF:-1 ,Party Tyme Karaoke (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
 #EXTINF:-1 ,Pattrn (720p)
@@ -2579,8 +2559,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/chunklist.m3u8
 #EXTINF:-1 ,The Craftistry (1080p)
 https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,The CW (Columbus★WWHO-53)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142390
 #EXTINF:-1 ,The Film Detective
 https://filmdetective-plex.amagi.tv/index.m3u8
 #EXTINF:-1 ,The First
@@ -2773,8 +2751,6 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
 #EXTINF:-1 ,Very Oklahoma (KOCO)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
-#EXTINF:-1 ,Very Pittsburg by WTAE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145810
 #EXTINF:-1 ,Vevo Hip Hop (1080p)
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 #EXTINF:-1 ,Vevo Latino (1080p) [Not 24/7]
@@ -2829,8 +2805,6 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/chunklist.m3u8
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/chunklist.m3u8?origin=1
 #EXTINF:-1 ,WFMZ 69 (WFMZ-DT1★720p)
 https://v-pi.mybtv.net/live/423.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 ,WGN America (NewsNation)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142370
 #EXTINF:-1 ,WGN9 News Streaming (1080p)
 http://iptu.org/live.m3u8?channel=301
 #EXTINF:-1 ,White Plains Community Media (360p)
