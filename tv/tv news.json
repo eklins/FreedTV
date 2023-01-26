@@ -487,6 +487,12 @@
       "parse": false
     },
     {
+      "name": "🇭🇰无线新闻台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/inews_twn/playlist.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
+      "parse": true
+    },
+    {
       "name": "🇭🇰无线财经•资讯台",
       "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/tvbcaijing_twn/playlist.m3u8",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
