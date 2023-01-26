@@ -434,7 +434,7 @@
     },
     {
       "name": "台湾中天新闻",
-      "url": "http://tv.redrainl.site:9500/live.m3u8?c=03",
+      "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
       "parse": false
     },
@@ -485,6 +485,12 @@
       "url": "http://tv.redrainl.site:9500/live.m3u8?c=51",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQsIHjfgR9-YoYiEknXViN4DREdUubCghzA&usqp=CAU",
       "parse": false
+    },
+    {
+      "name": "🇭🇰无线财经•资讯台",
+      "url": "http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/tvbcaijing_twn/playlist.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
+      "parse": true
     }
   ]
 }
