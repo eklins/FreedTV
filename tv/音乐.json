@@ -883,6 +883,12 @@
       "parse": false
     },
     {
+      "name": "Rotana Music (Saudi Arabia)",
+      "url": "https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Rough TV (Switzerland)",
       "url": "http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVJBacCXMEwF_m_39Z8DgNbyLJNQAPRJXkQ&usqp=CAU",
