@@ -217,6 +217,12 @@
       "parse": false
     },
     {
+      "name": "ABC 7 NY",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/54062",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Abu Dhabi Sports 1 (UAE)",
       "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -495,6 +501,12 @@
     {
       "name": "ELEVEN 2 (Taiwan)",
       "url": "http://61.221.81.93:8078/hls/26/80/esport2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ESPN (US)",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53403",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -801,6 +813,12 @@
     {
       "name": "MZ Sports (Costa Rica)",
       "url": "https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NBA TV",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/55195",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
