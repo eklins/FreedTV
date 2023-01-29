@@ -67,7 +67,13 @@
       "parse": false
     },
     {
-      "name": "AWE",
+      "name": "AWE 53432",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53432",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AWE 53450",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53450",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
@@ -105,24 +111,6 @@
     {
       "name": "CARTOON 53383",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53383",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CARTOON 53397",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53397",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CARTOON 53405",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53405",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CARTOON 53406",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53406",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -177,6 +165,18 @@
     {
       "name": "Disney Channel",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53407",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney Junior",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53406",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Disney XD Marathon",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53405",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -307,6 +307,12 @@
       "parse": false
     },
     {
+      "name": "Lifetime",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53373",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "LMN",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53372",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -337,20 +343,8 @@
       "parse": false
     },
     {
-      "name": "MOVIE 53323",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53323",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MOVIE 53324",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53324",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MOVIE 53325",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53325",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -577,14 +571,20 @@
       "parse": false
     },
     {
-      "name": "Showtime",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53322",
+      "name": "Showtime 1-53323",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53323",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
     {
-      "name": "STARZ 53329",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53329",
+      "name": "Showtime 1-53325",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53325",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Showtime 2",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53322",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -597,12 +597,6 @@
     {
       "name": "STARZ 53331",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53331",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "STARZ 53333",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53333",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -627,6 +621,18 @@
     {
       "name": "STARZ Action",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53328",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STARZ Family",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53333",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STARZ In Black",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53329",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -673,14 +679,8 @@
       "parse": false
     },
     {
-      "name": "UNKNOWN 53373",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53373",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "VARIETY 53432",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53432",
+      "name": "UNKNOWN 53397",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53397",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
