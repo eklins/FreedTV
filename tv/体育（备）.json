@@ -427,6 +427,12 @@
       "parse": false
     },
     {
+      "name": "NBA",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53366",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIH4WmnRH9x10kGdRIZzzXybFZ-HC-SVNGdg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "NBA Atlanta Hawks",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/55162",
       "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
