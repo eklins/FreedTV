@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "name": "CNN",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53416",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcIOFz3H5PMBQtQZBP_aznkjyPi3ibCb23A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Business",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53392",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_pozhWWXQPlCEqREfUBry_weCSbofgRbcpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX News",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53391",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6rCH-5bbqvrxS6cx6JxG0QJafh0jHan7oQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MSNBC",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53370",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHg5r1R9ZzAX388OdSNCcLBb4LstUV1ONfQ&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "A&E 53434",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53434",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -205,18 +229,6 @@
       "parse": false
     },
     {
-      "name": "FOX Business",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53392",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FOX News",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53391",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "FS1",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53390",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -279,6 +291,12 @@
     {
       "name": "History",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53376",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "IFC",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53375",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -409,12 +427,6 @@
       "parse": false
     },
     {
-      "name": "MSNBC",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53370",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MTV",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53369",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -471,6 +483,12 @@
     {
       "name": "Nick Toons",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53359",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Ovation",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53357",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -619,6 +637,12 @@
       "parse": false
     },
     {
+      "name": "Sundance TV",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53320",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "tbs",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53318",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -658,6 +682,12 @@
       "name": "VARIETY 53432",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53432",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HLN",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53380",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
