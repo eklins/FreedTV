@@ -589,12 +589,6 @@
       "parse": false
     },
     {
-      "name": "A&E",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53442",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Action (KCKS-LD4)",
       "url": "https://cdn.igocast.com/channel4_hls/channel4_master.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -655,12 +649,6 @@
       "parse": false
     },
     {
-      "name": "American Heroes Channel",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53430",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "amp",
       "url": "https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamd/manifest.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -703,12 +691,6 @@
       "parse": false
     },
     {
-      "name": "Animal Planet (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53429",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Arirang Korea",
       "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -723,18 +705,6 @@
     {
       "name": "ATD HD",
       "url": "http://46.99.146.236/0.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AWE",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53432",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "AXS TV",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53431",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -811,12 +781,6 @@
       "parse": false
     },
     {
-      "name": "Bravo",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53423",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Brics TV (Russia)",
       "url": "http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -843,18 +807,6 @@
     {
       "name": "Buzzr (KCKS-LD1)",
       "url": "https://cdn.igocast.com/channel1_hls/channel1_master.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "C-SPAN",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53422",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "C-SPAN 2",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53421",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -913,12 +865,6 @@
       "parse": false
     },
     {
-      "name": "CNBC World",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53417",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Code Fashion (Bulgaria)",
       "url": "https://cdn3.invivo.bg/Codefashion_5500/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -927,12 +873,6 @@
     {
       "name": "Comedy Dynamics",
       "url": "https://comedydynamics-localnow.cinedigm.com/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cooking Channel",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53410",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1033,12 +973,6 @@
       "parse": false
     },
     {
-      "name": "Destination America",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53437",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "DIGI Animal World (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2238",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1065,18 +999,6 @@
     {
       "name": "Discovery (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9814",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53435",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Discovery Family (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53408",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1297,12 +1219,6 @@
       "parse": false
     },
     {
-      "name": "Food Network (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53393",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "FOX (Netherlands)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2463",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1323,18 +1239,6 @@
     {
       "name": "Fun Roads (404p)",
       "url": "http://104.143.4.5:2080/funroads.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "fyi",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53394",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Game Show Network",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53386",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1411,12 +1315,6 @@
       "parse": false
     },
     {
-      "name": "HGTV (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53381",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Highway Thru Hell Channel",
       "url": "https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1431,12 +1329,6 @@
     {
       "name": "History (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282756",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "History (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53376",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1497,12 +1389,6 @@
     {
       "name": "Investigation Discovery (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/278449",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Investigation Discovery (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53374",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1639,12 +1525,6 @@
       "parse": false
     },
     {
-      "name": "Magnolia Network",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53409",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Manoto TV",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1653,12 +1533,6 @@
     {
       "name": "Medíka TV (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/147311",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Motor Trend",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53367",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1705,20 +1579,8 @@
       "parse": false
     },
     {
-      "name": "National Geographic (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53362",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "National Geographic Wild (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174724",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "National Geographic Wild (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53363",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1815,18 +1677,6 @@
     {
       "name": "Outside TV",
       "url": "https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "OWN (Oprah Winfrey Network)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53358",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Oxygen True Crime",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53356",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1987,14 +1837,8 @@
       "parse": false
     },
     {
-      "name": "Reelz ①",
+      "name": "Reelz",
       "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Reelz ②",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53345",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2061,12 +1905,6 @@
     {
       "name": "SBS Viceland (Australia)",
       "url": "https://sbs-live.akamaized.net/hls/live/2002828/channel2/open/master_1800K.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Science",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53326",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -2295,12 +2133,6 @@
     {
       "name": "TLC (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1067",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "TLC (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53316",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
