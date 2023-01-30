@@ -361,6 +361,12 @@
       "parse": false
     },
     {
+      "name": "BIG Ten Network",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/55195",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "blue Sport 1 🔇 (Switzerland)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2815",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -393,6 +399,12 @@
     {
       "name": "CL Sports (Campus Lore)",
       "url": "https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNBC Sports",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53467",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
