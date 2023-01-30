@@ -247,6 +247,18 @@
       "parse": false
     },
     {
+      "name": "FOX Business",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53392",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_pozhWWXQPlCEqREfUBry_weCSbofgRbcpg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX News Channel",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53391",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-N77yYy-1lYYz_r_JNM6JlLAJmzqvRO8vYA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "FOX News Now",
       "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDJr3pu8jjXF_FEKNBZNbAVB2WusKqzd01A&usqp=CAU",
@@ -274,6 +286,12 @@
       "name": "Global News (Canada)",
       "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTX0-GiIU3F2ADp-KT5vrZ-c7DY9juidEsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MSNBC",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53370",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHg5r1R9ZzAX388OdSNCcLBb4LstUV1ONfQ&usqp=CAU",
       "parse": false
     },
     {
