@@ -1489,12 +1489,6 @@
       "parse": false
     },
     {
-      "name": "STARZ 53336",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53336",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "STARZ Action",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53328",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -1521,6 +1515,12 @@
     {
       "name": "STARZ Suspense",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53332",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STARZ Western",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53336",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
