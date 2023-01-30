@@ -289,9 +289,15 @@
       "parse": false
     },
     {
+      "name": "NDTV 24x7 (India)",
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_1d81hJh9ubObpPo78i2XFIrEEaEvWe4EA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "News 12 New York",
       "url": "https://lnc-news12.tubi.video/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RMKkhfacNirGiizK-sMACl0GHsFcDGXckA&usqp=CAU",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ975352qLKC2Ts0AgkKD9PGu1Zw8R9KEqc3w&usqp=CAU",
       "parse": false
     },
     {
