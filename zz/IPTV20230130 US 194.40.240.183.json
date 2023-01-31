@@ -169,12 +169,6 @@
       "parse": false
     },
     {
-      "name": "MOVIE 53338",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53338",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MOVIE 53341",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53341",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -279,6 +273,12 @@
     {
       "name": "STARZ Classic",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53334",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "STARZ Encore",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53338",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
