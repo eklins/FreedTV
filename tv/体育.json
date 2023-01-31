@@ -217,12 +217,6 @@
       "parse": false
     },
     {
-      "name": "ABC 7 NY",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/54062",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Abu Dhabi Sports 1 (UAE)",
       "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -361,12 +355,6 @@
       "parse": false
     },
     {
-      "name": "BIG Ten Network",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/55195",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "blue Sport 1 🔇 (Switzerland)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2815",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -385,12 +373,6 @@
       "parse": false
     },
     {
-      "name": "CBS Sports Network",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53420",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "CF97 Soccer Live",
       "url": "https://d1sp4cpu5on4l7.cloudfront.net/out/v1/ec82e0a9c5564fb497366186c09052e5/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -399,12 +381,6 @@
     {
       "name": "CL Sports (Campus Lore)",
       "url": "https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "CNBC Sports",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53467",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -523,30 +499,6 @@
       "parse": false
     },
     {
-      "name": "ESPN (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53403",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ESPN 2 (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53402",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ESPN News (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53441",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "ESPN U (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53401",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Eurosport 1",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/138",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -631,18 +583,6 @@
       "parse": false
     },
     {
-      "name": "FS1",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53390",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "FS2",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53389",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "FTF Sports (UK)",
       "url": "https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -657,12 +597,6 @@
     {
       "name": "GinX E Sports TV",
       "url": "http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "GOLTV (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53387",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -811,12 +745,6 @@
       "parse": false
     },
     {
-      "name": "MLB",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53371",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "MMA Junkie (US)",
       "url": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -877,32 +805,8 @@
       "parse": false
     },
     {
-      "name": "NBA TV",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/55195",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NBC Golf",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53385",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NFL",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53438",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "NFL Podcast",
       "url": "https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "NHL Network (US)",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53364",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -955,44 +859,8 @@
       "parse": false
     },
     {
-      "name": "PAC 12 Arizona",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53354",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PAC 12 Bay Area",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53353",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Pac 12 Insider",
       "url": "https://pac12-sportstribal.amagi.tv/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PAC 12 Los Angeles",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53352",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PAC 12 Mountain",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53351",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PAC 12 Oregon",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53350",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "PAC 12 Washington",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53349",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1095,12 +963,6 @@
     {
       "name": "Rugby World TV",
       "url": "https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SEC ESPN Network",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53343",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
