@@ -223,14 +223,8 @@
       "parse": false
     },
     {
-      "name": "Showtime 1-53323",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53323",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Showtime 1-53325",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53325",
+      "name": "Showtime",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53324",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -241,8 +235,14 @@
       "parse": false
     },
     {
-      "name": "Showtime 53324",
-      "url": "http://194.40.240.183:25461/3397537295/4538699784/53324",
+      "name": "Showtime ★1-53323",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53323",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Showtime ★1-53325",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53325",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
