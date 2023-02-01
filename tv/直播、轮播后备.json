@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "name": "MG（备）01",
-      "url": "http://117.136.156.71:80/000000001000/3000000001000028638/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "MG（备）01",
-      "url": "http://39.135.134.67/000000001000/3000000001000028638/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHS-saEBTbVRwniu8leUOcp5LiReUQOQi0Q&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "香港无线新闻台",
       "url": "http://9.zhxinda.xyz/newss.php?id=1",
       "pic": "http://tv.haoqu99.com/d/file/2021/1022/42d52717993854f7fc8476c69edfe880.jpg",
