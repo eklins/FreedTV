@@ -193,8 +193,20 @@
       "parse": false
     },
     {
-      "name": "IFC",
+      "name": "HDNET Movies",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53516",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "IFC 53375",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53375",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "IFC 53522",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53522",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -243,6 +255,30 @@
     {
       "name": "MGM+ Marquee 53485",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53485",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MOVIE 53512",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53512",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MOVIE 53513",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53513",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MOVIE 53514",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53514",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MOVIE 53515 CHECK LANGUAGE",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53515",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -619,26 +655,50 @@
       "parse": false
     },
     {
-      "name": "HGTV (US)",
+      "name": "HGTV (US) 53381",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53381",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "History (US)",
+      "name": "HGTV (US) 53517",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53517",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "History (US) 53376",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53376",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "HLN",
+      "name": "History (US) 53518",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53518",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HLN 53380",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53380",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
     {
-      "name": "Investigation Discovery (US)",
+      "name": "HLN 53520",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53520",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Investigation Discovery (US) 53374",
       "url": "http://194.40.240.183:25461/3397537295/4538699784/53374",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Investigation Discovery (US) 53523",
+      "url": "http://194.40.240.183:25461/3397537295/4538699784/53523",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
