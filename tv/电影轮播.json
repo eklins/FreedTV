@@ -589,12 +589,6 @@
       "parse": false
     },
     {
-      "name": "Horror Xtra (UK★480p) [Not 24/7]",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/173236",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Grit (WJLP-DT3)",
       "url": "https://v-ny.mybtv.net/live/626.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -681,6 +675,12 @@
     {
       "name": "Horror Machine",
       "url": "https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Horror Xtra (UK★480p) [Not 24/7]",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/173236",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
