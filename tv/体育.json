@@ -853,18 +853,6 @@
       "parse": false
     },
     {
-      "name": "On Time Sports (Egypt)",
-      "url": "http://mjidiptv.com:1997/asem/1234567890/67878",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "On Time Sports 2 (Egypt)",
-      "url": "http://mjidiptv.com:1997/asem/1234567890/66560",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "One Golf",
       "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1131,36 +1119,6 @@
     {
       "name": "SPOTV2 (Hong Kong)",
       "url": "https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SSC 1 (Saudi Arabia)",
-      "url": "http://mjidiptv.com:1997/asem/1234567890/92859",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SSC 2 (Saudi Arabia)",
-      "url": "http://mjidiptv.com:1997/asem/1234567890/92858",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SSC 3 (Saudi Arabia)",
-      "url": "http://mjidiptv.com:1997/asem/1234567890/92857",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SSC 4 (Saudi Arabia)",
-      "url": "http://mjidiptv.com:1997/asem/1234567890/92856",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "SSC 5 (Saudi Arabia)",
-      "url": "http://mjidiptv.com:1997/asem/1234567890/92855",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
