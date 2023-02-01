@@ -235,6 +235,12 @@
       "parse": false
     },
     {
+      "name": "Comedy Central (Romania)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12023",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Comedy Channel (UK)",
       "url": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -571,6 +577,36 @@
       "parse": false
     },
     {
+      "name": "GREAT! Romance (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/286775",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "GREAT! TV (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291220",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "GREAT!+1 Movies (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/173235",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "GREAT!+1 TV (UK)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/286776",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Horror Xtra (UK★480p) [Not 24/7]",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/173236",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
       "name": "Grit (WJLP-DT3)",
       "url": "https://v-ny.mybtv.net/live/626.m3u8?env=prd&uid=-1&x=1",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -591,6 +627,12 @@
     {
       "name": "Harry Potter",
       "url": "http://epg.112114.xyz/douyu/8814650",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "HBO (Bulgaria)",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291123",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -873,6 +915,12 @@
     {
       "name": "Monarch TV",
       "url": "https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "MOVIE 151864",
+      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/151864",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
