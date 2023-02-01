@@ -437,6 +437,12 @@
       "url": "http://mjidiptv.com:1997/asem/1234567890/92853",
       "pic": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
       "parse": false
+    },
+    {
+      "name": "SSC Extra 2 (Saudi Arabia)",
+      "url": "http://mjidiptv.com:1997/asem/1234567890/93972",
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",
+      "parse": false
     }
   ]
 }
