@@ -163,18 +163,6 @@
       "parse": false
     },
     {
-      "name": "台湾博斯高球II",
-      "url": "http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾博斯魅力",
-      "url": "http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "台湾博斯网球",
       "url": "http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
@@ -189,30 +177,6 @@
     {
       "name": "台湾博斯运动I",
       "url": "http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾博斯运动II",
-      "url": "http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾ELTA体育1台",
-      "url": "http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾ELTA体育2台",
-      "url": "http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "台湾纬来体育",
-      "url": "http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhAYgmAg-2q7DnkP3WcHPvHgHUIyyIqQnsg&usqp=CAU",
       "parse": false
     },
@@ -391,12 +355,6 @@
       "parse": false
     },
     {
-      "name": "BT ESPN (Taiwan)",
-      "url": "http://198.16.64.10:8278/btespn/playlist.m3u8?tid=MA7A3153817131538171&ct=19225&tsum=9452e06c1cdd6935e85cb94a95212a9a",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "CF97 Soccer Live",
       "url": "https://d1sp4cpu5on4l7.cloudfront.net/out/v1/ec82e0a9c5564fb497366186c09052e5/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -543,12 +501,6 @@
     {
       "name": "Eurosport 2 (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2082",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Eurosport 1 (Netherlands)",
-      "url": "http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159559",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -741,12 +693,6 @@
     {
       "name": "Lo Mejor De La Liga Mexico",
       "url": "https://linear-193.frequency.stream/193/hls/master/playlist.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Magenta Sport 07 (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281749",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
@@ -1021,26 +967,8 @@
       "parse": false
     },
     {
-      "name": "Sky Sports Arena (Taiwan)",
-      "url": "http://198.16.64.10:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sports Cricket (Taiwan)",
-      "url": "http://198.16.64.10:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Sky Sports F1 (Germany)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174563",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Sky Sports F1 (Taiwan)",
-      "url": "http://198.16.64.10:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
