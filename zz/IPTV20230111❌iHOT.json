@@ -134,7 +134,7 @@
     },
     {
       "name": "iHOT 体育",
-      "url": "http://111.11.123.31:6610/000000001000/6000000006000290630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1889520221014135601185158&channel-id=wasusyt&Contentid=6000000006000290630",
+      "url": "http://111.11.123.28:6610/000000001000/6000000006000290630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1889520221014135601185158&channel-id=wasusyt&Contentid=6000000006000290630",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg",
       "parse": false
     },
@@ -152,7 +152,7 @@
     },
     {
       "name": "iHOT 悬疑",
-      "url": "http://111.11.123.31:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1891220221014135811192524&channel-id=wasusyt&Contentid=6000000006000050630",
+      "url": "http://111.11.123.28:6610/000000001000/6000000006000050630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1891220221014135811192524&channel-id=wasusyt&Contentid=6000000006000050630",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I2380-L.jpg",
       "parse": false
     },
@@ -170,7 +170,7 @@
     },
     {
       "name": "iHOT 院线",
-      "url": "http://111.11.123.31:6610/000000001000/6000000006000030630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1888520221014141430188219&channel-id=wasusyt&Contentid=6000000006000030630",
+      "url": "http://111.11.123.28:6610/000000001000/6000000006000030630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1888520221014141430188219&channel-id=wasusyt&Contentid=6000000006000030630",
       "pic": "https://www.nettvpro.live/uploads/allimg/20/1-2003251I4420-L.jpg",
       "parse": false
     }
