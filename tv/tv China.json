@@ -740,7 +740,7 @@
     },
     {
       "name": "福州-1 综合",
-      "url": "http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8",
+      "url": "http://live.zohi.tv/video/s10001-fztv-1/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
@@ -752,13 +752,13 @@
     },
     {
       "name": "福州-3 生活",
-      "url": "http://live.zohi.tv/video/s10001-shpd-3/index.m3u8?zfud",
+      "url": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
     {
       "name": "福州-少儿",
-      "url": "http://live.zohi.tv/video/s10001-sepd-4/index.m3u8",
+      "url": "http://live.zohi.tv/video/s10001-fztv-4/index.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRTka5zPxyEXgzCelF7zYFIU-3nbqP08tzA&usqp=CAU",
       "parse": false
     },
