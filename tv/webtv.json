@@ -67,6 +67,12 @@
       "parse": true
     },
     {
+      "name": "DouBan",
+      "url": "http://my.seasky.icu/qy1.php?id=180055822",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "Epic War",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745092",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -199,9 +205,33 @@
       "parse": true
     },
     {
+      "name": "杨幂",
+      "url": "http://my.seasky.icu/qy1.php?id=180054622",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt-dwLfhnbTZ5h_bsaGpUGzeh8y2mIf6QGw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "赵丽颖",
+      "url": "http://my.seasky.icu/qy1.php?id=180054222",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ICGJzAu-ZAwTh9BDcUDLSWILlzfyspJqcA&usqp=CAU",
+      "parse": true
+    },
+    {
       "name": "胡歌",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=22089862",
+      "url": "http://my.seasky.icu/qy1.php?id=180062122",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxoUfZdleuOqsM1Bglmc4y3pLhM4SqEX1JQ&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "靳东",
+      "url": "http://my.seasky.icu/qy1.php?id=180059122",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1Wb41XNC9qL7AG40VwMTX_ZUPnN_Or4UmA&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "倪大红",
+      "url": "http://my.seasky.icu/qy1.php?id=180062022",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0m3j2XSFUj9WiR4jQaoTfnHRQyoW8AxoRlg&usqp=CAU",
       "parse": true
     },
     {
@@ -967,12 +997,6 @@
       "parse": true
     },
     {
-      "name": "24H怀旧剧场",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1350562684",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
       "name": "办公室剧场",
       "url": "http://my.seasky.icu/qy1.php?id=180064622",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
@@ -1027,8 +1051,8 @@
       "parse": true
     },
     {
-      "name": "森林、军旅",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1458239444",
+      "name": "燃烧岁月",
+      "url": "http://my.seasky.icu/qy1.php?id=180048022",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
@@ -1041,12 +1065,6 @@
     {
       "name": "武侠、玄幻",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28099939",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
-      "parse": true
-    },
-    {
-      "name": "武侠剧场",
-      "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382713104",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": true
     },
@@ -1342,6 +1360,12 @@
       "name": "失忆症（日）2012",
       "url": "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936239",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFjdMAZLZ73g543oef2AWF8rPxCY5QuMGaw&usqp=CAU",
+      "parse": true
+    },
+    {
+      "name": "动画电影",
+      "url": "http://my.seasky.icu/qy1.php?id=180056522",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mvqL62xxzudO876K9vgnxuKP9hIcrHmsPw&usqp=CAU",
       "parse": true
     },
     {
