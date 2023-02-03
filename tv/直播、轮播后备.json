@@ -2299,10 +2299,16 @@
       "parse": true
     },
     {
-      "name": "大秦赋 2020",
+      "name": "大秦赋 2020 epg",
       "url": "http://epg.112114.xyz/huya/11352881",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
       "parse": true
+    },
+    {
+      "name": "大秦赋 2020 tvmvip",
+      "url": "http://tvmvip110.club/huya.php?id=11352881",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZ-B3fZOULIgCjDFqnMv2PY2bze_IKINaOA&usqp=CAU",
+      "parse": false
     },
     {
       "name": "封神榜 1990",
