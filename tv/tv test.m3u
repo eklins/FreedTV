@@ -1,11 +1,19 @@
 #EXTM3U
 #EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV 八度空间
 http://23.237.10.66:16406
+#EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV 八度空间
+http://2022.stream-link.org/playlist/8tv
 #EXTINF:-1 user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",无线新闻
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://tvp22.sky4k.top/index1.php
+#EXTINF:-1 ,无线新闻 premiumpowers
+http://line.premiumpowers.net:80/Manuel/1234567/153399
+#EXTINF:-1 ,无线新闻 2022.stream
+http://2022.stream-link.org/playlist/tvb_news
 #EXTINF:-1 ,无线财经
 https://tvp22.sky4k.top/index2.php
+#EXTINF:-1 ,无线财经 2022.stream
+http://2022.stream-link.org/playlist/tvb_finance
 #EXTINF:-1 ,香港有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 ,香港有线财经资讯台
