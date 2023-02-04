@@ -1207,8 +1207,14 @@
       "parse": false
     },
     {
-      "name": "Wrestling Woman (Japan)",
+      "name": "Wrestling Woman ① (Japan)",
       "url": "http://epg.112114.xyz/douyu/425809",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Wrestling Woman ② (Japan)",
+      "url": "http://epg.112114.xyz/huya/11602069",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8eWYa4ZyRU_KibmhcfVT6Si8DltHSDhbCg&usqp=CAU",
       "parse": false
     },
