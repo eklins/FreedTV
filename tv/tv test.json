@@ -13,8 +13,20 @@
       "parse": true
     },
     {
+      "name": "🇭🇰无线财经•体育•资讯台",
+      "url": "https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8",
+      "pic": "http://tv.haoqu99.com/d/file/2021/1022/f63db0431dcbad9e6e18ac177c1d36e7.jpg",
+      "parse": true
+    },
+    {
       "name": "Tring Euro Channel (Albania)",
       "url": "https://mfe01.tring.al/delta/106/out/u/1120_3.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVB 星河",
+      "url": "http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
