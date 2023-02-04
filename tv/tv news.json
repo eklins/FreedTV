@@ -31,12 +31,6 @@
       "parse": false
     },
     {
-      "name": "香港TVB Pearl",
-      "url": "https://live.astradamy.com/tvbpearl/index.m3u8",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbjjip8pEbegtbeyXuOVuXhiyzk7PEDYZplw&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "香港有线新闻台",
       "url": "http://61.10.2.151:80/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWyio7cRLUV4SgXESMASBz4J3sasD8lrCCQ&usqp=CAU",
