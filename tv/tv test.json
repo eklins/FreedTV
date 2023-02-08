@@ -31,12 +31,6 @@
       "parse": false
     },
     {
-      "name": "BBC 2 (UK)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296934",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "BBC 3 (UK)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291212",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -55,12 +49,6 @@
       "parse": false
     },
     {
-      "name": "Blaze",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4642",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Bucuresti TV (Romania)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/73445",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -73,18 +61,6 @@
       "parse": false
     },
     {
-      "name": "Cinemax (Bulgaria)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2237",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Cinemax 2 (Bulgaria)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2236",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
       "name": "Film World (Pakistan) GenIptvLast",
       "url": "http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197124",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
@@ -93,12 +69,6 @@
     {
       "name": "Film World (Pakistan) tomstme300",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197124",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "GEO (Germany)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266963",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
@@ -129,12 +99,6 @@
     {
       "name": "On Movie (Iran)",
       "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283253",
-      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
-      "parse": false
-    },
-    {
-      "name": "Romedy Now (India)",
-      "url": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/51876",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVRB2M29gZxoF0QbtGzpSR-MD0O9_iTESQA&usqp=CAU",
       "parse": false
     },
