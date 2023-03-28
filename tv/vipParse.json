@@ -2,15 +2,15 @@
   "data": [
     {
       "id": 1,
-      "name": "闪电",
-      "ad": "no",
-      "url": "https://www.shankubf.com/m3u8/?url="
-    },
-    {
-      "id": 1,
       "name": "无尽备用",
       "ad": "no",
       "url": "https://jx.wujinkk.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "闪电",
+      "ad": "no",
+      "url": "https://www.shankubf.com/m3u8/?url="
     },
     {
       "id": 1,
@@ -38,9 +38,21 @@
     },
     {
       "id": 1,
+      "name": "速播",
+      "ad": "no",
+      "url": "https://subojiexi.com/play/?url="
+    },
+    {
+      "id": 1,
       "name": "天猫",
       "ad": "no",
       "url": "https://tmjiexi.com/play/?url="
+    },
+    {
+      "id": 1,
+      "name": "金鹰",
+      "ad": "no",
+      "url": "https://hd.iapijy.com/play?url="
     },
     {
       "id": 1,
@@ -62,9 +74,15 @@
     },
     {
       "id": 1,
-      "name": "百度",
+      "name": "非凡",
       "ad": "no",
-      "url": "https://jx.jxbdzyw.com/m3u8/?url="
+      "url": "https://ffzyplayer.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "开云",
+      "ad": "no",
+      "url": "https://jiexi.kaiyunzy.vip/m3u8/?url="
     },
     {
       "id": 1,
@@ -95,6 +113,12 @@
       "name": "快车",
       "ad": "no",
       "url": "https://jiexi.kczyapi.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "百度",
+      "ad": "no",
+      "url": "https://jx.jxbdzyw.com/m3u8/?url="
     },
     {
       "id": 1,
