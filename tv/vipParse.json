@@ -2,9 +2,15 @@
   "data": [
     {
       "id": 1,
-      "name": "海外看",
+      "name": "1080ZYK",
       "ad": "no",
-      "url": "https://dp.haiwaikan.com/index.html?url="
+      "url": "https://vip.zykbf.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "1080ZYK（优质资源库）备用",
+      "ad": "no",
+      "url": "https://vip.yyzyplay.com/?url="
     },
     {
       "id": 1,
@@ -14,21 +20,105 @@
     },
     {
       "id": 1,
+      "name": "无尽 2024（备用）",
+      "ad": "no",
+      "url": "https://jx.wuvodbf.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "HLS Player",
+      "ad": "no",
+      "url": "https://www.hlsplayer.org/play?url="
+    },
+    {
+      "id": 1,
+      "name": "黑木耳",
+      "ad": "no",
+      "url": "https://player.heimuer.tv/index.html?url="
+    },
+    {
+      "id": 1,
+      "name": "华为吧",
+      "ad": "no",
+      "url": "https://player.huawei8.live/player?url="
+    },
+    {
+      "id": 1,
+      "name": "华为吧（旧）",
+      "ad": "no",
+      "url": "https://dp.hw8.live/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "九月",
+      "ad": "no",
+      "url": "https://www.9yuezy.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "九月（备用）",
+      "ad": "no",
+      "url": "https://www.jiuyuezy.live/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "18X 丝袜",
+      "ad": "no",
+      "url": "https://help.siwam3u8.com:5278/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "18X GZY",
+      "ad": "no",
+      "url": "https://gayzyjiexi.com/play/?url="
+    },
+    {
+      "id": 1,
+      "name": "OK资源",
+      "ad": "no",
+      "url": "https://jiexi.okzyw.info/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "量子",
+      "ad": "no",
+      "url": "https://lziplayer.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "天空 2024",
+      "ad": "no",
+      "url": "https://jx.huishij.com/yun/?url="
+    },
+    {
+      "id": 1,
+      "name": "新闪电",
+      "ad": "no",
+      "url": "https://www.shandianbf.com/m3u8/?url="
+    },
+    {
+      "id": 1,
       "name": "闪电",
       "ad": "no",
       "url": "https://www.shankubf.com/m3u8/?url="
     },
     {
       "id": 1,
-      "name": "1080ZYK",
+      "name": "飞速",
       "ad": "no",
-      "url": "https://vip.zykbf.com/?url="
+      "url": "https://www.feisuplayer.com/m3u8/?url="
     },
     {
       "id": 1,
-      "name": "iKun 福利",
+      "name": "草榴",
       "ad": "no",
-      "url": "https://bofang.ikdmjx.com/?url="
+      "url": "https://jx.caoliuzywcdnjx.com/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "海外看",
+      "ad": "no",
+      "url": "https://dp.haiwaikan.com/index.html?url="
     },
     {
       "id": 1,
@@ -38,15 +128,105 @@
     },
     {
       "id": 1,
-      "name": "OK资源",
+      "name": "iKun 福利",
       "ad": "no",
-      "url": "https://apiok.tv/m3u8/?url="
+      "url": "https://bofang.ikdmjx.com/?url="
     },
     {
       "id": 1,
-      "name": "68资源",
+      "name": "黄瓜 2024",
       "ad": "no",
-      "url": "https://jiexi.68zy.vip/m3u8/?url="
+      "url": "https://player.avre14.com:54188/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "非凡",
+      "ad": "no",
+      "url": "https://svip.ffzyplay.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "丫丫",
+      "ad": "no",
+      "url": "https://jx.yayazy.cc/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "淘片②",
+      "ad": "no",
+      "url": "https://www.tpvod.com/player.html?uri="
+    },
+    {
+      "id": 1,
+      "name": "快云",
+      "ad": "no",
+      "url": "https://www.kuaiyunplayer.com/dplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "360资源（娱乐专用）",
+      "ad": "no",
+      "url": "https://www.360jiexi.com/player/?url="
+    },
+    {
+      "id": 1,
+      "name": "360资源（福利专用）",
+      "ad": "no",
+      "url": "https://bofang.360jiexi.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "草榴",
+      "ad": "no",
+      "url": "https://jx.caoliuzywcdnjx.com:188/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "新卧龙",
+      "ad": "no",
+      "url": "https://jx.wolongm3u8.com:65/m3u8.php?url="
+    },
+    {
+      "id": 1,
+      "name": "乐视",
+      "ad": "no",
+      "url": "https://leshivideoplayurl.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "索尼",
+      "ad": "no",
+      "url": "https://www.snplayer.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "百度",
+      "ad": "no",
+      "url": "https://jx.jxbdzyw.com/m3u8/?url="
+    },
+    {
+      "id": 1,
+      "name": "豪华",
+      "ad": "no",
+      "url": "https://hhjiexi.com/play/?url="
+    },
+    {
+      "id": 1,
+      "name": "博民",
+      "ad": "no",
+      "url": "https://www.bmm3u8.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "老鸭",
+      "ad": "no",
+      "url": "https://player.77lehuo.com/aliplayer/?url="
+    },
+    {
+      "id": 1,
+      "name": "色窝",
+      "ad": "no",
+      "url": "https://player.sewojx.com/m3u8/?url="
     },
     {
       "id": 1,
@@ -56,21 +236,9 @@
     },
     {
       "id": 1,
-      "name": "天猫",
-      "ad": "no",
-      "url": "https://tmjiexi.com/play/?url="
-    },
-    {
-      "id": 1,
       "name": "金鹰",
       "ad": "no",
       "url": "https://hd.iapijy.com/play?url="
-    },
-    {
-      "id": 1,
-      "name": "飞速",
-      "ad": "no",
-      "url": "https://www.feisuplayer.com/m3u8/?url="
     },
     {
       "id": 1,
@@ -86,15 +254,15 @@
     },
     {
       "id": 1,
-      "name": "非凡",
+      "name": "葡萄",
       "ad": "no",
-      "url": "https://ffzyplayer.com/?url="
+      "url": "https://jx.putaozyw.net:166/m3u8/?url="
     },
     {
       "id": 1,
-      "name": "开云",
+      "name": "非凡",
       "ad": "no",
-      "url": "https://jiexi.kaiyunzy.vip/m3u8/?url="
+      "url": "https://ffzyplayer.com/?url="
     },
     {
       "id": 1,
@@ -110,39 +278,15 @@
     },
     {
       "id": 1,
-      "name": "速更源",
-      "ad": "no",
-      "url": "https://wuxiezx.com/player/?url="
-    },
-    {
-      "id": 1,
-      "name": "量子",
-      "ad": "no",
-      "url": "https://lziplayer.com/?url="
-    },
-    {
-      "id": 1,
       "name": "快车",
       "ad": "no",
       "url": "https://jiexi.kczyapi.com/m3u8/?url="
     },
     {
       "id": 1,
-      "name": "百度",
-      "ad": "no",
-      "url": "https://jx.jxbdzyw.com/m3u8/?url="
-    },
-    {
-      "id": 1,
       "name": "速看",
       "ad": "no",
       "url": "https://open.wn231.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "草榴",
-      "ad": "no",
-      "url": "https://jx.caoliuzycdn.com/m3u8.php?url="
     },
     {
       "id": 1,
@@ -155,18 +299,6 @@
       "name": "黄瓜",
       "ad": "no",
       "url": "https://www.zy018.com/player/?url="
-    },
-    {
-      "id": 1,
-      "name": "芒果",
-      "ad": "no",
-      "url": "https://mgm3u8-player.com/player/DPm3u8.php?url="
-    },
-    {
-      "id": 1,
-      "name": "爱播",
-      "ad": "no",
-      "url": "https://player.aibozyplayer.com/m3u8/?url="
     },
     {
       "id": 1,
@@ -197,12 +329,6 @@
       "name": "U酷",
       "ad": "no",
       "url": "https://api.ukubf.com/m3u8/?url="
-    },
-    {
-      "id": 1,
-      "name": "酷点",
-      "ad": "no",
-      "url": "https://jx.kujiexi.net/m3u8.php?url="
     },
     {
       "id": 1,
